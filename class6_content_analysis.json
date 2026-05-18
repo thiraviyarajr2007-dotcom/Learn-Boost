@@ -1,0 +1,1116 @@
+{
+  "Term_1": {
+    "chapters": [],
+    "topics": []
+  },
+  "Term_2": {
+    "chapters": [],
+    "topics": [
+      {
+        "number": "1.1",
+        "title": "Introduction 3"
+      },
+      {
+        "number": "1.2",
+        "title": "Prime and Composite Numbers 4"
+      },
+      {
+        "number": "1.3",
+        "title": "Rules for Test of Divisibility of Numbers 7"
+      },
+      {
+        "number": "1.4",
+        "title": "Prime Factorisation 9"
+      },
+      {
+        "number": "1.5",
+        "title": "Common Factors 12"
+      },
+      {
+        "number": "1.6",
+        "title": "Common Multiples 15"
+      },
+      {
+        "number": "1.7",
+        "title": "Application Problems on HCF and LCM 17"
+      },
+      {
+        "number": "2.1",
+        "title": "Introduction 24"
+      },
+      {
+        "number": "2.2",
+        "title": "Recap 25"
+      },
+      {
+        "number": "2.3",
+        "title": "Conversions within the Metric System 26"
+      },
+      {
+        "number": "2.5",
+        "title": "Measures of Time 32"
+      },
+      {
+        "number": "3.1",
+        "title": "Introduction 44"
+      },
+      {
+        "number": "3.2",
+        "title": "Bill 44"
+      },
+      {
+        "number": "3.3",
+        "title": "Profit and Loss 47"
+      },
+      {
+        "number": "4.1",
+        "title": "Introduction 57"
+      },
+      {
+        "number": "4.2",
+        "title": "Basic Elements of a Triangle 58"
+      },
+      {
+        "number": "4.3",
+        "title": "Types and Properties of Triangles 59"
+      },
+      {
+        "number": "4.4",
+        "title": "Construction of  Perpendicular Lines 68"
+      },
+      {
+        "number": "4.5",
+        "title": "Construction of Parallel Lines 70"
+      },
+      {
+        "number": "5.1",
+        "title": "Introduction 75"
+      },
+      {
+        "number": "5.2",
+        "title": "Conversion of Tree Diagrams into Numerical Expressions 79"
+      },
+      {
+        "number": "5.3",
+        "title": "Conversion of Algebraic Expressions into Tree Diagrams 80"
+      },
+      {
+        "number": "1.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "1.2",
+        "title": "Prime and Composite Numbers"
+      },
+      {
+        "number": "2.1",
+        "title": "Finding the Prime Numbers by Sieve of Eratosthenes Method"
+      },
+      {
+        "number": "2.2",
+        "title": "Expressing a Number as the Sum of Prime Numbers"
+      },
+      {
+        "number": "2.3",
+        "title": "Twin Primes"
+      },
+      {
+        "number": "1.3",
+        "title": "Rules for Test of Divisibility of Numbers"
+      },
+      {
+        "number": "1.4",
+        "title": "Prime Factorisation"
+      },
+      {
+        "number": "3.36",
+        "title": "18 2"
+      },
+      {
+        "number": "1.1",
+        "title": "1. Fill in the blanks"
+      },
+      {
+        "number": "1.5",
+        "title": "Common Factors"
+      },
+      {
+        "number": "5.1",
+        "title": "Highest Common Factor (HCF)"
+      },
+      {
+        "number": "1.6",
+        "title": "Common Multiples"
+      },
+      {
+        "number": "6.1",
+        "title": "Least Common Multiple (LCM)"
+      },
+      {
+        "number": "1.7",
+        "title": "Application Problems on HCF and LCM"
+      },
+      {
+        "number": "108.2",
+        "title": "254, 508"
+      },
+      {
+        "number": "10.00",
+        "title": "a.m."
+      },
+      {
+        "number": "1.8",
+        "title": "Relationship between the Numbers and their HCF and LCM"
+      },
+      {
+        "number": "1.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "2.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "1.2",
+        "title": "1. Fill in the blanks"
+      },
+      {
+        "number": "1.3",
+        "title": "Miscellaneous Practice Problems"
+      },
+      {
+        "number": "2.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "2.2",
+        "title": "Recap"
+      },
+      {
+        "number": "2.3",
+        "title": "Conversions within the Metric System"
+      },
+      {
+        "number": "0.001",
+        "title": "unitsCenti"
+      },
+      {
+        "number": "0.01",
+        "title": "unitsDeci"
+      },
+      {
+        "number": "0.1",
+        "title": "unitsBASE"
+      },
+      {
+        "number": "345.972",
+        "title": "by 10,100,1000 and"
+      },
+      {
+        "number": "345.972",
+        "title": "× 1 0 = 3459.72"
+      },
+      {
+        "number": "345.972",
+        "title": "× 1 00 = 34597.2"
+      },
+      {
+        "number": "345.972",
+        "title": "× 1 000 = 345972"
+      },
+      {
+        "number": "345.972",
+        "title": "0 × 10000 = 3459720"
+      },
+      {
+        "number": "647.39",
+        "title": "by 10,100 and 1000"
+      },
+      {
+        "number": "390.6473",
+        "title": "91000="
+      },
+      {
+        "number": "0647.3",
+        "title": "90.06473910000="
+      },
+      {
+        "number": "42.195",
+        "title": "km. Express  this distance in metre."
+      },
+      {
+        "number": "42.195",
+        "title": "km."
+      },
+      {
+        "number": "42.195",
+        "title": "X 1 000 m"
+      },
+      {
+        "number": "998.0",
+        "title": "x 1"
+      },
+      {
+        "number": "99.8",
+        "title": "cm1 km = 1000 m"
+      },
+      {
+        "number": "650.0",
+        "title": "1000g = 0.65 g"
+      },
+      {
+        "number": "5.750",
+        "title": "l of water ,convert  into ml"
+      },
+      {
+        "number": "5.750",
+        "title": "l"
+      },
+      {
+        "number": "5.750",
+        "title": "x 1 000 ml"
+      },
+      {
+        "number": "0.526",
+        "title": "l"
+      },
+      {
+        "number": "1.78",
+        "title": "m into cm"
+      },
+      {
+        "number": "8.67",
+        "title": "mm into cmTry these"
+      },
+      {
+        "number": "6.5",
+        "title": "kg into g"
+      },
+      {
+        "number": "2.54",
+        "title": "cm ¾ 1 tonne = 1000 kg"
+      },
+      {
+        "number": "3.281",
+        "title": "ft ¾ 1 quintal=100 kg"
+      },
+      {
+        "number": "39.37",
+        "title": "inches ¾ 1 tonne = 10 quintal"
+      },
+      {
+        "number": "0.305",
+        "title": "m = 30.48 cm¾ 1 soverign = 8 g"
+      },
+      {
+        "number": "1.609",
+        "title": "km ¾ \u0007TMC: (Thousand Million Cubic feet),"
+      },
+      {
+        "number": "2.4",
+        "title": "Fundamental Operations on Quantities with Different Units"
+      },
+      {
+        "number": "2.1",
+        "title": "1. Fill in the blanks"
+      },
+      {
+        "number": "0.1",
+        "title": "kg."
+      },
+      {
+        "number": "2.5",
+        "title": "l."
+      },
+      {
+        "number": "1.25",
+        "title": "m now. She grows 5 cm every year. What would be her"
+      },
+      {
+        "number": "1.5",
+        "title": "km every day to reach the school while Mahizhan walks 1400 m."
+      },
+      {
+        "number": "9.4",
+        "title": "cm  d. 0.94 cm"
+      },
+      {
+        "number": "0.007",
+        "title": "g, 70 mg, 0.07 cg"
+      },
+      {
+        "number": "0.07",
+        "title": "cg b. 0.007 g  c. 70 mg d. all are equal"
+      },
+      {
+        "number": "2.5",
+        "title": "Measures of Time"
+      },
+      {
+        "number": "2.5",
+        "title": "nazhigai = 1 Orai; 1 day = 24 hours = 60 nazhigai"
+      },
+      {
+        "number": "9.20",
+        "title": "b) 4.50 c) 5.15 d) 6.45 e) 11.30Try these2.5.1 Reading the time"
+      },
+      {
+        "number": "4.00",
+        "title": "4 o’clock4.05"
+      },
+      {
+        "number": "44.10",
+        "title": "10 min past 44.15"
+      },
+      {
+        "number": "44.20",
+        "title": "20 min past 44.25"
+      },
+      {
+        "number": "44.30",
+        "title": "30 min past 4"
+      },
+      {
+        "number": "4.35",
+        "title": "(i) 25 min to 54.40"
+      },
+      {
+        "number": "54.45",
+        "title": "(i) 15 min to 5  or"
+      },
+      {
+        "number": "54.50",
+        "title": "(i) 10 min to 54.55"
+      },
+      {
+        "number": "5.2",
+        "title": "Conversion of Time"
+      },
+      {
+        "number": "5.3",
+        "title": "Ordinary Time or the 12-Hour Format"
+      },
+      {
+        "number": "12.00",
+        "title": "at night is called"
+      },
+      {
+        "number": "12.00",
+        "title": "at day is called noon."
+      },
+      {
+        "number": "5.00",
+        "title": "a.m"
+      },
+      {
+        "number": "5.00",
+        "title": "p.m"
+      },
+      {
+        "number": "3.20",
+        "title": "a.m., the point does not mean the usual decimal point."
+      },
+      {
+        "number": "5.4",
+        "title": "Railway Time or the 24-Hour Format"
+      },
+      {
+        "number": "5.5",
+        "title": "Conversion of Time Formats"
+      },
+      {
+        "number": "12.00",
+        "title": "midnight and 01.00 a.m."
+      },
+      {
+        "number": "01.00",
+        "title": "p.m. Add 12:00 hours to any"
+      },
+      {
+        "number": "01.00",
+        "title": "p.m."
+      },
+      {
+        "number": "9.25",
+        "title": "a.m"
+      },
+      {
+        "number": "6.40",
+        "title": "p.m"
+      },
+      {
+        "number": "3.15",
+        "title": "a.m"
+      },
+      {
+        "number": "3.30",
+        "title": "p.m"
+      },
+      {
+        "number": "11.50",
+        "title": "p.m"
+      },
+      {
+        "number": "04.15",
+        "title": "a.m a.m - 04:15 hours"
+      },
+      {
+        "number": "07.40",
+        "title": "p.m p.m (7+12) hours 19:40 hours"
+      },
+      {
+        "number": "10.05",
+        "title": "p.m p.m (10+12) hours 22:05 hours"
+      },
+      {
+        "number": "06.00",
+        "title": "a.m a.m - 06:00 hours"
+      },
+      {
+        "number": "12.25",
+        "title": "a.m a.m - 00:25 hours"
+      },
+      {
+        "number": "5.6",
+        "title": "Duration between the two given time instances"
+      },
+      {
+        "number": "10.40",
+        "title": "a.m  = 10:40 hours 1 p.m = 13:00 hours"
+      },
+      {
+        "number": "11.15",
+        "title": "p.m = 23:15 hours"
+      },
+      {
+        "number": "1.15",
+        "title": "a.m =            hours 3 p.m =           hours"
+      },
+      {
+        "number": "5.7",
+        "title": "Year"
+      },
+      {
+        "number": "6.00",
+        "title": "p.m 18:00 hours"
+      },
+      {
+        "number": "7.00",
+        "title": "a.m 07:00 hours"
+      },
+      {
+        "number": "9.55",
+        "title": "a. 20 minutes past 2"
+      },
+      {
+        "number": "11.50",
+        "title": "b. quarter past 4"
+      },
+      {
+        "number": "4.15",
+        "title": "c. quarter to 8"
+      },
+      {
+        "number": "7.45",
+        "title": "d. 5 minutes to 10"
+      },
+      {
+        "number": "2.20",
+        "title": "e. 10 minutes to 12"
+      },
+      {
+        "number": "3.15",
+        "title": "a.m (iii)  12.35 p.m"
+      },
+      {
+        "number": "12.00",
+        "title": "noon  (v) 12.00 midnight"
+      },
+      {
+        "number": "5.30",
+        "title": "a.m to 12.40 p.m"
+      },
+      {
+        "number": "1.30",
+        "title": "p.m to 10.25 p.m"
+      },
+      {
+        "number": "2.2",
+        "title": "1. Say the time in two ways:"
+      },
+      {
+        "number": "02.2017",
+        "title": "and due to exam, he left practice after 20"
+      },
+      {
+        "number": "07.2017",
+        "title": "to 31.03.2018. Calculate how many"
+      },
+      {
+        "number": "06.2018",
+        "title": "Objective Type Questions"
+      },
+      {
+        "number": "2.3",
+        "title": "Miscellaneous practice Problems"
+      },
+      {
+        "number": "5.45",
+        "title": "p.m with a lunch break of  1 hour. If the"
+      },
+      {
+        "number": "5.20",
+        "title": "a.m. She spends 35 minutes  to get ready and travels"
+      },
+      {
+        "number": "9.30",
+        "title": "a.m first dose. Prepare a"
+      },
+      {
+        "number": "3.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "3.2",
+        "title": "Bill"
+      },
+      {
+        "number": "04.2018",
+        "title": "Sl. No. Items Quantity Rate (in `)Amount"
+      },
+      {
+        "number": "5.192",
+        "title": "pages unruled note books"
+      },
+      {
+        "number": "2.1",
+        "title": "Verification of Bill"
+      },
+      {
+        "number": "2.2",
+        "title": "Preparation of a Bill"
+      },
+      {
+        "number": "04.2018",
+        "title": "Sl. No. ItemsQuantity"
+      },
+      {
+        "number": "05.2018",
+        "title": "Sl. No. Items Rate (in `) Quantity Amount (in `)"
+      },
+      {
+        "number": "06.2018",
+        "title": "Sl. No. Items Rate (in `) Quantity (packets) Amount (in `)"
+      },
+      {
+        "number": "3.3",
+        "title": "Profit and Loss"
+      },
+      {
+        "number": "3.1",
+        "title": "1. A school purchases some furniture and gets the following bill."
+      },
+      {
+        "number": "04.2018",
+        "title": "Sl. No. Items Quantity Rate (in `) Amount (in `)"
+      },
+      {
+        "number": "04.2018",
+        "title": "bearing the bill number 507."
+      },
+      {
+        "number": "3.2",
+        "title": "Miscellaneous Practice Problems"
+      },
+      {
+        "number": "4.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "4.2",
+        "title": "Basic Elements of a Triangle"
+      },
+      {
+        "number": "4.3",
+        "title": "Types and Properties of Triangles"
+      },
+      {
+        "number": "3.1",
+        "title": "Types of triangle based on its sides"
+      },
+      {
+        "number": "2.5",
+        "title": "cm"
+      },
+      {
+        "number": "2.5",
+        "title": "cm2.5 cm"
+      },
+      {
+        "number": "3.2",
+        "title": "Types of triangle based on its angles"
+      },
+      {
+        "number": "3.3",
+        "title": "Triangle Inequality property"
+      },
+      {
+        "number": "8.5",
+        "title": "m 7.3 m 6.8 m"
+      },
+      {
+        "number": "3.2",
+        "title": "cm 1.5 cm 1.5 cmTry these"
+      },
+      {
+        "number": "4.1",
+        "title": "1.  Fill in the blanks:"
+      },
+      {
+        "number": "3.9",
+        "title": "cm"
+      },
+      {
+        "number": "2.5",
+        "title": "cm5.1cm"
+      },
+      {
+        "number": "4.1",
+        "title": "cm 6.1 cm 10 cm12 cm"
+      },
+      {
+        "number": "6.1",
+        "title": "cm6.1 cm"
+      },
+      {
+        "number": "7.3",
+        "title": "cm"
+      },
+      {
+        "number": "4.6",
+        "title": "cm"
+      },
+      {
+        "number": "6.2",
+        "title": "cm, 1.3 cm, 3.5 cm (iv) 6 cm, 6 cm, 4 cm"
+      },
+      {
+        "number": "3.5",
+        "title": "cm, 3.5 cm, 3.5 cm (vi) 9 cm, 4 cm, 5 cm"
+      },
+      {
+        "number": "4.2",
+        "title": "Set Squares"
+      },
+      {
+        "number": "4.4",
+        "title": "Construction of  Perpendicular Lines"
+      },
+      {
+        "number": "4.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "4.5",
+        "title": "Construction of Parallel Lines"
+      },
+      {
+        "number": "6.5",
+        "title": "cm and mark a point M above it. Through M"
+      },
+      {
+        "number": "6.5",
+        "title": "cm. Mark a"
+      },
+      {
+        "number": "4.8",
+        "title": "cm."
+      },
+      {
+        "number": "4.8",
+        "title": "cm above the line."
+      },
+      {
+        "number": "4.2",
+        "title": "1. Draw a line segment AB = 7 cm and mark a point P on it. Draw a line perpendicular to"
+      },
+      {
+        "number": "6.5",
+        "title": "cm and take a point P not lying on it. Using a set square"
+      },
+      {
+        "number": "7.8",
+        "title": "cm. Mark a point B above it at a distance of 5 cm."
+      },
+      {
+        "number": "5.4",
+        "title": "cm Through R draw a line"
+      },
+      {
+        "number": "4.3",
+        "title": "Miscellaneous Practice Problems"
+      },
+      {
+        "number": "7.5",
+        "title": "cm 3.5 cm"
+      },
+      {
+        "number": "5.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "5.2",
+        "title": "Conversion of Tree Diagrams into Numerical Expressions"
+      },
+      {
+        "number": "5.3",
+        "title": "Conversion of Algebraic Expressions into Tree Diagrams"
+      },
+      {
+        "number": "5.1",
+        "title": "1. Convert the following numerical expressions into Tree diagrams."
+      },
+      {
+        "number": "5.2",
+        "title": "Miscellaneous practice problems"
+      },
+      {
+        "number": "1.1",
+        "title": "1. i) 12 ii) 31 iii) 3 iv) 2 v) 10"
+      },
+      {
+        "number": "1.2",
+        "title": "1. i) 15 ii) 2"
+      },
+      {
+        "number": "8.06",
+        "title": "a.m"
+      },
+      {
+        "number": "1.3",
+        "title": "1.   4 = 2 + 2; 6 = 3 + 3; 8 = 3 + 5;"
+      },
+      {
+        "number": "2.1",
+        "title": "1. i. 3/4 l  ii. 205 kg 950 g  iii. 18 l 500 ml"
+      },
+      {
+        "number": "0.3",
+        "title": "g"
+      },
+      {
+        "number": "0.013",
+        "title": "km"
+      },
+      {
+        "number": "8.257",
+        "title": "l, 0.008257 kl"
+      },
+      {
+        "number": "0.6",
+        "title": "l"
+      },
+      {
+        "number": "2.2",
+        "title": "1. i) 10:15 hours; quarter past 10"
+      },
+      {
+        "number": "2.3",
+        "title": "1. 14 m 78 cm  2. 2000; 560"
+      },
+      {
+        "number": "3.1",
+        "title": "1."
+      },
+      {
+        "number": "04.2018",
+        "title": "Sl."
+      },
+      {
+        "number": "3.2",
+        "title": "1. Gain = `15 5. Gain = `32"
+      },
+      {
+        "number": "4.1",
+        "title": "1. a) two b) scalene triangle c) two"
+      },
+      {
+        "number": "4.3",
+        "title": "1. 90°, 45 ° , 45 ° 2. c"
+      },
+      {
+        "number": "5.1",
+        "title": "1)"
+      },
+      {
+        "number": "5.2",
+        "title": "1)"
+      }
+    ]
+  },
+  "Term_3": {
+    "chapters": [],
+    "topics": [
+      {
+        "number": "1.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "41.2",
+        "title": "Comparison of Unlike Fractions"
+      },
+      {
+        "number": "5.2",
+        "title": "5 is  than 5"
+      },
+      {
+        "number": "1.3",
+        "title": "Addition and Subtraction of Unlike Fractions"
+      },
+      {
+        "number": "2.1",
+        "title": "30"
+      },
+      {
+        "number": "1.4",
+        "title": "Improper and Mixed Fractions"
+      },
+      {
+        "number": "121.5",
+        "title": "Addition and Subtraction of Mixed Fractions"
+      },
+      {
+        "number": "1.6",
+        "title": "Multiplication of Fractions"
+      },
+      {
+        "number": "1.7",
+        "title": "Division of Fractions"
+      },
+      {
+        "number": "1.1",
+        "title": "1. Fill in the blanks"
+      },
+      {
+        "number": "1.2",
+        "title": "Miscellaneous Practice problems"
+      },
+      {
+        "number": "2.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "2.2",
+        "title": "Introduction of Integers and its representation on a number line"
+      },
+      {
+        "number": "2.1",
+        "title": "More situations on Integers"
+      },
+      {
+        "number": "2.2",
+        "title": "Opposite of a number"
+      },
+      {
+        "number": "2.3",
+        "title": "Ordering of Integers"
+      },
+      {
+        "number": "3.1",
+        "title": "Predecessor and Successor of an Integer"
+      },
+      {
+        "number": "3.2",
+        "title": "Comparing Integers"
+      },
+      {
+        "number": "2.1",
+        "title": "1. Fill in the blanks"
+      },
+      {
+        "number": "2.2",
+        "title": "Miscellaneous Practice Problems"
+      },
+      {
+        "number": "3.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "383.2",
+        "title": "Perimeter"
+      },
+      {
+        "number": "2.1",
+        "title": "Perimeter of a Rectangle"
+      },
+      {
+        "number": "2.2",
+        "title": "Perimeter of a Square"
+      },
+      {
+        "number": "2.3",
+        "title": "Perimeter of a Triangle"
+      },
+      {
+        "number": "3.3",
+        "title": "Area"
+      },
+      {
+        "number": "3.1",
+        "title": "Area of a Rectangle"
+      },
+      {
+        "number": "3.2",
+        "title": "Area of a Square"
+      },
+      {
+        "number": "3.3",
+        "title": "Area of a Right Angled Triangle"
+      },
+      {
+        "number": "3.4",
+        "title": "Perimeter and Area of Combined Shapes"
+      },
+      {
+        "number": "4.1",
+        "title": "Impact on Removing / Adding a portion from / to a given shape"
+      },
+      {
+        "number": "3.5",
+        "title": "Area of Irregular Shapes"
+      },
+      {
+        "number": "3.6",
+        "title": "Expressing the Area in Square Units"
+      },
+      {
+        "number": "4046.86",
+        "title": "m2"
+      },
+      {
+        "number": "3.1",
+        "title": "1. The table given below contains some measures of the rectangle. Find the unknown"
+      },
+      {
+        "number": "3.2",
+        "title": "Miscellaneous Practice Problems"
+      },
+      {
+        "number": "4.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "4.2",
+        "title": "Line of Symmetry"
+      },
+      {
+        "number": "604.3",
+        "title": "Reflection Symmetry"
+      },
+      {
+        "number": "624.4",
+        "title": "Rotational Symmetry"
+      },
+      {
+        "number": "4.5",
+        "title": "Translational Symmetry"
+      },
+      {
+        "number": "4.1",
+        "title": "1. Fill in the blanks"
+      },
+      {
+        "number": "4.2",
+        "title": "Miscellaneous Practice Problems"
+      },
+      {
+        "number": "5.1",
+        "title": "Introduction"
+      },
+      {
+        "number": "5.2",
+        "title": "Iterative Process in Numbers"
+      },
+      {
+        "number": "5.3",
+        "title": "Euclid’s game"
+      },
+      {
+        "number": "1.618",
+        "title": "and"
+      },
+      {
+        "number": "5.4",
+        "title": "Following and Devising Algorithms"
+      },
+      {
+        "number": "5.5",
+        "title": "Arranging things and putting them in order"
+      },
+      {
+        "number": "5.1",
+        "title": "1. Study and complete the following pattern"
+      },
+      {
+        "number": "5.2",
+        "title": "Miscellaneous Practice problems"
+      },
+      {
+        "number": "1.1",
+        "title": "1. i) 141"
+      },
+      {
+        "number": "1.2",
+        "title": "1.  510 2. 31"
+      },
+      {
+        "number": "11.1",
+        "title": "201"
+      },
+      {
+        "number": "2.1",
+        "title": "1.i) –100 ii) −7 iii) left iv) 11 v) 0"
+      },
+      {
+        "number": "2.2",
+        "title": "1. i) a sapling planted at a depth of 3m            ii) a pit which is 3m deep"
+      },
+      {
+        "number": "3.1",
+        "title": "1.i) 26 cm, 40 cm2ii)  14 cm, 182 cm2iii)  15 cm, 225 cm2iv) 12  m, 44 cmv)  5 feet, 18 feet"
+      },
+      {
+        "number": "7.20",
+        "title": "m, 24 m28. 32 cm, 64 cm29.  24 feet, 24 sq. feet"
+      },
+      {
+        "number": "11.41",
+        "title": "cm, 122 cm 12. 10 m, 100  m213. 12 cm14.  250 m2,  `11250/- 15. 54 cm"
+      },
+      {
+        "number": "3.2",
+        "title": "1.i) 9 cm ii) 12  cm 2. 114 cm"
+      },
+      {
+        "number": "7.8",
+        "title": "8. 8 cm, 24 cm 9.  12, (1,23), (2,22), (3,21), (4,20), (5,19), (6,18),"
+      },
+      {
+        "number": "15.5",
+        "title": "sq.units"
+      },
+      {
+        "number": "4.1",
+        "title": "1. i) P ii) Two iii)Two iv) Two v) Translation"
+      },
+      {
+        "number": "4.2",
+        "title": "1.i) Scalene triangle ii) Isosceles triangle iii) Equilateral triangle"
+      },
+      {
+        "number": "5.1",
+        "title": "Exercise 5.2"
+      }
+    ]
+  }
+}

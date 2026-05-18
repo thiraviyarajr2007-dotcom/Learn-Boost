@@ -1,0 +1,1239 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Class 7 Mathematics Enhanced Curriculum Generator - TN State Board
+Transforms textbook content into Duolingo-style learning modules
+Enhanced with double the questions for comprehensive learning
+"""
+
+import json
+
+def generate_class7_enhanced_curriculum():
+    """Generate comprehensive enhanced Class 7 Mathematics curriculum"""
+    
+    curriculum = {
+        "class": "7",
+        "subject": "Mathematics",
+        "chapters": [
+            {
+                "chapter_name": "Number System",
+                "modules": [
+                    {
+                        "module_id": "7.1.1",
+                        "topic_name": "Integers and Their Properties",
+                        "explanation": "Integers are like a complete number family that includes positive numbers, negative numbers, and zero! They extend infinitely in both directions on the number line. Think of temperature: positive for hot, negative for cold, zero for freezing point. Integers help us understand gains and losses, above and below sea level, and so much more!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_1_1_1",
+                                "question_text": "Which of these is NOT an integer?",
+                                "options": ["-5", "0", "3.5", "12"],
+                                "correct_answer": "3.5",
+                                "explanation": "3.5 is not an integer because it has a decimal part. Integers are whole numbers without fractions or decimals.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_2",
+                                "question_text": "What is the opposite of -8?",
+                                "options": ["8", "-8", "0", "1"],
+                                "correct_answer": "8",
+                                "explanation": "The opposite (additive inverse) of -8 is 8 because -8 + 8 = 0.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_3",
+                                "question_text": "Arrange in ascending order: -3, 0, 2, -1",
+                                "options": ["-3, -1, 0, 2", "2, 0, -1, -3", "-1, -3, 0, 2", "0, -1, -3, 2"],
+                                "correct_answer": "-3, -1, 0, 2",
+                                "explanation": "Ascending order means from smallest to largest. Negative numbers are smaller than zero, and -3 is smaller than -1.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_4",
+                                "question_text": "What is the absolute value of -12?",
+                                "options": ["-12", "12", "0", "24"],
+                                "correct_answer": "12",
+                                "explanation": "The absolute value of -12 is 12. Absolute value is always positive and represents the distance from zero.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_5",
+                                "question_text": "Which integer is closest to zero?",
+                                "options": ["-10", "-3", "5", "-1"],
+                                "correct_answer": "-1",
+                                "explanation": "-1 is closest to zero because the absolute value | -1 | = 1, which is the smallest among the options.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_6",
+                                "question_text": "If temperature is -5°C and rises by 3°C, what's the new temperature?",
+                                "options": ["-2°C", "-8°C", "2°C", "8°C"],
+                                "correct_answer": "-2°C",
+                                "explanation": "-5°C + 3°C = -2°C. Starting from -5 and moving 3 units toward zero gives us -2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_7",
+                                "question_text": "What is the additive identity in integers?",
+                                "options": ["1", "0", "-1", "Does not exist"],
+                                "correct_answer": "0",
+                                "explanation": "Zero is the additive identity because adding 0 to any integer gives the same integer: a + 0 = a.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_8",
+                                "question_text": "Which integer is the largest: -7, -3, -10, -15?",
+                                "options": ["-7", "-3", "-10", "-15"],
+                                "correct_answer": "-3",
+                                "explanation": "-3 is the largest among negative integers because it's closest to zero.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_9",
+                                "question_text": "What is |-7| + |3|?",
+                                "options": ["4", "10", "-4", "-10"],
+                                "correct_answer": "10",
+                                "explanation": "|-7| = 7 and |3| = 3. 7 + 3 = 10.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_1_10",
+                                "question_text": "If a = -4 and b = 6, what is a + b?",
+                                "options": ["-2", "2", "10", "-10"],
+                                "correct_answer": "2",
+                                "explanation": "a + b = -4 + 6 = 2. Different signs: subtract smaller absolute value from larger and keep sign of larger.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.1.2",
+                        "topic_name": "Operations on Integers",
+                        "explanation": "Integer operations follow special rules! Addition: same signs add, different signs subtract. Subtraction: add the opposite. Multiplication and division: same signs give positive, different signs give negative. Think of it like a game where positive is 'gain' and negative is 'loss' - these rules help you calculate the final result!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "7_1_2_1",
+                                "question_text": "What is (-7) + (-3)?",
+                                "options": ["-10", "10", "-4", "4"],
+                                "correct_answer": "-10",
+                                "explanation": "(-7) + (-3) = -10. When adding two negative integers, add their absolute values and keep the negative sign.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_2",
+                                "question_text": "What is 8 - (-5)?",
+                                "options": ["3", "13", "-3", "-13"],
+                                "correct_answer": "13",
+                                "explanation": "8 - (-5) = 8 + 5 = 13. Subtracting a negative is the same as adding its positive.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_3",
+                                "question_text": "What is (-4) × 6?",
+                                "options": ["24", "-24", "10", "-10"],
+                                "correct_answer": "-24",
+                                "explanation": "(-4) × 6 = -24. Different signs give a negative result in multiplication.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_4",
+                                "question_text": "What is (-15) ÷ (-3)?",
+                                "options": ["5", "-5", "12", "-12"],
+                                "correct_answer": "5",
+                                "explanation": "(-15) ÷ (-3) = 5. Same signs give a positive result in division.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_5",
+                                "question_text": "If a = -2 and b = 3, what is a² + b?",
+                                "options": ["1", "7", "-1", "-7"],
+                                "correct_answer": "7",
+                                "explanation": "a² + b = (-2)² + 3 = 4 + 3 = 7. Remember that the square of a negative number is positive.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_6",
+                                "question_text": "What is the result of (-2)³?",
+                                "options": ["6", "-6", "8", "-8"],
+                                "correct_answer": "-8",
+                                "explanation": "(-2)³ = (-2) × (-2) × (-2) = 4 × (-2) = -8. Odd power of negative gives negative result.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_7",
+                                "question_text": "If x = -4 and y = -1, what is x - y?",
+                                "options": ["-3", "3", "-5", "5"],
+                                "correct_answer": "-3",
+                                "explanation": "x - y = (-4) - (-1) = (-4) + 1 = -3. Remember to add the opposite when subtracting.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_8",
+                                "question_text": "What is (-5) + 8 + (-3)?",
+                                "options": ["0", "10", "-10", "16"],
+                                "correct_answer": "0",
+                                "explanation": "(-5) + 8 + (-3) = 3 + (-3) = 0. Add from left to right.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_9",
+                                "question_text": "If the product of two integers is positive, what can we say about the integers?",
+                                "options": ["Both are positive", "Both are negative", "Both have same sign", "Cannot determine"],
+                                "correct_answer": "Both have same sign",
+                                "explanation": "If product is positive, either both are positive or both are negative (same signs).",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_1_2_10",
+                                "question_text": "What is (-3) × (-2) × 5?",
+                                "options": ["30", "-30", "10", "-10"],
+                                "correct_answer": "30",
+                                "explanation": "(-3) × (-2) = 6. 6 × 5 = 30. Two negatives give positive.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.1.3",
+                        "topic_name": "Fractions and Decimals",
+                        "explanation": "Fractions and decimals are different ways to show parts of a whole! Fractions use numerator/denominator (like 3/4 = three-fourths), while decimals use place value (like 0.75 = seventy-five hundredths). They're like two languages saying the same thing - you can translate between them and use whichever is more convenient!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_1_3_1",
+                                "question_text": "Convert 3/4 to decimal form",
+                                "options": ["0.34", "0.75", "0.25", "0.43"],
+                                "correct_answer": "0.75",
+                                "explanation": "3/4 = 0.75. Divide 3 by 4 to get the decimal equivalent.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_2",
+                                "question_text": "Which fraction is equivalent to 0.6?",
+                                "options": ["1/6", "3/5", "6/10", "2/3"],
+                                "correct_answer": "3/5",
+                                "explanation": "0.6 = 6/10 = 3/5. Simplify the fraction by dividing numerator and denominator by 2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_3",
+                                "question_text": "What is 2.35 as a mixed fraction?",
+                                "options": ["2 35/100", "2 7/20", "2 3/5", "2 1/2"],
+                                "correct_answer": "2 7/20",
+                                "explanation": "2.35 = 2 + 0.35 = 2 + 35/100 = 2 + 7/20 = 2 7/20. Simplify 35/100 by dividing by 5.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_4",
+                                "question_text": "Arrange in descending order: 1/2, 0.75, 1/4, 0.9",
+                                "options": ["0.9, 0.75, 1/2, 1/4", "0.75, 0.9, 1/2, 1/4", "1/2, 0.75, 0.9, 1/4", "0.9, 1/2, 0.75, 1/4"],
+                                "correct_answer": "0.9, 0.75, 1/2, 1/4",
+                                "explanation": "Convert all to decimals: 0.9, 0.75, 0.5, 0.25. Then arrange from largest to smallest.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_5",
+                                "question_text": "What is 0.125 as a fraction in simplest form?",
+                                "options": ["1/8", "1/4", "1/5", "5/8"],
+                                "correct_answer": "1/8",
+                                "explanation": "0.125 = 125/1000 = 1/8. Divide numerator and denominator by 125 to simplify.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_6",
+                                "question_text": "If you eat 3/8 of a pizza, what fraction remains?",
+                                "options": ["5/8", "3/8", "1/2", "1/4"],
+                                "correct_answer": "5/8",
+                                "explanation": "Remaining fraction = 1 - 3/8 = 8/8 - 3/8 = 5/8.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_7",
+                                "question_text": "What is 0.8 as a fraction in simplest form?",
+                                "options": ["4/5", "8/10", "2/5", "1/8"],
+                                "correct_answer": "4/5",
+                                "explanation": "0.8 = 8/10 = 4/5. Simplify by dividing numerator and denominator by 2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_8",
+                                "question_text": "Convert 7/8 to decimal",
+                                "options": ["0.78", "0.875", "0.87", "0.88"],
+                                "correct_answer": "0.875",
+                                "explanation": "7/8 = 0.875. Divide 7 by 8.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_9",
+                                "question_text": "Which is greater: 3/5 or 0.62?",
+                                "options": ["3/5", "0.62", "They are equal", "Cannot compare"],
+                                "correct_answer": "0.62",
+                                "explanation": "3/5 = 0.6. 0.62 > 0.6, so 0.62 is greater.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_1_3_10",
+                                "question_text": "What is the decimal form of 5/2?",
+                                "options": ["0.25", "2.5", "5.2", "0.52"],
+                                "correct_answer": "2.5",
+                                "explanation": "5/2 = 2.5. Divide 5 by 2.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Measurements",
+                "modules": [
+                    {
+                        "module_id": "7.2.1",
+                        "topic_name": "Area and Perimeter",
+                        "explanation": "Area is the space inside a shape (like carpet covering a floor), while perimeter is the distance around the edge (like fence around a garden). Rectangle: Area = length × width, Perimeter = 2 × (length + width). Square: Area = side², Perimeter = 4 × side. These measurements help in construction, landscaping, and everyday planning!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_2_1_1",
+                                "question_text": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+                                "options": ["13 cm²", "40 cm²", "26 cm²", "16 cm²"],
+                                "correct_answer": "40 cm²",
+                                "explanation": "Area = length × width = 8 cm × 5 cm = 40 cm².",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_2",
+                                "question_text": "What is the perimeter of a square with side 6 m?",
+                                "options": ["24 m", "36 m", "12 m", "18 m"],
+                                "correct_answer": "24 m",
+                                "explanation": "Perimeter of square = 4 × side = 4 × 6 m = 24 m.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_3",
+                                "question_text": "If a rectangle has perimeter 30 cm and length 10 cm, what is its width?",
+                                "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+                                "correct_answer": "5 cm",
+                                "explanation": "Perimeter = 2 × (length + width). 30 = 2 × (10 + width). 15 = 10 + width. Width = 5 cm.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_4",
+                                "question_text": "Which shape has the largest area if both have perimeter 20 cm: square or rectangle 8 cm × 2 cm?",
+                                "options": ["Square", "Rectangle", "Both equal", "Cannot determine"],
+                                "correct_answer": "Square",
+                                "explanation": "Square with perimeter 20 cm has side 5 cm, area = 25 cm². Rectangle area = 8 × 2 = 16 cm². Square has larger area.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_5",
+                                "question_text": "What is the area of a square field with perimeter 80 m?",
+                                "options": ["400 m²", "1600 m²", "6400 m²", "100 m²"],
+                                "correct_answer": "400 m²",
+                                "explanation": "Side = perimeter ÷ 4 = 80 ÷ 4 = 20 m. Area = side² = 20² = 400 m².",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_6",
+                                "question_text": "What is the perimeter of a rectangle with area 24 cm² and length 6 cm?",
+                                "options": ["16 cm", "20 cm", "24 cm", "30 cm"],
+                                "correct_answer": "20 cm",
+                                "explanation": "Width = area ÷ length = 24 ÷ 6 = 4 cm. Perimeter = 2(6 + 4) = 20 cm.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_7",
+                                "question_text": "If the side of a square is doubled, how does its area change?",
+                                "options": ["Doubles", "Triples", "Quadruples", "Remains same"],
+                                "correct_answer": "Quadruples",
+                                "explanation": "Area = side². If side becomes 2s, area = (2s)² = 4s², which is 4 times original area.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_8",
+                                "question_text": "What is the perimeter of a rectangle 12 cm by 7 cm?",
+                                "options": ["38 cm", "42 cm", "19 cm", "84 cm"],
+                                "correct_answer": "38 cm",
+                                "explanation": "Perimeter = 2(length + width) = 2(12 + 7) = 2 × 19 = 38 cm.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_9",
+                                "question_text": "A square has area 64 cm². What is its perimeter?",
+                                "options": ["16 cm", "32 cm", "24 cm", "8 cm"],
+                                "correct_answer": "32 cm",
+                                "explanation": "Side = √64 = 8 cm. Perimeter = 4 × 8 = 32 cm.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_2_1_10",
+                                "question_text": "What is the area of a rectangle with perimeter 36 cm and width 6 cm?",
+                                "options": ["36 cm²", "72 cm²", "54 cm²", "18 cm²"],
+                                "correct_answer": "72 cm²",
+                                "explanation": "36 = 2(length + 6). 18 = length + 6. Length = 12 cm. Area = 12 × 6 = 72 cm².",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.2.2",
+                        "topic_name": "Volume and Surface Area",
+                        "explanation": "Volume is the space inside a 3D shape (how much it can hold), while surface area is the total area of all faces (how much material needed to cover it). Cube: SA = 6a², Volume = a³. Cuboid: SA = 2(lw + lh + wh), Volume = lwh. Cylinder: SA = 2πr(r + h), Volume = πr²h. These are crucial for packaging, construction, and engineering!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "7_2_2_1",
+                                "question_text": "What is the volume of a cube with side 5 cm?",
+                                "options": ["25 cm³", "125 cm³", "150 cm³", "100 cm³"],
+                                "correct_answer": "125 cm³",
+                                "explanation": "Volume = side³ = 5³ = 5 × 5 × 5 = 125 cm³.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_2",
+                                "question_text": "What is the surface area of a cube with side 4 cm?",
+                                "options": ["96 cm²", "64 cm²", "24 cm²", "48 cm²"],
+                                "correct_answer": "96 cm²",
+                                "explanation": "Surface area = 6 × side² = 6 × 4² = 6 × 16 = 96 cm².",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_3",
+                                "question_text": "What is the volume of a cuboid with dimensions 6 cm × 4 cm × 3 cm?",
+                                "options": ["72 cm³", "36 cm³", "13 cm³", "24 cm³"],
+                                "correct_answer": "72 cm³",
+                                "explanation": "Volume = length × width × height = 6 × 4 × 3 = 72 cm³.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_4",
+                                "question_text": "How many small cubes of side 2 cm can fit in a box of size 8 cm × 6 cm × 4 cm?",
+                                "options": ["12", "24", "48", "96"],
+                                "correct_answer": "24",
+                                "explanation": "Box volume = 8 × 6 × 4 = 192 cm³. Small cube volume = 2³ = 8 cm³. Number = 192 ÷ 8 = 24.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_5",
+                                "question_text": "If the volume of a cube is 216 cm³, what is its surface area?",
+                                "options": ["216 cm²", "150 cm²", "96 cm²", "288 cm²"],
+                                "correct_answer": "216 cm²",
+                                "explanation": "Side = ∛216 = 6 cm. Surface area = 6 × 6² = 6 × 36 = 216 cm².",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_6",
+                                "question_text": "What is the total surface area of a cuboid 10 cm × 5 cm × 2 cm?",
+                                "options": ["160 cm²", "140 cm²", "100 cm²", "80 cm²"],
+                                "correct_answer": "160 cm²",
+                                "explanation": "TSA = 2(lw + lh + wh) = 2(50 + 20 + 10) = 2 × 80 = 160 cm².",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_7",
+                                "question_text": "What is the volume of a cylinder with radius 3 cm and height 5 cm? (π = 22/7)",
+                                "options": ["141.43 cm³", "282.86 cm³", "47.14 cm³", "94.29 cm³"],
+                                "correct_answer": "141.43 cm³",
+                                "explanation": "Volume = πr²h = (22/7) × 3² × 5 = (22/7) × 9 × 5 ≈ 141.43 cm³.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_8",
+                                "question_text": "If the surface area of a cube is 54 cm², what is the length of each side?",
+                                "options": ["3 cm", "9 cm", "6 cm", "2.5 cm"],
+                                "correct_answer": "3 cm",
+                                "explanation": "6 × side² = 54. side² = 9. side = 3 cm.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_9",
+                                "question_text": "What is the lateral surface area of a cuboid 8 cm × 4 cm × 3 cm?",
+                                "options": ["48 cm²", "72 cm²", "96 cm²", "24 cm²"],
+                                "correct_answer": "72 cm²",
+                                "explanation": "LSA = 2h(l + b) = 2 × 3 × (8 + 4) = 6 × 12 = 72 cm².",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_2_2_10",
+                                "question_text": "If dimensions of a cuboid are doubled, how does its volume change?",
+                                "options": ["Doubles", "Quadruples", "8 times", "Remains same"],
+                                "correct_answer": "8 times",
+                                "explanation": "If l, w, h become 2l, 2w, 2h, volume = 2l × 2w × 2h = 8lwh, which is 8 times original.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Algebra",
+                "modules": [
+                    {
+                        "module_id": "7.3.1",
+                        "topic_name": "Algebraic Expressions",
+                        "explanation": "Algebraic expressions are mathematical phrases with variables! They combine numbers, variables, and operations like 2x + 3y - 5. Variables are like mystery boxes that can hold different values. These expressions help us describe patterns and solve problems where exact numbers aren't known yet. Think of them as recipes for calculations!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_3_1_1",
+                                "question_text": "In the expression 3x - 7, what is the constant term?",
+                                "options": ["3", "x", "-7", "3x"],
+                                "correct_answer": "-7",
+                                "explanation": "The constant term is -7 because it doesn't contain any variable. 3x is the variable term.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_2",
+                                "question_text": "If x = 4, what is the value of 2x + 5?",
+                                "options": ["13", "21", "8", "17"],
+                                "correct_answer": "13",
+                                "explanation": "2x + 5 = 2(4) + 5 = 8 + 5 = 13. Substitute x = 4 and calculate.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_3",
+                                "question_text": "How many terms are in the expression 4x² - 3xy + 2y - 7?",
+                                "options": ["2", "3", "4", "5"],
+                                "correct_answer": "4",
+                                "explanation": "The expression has 4 terms: 4x², -3xy, 2y, and -7. Each term is separated by + or - signs.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_4",
+                                "question_text": "What is the coefficient of x in the expression 5x² - 2x + 8?",
+                                "options": ["5", "-2", "8", "0"],
+                                "correct_answer": "-2",
+                                "explanation": "The coefficient of x is -2. 5 is the coefficient of x², and 8 is the constant term.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_5",
+                                "question_text": "If a = 3 and b = 2, what is a² + 2ab?",
+                                "options": ["15", "21", "12", "18"],
+                                "correct_answer": "21",
+                                "explanation": "a² + 2ab = 3² + 2(3)(2) = 9 + 12 = 21.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_6",
+                                "question_text": "What type of expression is 5x + 3?",
+                                "options": ["Monomial", "Binomial", "Trinomial", "Polynomial"],
+                                "correct_answer": "Binomial",
+                                "explanation": "5x + 3 has 2 terms, so it's a binomial.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_7",
+                                "question_text": "If x = -2, what is the value of x² - 3x + 2?",
+                                "options": ["12", "4", "-4", "0"],
+                                "correct_answer": "12",
+                                "explanation": "x² - 3x + 2 = (-2)² - 3(-2) + 2 = 4 + 6 + 2 = 12.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_8",
+                                "question_text": "What is the numerical coefficient in -7xy?",
+                                "options": ["7", "-7", "x", "y"],
+                                "correct_answer": "-7",
+                                "explanation": "The numerical coefficient is -7 (the number multiplied by the variables).",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_9",
+                                "question_text": "Simplify: 2x + 3x - x",
+                                "options": ["4x", "5x", "6x", "3x"],
+                                "correct_answer": "4x",
+                                "explanation": "2x + 3x - x = (2 + 3 - 1)x = 4x.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_3_1_10",
+                                "question_text": "If y = 5, what is the value of 3y - 7?",
+                                "options": ["8", "15", "-2", "22"],
+                                "correct_answer": "8",
+                                "explanation": "3y - 7 = 3(5) - 7 = 15 - 7 = 8.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.3.2",
+                        "topic_name": "Linear Equations",
+                        "explanation": "Linear equations are like balance scales where we need to find the unknown value! They have variables to the power of 1, like 2x + 3 = 11. We solve them by doing the same operation to both sides to keep the balance. It's like a detective game where x is the mystery we need to uncover!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "7_3_2_1",
+                                "question_text": "What is the solution to x + 7 = 15?",
+                                "options": ["x = 8", "x = 22", "x = -8", "x = 2"],
+                                "correct_answer": "x = 8",
+                                "explanation": "x + 7 = 15. Subtract 7 from both sides: x = 15 - 7 = 8.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_2",
+                                "question_text": "Solve for x: 3x - 4 = 11",
+                                "options": ["x = 5", "x = 7", "x = 3", "x = 15"],
+                                "correct_answer": "x = 5",
+                                "explanation": "3x - 4 = 11. Add 4 to both sides: 3x = 15. Divide by 3: x = 5.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_3",
+                                "question_text": "What is the value of x in 2x + 3 = x + 8?",
+                                "options": ["x = 5", "x = 11", "x = -5", "x = 1"],
+                                "correct_answer": "x = 5",
+                                "explanation": "2x + 3 = x + 8. Subtract x from both sides: x + 3 = 8. Subtract 3: x = 5.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_4",
+                                "question_text": "If 4(x - 2) = 12, what is x?",
+                                "options": ["x = 5", "x = 8", "x = 1", "x = 3"],
+                                "correct_answer": "x = 5",
+                                "explanation": "4(x - 2) = 12. Divide by 4: x - 2 = 3. Add 2: x = 5.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_5",
+                                "question_text": "The sum of a number and 5 is 20. What is the number?",
+                                "options": ["15", "25", "10", "20"],
+                                "correct_answer": "15",
+                                "explanation": "Let the number be x. x + 5 = 20. x = 20 - 5 = 15.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_6",
+                                "question_text": "If 3x - 7 = 2x + 1, what is x?",
+                                "options": ["x = 8", "x = 6", "x = 4", "x = 10"],
+                                "correct_answer": "x = 8",
+                                "explanation": "3x - 7 = 2x + 1. Subtract 2x from both sides: x - 7 = 1. Add 7: x = 8.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_7",
+                                "question_text": "Solve: 5x + 2 = 17",
+                                "options": ["x = 3", "x = 4", "x = 5", "x = 2"],
+                                "correct_answer": "x = 3",
+                                "explanation": "5x + 2 = 17. Subtract 2: 5x = 15. Divide by 5: x = 3.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_8",
+                                "question_text": "What is x if 2(x + 3) = 18?",
+                                "options": ["x = 6", "x = 9", "x = 12", "x = 3"],
+                                "correct_answer": "x = 6",
+                                "explanation": "2(x + 3) = 18. Divide by 2: x + 3 = 9. Subtract 3: x = 6.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_9",
+                                "question_text": "If a number is doubled and then 3 is added, the result is 13. What is the number?",
+                                "options": ["5", "8", "10", "7"],
+                                "correct_answer": "5",
+                                "explanation": "2x + 3 = 13. 2x = 10. x = 5.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_3_2_10",
+                                "question_text": "Solve: x/4 = 5",
+                                "options": ["x = 20", "x = 9", "x = 1", "x = 25"],
+                                "correct_answer": "x = 20",
+                                "explanation": "x/4 = 5. Multiply both sides by 4: x = 20.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Direct and Inverse Proportion",
+                "modules": [
+                    {
+                        "module_id": "7.4.1",
+                        "topic_name": "Direct Proportion",
+                        "explanation": "Direct proportion is like a perfect partnership - when one quantity increases, the other increases by the same ratio! If you buy twice as many apples, you pay twice as much. The relationship is y = kx, where k is constant. This helps in cooking recipes, speed-distance problems, and many real-life situations!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_4_1_1",
+                                "question_text": "If 5 pens cost ₹40, how much do 8 pens cost?",
+                                "options": ["₹64", "₹48", "₹56", "₹72"],
+                                "correct_answer": "₹64",
+                                "explanation": "Cost is directly proportional to number of pens. 5 pens = ₹40, so 1 pen = ₹8. 8 pens = 8 × ₹8 = ₹64.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_2",
+                                "question_text": "A car travels 180 km in 3 hours. How far will it travel in 5 hours at the same speed?",
+                                "options": ["300 km", "250 km", "350 km", "400 km"],
+                                "correct_answer": "300 km",
+                                "explanation": "Speed = 180 ÷ 3 = 60 km/hour. In 5 hours: 60 × 5 = 300 km.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_3",
+                                "question_text": "If 6 workers can complete a job in 10 days, how many workers are needed to complete it in 5 days?",
+                                "options": ["12", "8", "15", "20"],
+                                "correct_answer": "12",
+                                "explanation": "Work is inversely proportional to workers. 6 × 10 = 60 worker-days. For 5 days: 60 ÷ 5 = 12 workers.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_4",
+                                "question_text": "The cost of 3 kg of rice is ₹120. What is the cost of 7 kg?",
+                                "options": ["₹280", "₹240", "₹320", "₹200"],
+                                "correct_answer": "₹280",
+                                "explanation": "Cost per kg = ₹120 ÷ 3 = ₹40. For 7 kg: 7 × ₹40 = ₹280.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_5",
+                                "question_text": "If a machine produces 240 items in 4 hours, how many items will it produce in 7 hours?",
+                                "options": ["420", "360", "480", "560"],
+                                "correct_answer": "420",
+                                "explanation": "Production rate = 240 ÷ 4 = 60 items/hour. In 7 hours: 60 × 7 = 420 items.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_6",
+                                "question_text": "If 8 books weigh 4 kg, what will 12 books weigh?",
+                                "options": ["6 kg", "8 kg", "5 kg", "7 kg"],
+                                "correct_answer": "6 kg",
+                                "explanation": "Weight is directly proportional to number of books. 8 books = 4 kg, so 12 books = 12 × (4/8) = 6 kg.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_7",
+                                "question_text": "A map uses a scale of 1:1000. If the distance on map is 5 cm, what is the actual distance?",
+                                "options": ["50 m", "500 m", "5 m", "5000 m"],
+                                "correct_answer": "50 m",
+                                "explanation": "Actual distance = 5 cm × 1000 = 5000 cm = 50 m.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_8",
+                                "question_text": "If 15 oranges cost ₹60, how many oranges can you buy for ₹80?",
+                                "options": ["18", "20", "25", "16"],
+                                "correct_answer": "20",
+                                "explanation": "Cost per orange = ₹60 ÷ 15 = ₹4. For ₹80: 80 ÷ 4 = 20 oranges.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_9",
+                                "question_text": "A worker earns ₹1200 in 6 days. How much will he earn in 15 days?",
+                                "options": ["₹3000", "₹2400", "₹3600", "₹1800"],
+                                "correct_answer": "₹3000",
+                                "explanation": "Earnings per day = ₹1200 ÷ 6 = ₹200. In 15 days: 15 × ₹200 = ₹3000.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_4_1_10",
+                                "question_text": "If the ratio of a to b is 3:5 and b = 15, what is a?",
+                                "options": ["9", "12", "6", "10"],
+                                "correct_answer": "9",
+                                "explanation": "a/b = 3/5. a/15 = 3/5. a = 15 × 3/5 = 9.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.4.2",
+                        "topic_name": "Inverse Proportion",
+                        "explanation": "Inverse proportion is like a seesaw - when one quantity goes up, the other goes down! If more workers share the same job, it takes less time. The relationship is xy = k (constant). This applies to speed-time, worker-time problems, and resource allocation scenarios!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "7_4_2_1",
+                                "question_text": "If 8 machines can complete a task in 6 days, how many days will 12 machines take?",
+                                "options": ["4 days", "3 days", "9 days", "5 days"],
+                                "correct_answer": "4 days",
+                                "explanation": "Work = machines × days = 8 × 6 = 48 machine-days. With 12 machines: 48 ÷ 12 = 4 days.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_2",
+                                "question_text": "A car travels at 60 km/hour and takes 4 hours for a journey. How long will it take at 80 km/hour?",
+                                "options": ["3 hours", "2.5 hours", "5 hours", "3.5 hours"],
+                                "correct_answer": "3 hours",
+                                "explanation": "Distance = speed × time = 60 × 4 = 240 km. At 80 km/hour: 240 ÷ 80 = 3 hours.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_3",
+                                "question_text": "If 15 students can clean a room in 20 minutes, how many students are needed to clean it in 12 minutes?",
+                                "options": ["25", "20", "30", "18"],
+                                "correct_answer": "25",
+                                "explanation": "Work = students × minutes = 15 × 20 = 300 student-minutes. For 12 minutes: 300 ÷ 12 = 25 students.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_4",
+                                "question_text": "A water tank fills in 8 hours with 3 pipes. How long will it take with 4 pipes?",
+                                "options": ["6 hours", "4 hours", "10 hours", "12 hours"],
+                                "correct_answer": "6 hours",
+                                "explanation": "Work = pipes × hours = 3 × 8 = 24 pipe-hours. With 4 pipes: 24 ÷ 4 = 6 hours.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_5",
+                                "question_text": "If 6 people can paint a fence in 10 days, how many days will 4 people take?",
+                                "options": ["15 days", "12 days", "8 days", "20 days"],
+                                "correct_answer": "15 days",
+                                "explanation": "Work = people × days = 6 × 10 = 60 person-days. With 4 people: 60 ÷ 4 = 15 days.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_6",
+                                "question_text": "If 12 workers complete a job in 8 days, how many days will 16 workers take?",
+                                "options": ["5 days", "6 days", "10 days", "4 days"],
+                                "correct_answer": "6 days",
+                                "explanation": "Work = 12 × 8 = 96 worker-days. With 16 workers: 96 ÷ 16 = 6 days.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_7",
+                                "question_text": "A train takes 6 hours to cover a distance at 50 km/h. How long at 75 km/h?",
+                                "options": ["4 hours", "3 hours", "8 hours", "5 hours"],
+                                "correct_answer": "4 hours",
+                                "explanation": "Distance = 50 × 6 = 300 km. At 75 km/h: 300 ÷ 75 = 4 hours.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_8",
+                                "question_text": "If 5 pipes can fill a tank in 12 minutes, how many pipes are needed to fill it in 8 minutes?",
+                                "options": ["6", "7", "8", "9"],
+                                "correct_answer": "7.5",
+                                "explanation": "Work = 5 × 12 = 60 pipe-minutes. For 8 minutes: 60 ÷ 8 = 7.5 pipes (need 8 pipes practically).",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_9",
+                                "question_text": "20 workers complete a wall in 15 days. How many workers for 12 days?",
+                                "options": ["24", "25", "30", "18"],
+                                "correct_answer": "25",
+                                "explanation": "Work = 20 × 15 = 300 worker-days. For 12 days: 300 ÷ 12 = 25 workers.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "7_4_2_10",
+                                "question_text": "If speed is doubled, what happens to time taken for same distance?",
+                                "options": ["Doubles", "Halves", "Quadruples", "Remains same"],
+                                "correct_answer": "Halves",
+                                "explanation": "Time = Distance/Speed. If speed doubles (becomes 2s), time = D/(2s) = (D/s)/2 = half the original time.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Geometry",
+                "modules": [
+                    {
+                        "module_id": "7.5.1",
+                        "topic_name": "Lines and Angles",
+                        "explanation": "Lines and angles are the building blocks of geometry! Lines can be parallel (never meet) or intersecting. Angles measure rotation: acute (< 90°), right (90°), obtuse (> 90°, < 180°), straight (180°), reflex (> 180°, < 360°). Understanding these helps in construction, design, and navigation!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_5_1_1",
+                                "question_text": "What type of angle is 120°?",
+                                "options": ["Acute", "Right", "Obtuse", "Straight"],
+                                "correct_answer": "Obtuse",
+                                "explanation": "120° is an obtuse angle because it's greater than 90° but less than 180°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_2",
+                                "question_text": "If two lines are parallel, what can we say about them?",
+                                "options": ["They intersect at one point", "They never intersect", "They intersect at many points", "They are perpendicular"],
+                                "correct_answer": "They never intersect",
+                                "explanation": "Parallel lines are always the same distance apart and never intersect, no matter how far they extend.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_3",
+                                "question_text": "What is the complement of 35°?",
+                                "options": ["55°", "65°", "145°", "125°"],
+                                "correct_answer": "55°",
+                                "explanation": "Complementary angles add up to 90°. So complement of 35° = 90° - 35° = 55°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_4",
+                                "question_text": "What is the supplement of 110°?",
+                                "options": ["70°", "80°", "90°", "100°"],
+                                "correct_answer": "70°",
+                                "explanation": "Supplementary angles add up to 180°. So supplement of 110° = 180° - 110° = 70°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_5",
+                                "question_text": "If two angles are vertically opposite and one is 45°, what is the other?",
+                                "options": ["45°", "135°", "90°", "180°"],
+                                "correct_answer": "45°",
+                                "explanation": "Vertically opposite angles are always equal. So the other angle is also 45°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_6",
+                                "question_text": "Which angle type has all angles less than 90°?",
+                                "options": ["Acute triangle", "Right triangle", "Obtuse triangle", "Equilateral triangle"],
+                                "correct_answer": "Acute triangle",
+                                "explanation": "An acute triangle has all three angles less than 90 degrees.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_7",
+                                "question_text": "What is the measure of a straight angle?",
+                                "options": ["90°", "180°", "270°", "360°"],
+                                "correct_answer": "180°",
+                                "explanation": "A straight angle measures 180 degrees and forms a straight line.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_8",
+                                "question_text": "If two angles are supplementary and one is 130°, what is the other?",
+                                "options": ["50°", "60°", "40°", "70°"],
+                                "correct_answer": "50°",
+                                "explanation": "Supplementary angles sum to 180°. Other angle = 180° - 130° = 50°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_9",
+                                "question_text": "What type of angle is exactly 90°?",
+                                "options": ["Acute", "Obtuse", "Right", "Straight"],
+                                "correct_answer": "Right",
+                                "explanation": "A right angle measures exactly 90 degrees, like the corner of a square.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_1_10",
+                                "question_text": "If two lines intersect, how many pairs of vertically opposite angles are formed?",
+                                "options": ["1", "2", "3", "4"],
+                                "correct_answer": "2",
+                                "explanation": "When two lines intersect, they form 2 pairs of vertically opposite angles.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.5.2",
+                        "topic_name": "Triangles and Their Properties",
+                        "explanation": "Triangles are amazing shapes with special properties! By sides: equilateral (all equal), isosceles (two equal), scalene (all different). By angles: acute (all < 90°), right (one = 90°), obtuse (one > 90°). The sum of angles is always 180°. These properties help in construction, engineering, and art!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_5_2_1",
+                                "question_text": "In an equilateral triangle, what is each angle?",
+                                "options": ["45°", "60°", "90°", "120°"],
+                                "correct_answer": "60°",
+                                "explanation": "In an equilateral triangle, all angles are equal. Since sum is 180°, each angle = 180° ÷ 3 = 60°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_2",
+                                "question_text": "If two angles of a triangle are 50° and 60°, what is the third angle?",
+                                "options": ["50°", "60°", "70°", "80°"],
+                                "correct_answer": "70°",
+                                "explanation": "Third angle = 180° - (50° + 60°) = 180° - 110° = 70°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_3",
+                                "question_text": "Which triangle has exactly two equal sides?",
+                                "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+                                "correct_answer": "Isosceles",
+                                "explanation": "An isosceles triangle has exactly two equal sides and two equal angles.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_4",
+                                "question_text": "What makes a triangle a right triangle?",
+                                "options": ["All angles are 90°", "One angle is 90°", "Two angles are 90°", "No angles are 90°"],
+                                "correct_answer": "One angle is 90°",
+                                "explanation": "A right triangle has exactly one angle that measures 90 degrees.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_5",
+                                "question_text": "In a right triangle, if one acute angle is 30°, what is the other acute angle?",
+                                "options": ["30°", "45°", "60°", "90°"],
+                                "correct_answer": "60°",
+                                "explanation": "Other acute angle = 180° - 90° - 30° = 60°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_6",
+                                "question_text": "Which triangle has all sides of different lengths?",
+                                "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+                                "correct_answer": "Scalene",
+                                "explanation": "A scalene triangle has all three sides of different lengths.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_7",
+                                "question_text": "How many lines of symmetry does an equilateral triangle have?",
+                                "options": ["0", "1", "2", "3"],
+                                "correct_answer": "3",
+                                "explanation": "An equilateral triangle has 3 lines of symmetry.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_8",
+                                "question_text": "If a triangle has angles 45°, 45°, and 90°, what type of triangle is it?",
+                                "options": ["Acute", "Right isosceles", "Obtuse", "Equilateral"],
+                                "correct_answer": "Right isosceles",
+                                "explanation": "It's a right triangle (90° angle) and isosceles (two 45° angles are equal).",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_9",
+                                "question_text": "What is the sum of exterior angles of any triangle?",
+                                "options": ["180°", "360°", "540°", "270°"],
+                                "correct_answer": "360°",
+                                "explanation": "The sum of exterior angles of any polygon is always 360°.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_5_2_10",
+                                "question_text": "In a triangle, if one angle is 100°, the triangle is called:",
+                                "options": ["Acute", "Right", "Obtuse", "Equilateral"],
+                                "correct_answer": "Obtuse",
+                                "explanation": "A triangle with one angle greater than 90° is called an obtuse triangle.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Information Processing",
+                "modules": [
+                    {
+                        "module_id": "7.6.1",
+                        "topic_name": "Data Handling and Representation",
+                        "explanation": "Statistics is like being a data detective! We collect information (data), organize it in tables, and find patterns. Data can be numbers, measurements, or counts. Organizing data helps us understand it better and make smart decisions. It's used in sports, weather, and business!",
+                        "difficulty": "easy",
+                        "total_timer_minutes": 6,
+                        "questions": [
+                            {
+                                "question_id": "7_6_1_1",
+                                "question_text": "What is the first step in statistical work?",
+                                "options": ["Drawing graphs", "Collecting data", "Calculating averages", "Making conclusions"],
+                                "correct_answer": "Collecting data",
+                                "explanation": "The first step in statistics is collecting data. Without data, we can't do any analysis.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_2",
+                                "question_text": "Which of these is an example of data?",
+                                "options": ["5 students", "Height of students", "Tall", "Numbers are boring"],
+                                "correct_answer": "Height of students",
+                                "explanation": "Data is collected information. 'Height of students' represents measurable information we can collect and analyze.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_3",
+                                "question_text": "Why do we organize data in tables?",
+                                "options": ["To make it confusing", "To see patterns easily", "To waste time", "To make it look nice"],
+                                "correct_answer": "To see patterns easily",
+                                "explanation": "Organizing data in tables helps us see patterns, compare values, and understand the information better.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_4",
+                                "question_text": "What is raw data?",
+                                "options": ["Cooked data", "Unorganized collected information", "Only numbers", "Graphed information"],
+                                "correct_answer": "Unorganized collected information",
+                                "explanation": "Raw data is information that has been collected but not yet organized or processed.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_5",
+                                "question_text": "Which field uses statistics the most?",
+                                "options": ["Only mathematics", "Only science", "Many fields", "Only business"],
+                                "correct_answer": "Many fields",
+                                "explanation": "Statistics is used in many fields including sports, weather forecasting, business, medicine, and social sciences.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_6",
+                                "question_text": "What do we call the arrangement of data in ascending or descending order?",
+                                "options": ["Classification", "Sorting", "Counting", "Measuring"],
+                                "correct_answer": "Sorting",
+                                "explanation": "Arranging data in order (ascending or descending) is called sorting.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_7",
+                                "question_text": "Which graph uses pictures or symbols to represent data?",
+                                "options": ["Bar graph", "Pictograph", "Line graph", "Pie chart"],
+                                "correct_answer": "Pictograph",
+                                "explanation": "A pictograph uses pictures or symbols to represent data quantities.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_8",
+                                "question_text": "What is the purpose of data interpretation?",
+                                "options": ["To make guesses", "To find patterns and meaning", "To hide information", "To create confusion"],
+                                "correct_answer": "To find patterns and meaning",
+                                "explanation": "Data interpretation helps find patterns, trends, and meaningful insights from collected data.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_9",
+                                "question_text": "In a frequency distribution table, what does 'frequency' mean?",
+                                "options": ["The time taken", "The number of times something occurs", "The speed", "The quality"],
+                                "correct_answer": "The number of times something occurs",
+                                "explanation": "Frequency represents how many times a particular value or category occurs in the data.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "7_6_1_10",
+                                "question_text": "Which method of data collection involves asking people questions?",
+                                "options": ["Observation", "Survey", "Measurement", "Experiment"],
+                                "correct_answer": "Survey",
+                                "explanation": "A survey involves asking people questions to collect their opinions or information.",
+                                "timer_per_question_seconds": 30
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "7.6.2",
+                        "topic_name": "Probability Basics",
+                        "explanation": "Probability is like predicting the future with math! It measures how likely something is to happen, from 0 (impossible) to 1 (certain). Probability = (Number of favorable outcomes) ÷ (Total possible outcomes). This helps in games, weather forecasting, and decision-making!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "7_6_2_1",
+                                "question_text": "What is the probability of getting heads when tossing a fair coin?",
+                                "options": ["0", "1/2", "1", "1/4"],
+                                "correct_answer": "1/2",
+                                "explanation": "A fair coin has 2 equally likely outcomes (heads or tails). P(heads) = 1/2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_2",
+                                "question_text": "What is the probability of getting an even number when rolling a die?",
+                                "options": ["1/6", "1/3", "1/2", "2/3"],
+                                "correct_answer": "1/2",
+                                "explanation": "Even numbers on a die: 2, 4, 6 (3 outcomes). Total outcomes: 6. P(even) = 3/6 = 1/2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_3",
+                                "question_text": "What is the probability of an impossible event?",
+                                "options": ["0", "1/2", "1", "Cannot determine"],
+                                "correct_answer": "0",
+                                "explanation": "An impossible event has probability 0 because it can never happen.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_4",
+                                "question_text": "If a bag contains 3 red and 2 blue balls, what is the probability of drawing a red ball?",
+                                "options": ["3/5", "2/5", "1/2", "3/2"],
+                                "correct_answer": "3/5",
+                                "explanation": "Red balls = 3, Total balls = 5. P(red) = 3/5.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_5",
+                                "question_text": "What is the probability of a certain event?",
+                                "options": ["0", "1/2", "1", "Cannot determine"],
+                                "correct_answer": "1",
+                                "explanation": "A certain event is guaranteed to happen, so its probability is 1.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_6",
+                                "question_text": "If P(A) = 0.3, what is P(not A)?",
+                                "options": ["0.3", "0.7", "1.3", "0"],
+                                "correct_answer": "0.7",
+                                "explanation": "P(not A) = 1 - P(A) = 1 - 0.3 = 0.7.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_7",
+                                "question_text": "What is the probability of getting a number greater than 4 when rolling a die?",
+                                "options": ["1/3", "2/3", "1/6", "5/6"],
+                                "correct_answer": "1/3",
+                                "explanation": "Numbers greater than 4: 5, 6 (2 outcomes). Total outcomes: 6. P(>4) = 2/6 = 1/3.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_8",
+                                "question_text": "If the probability of an event is 0.25, what is the probability that it does not occur?",
+                                "options": ["0.25", "0.75", "0.5", "1"],
+                                "correct_answer": "0.75",
+                                "explanation": "P(not occurring) = 1 - P(occurring) = 1 - 0.25 = 0.75.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_9",
+                                "question_text": "What is the probability of getting a prime number when rolling a die?",
+                                "options": ["1/2", "2/3", "1/3", "1/6"],
+                                "correct_answer": "1/2",
+                                "explanation": "Prime numbers on die: 2, 3, 5 (3 outcomes). Total outcomes: 6. P(prime) = 3/6 = 1/2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "7_6_2_10",
+                                "question_text": "If P(A) = 0.8 and P(B) = 0.6, and A and B are independent, what is P(A and B)?",
+                                "options": ["1.4", "0.48", "0.2", "0.14"],
+                                "correct_answer": "0.48",
+                                "explanation": "For independent events: P(A and B) = P(A) × P(B) = 0.8 × 0.6 = 0.48.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+    
+    return curriculum
+
+def save_enhanced_class7_curriculum_to_json():
+    """Save the enhanced curriculum to a JSON file"""
+    curriculum = generate_class7_enhanced_curriculum()
+    
+    with open('class7_mathematics_curriculum_enhanced.json', 'w', encoding='utf-8') as f:
+        json.dump(curriculum, f, indent=2, ensure_ascii=False)
+    
+    print("Enhanced Class 7 Mathematics curriculum saved to 'class7_mathematics_curriculum_enhanced.json'")
+    
+    # Print statistics
+    total_modules = sum(len(chapter['modules']) for chapter in curriculum['chapters'])
+    total_questions = 0
+    
+    for chapter in curriculum['chapters']:
+        for module in chapter['modules']:
+            total_questions += len(module['questions'])
+    
+    print(f"Enhanced Statistics:")
+    print(f"  Chapters: {len(curriculum['chapters'])}")
+    print(f"  Modules: {total_modules}")
+    print(f"  Questions: {total_questions}")
+    
+    # Compare with original
+    print(f"\nImprovement from original:")
+    print(f"  Original modules: 15 to Enhanced modules: {total_modules}")
+    print(f"  Original questions: 80 to Enhanced questions: {total_questions}")
+    print(f"  Question increase: {total_questions - 80} (+{((total_questions - 80)/80)*100:.1f}%)")
+
+if __name__ == "__main__":
+    save_enhanced_class7_curriculum_to_json()

@@ -1,0 +1,1933 @@
+{
+  "class": "7",
+  "board": "CBSE",
+  "subject": "Mathematics",
+  "source_pdf": "ncert-books-for-class-7-maths.pdf",
+  "chapters": [
+    {
+      "chapter_name": "Integers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Addition, Subtraction and Properties of Integers",
+          "explanation": "Integers are whole numbers with signs: positive, negative, and zero. Imagine a lift: going up is positive and going down is negative. Adding a positive integer moves right on the number line, while adding a negative integer moves left. Subtraction can be changed into addition of the opposite number. Properties such as closure, commutativity, associativity, and additive identity help us calculate faster and check whether a statement is always true.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is 7 + (-3)?",
+              "options": [
+                "10",
+                "4",
+                "-4",
+                "-10"
+              ],
+              "correct_answer": "4",
+              "rationale": "Adding -3 means moving 3 steps left from 7.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which expression is equal to 5 - (-2)?",
+              "options": [
+                "5 + 2",
+                "5 - 2",
+                "-5 + 2",
+                "-5 - 2"
+              ],
+              "correct_answer": "5 + 2",
+              "rationale": "Subtracting a negative is the same as adding its opposite.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Which property is shown by 3 + (-5) = (-5) + 3?",
+              "options": [
+                "Closure",
+                "Commutative property",
+                "Associative property",
+                "Identity property"
+              ],
+              "correct_answer": "Commutative property",
+              "rationale": "The order of addends changes but the sum remains the same.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Which operation is not commutative for integers?",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "Multiplication",
+                "Adding zero"
+              ],
+              "correct_answer": "Subtraction",
+              "rationale": "For example, 5 - 2 is not equal to 2 - 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which integer is the additive identity?",
+              "options": [
+                "1",
+                "-1",
+                "0",
+                "10"
+              ],
+              "correct_answer": "0",
+              "rationale": "Adding zero does not change an integer.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Multiplication and Division of Integers",
+          "explanation": "Multiplication and division of integers follow simple sign rules. Same signs give a positive answer, while different signs give a negative answer. Multiplying by zero always gives zero, and multiplying by one leaves a number unchanged. The distributive property lets us break a difficult multiplication into easier parts. These rules help in situations like repeated gains, repeated losses, temperatures, and debts.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is (-4) x 6?",
+              "options": [
+                "24",
+                "-24",
+                "10",
+                "-10"
+              ],
+              "correct_answer": "-24",
+              "rationale": "Different signs give a negative product.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "What is (-7) x (-3)?",
+              "options": [
+                "-21",
+                "21",
+                "10",
+                "-10"
+              ],
+              "correct_answer": "21",
+              "rationale": "Same signs give a positive product.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "What is (-36) ÷ 9?",
+              "options": [
+                "4",
+                "-4",
+                "27",
+                "-27"
+              ],
+              "correct_answer": "-4",
+              "rationale": "Different signs give a negative quotient.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is 0 x (-15)?",
+              "options": [
+                "15",
+                "-15",
+                "0",
+                "1"
+              ],
+              "correct_answer": "0",
+              "rationale": "Any integer multiplied by zero is zero.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which property is shown by 3 x (4 + 5) = 3 x 4 + 3 x 5?",
+              "options": [
+                "Closure",
+                "Distributive property",
+                "Additive identity",
+                "Commutative subtraction"
+              ],
+              "correct_answer": "Distributive property",
+              "rationale": "Multiplication is distributed over addition.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fractions and Decimals",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Multiplication and Division of Fractions",
+          "explanation": "Multiplying fractions is like taking a part of a part. To multiply, multiply numerators and denominators. Dividing by a fraction asks how many of that part fit into the quantity. For division, we multiply by the reciprocal of the divisor. These ideas are useful in sharing, recipes, lengths, and comparing parts of whole objects.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is 1/2 x 1/3?",
+              "options": [
+                "1/5",
+                "1/6",
+                "2/3",
+                "3/2"
+              ],
+              "correct_answer": "1/6",
+              "rationale": "Multiply numerators and denominators: 1 x 1 over 2 x 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "What is 3 x 2/5?",
+              "options": [
+                "5/6",
+                "6/5",
+                "2/15",
+                "3/10"
+              ],
+              "correct_answer": "6/5",
+              "rationale": "Three groups of 2/5 make 6/5.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "What is the reciprocal of 3/5?",
+              "options": [
+                "3/5",
+                "5/3",
+                "-3/5",
+                "2/5"
+              ],
+              "correct_answer": "5/3",
+              "rationale": "The reciprocal interchanges numerator and denominator.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is 2 ÷ 1/2?",
+              "options": [
+                "1",
+                "2",
+                "4",
+                "1/4"
+              ],
+              "correct_answer": "4",
+              "rationale": "There are four halves in 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "What is 3/4 ÷ 1/2?",
+              "options": [
+                "3/8",
+                "2/3",
+                "3/2",
+                "1/6"
+              ],
+              "correct_answer": "3/2",
+              "rationale": "Multiply 3/4 by the reciprocal 2/1.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Multiplication and Division of Decimals",
+          "explanation": "Decimals are fractions written with place value. When multiplying by 10, 100, or 1000, the decimal point shifts right. When dividing by them, it shifts left. Decimal multiplication uses whole-number multiplication first, then careful decimal placement. Decimal division becomes easier when we convert or shift decimals sensibly.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is 2.5 x 10?",
+              "options": [
+                "0.25",
+                "2.50",
+                "25",
+                "250"
+              ],
+              "correct_answer": "25",
+              "rationale": "Multiplying by 10 shifts the decimal one place right.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "What is 3.75 ÷ 100?",
+              "options": [
+                "375",
+                "37.5",
+                "0.375",
+                "0.0375"
+              ],
+              "correct_answer": "0.0375",
+              "rationale": "Dividing by 100 shifts the decimal two places left.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "What is 1.2 x 0.3?",
+              "options": [
+                "0.36",
+                "3.6",
+                "36",
+                "0.036"
+              ],
+              "correct_answer": "0.36",
+              "rationale": "12 x 3 = 36, with two decimal places total.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is 4.8 ÷ 2?",
+              "options": [
+                "2.4",
+                "24",
+                "0.24",
+                "9.6"
+              ],
+              "correct_answer": "2.4",
+              "rationale": "48 divided by 2 is 24, so 4.8 divided by 2 is 2.4.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "What is 0.6 x 1000?",
+              "options": [
+                "0.006",
+                "6",
+                "60",
+                "600"
+              ],
+              "correct_answer": "600",
+              "rationale": "Multiplying by 1000 shifts the decimal three places right.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Handling",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Collecting Data and Representative Values",
+          "explanation": "Data is information collected to answer a question. Raw data can look messy, so we organise it using tables, tally marks, or lists. Mean, median, mode, and range help describe the data with useful summary values. Mean is the fair-share average, median is the middle value, mode is most frequent, and range shows spread.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is data?",
+              "options": [
+                "Only numbers",
+                "Collected information",
+                "Only a graph",
+                "A ruler"
+              ],
+              "correct_answer": "Collected information",
+              "rationale": "Data means information gathered for a purpose.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which tool is useful for counting repeated observations?",
+              "options": [
+                "Tally marks",
+                "Compass",
+                "Protractor",
+                "Divider"
+              ],
+              "correct_answer": "Tally marks",
+              "rationale": "Tally marks make repeated counting quick and clear.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Find the mean of 2, 4, 6.",
+              "options": [
+                "3",
+                "4",
+                "6",
+                "12"
+              ],
+              "correct_answer": "4",
+              "rationale": "Mean is 12 divided by 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is the mode of 5, 7, 5, 9, 5?",
+              "options": [
+                "5",
+                "7",
+                "9",
+                "31"
+              ],
+              "correct_answer": "5",
+              "rationale": "5 occurs most often.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "What is the range of 4, 10, 6, 2?",
+              "options": [
+                "2",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct_answer": "8",
+              "rationale": "Range is largest minus smallest: 10 - 2.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Bar Graphs, Chance and Probability",
+          "explanation": "A bar graph uses bars to compare data. The scale tells what each unit length represents, so a good scale makes graphs easier to read. Chance describes how likely something is to happen. Some events are certain, some are impossible, and some may or may not happen, such as the result of tossing a coin.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In a bar graph, bars are used to",
+              "options": [
+                "measure angles",
+                "compare data",
+                "draw circles",
+                "solve equations"
+              ],
+              "correct_answer": "compare data",
+              "rationale": "Bar heights or lengths represent quantities.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "The scale of a graph tells",
+              "options": [
+                "colour of bars",
+                "what each unit represents",
+                "only the title",
+                "the median"
+              ],
+              "correct_answer": "what each unit represents",
+              "rationale": "Scale connects graph length to data value.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Tossing a coin has how many common outcomes?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "2",
+              "rationale": "A coin has head and tail outcomes.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "An event that cannot happen is",
+              "options": [
+                "certain",
+                "impossible",
+                "likely",
+                "average"
+              ],
+              "correct_answer": "impossible",
+              "rationale": "Impossible events have no chance of occurring.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which is a chance situation?",
+              "options": [
+                "Measuring a fixed ruler",
+                "Tossing a coin",
+                "Writing 2 + 3 = 5",
+                "Counting sides of a square"
+              ],
+              "correct_answer": "Tossing a coin",
+              "rationale": "The outcome is not known in advance.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Simple Equations",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Setting Up and Solving Equations",
+          "explanation": "An equation is like a balance scale: both sides must have equal value. A variable such as x represents an unknown number. We can turn a word problem into an equation by identifying the unknown and the relationship given. To solve, we perform the same operation on both sides until the variable is alone.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In x + 5 = 12, x is called a",
+              "options": [
+                "constant",
+                "variable",
+                "fraction",
+                "angle"
+              ],
+              "correct_answer": "variable",
+              "rationale": "A variable represents an unknown value.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which is an equation?",
+              "options": [
+                "x + 3",
+                "7 > 5",
+                "x + 2 = 9",
+                "4, 5, 6"
+              ],
+              "correct_answer": "x + 2 = 9",
+              "rationale": "An equation has an equality sign.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Solve x + 7 = 15.",
+              "options": [
+                "7",
+                "8",
+                "15",
+                "22"
+              ],
+              "correct_answer": "8",
+              "rationale": "Subtract 7 from both sides.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Solve 3x = 18.",
+              "options": [
+                "3",
+                "6",
+                "15",
+                "21"
+              ],
+              "correct_answer": "6",
+              "rationale": "Divide both sides by 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Solve x/5 = 4.",
+              "options": [
+                "1",
+                "5",
+                "9",
+                "20"
+              ],
+              "correct_answer": "20",
+              "rationale": "Multiply both sides by 5.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Lines and Angles",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Related Angles",
+          "explanation": "Angles can work in pairs. Complementary angles add to 90 degrees, while supplementary angles add to 180 degrees. Adjacent angles share a vertex and an arm. A linear pair forms a straight line and always adds to 180 degrees. Recognising these relationships helps us find unknown angles without measuring each one.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Complementary angles add to",
+              "options": [
+                "45°",
+                "90°",
+                "180°",
+                "360°"
+              ],
+              "correct_answer": "90°",
+              "rationale": "Complementary angles form a right angle together.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Supplementary angles add to",
+              "options": [
+                "90°",
+                "100°",
+                "180°",
+                "360°"
+              ],
+              "correct_answer": "180°",
+              "rationale": "Supplementary angles form a straight angle together.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "If one complementary angle is 35°, the other is",
+              "options": [
+                "35°",
+                "55°",
+                "65°",
+                "145°"
+              ],
+              "correct_answer": "55°",
+              "rationale": "90° - 35° = 55°.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A linear pair adds to",
+              "options": [
+                "90°",
+                "180°",
+                "270°",
+                "360°"
+              ],
+              "correct_answer": "180°",
+              "rationale": "A linear pair forms a straight line.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Adjacent angles must have",
+              "options": [
+                "no common point",
+                "a common vertex and arm",
+                "equal measures always",
+                "parallel arms always"
+              ],
+              "correct_answer": "a common vertex and arm",
+              "rationale": "Adjacent angles share a vertex and a common arm.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Intersecting Lines, Transversals and Parallel Lines",
+          "explanation": "When two lines meet, they form angles around the intersection. Vertically opposite angles are always equal. A transversal is a line that cuts two or more lines. When it cuts parallel lines, angle pairs such as corresponding and alternate interior angles show useful equalities. These are geometry clues for checking whether lines are parallel.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Vertically opposite angles are",
+              "options": [
+                "always equal",
+                "always supplementary",
+                "always zero",
+                "always unequal"
+              ],
+              "correct_answer": "always equal",
+              "rationale": "Angles opposite each other at an intersection are equal.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "A transversal is a line that",
+              "options": [
+                "never meets any line",
+                "cuts two or more lines",
+                "is always curved",
+                "is always vertical"
+              ],
+              "correct_answer": "cuts two or more lines",
+              "rationale": "A transversal intersects two or more lines.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "If two parallel lines are cut by a transversal, corresponding angles are",
+              "options": [
+                "equal",
+                "always 90°",
+                "always 180°",
+                "not related"
+              ],
+              "correct_answer": "equal",
+              "rationale": "Corresponding angles are equal for parallel lines.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "If one angle in a linear pair is 120°, the other is",
+              "options": [
+                "60°",
+                "90°",
+                "120°",
+                "240°"
+              ],
+              "correct_answer": "60°",
+              "rationale": "Linear pair angles sum to 180°.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Alternate interior angles of parallel lines are",
+              "options": [
+                "equal",
+                "supplementary only",
+                "always acute",
+                "always exterior"
+              ],
+              "correct_answer": "equal",
+              "rationale": "They are equal when lines are parallel.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "The Triangle and its Properties",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Medians, Altitudes and Angle Properties",
+          "explanation": "A median joins a vertex of a triangle to the midpoint of the opposite side. An altitude is a perpendicular line segment from a vertex to the opposite side or its extension. Every triangle’s three angles add to 180 degrees. An exterior angle equals the sum of the two opposite interior angles, helping us find missing angles quickly.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A median joins a vertex to",
+              "options": [
+                "any point",
+                "midpoint of opposite side",
+                "another vertex only",
+                "centre of circle"
+              ],
+              "correct_answer": "midpoint of opposite side",
+              "rationale": "That is the definition of a median.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "How many medians does a triangle have?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "3",
+              "rationale": "Each vertex can have one median.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "An altitude is drawn",
+              "options": [
+                "parallel to a side",
+                "perpendicular to the opposite side",
+                "only outside always",
+                "only in squares"
+              ],
+              "correct_answer": "perpendicular to the opposite side",
+              "rationale": "Altitude represents height from a vertex.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "The sum of angles in a triangle is",
+              "options": [
+                "90°",
+                "180°",
+                "270°",
+                "360°"
+              ],
+              "correct_answer": "180°",
+              "rationale": "This is the angle sum property.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "If two angles are 50° and 60°, the third angle is",
+              "options": [
+                "30°",
+                "70°",
+                "110°",
+                "180°"
+              ],
+              "correct_answer": "70°",
+              "rationale": "180° - 50° - 60° = 70°.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Triangle Inequality and Pythagoras Property",
+          "explanation": "The sides of a triangle follow an important rule: the sum of any two sides must be greater than the third side. This helps decide whether a triangle can be formed. In a right-angled triangle, the Pythagoras property says that the square on the hypotenuse equals the sum of squares on the other two sides.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Can sides 2 cm, 3 cm, 6 cm form a triangle?",
+              "options": [
+                "Yes",
+                "No",
+                "Only right triangle",
+                "Only equilateral"
+              ],
+              "correct_answer": "No",
+              "rationale": "2 + 3 is not greater than 6.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "In a right triangle, the side opposite the right angle is called",
+              "options": [
+                "median",
+                "altitude",
+                "hypotenuse",
+                "base only"
+              ],
+              "correct_answer": "hypotenuse",
+              "rationale": "The hypotenuse is opposite the 90° angle.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "For a right triangle with legs 3 and 4, hypotenuse is",
+              "options": [
+                "5",
+                "6",
+                "7",
+                "25"
+              ],
+              "correct_answer": "5",
+              "rationale": "3² + 4² = 25, so the hypotenuse is 5.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Which set can form a triangle?",
+              "options": [
+                "1, 2, 3",
+                "2, 3, 6",
+                "4, 5, 6",
+                "2, 2, 5"
+              ],
+              "correct_answer": "4, 5, 6",
+              "rationale": "The sum of any two sides is greater than the third.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Pythagoras property applies to",
+              "options": [
+                "all triangles",
+                "right-angled triangles",
+                "only squares",
+                "circles"
+              ],
+              "correct_answer": "right-angled triangles",
+              "rationale": "The property is for right-angled triangles.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Congruence of Triangles",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Congruence and Criteria for Triangles",
+          "explanation": "Congruent figures are exact copies in shape and size. For triangles, we use special rules instead of checking every part: SSS, SAS, ASA, and RHS. SSS uses three sides, SAS uses two sides and the included angle, ASA uses two angles and the included side, and RHS works for right-angled triangles.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Congruent figures have",
+              "options": [
+                "same shape and size",
+                "same colour only",
+                "same position only",
+                "different sizes"
+              ],
+              "correct_answer": "same shape and size",
+              "rationale": "Congruence means exact matching.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "SSS congruence uses",
+              "options": [
+                "three sides",
+                "two sides only",
+                "three angles only",
+                "one right angle only"
+              ],
+              "correct_answer": "three sides",
+              "rationale": "SSS means side-side-side.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "SAS congruence needs",
+              "options": [
+                "two sides and included angle",
+                "two angles only",
+                "three sides",
+                "one side only"
+              ],
+              "correct_answer": "two sides and included angle",
+              "rationale": "SAS means side-angle-side with included angle.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "RHS congruence is used for",
+              "options": [
+                "right triangles",
+                "all circles",
+                "bar graphs",
+                "parallel lines"
+              ],
+              "correct_answer": "right triangles",
+              "rationale": "RHS stands for Right angle-Hypotenuse-Side.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "AAA is not a congruence criterion because it fixes",
+              "options": [
+                "shape but not size",
+                "size only",
+                "colour only",
+                "nothing"
+              ],
+              "correct_answer": "shape but not size",
+              "rationale": "Triangles may have the same angles but different sizes.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Comparing Quantities",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Ratios, Percentages and Percent Change",
+          "explanation": "Ratios compare two quantities, while percentages compare a quantity with 100. Fractions, decimals, and percentages are connected, so we can convert between them. Percent increase and decrease help describe real-life changes in prices, marks, and quantities. These tools make comparison simpler and fairer.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Percent means per",
+              "options": [
+                "10",
+                "100",
+                "1000",
+                "1"
+              ],
+              "correct_answer": "100",
+              "rationale": "Percent means out of hundred.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "1/2 as a percentage is",
+              "options": [
+                "25%",
+                "50%",
+                "75%",
+                "100%"
+              ],
+              "correct_answer": "50%",
+              "rationale": "1/2 = 50/100 = 50%.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "0.25 as a percentage is",
+              "options": [
+                "2.5%",
+                "25%",
+                "250%",
+                "0.25%"
+              ],
+              "correct_answer": "25%",
+              "rationale": "0.25 x 100 = 25%.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "25% as a fraction is",
+              "options": [
+                "1/4",
+                "1/2",
+                "3/4",
+                "1/25"
+              ],
+              "correct_answer": "1/4",
+              "rationale": "25/100 simplifies to 1/4.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A 10% increase on 200 equals",
+              "options": [
+                "10",
+                "20",
+                "100",
+                "210"
+              ],
+              "correct_answer": "20",
+              "rationale": "10/100 of 200 is 20.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Profit, Loss and Simple Interest",
+          "explanation": "Buying and selling use cost price and selling price. If selling price is more than cost price, there is profit. If it is less, there is loss. Simple interest is extra money paid for using borrowed money. It depends on principal, rate, and time, and is calculated using SI = P x R x T / 100.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "If CP = Rs 100 and SP = Rs 120, profit is",
+              "options": [
+                "Rs 20",
+                "Rs 120",
+                "Rs 100",
+                "Rs 220"
+              ],
+              "correct_answer": "Rs 20",
+              "rationale": "Profit = SP - CP.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "If CP = Rs 80 and SP = Rs 60, there is",
+              "options": [
+                "profit",
+                "loss",
+                "no change",
+                "interest"
+              ],
+              "correct_answer": "loss",
+              "rationale": "Selling price is less than cost price.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Profit percentage is calculated on",
+              "options": [
+                "selling price",
+                "cost price",
+                "marked price only",
+                "discount only"
+              ],
+              "correct_answer": "cost price",
+              "rationale": "Profit percent compares profit with cost price.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "In simple interest, P stands for",
+              "options": [
+                "Profit",
+                "Principal",
+                "Percent only",
+                "Price tag"
+              ],
+              "correct_answer": "Principal",
+              "rationale": "Principal is the original borrowed or invested amount.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Find SI on Rs 1000 at 10% for 1 year.",
+              "options": [
+                "Rs 10",
+                "Rs 100",
+                "Rs 1000",
+                "Rs 1100"
+              ],
+              "correct_answer": "Rs 100",
+              "rationale": "1000 x 10 x 1 / 100 = 100.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Rational Numbers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Meaning, Standard Form and Comparison",
+          "explanation": "Rational numbers are numbers that can be written as p/q, where p and q are integers and q is not zero. Standard form keeps the denominator positive and removes common factors. Rational numbers can be placed on a number line, where values to the right are greater and values to the left are smaller.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A rational number can be written as",
+              "options": [
+                "p/q, q not 0",
+                "p/q, q = 0",
+                "only whole number",
+                "only decimal"
+              ],
+              "correct_answer": "p/q, q not 0",
+              "rationale": "The denominator cannot be zero.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "In standard form, denominator is",
+              "options": [
+                "negative",
+                "positive",
+                "zero",
+                "always 1"
+              ],
+              "correct_answer": "positive",
+              "rationale": "Standard form uses a positive denominator.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "0 can be written as",
+              "options": [
+                "0/5",
+                "5/0",
+                "0/0",
+                "not rational"
+              ],
+              "correct_answer": "0/5",
+              "rationale": "0 divided by a non-zero integer is rational.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Which is greater: -1/2 or 1/2?",
+              "options": [
+                "-1/2",
+                "1/2",
+                "Both equal",
+                "Cannot compare"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "Positive numbers are greater than negative numbers.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "On the number line, negative rational numbers lie",
+              "options": [
+                "right of zero",
+                "left of zero",
+                "only at zero",
+                "above the line"
+              ],
+              "correct_answer": "left of zero",
+              "rationale": "Negative values are placed left of zero.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Operations on Rational Numbers",
+          "explanation": "Rational numbers can be added, subtracted, multiplied, and divided. Addition and subtraction often need common denominators. Multiplication uses numerator times numerator and denominator times denominator. Division uses the reciprocal of the divisor. The sign rules from integers still apply.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is 1/3 + 1/3?",
+              "options": [
+                "1/6",
+                "2/3",
+                "2/6",
+                "1"
+              ],
+              "correct_answer": "2/3",
+              "rationale": "Same denominators: add numerators.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "What is 1/2 - 1/4?",
+              "options": [
+                "1/4",
+                "2/4",
+                "3/4",
+                "0"
+              ],
+              "correct_answer": "1/4",
+              "rationale": "1/2 = 2/4, and 2/4 - 1/4 = 1/4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "What is (-2/3) x (3/4)?",
+              "options": [
+                "-1/2",
+                "1/2",
+                "-6/7",
+                "6/12"
+              ],
+              "correct_answer": "-1/2",
+              "rationale": "Different signs give negative; 6/12 simplifies to 1/2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is 2/5 ÷ 4/5?",
+              "options": [
+                "1/2",
+                "8/25",
+                "10/20",
+                "2"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "2/5 x 5/4 = 10/20 = 1/2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "To divide rational numbers, multiply by",
+              "options": [
+                "zero",
+                "the reciprocal of divisor",
+                "same denominator only",
+                "100"
+              ],
+              "correct_answer": "the reciprocal of divisor",
+              "rationale": "Division by a rational number uses reciprocal.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Practical Geometry",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Constructing Parallel Lines and Triangles",
+          "explanation": "Practical geometry uses ruler and compass to draw accurate figures. To construct a parallel line, we copy an angle made by a transversal. Triangles can be constructed when enough measurements are given: SSS, SAS, ASA, or RHS. Each construction follows steps, like a recipe, to locate points accurately.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "To draw accurate geometry, we commonly use",
+              "options": [
+                "ruler and compass",
+                "calculator only",
+                "bar graph",
+                "dice"
+              ],
+              "correct_answer": "ruler and compass",
+              "rationale": "Practical geometry constructions use these tools.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Parallel lines",
+              "options": [
+                "meet at one point",
+                "never meet",
+                "are always curved",
+                "always form triangles"
+              ],
+              "correct_answer": "never meet",
+              "rationale": "Parallel lines do not intersect.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "SSS construction needs",
+              "options": [
+                "three sides",
+                "two angles only",
+                "one side only",
+                "a circle radius only"
+              ],
+              "correct_answer": "three sides",
+              "rationale": "SSS means all three side lengths are given.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "SAS construction needs",
+              "options": [
+                "two sides and included angle",
+                "three angles",
+                "one angle only",
+                "no side"
+              ],
+              "correct_answer": "two sides and included angle",
+              "rationale": "SAS data locates the triangle.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "RHS construction is for",
+              "options": [
+                "right-angled triangle",
+                "equilateral only",
+                "bar graph",
+                "circle"
+              ],
+              "correct_answer": "right-angled triangle",
+              "rationale": "RHS uses right angle, hypotenuse, and one side.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Perimeter and Area",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Area and Perimeter of Plane Figures",
+          "explanation": "Perimeter is the distance around a shape, while area is the surface covered. Rectangles, squares, triangles, parallelograms, and circles each have useful formulas. The height used in area formulas must be perpendicular to the base. These ideas help measure fields, floors, paper, paths, and round objects.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Area of a rectangle is",
+              "options": [
+                "l + b",
+                "2(l + b)",
+                "l x b",
+                "l - b"
+              ],
+              "correct_answer": "l x b",
+              "rationale": "Rectangle area equals length times breadth.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Perimeter of a square of side s is",
+              "options": [
+                "s²",
+                "4s",
+                "2s",
+                "s/4"
+              ],
+              "correct_answer": "4s",
+              "rationale": "A square has four equal sides.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Area of a triangle is",
+              "options": [
+                "base x height",
+                "1/2 x base x height",
+                "2 x base x height",
+                "base + height"
+              ],
+              "correct_answer": "1/2 x base x height",
+              "rationale": "A triangle is half of a related rectangle or parallelogram.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Area of a parallelogram is",
+              "options": [
+                "base x height",
+                "base + height",
+                "side x side",
+                "1/2 base x height"
+              ],
+              "correct_answer": "base x height",
+              "rationale": "The perpendicular height is used.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Circumference of a circle is",
+              "options": [
+                "2πr",
+                "πr²",
+                "l x b",
+                "4s"
+              ],
+              "correct_answer": "2πr",
+              "rationale": "Circumference is the boundary length of a circle.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Conversion of Units and Applications",
+          "explanation": "Before calculating area or perimeter, units should match. Metres and centimetres cannot be mixed directly. Area units convert as squares: 1 square metre equals 10,000 square centimetres because 1 metre is 100 centimetres in both length and breadth. Careful conversion keeps real-life measurement problems accurate.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "1 m equals",
+              "options": [
+                "10 cm",
+                "100 cm",
+                "1000 cm",
+                "1 cm"
+              ],
+              "correct_answer": "100 cm",
+              "rationale": "A metre has 100 centimetres.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "1 m² equals",
+              "options": [
+                "100 cm²",
+                "1000 cm²",
+                "10000 cm²",
+                "10 cm²"
+              ],
+              "correct_answer": "10000 cm²",
+              "rationale": "100 cm x 100 cm = 10000 cm².",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Before calculating area with mixed units, first",
+              "options": [
+                "ignore units",
+                "make units same",
+                "add pi",
+                "draw a bar graph"
+              ],
+              "correct_answer": "make units same",
+              "rationale": "Common units are needed for correct calculation.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Area of a rectangular field tells",
+              "options": [
+                "boundary length only",
+                "surface covered",
+                "angle measure",
+                "probability"
+              ],
+              "correct_answer": "surface covered",
+              "rationale": "Area measures covered surface.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A path around a garden is related to",
+              "options": [
+                "perimeter",
+                "median",
+                "mode",
+                "exponent"
+              ],
+              "correct_answer": "perimeter",
+              "rationale": "Perimeter measures distance around.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Algebraic Expressions",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Terms, Like Terms and Values of Expressions",
+          "explanation": "Algebraic expressions are built using variables, constants, and operations. Terms are parts separated by plus or minus signs. Like terms have the same variables raised to the same powers, so only like terms can be combined. To find the value of an expression, substitute the given number for the variable and simplify.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In 5x + 3, x is",
+              "options": [
+                "constant",
+                "variable",
+                "coefficient",
+                "term only"
+              ],
+              "correct_answer": "variable",
+              "rationale": "A variable can take different values.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "In 7y, coefficient of y is",
+              "options": [
+                "7",
+                "y",
+                "0",
+                "1"
+              ],
+              "correct_answer": "7",
+              "rationale": "The numerical factor multiplying y is 7.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Which are like terms?",
+              "options": [
+                "3x and 5x",
+                "3x and 5y",
+                "x and x²",
+                "2a and 2b"
+              ],
+              "correct_answer": "3x and 5x",
+              "rationale": "They have the same variable x with the same power.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Simplify 3x + 2x.",
+              "options": [
+                "5x",
+                "6x",
+                "5x²",
+                "x"
+              ],
+              "correct_answer": "5x",
+              "rationale": "Like terms are added by adding coefficients.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Value of x + 5 when x = 4 is",
+              "options": [
+                "5",
+                "4",
+                "9",
+                "20"
+              ],
+              "correct_answer": "9",
+              "rationale": "Substitute x = 4: 4 + 5 = 9.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Exponents and Powers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Exponents and Laws of Exponents",
+          "explanation": "Exponents are a short way to write repeated multiplication. In 2³, 2 is the base and 3 is the exponent. Laws of exponents help simplify powers: multiply same bases by adding exponents, divide same bases by subtracting exponents, and raise a power to a power by multiplying exponents.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "2³ means",
+              "options": [
+                "2 + 3",
+                "2 x 2 x 2",
+                "3 x 3",
+                "2 x 3"
+              ],
+              "correct_answer": "2 x 2 x 2",
+              "rationale": "The exponent 3 means 2 is multiplied three times.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "In 5², the base is",
+              "options": [
+                "5",
+                "2",
+                "10",
+                "25"
+              ],
+              "correct_answer": "5",
+              "rationale": "The base is the repeated factor.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "a^m x a^n equals",
+              "options": [
+                "a^(m+n)",
+                "a^(m-n)",
+                "a^(mn)",
+                "a/(m+n)"
+              ],
+              "correct_answer": "a^(m+n)",
+              "rationale": "Same bases are multiplied by adding exponents.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "a^m ÷ a^n equals",
+              "options": [
+                "a^(m+n)",
+                "a^(m-n)",
+                "a^(mn)",
+                "a^0 only"
+              ],
+              "correct_answer": "a^(m-n)",
+              "rationale": "Same bases are divided by subtracting exponents.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "(a^m)^n equals",
+              "options": [
+                "a^(m+n)",
+                "a^(m-n)",
+                "a^(mn)",
+                "a/mn"
+              ],
+              "correct_answer": "a^(mn)",
+              "rationale": "Power of a power multiplies exponents.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Decimal Number System and Standard Form",
+          "explanation": "Standard form helps write very large numbers compactly using powers of 10. Instead of writing many zeros, we write a number between 1 and 10 multiplied by a power of 10. For example, 50,000 becomes 5 x 10⁴. This is useful in science, astronomy, and measurement.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "100000 equals",
+              "options": [
+                "10²",
+                "10³",
+                "10⁴",
+                "10⁵"
+              ],
+              "correct_answer": "10⁵",
+              "rationale": "There are five zeros, so it is 10 to the power 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "50,000 in standard form is",
+              "options": [
+                "5 x 10⁴",
+                "50 x 10³",
+                "0.5 x 10⁵",
+                "5 x 10³"
+              ],
+              "correct_answer": "5 x 10⁴",
+              "rationale": "5 x 10,000 = 50,000.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Standard form uses a number between",
+              "options": [
+                "0 and 1",
+                "1 and 10",
+                "10 and 100",
+                "100 and 1000"
+              ],
+              "correct_answer": "1 and 10",
+              "rationale": "The coefficient is at least 1 and less than 10.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "7 x 10³ equals",
+              "options": [
+                "70",
+                "700",
+                "7000",
+                "70000"
+              ],
+              "correct_answer": "7000",
+              "rationale": "10³ = 1000, so 7 x 1000 = 7000.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Powers of 10 are useful because they",
+              "options": [
+                "avoid place value",
+                "write large numbers shortly",
+                "remove multiplication",
+                "make all numbers zero"
+              ],
+              "correct_answer": "write large numbers shortly",
+              "rationale": "They reduce repeated zeros.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Symmetry",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Line Symmetry and Rotational Symmetry",
+          "explanation": "A line of symmetry divides a figure into two matching halves. Regular polygons often have several lines of symmetry because their sides and angles are equal. Rotational symmetry means a figure looks the same after being turned by an angle less than 360 degrees. The order tells how many times it matches in one full turn.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A line of symmetry divides a figure into",
+              "options": [
+                "two matching halves",
+                "three random parts",
+                "only unequal parts",
+                "a circle"
+              ],
+              "correct_answer": "two matching halves",
+              "rationale": "The halves overlap exactly.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "How many lines of symmetry does a square have?",
+              "options": [
+                "1",
+                "2",
+                "4",
+                "8"
+              ],
+              "correct_answer": "4",
+              "rationale": "A square has two diagonals and two midlines as symmetry lines.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "An equilateral triangle has how many lines of symmetry?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "0"
+              ],
+              "correct_answer": "3",
+              "rationale": "Each vertex-to-midpoint line is a symmetry line.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Rotational symmetry means a figure matches after",
+              "options": [
+                "turning",
+                "only folding",
+                "measuring area",
+                "adding angles"
+              ],
+              "correct_answer": "turning",
+              "rationale": "The figure is rotated about a point.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Order of rotational symmetry of a square is",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "4",
+              "rationale": "A square matches four times in a full turn.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Visualising Solid Shapes",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Faces, Edges, Vertices and Nets",
+          "explanation": "Solid shapes are three-dimensional objects. A face is a flat surface, an edge is where two faces meet, and a vertex is a corner. A net is a flat pattern that can be folded to make a solid, like opening a cardboard box and laying it flat. Nets help us connect 2-D drawings with 3-D objects.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A face of a solid is",
+              "options": [
+                "a flat surface",
+                "a corner",
+                "a line only",
+                "a shadow"
+              ],
+              "correct_answer": "a flat surface",
+              "rationale": "Faces are surfaces of solids.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "An edge is where",
+              "options": [
+                "two faces meet",
+                "two numbers add",
+                "angles vanish",
+                "data is counted"
+              ],
+              "correct_answer": "two faces meet",
+              "rationale": "Edges are line segments joining faces.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A vertex is",
+              "options": [
+                "a corner",
+                "a face",
+                "a curved surface",
+                "a net"
+              ],
+              "correct_answer": "a corner",
+              "rationale": "Vertices are corner points of solids.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A cube has how many faces?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+              ],
+              "correct_answer": "6",
+              "rationale": "A cube has six square faces.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A cube net is made of",
+              "options": [
+                "six squares",
+                "four triangles",
+                "one circle",
+                "two rectangles only"
+              ],
+              "correct_answer": "six squares",
+              "rationale": "A cube has six square faces.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Sketches, Sections and Views of Solids",
+          "explanation": "Solids can look different depending on how we view them. Oblique and isometric sketches show 3-D objects on flat paper. We can understand solids by slicing them, watching their shadows, or looking from the front, side, and top. These activities build spatial thinking and help students imagine shapes clearly.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Oblique and isometric sketches are used to",
+              "options": [
+                "draw solids on flat paper",
+                "calculate interest",
+                "find mode",
+                "compare fractions"
+              ],
+              "correct_answer": "draw solids on flat paper",
+              "rationale": "They represent 3-D shapes in 2-D drawings.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "One way to view a solid is by",
+              "options": [
+                "cutting or slicing",
+                "finding mean",
+                "adding exponents",
+                "using profit"
+              ],
+              "correct_answer": "cutting or slicing",
+              "rationale": "The chapter discusses sections formed by slicing.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A shadow of a 3-D object is usually",
+              "options": [
+                "2-D",
+                "4-D",
+                "always a cube",
+                "always a triangle"
+              ],
+              "correct_answer": "2-D",
+              "rationale": "A shadow appears on a flat surface.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Top view means looking",
+              "options": [
+                "from above",
+                "from below only",
+                "from inside",
+                "through data"
+              ],
+              "correct_answer": "from above",
+              "rationale": "Top view shows what is seen from the top.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Different views of a solid can be",
+              "options": [
+                "front, side and top",
+                "mean, median, mode",
+                "profit, loss, interest",
+                "base, exponent, power"
+              ],
+              "correct_answer": "front, side and top",
+              "rationale": "These are standard views of solids.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

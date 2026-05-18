@@ -1,0 +1,48 @@
+{
+  "name": "learn-boost",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port=3000 --host=0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate:class12": "python scripts/generate_class12_math_curriculum.py",
+    "generate:cbse-class1": "python scripts/generate_cbse_class1_math_curriculum.py",
+    "generate:cbse-class2": "python scripts/generate_cbse_class2_math_curriculum.py",
+    "generate:cbse-class3": "python scripts/generate_cbse_class3_math_curriculum.py",
+    "generate:cbse-class4": "python scripts/generate_cbse_class4_math_curriculum.py",
+    "generate:cbse-class7": "python scripts/generate_cbse_class7_math_curriculum.py",
+    "clean": "rm -rf dist",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.1.14",
+    "@types/katex": "^0.16.8",
+    "@vitejs/plugin-react": "^5.0.4",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "firebase": "^12.13.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "katex": "^0.16.47",
+    "lucide-react": "^0.546.0",
+    "motion": "^12.23.24",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "react-markdown": "^10.1.0",
+    "recharts": "^3.8.1",
+    "vite": "^6.2.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.14.0",
+    "autoprefixer": "^10.4.21",
+    "tailwindcss": "^4.1.14",
+    "tsx": "^4.21.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.3"
+  }
+}

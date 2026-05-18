@@ -1,0 +1,2290 @@
+{
+  "class": "10",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "RELATIONS AND FUNCTIONS",
+      "modules": [
+        {
+          "module_id": "10.1.1",
+          "topic_name": "Ordered Pair and Cartesian Product",
+          "explanation": "Ordered pairs are like coordinates on a map - the order matters! (2,3) is different from (3,2). Cartesian product combines two sets to create all possible ordered pairs, like pairing every shirt with every pant in your wardrobe. If Set A has 3 elements and Set B has 4 elements, their Cartesian product A×B has 3×4=12 ordered pairs. This concept is fundamental for understanding relations and functions!",
+          "difficulty": "medium",
+          "total_timer_minutes": 12,
+          "questions": [
+            {
+              "question_id": "10_1_1_1",
+              "question_text": "What is an ordered pair?",
+              "options": [
+                "A pair of elements where order matters",
+                "A pair of elements where order doesn't matter",
+                "A single element",
+                "A set of two elements"
+              ],
+              "correct_answer": "A pair of elements where order matters",
+              "rationale": "In an ordered pair (a,b), the position of a and b is significant.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_2",
+              "question_text": "If A = {1, 2} and B = {3, 4}, what is A × B?",
+              "options": [
+                "{(1,3), (1,4), (2,3), (2,4)}",
+                "{(3,1), (3,2), (4,1), (4,2)}",
+                "{1, 2, 3, 4}",
+                "{(1,2), (3,4)}"
+              ],
+              "correct_answer": "{(1,3), (1,4), (2,3), (2,4)}",
+              "rationale": "Cartesian product A×B pairs each element of A with each element of B.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_3",
+              "question_text": "If A has 3 elements and B has 4 elements, how many ordered pairs are in A × B?",
+              "options": [
+                "12",
+                "7",
+                "3",
+                "4"
+              ],
+              "correct_answer": "12",
+              "rationale": "Number of ordered pairs = |A| × |B| = 3 × 4 = 12.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_4",
+              "question_text": "What is B × A if A = {1, 2} and B = {3, 4}?",
+              "options": [
+                "{(3,1), (3,2), (4,1), (4,2)}",
+                "{(1,3), (1,4), (2,3), (2,4)}",
+                "{(1,2), (3,4)}",
+                "{(1,3), (2,4)}"
+              ],
+              "correct_answer": "{(3,1), (3,2), (4,1), (4,2)}",
+              "rationale": "B × A pairs each element of B with each element of A.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_5",
+              "question_text": "When is A × B equal to B × A?",
+              "options": [
+                "When A = B",
+                "Never",
+                "When A and B have one element each",
+                "Always"
+              ],
+              "correct_answer": "When A = B",
+              "rationale": "A × B = B × A only when sets A and B are equal.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_6",
+              "question_text": "If A = ∅ and B = {1, 2, 3}, what is A × B?",
+              "options": [
+                "∅",
+                "{∅}",
+                "{(∅,1), (∅,2), (∅,3)}",
+                "{1,2,3}"
+              ],
+              "correct_answer": "∅",
+              "rationale": "Cartesian product with empty set is always empty set.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_7",
+              "question_text": "What is the first element of the ordered pair (5,8)?",
+              "options": [
+                "5",
+                "8",
+                "13",
+                "40"
+              ],
+              "correct_answer": "5",
+              "rationale": "In ordered pair (a,b), a is the first element.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_8",
+              "question_text": "If A = {a, b} and B = {1, 2, 3}, how many elements are in A × B?",
+              "options": [
+                "6",
+                "5",
+                "3",
+                "2"
+              ],
+              "correct_answer": "6",
+              "rationale": "|A × B| = |A| × |B| = 2 × 3 = 6 elements.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_9",
+              "question_text": "Which coordinate represents the point where x=4 and y=2?",
+              "options": [
+                "(4,2)",
+                "(2,4)",
+                "(4,4)",
+                "(2,2)"
+              ],
+              "correct_answer": "(4,2)",
+              "rationale": "Point with x-coordinate 4 and y-coordinate 2 is (4,2).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_10",
+              "question_text": "What is the Cartesian product of {1} and {a, b, c}?",
+              "options": [
+                "{(1,a), (1,b), (1,c)}",
+                "{(a,1), (b,1), (c,1)}",
+                "{1, a, b, c}",
+                "{(1,a,b,c)}"
+              ],
+              "correct_answer": "{(1,a), (1,b), (1,c)}",
+              "rationale": "{1} × {a,b,c} pairs 1 with each element.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_11",
+              "question_text": "How many ordered pairs are possible if you have 4 shirts and 3 pants?",
+              "options": [
+                "12",
+                "7",
+                "4",
+                "3"
+              ],
+              "correct_answer": "12",
+              "rationale": "Total combinations = 4 × 3 = 12 ordered pairs.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_12",
+              "question_text": "If |A| = 5 and |B| = 7, how many ordered pairs in A × B?",
+              "options": [
+                "35",
+                "12",
+                "5",
+                "7"
+              ],
+              "correct_answer": "35",
+              "rationale": "|A × B| = |A| × |B| = 5 × 7 = 35.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_13",
+              "question_text": "What is the second element of the ordered pair (9,6)?",
+              "options": [
+                "6",
+                "9",
+                "15",
+                "3"
+              ],
+              "correct_answer": "6",
+              "rationale": "In ordered pair (a,b), b is the second element.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_14",
+              "question_text": "If A = {0,1} and B = {2,3,4}, what is A × B?",
+              "options": [
+                "{(0,2),(0,3),(0,4),(1,2),(1,3),(1,4)}",
+                "{(2,0),(3,0),(4,0),(2,1),(3,1),(4,1)}",
+                "{0,1,2,3,4}",
+                "{(0,2,3,4),(1,2,3,4)}"
+              ],
+              "correct_answer": "{(0,2),(0,3),(0,4),(1,2),(1,3),(1,4)}",
+              "rationale": "A × B pairs each element of A with each element of B.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_1_15",
+              "question_text": "Which ordered pair represents coordinates (x,y) = (-2,5)?",
+              "options": [
+                "(-2,5)",
+                "(5,-2)",
+                "{-2,5}",
+                "[-2,5]"
+              ],
+              "correct_answer": "(-2,5)",
+              "rationale": "Ordered pair with first element -2 and second element 5.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "10.1.2",
+          "topic_name": "Relations",
+          "explanation": "Relations are like connections between people in a social network! A relation is a subset of Cartesian product that shows which pairs are 'related' or connected. For example, in the relation 'is less than' from {1,2,3} to {4,5,6}, only pairs like (1,4), (1,5), (1,6), (2,4), (2,5), (2,6), (3,4), (3,5), (3,6) are included. Relations help us understand how elements from different sets are connected!",
+          "difficulty": "medium",
+          "total_timer_minutes": 12,
+          "questions": [
+            {
+              "question_id": "10_1_2_1",
+              "question_text": "What is a relation?",
+              "options": [
+                "A subset of Cartesian product",
+                "The entire Cartesian product",
+                "A single ordered pair",
+                "An empty set"
+              ],
+              "correct_answer": "A subset of Cartesian product",
+              "rationale": "A relation is any subset of the Cartesian product of two sets.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_2",
+              "question_text": "If A = {1, 2, 3} and B = {4, 5}, which of these is a valid relation from A to B?",
+              "options": [
+                "{(1,4), (2,5)}",
+                "{(4,1), (5,2)}",
+                "{1, 2, 3, 4, 5}",
+                "{(1,2), (3,4)}"
+              ],
+              "correct_answer": "{(1,4), (2,5)}",
+              "rationale": "A relation from A to B must have ordered pairs where first element is from A and second from B.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_3",
+              "question_text": "What is the domain of the relation R = {(1,4), (2,5), (3,6)}?",
+              "options": [
+                "{1, 2, 3}",
+                "{4, 5, 6}",
+                "{1, 4, 2, 5, 3, 6}",
+                "{1, 2, 3, 4, 5, 6}"
+              ],
+              "correct_answer": "{1, 2, 3}",
+              "rationale": "Domain is the set of all first elements of the ordered pairs.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_4",
+              "question_text": "What is the range of the relation R = {(1,4), (2,5), (3,6)}?",
+              "options": [
+                "{4, 5, 6}",
+                "{1, 2, 3}",
+                "{1, 4, 2, 5, 3, 6}",
+                "{1, 2, 3, 4, 5, 6}"
+              ],
+              "correct_answer": "{4, 5, 6}",
+              "rationale": "Range is the set of all second elements of the ordered pairs.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_5",
+              "question_text": "How many relations are possible from a set with 2 elements to a set with 3 elements?",
+              "options": [
+                "64",
+                "6",
+                "8",
+                "32"
+              ],
+              "correct_answer": "64",
+              "rationale": "Total possible ordered pairs = 2 × 3 = 6. Number of relations = 2^6 = 64.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_6",
+              "question_text": "What is the empty relation?",
+              "options": [
+                "A relation with no ordered pairs",
+                "A relation with all ordered pairs",
+                "A relation with one ordered pair",
+                "A relation that is a function"
+              ],
+              "correct_answer": "A relation with no ordered pairs",
+              "rationale": "Empty relation contains no ordered pairs - it's the empty set.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_7",
+              "question_text": "What is the universal relation?",
+              "options": [
+                "A relation containing all ordered pairs",
+                "A relation with no ordered pairs",
+                "A relation with one ordered pair",
+                "A relation that is a function"
+              ],
+              "correct_answer": "A relation containing all ordered pairs",
+              "rationale": "Universal relation contains all possible ordered pairs from A × B.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_8",
+              "question_text": "If R = {(x,y) | x² = y} where x ∈ {1,2,3}, what is R?",
+              "options": [
+                "{(1,1), (2,4), (3,9)}",
+                "{(1,1), (2,2), (3,3)}",
+                "{(1,1), (4,2), (9,3)}",
+                "{(1,1)}"
+              ],
+              "correct_answer": "{(1,1), (2,4), (3,9)}",
+              "rationale": "1²=1, 2²=4, 3²=9, so pairs are (1,1), (2,4), (3,9).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_9",
+              "question_text": "If R = {(1,2), (1,3), (2,4)}, is R a function?",
+              "options": [
+                "No",
+                "Yes",
+                "Sometimes",
+                "Cannot determine"
+              ],
+              "correct_answer": "No",
+              "rationale": "R is not a function because 1 is related to both 2 and 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_10",
+              "question_text": "What is the inverse relation of R = {(1,4), (2,5), (3,6)}?",
+              "options": [
+                "{(4,1), (5,2), (6,3)}",
+                "{(1,4), (2,5), (3,6)}",
+                "{(6,3), (5,2), (4,1)}",
+                "{(1,6), (2,5), (3,4)}"
+              ],
+              "correct_answer": "{(4,1), (5,2), (6,3)}",
+              "rationale": "Inverse relation swaps each ordered pair: (a,b) becomes (b,a).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_11",
+              "question_text": "If A = {1,2,3,4} and R = {(a,b) | a divides b}, which pair is in R?",
+              "options": [
+                "(2,4)",
+                "(3,2)",
+                "(4,2)",
+                "(5,10)"
+              ],
+              "correct_answer": "(2,4)",
+              "rationale": "2 divides 4 (4 ÷ 2 = 2), so (2,4) is in the relation.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_12",
+              "question_text": "What is the identity relation on set A = {1,2,3}?",
+              "options": [
+                "{(1,1), (2,2), (3,3)}",
+                "{(1,2), (2,3), (3,1)}",
+                "{(1,2), (2,1), (1,3), (3,1), (2,3), (3,2)}",
+                "{(1,1), (2,2), (3,3), (1,2), (2,1), (1,3), (3,1), (2,3), (3,2)}"
+              ],
+              "correct_answer": "{(1,1), (2,2), (3,3)}",
+              "rationale": "Identity relation contains all pairs where an element is related to itself.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_13",
+              "question_text": "If R = {(a,b) | a > b} where a,b ∈ {1,2,3,4}, how many pairs are in R?",
+              "options": [
+                "6",
+                "12",
+                "4",
+                "16"
+              ],
+              "correct_answer": "6",
+              "rationale": "Pairs where a > b: (2,1), (3,1), (3,2), (4,1), (4,2), (4,3).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_14",
+              "question_text": "If R = {(a,b) | a + b ≤ 5} where a,b ∈ ℕ, which pair is NOT in R?",
+              "options": [
+                "(3,3)",
+                "(2,2)",
+                "(1,4)",
+                "(0,5)"
+              ],
+              "correct_answer": "(3,3)",
+              "rationale": "3 + 3 = 6 > 5, so (3,3) is not in the relation.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_1_2_15",
+              "question_text": "How many relations are possible from set A to itself if |A| = 3?",
+              "options": [
+                "512",
+                "9",
+                "27",
+                "64"
+              ],
+              "correct_answer": "512",
+              "rationale": "A × A has 3 × 3 = 9 ordered pairs. Number of relations = 2^9 = 512.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "10.1.3",
+          "topic_name": "Functions",
+          "explanation": "Functions are like special machines - you put in an input and get exactly one output! A function is a relation where each element in the domain is paired with exactly one element in the range. Think of a vending machine: press button A (input) and you always get the same snack (output). Functions are everywhere - from calculating grades to predicting weather, they help us understand how one quantity depends on another!",
+          "difficulty": "hard",
+          "total_timer_minutes": 15,
+          "questions": [
+            {
+              "question_id": "10_1_3_1",
+              "question_text": "What is the defining property of a function?",
+              "options": [
+                "Each input has exactly one output",
+                "Each output has exactly one input",
+                "All inputs are related",
+                "All outputs are unique"
+              ],
+              "correct_answer": "Each input has exactly one output",
+              "rationale": "A function assigns exactly one output to each input in its domain.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_2",
+              "question_text": "Which of these relations is a function?",
+              "options": [
+                "{(1,2), (2,3), (3,4)}",
+                "{(1,2), (1,3), (2,4)}",
+                "{(1,2), (2,1), (1,3)}",
+                "{(1,1), (2,2), (3,3), (1,4)}"
+              ],
+              "correct_answer": "{(1,2), (2,3), (3,4)}",
+              "rationale": "Each input (1,2,3) has exactly one output, satisfying the function definition.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_3",
+              "question_text": "What is the domain of f(x) = 2x + 1?",
+              "options": [
+                "All real numbers",
+                "All positive numbers",
+                "All integers",
+                "All natural numbers"
+              ],
+              "correct_answer": "All real numbers",
+              "rationale": "For any real x, 2x + 1 is defined, so domain is all real numbers.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_4",
+              "question_text": "What is the range of f(x) = x² where x ∈ ℝ?",
+              "options": [
+                "All non-negative real numbers",
+                "All real numbers",
+                "All positive real numbers",
+                "All integers"
+              ],
+              "correct_answer": "All non-negative real numbers",
+              "rationale": "x² is always ≥ 0 for real x, so range is [0, ∞).",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_5",
+              "question_text": "If f(x) = 3x - 2, what is f(4)?",
+              "options": [
+                "10",
+                "14",
+                "6",
+                "12"
+              ],
+              "correct_answer": "10",
+              "rationale": "f(4) = 3(4) - 2 = 12 - 2 = 10.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_6",
+              "question_text": "What type of function is f(x) = 2x + 3?",
+              "options": [
+                "Linear function",
+                "Quadratic function",
+                "Cubic function",
+                "Reciprocal function"
+              ],
+              "correct_answer": "Linear function",
+              "rationale": "f(x) = 2x + 3 has the form ax + b, which is a linear function.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_7",
+              "question_text": "What is the domain of f(x) = 1/(x-2)?",
+              "options": [
+                "All real numbers except 2",
+                "All real numbers",
+                "All positive numbers",
+                "All numbers except 0"
+              ],
+              "correct_answer": "All real numbers except 2",
+              "rationale": "Division by zero is undefined, so x-2 ≠ 0, meaning x ≠ 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_8",
+              "question_text": "If f(x) = x² and g(x) = x + 1, what is f(g(2))?",
+              "options": [
+                "9",
+                "5",
+                "4",
+                "7"
+              ],
+              "correct_answer": "9",
+              "rationale": "g(2) = 2 + 1 = 3. Then f(g(2)) = f(3) = 3² = 9.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_9",
+              "question_text": "Which function has a parabola as its graph?",
+              "options": [
+                "f(x) = x²",
+                "f(x) = 2x + 1",
+                "f(x) = 1/x",
+                "f(x) = √x"
+              ],
+              "correct_answer": "f(x) = x²",
+              "rationale": "Quadratic functions like x² have parabolic graphs.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_10",
+              "question_text": "What is the range of f(x) = -x² + 4?",
+              "options": [
+                "(-∞, 4]",
+                "[4, ∞)",
+                "(-∞, ∞)",
+                "[0, 4]"
+              ],
+              "correct_answer": "(-∞, 4]",
+              "rationale": "Since coefficient of x² is negative, parabola opens downward with maximum at y = 4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_11",
+              "question_text": "If f: ℝ → ℝ is defined by f(x) = 2x + 5, what is f⁻¹(x)?",
+              "options": [
+                "(x - 5)/2",
+                "(x + 5)/2",
+                "2x - 5",
+                "(x/2) + 5"
+              ],
+              "correct_answer": "(x - 5)/2",
+              "rationale": "To find inverse: y = 2x + 5. Solve for x: x = (y - 5)/2. So f⁻¹(x) = (x - 5)/2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_12",
+              "question_text": "What type of function is f(x) = 1/x?",
+              "options": [
+                "Reciprocal function",
+                "Linear function",
+                "Quadratic function",
+                "Cubic function"
+              ],
+              "correct_answer": "Reciprocal function",
+              "rationale": "f(x) = 1/x is a reciprocal function, also called hyperbola.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_13",
+              "question_text": "If f(x) = x³, what is the range when domain is ℝ?",
+              "options": [
+                "All real numbers",
+                "All non-negative numbers",
+                "All positive numbers",
+                "All negative numbers"
+              ],
+              "correct_answer": "All real numbers",
+              "rationale": "Cubic function x³ takes all real values as x varies over real numbers.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_14",
+              "question_text": "What is the composition (f∘g)(x) if f(x) = x + 2 and g(x) = 3x?",
+              "options": [
+                "3x + 2",
+                "3(x + 2)",
+                "x + 6",
+                "3x + 6"
+              ],
+              "correct_answer": "3x + 2",
+              "rationale": "(f∘g)(x) = f(g(x)) = f(3x) = 3x + 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_1_3_15",
+              "question_text": "Which function is one-to-one but not onto from ℝ to ℝ?",
+              "options": [
+                "f(x) = eˣ",
+                "f(x) = x²",
+                "f(x) = sin x",
+                "f(x) = x³"
+              ],
+              "correct_answer": "f(x) = eˣ",
+              "rationale": "eˣ is one-to-one but its range is (0, ∞), not all ℝ, so not onto.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "NUMBERS AND SEQUENCES",
+      "modules": [
+        {
+          "module_id": "10.2.1",
+          "topic_name": "Arithmetic Progressions",
+          "explanation": "Arithmetic progressions are like climbing stairs with equal steps! Each term increases or decreases by the same amount called the common difference. If you start at 3 and add 2 each time: 3, 5, 7, 9, 11... that's an AP! APs help model situations with steady growth like salary increases, monthly savings, or regular payment plans. The nth term formula an = a₁ + (n-1)d helps find any term without listing all!",
+          "difficulty": "medium",
+          "total_timer_minutes": 12,
+          "questions": [
+            {
+              "question_id": "10_2_1_1",
+              "question_text": "What is an arithmetic progression?",
+              "options": [
+                "Sequence with constant difference",
+                "Sequence with constant ratio",
+                "Sequence with random terms",
+                "Sequence with decreasing terms"
+              ],
+              "correct_answer": "Sequence with constant difference",
+              "rationale": "AP has constant difference between consecutive terms.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_2",
+              "question_text": "What is the common difference of AP: 3, 7, 11, 15?",
+              "options": [
+                "4",
+                "3",
+                "5",
+                "2"
+              ],
+              "correct_answer": "4",
+              "rationale": "7-3 = 4, 11-7 = 4, 15-11 = 4. Common difference is 4.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_3",
+              "question_text": "What is the 10th term of AP: 2, 5, 8, 11...?",
+              "options": [
+                "29",
+                "32",
+                "26",
+                "35"
+              ],
+              "correct_answer": "29",
+              "rationale": "a₁₀ = 2 + (10-1)×3 = 2 + 27 = 29.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_4",
+              "question_text": "Which sequence is an AP?",
+              "options": [
+                "2, 4, 6, 8",
+                "2, 4, 8, 16",
+                "1, 1, 2, 3",
+                "3, 1, -1, -3"
+              ],
+              "correct_answer": "2, 4, 6, 8",
+              "rationale": "2, 4, 6, 8 has constant difference of 2.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_5",
+              "question_text": "If a₁ = 5 and d = 3, what is a₇?",
+              "options": [
+                "23",
+                "20",
+                "26",
+                "21"
+              ],
+              "correct_answer": "23",
+              "rationale": "a₇ = 5 + (7-1)×3 = 5 + 18 = 23.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_6",
+              "question_text": "What is the formula for nth term of AP?",
+              "options": [
+                "aₙ = a₁ + (n-1)d",
+                "aₙ = a₁ + nd",
+                "aₙ = a₁ × dⁿ",
+                "aₙ = a₁ × (n-1)d"
+              ],
+              "correct_answer": "aₙ = a₁ + (n-1)d",
+              "rationale": "Standard formula for nth term of arithmetic progression.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_7",
+              "question_text": "Which term is 35 in AP: 5, 8, 11, 14...?",
+              "options": [
+                "11th",
+                "10th",
+                "12th",
+                "9th"
+              ],
+              "correct_answer": "11th",
+              "rationale": "35 = 5 + (n-1)×3. 30 = 3(n-1). n-1 = 10. n = 11.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_8",
+              "question_text": "What is the sum of first 10 terms of AP: 1, 4, 7, 10...?",
+              "options": [
+                "145",
+                "155",
+                "165",
+                "175"
+              ],
+              "correct_answer": "145",
+              "rationale": "S₁₀ = 10/2 × (2×1 + (10-1)×3) = 5 × (2 + 27) = 5 × 29 = 145.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_9",
+              "question_text": "If a₁ = 10 and a₁₀ = 55, what is d?",
+              "options": [
+                "5",
+                "4.5",
+                "6",
+                "4"
+              ],
+              "correct_answer": "5",
+              "rationale": "a₁₀ = a₁ + 9d. 55 = 10 + 9d. 45 = 9d. d = 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_10",
+              "question_text": "What type of AP has negative common difference?",
+              "options": [
+                "Decreasing AP",
+                "Increasing AP",
+                "Constant AP",
+                "Zero AP"
+              ],
+              "correct_answer": "Decreasing AP",
+              "rationale": "Negative common difference means terms decrease.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_11",
+              "question_text": "If a₅ = 20 and a₁₀ = 45, what is a₁?",
+              "options": [
+                "0",
+                "5",
+                "10",
+                "15"
+              ],
+              "correct_answer": "0",
+              "rationale": "a₁₀ - a₅ = 5d. 45 - 20 = 5d. 25 = 5d. d = 5. a₅ = a₁ + 4d. 20 = a₁ + 20. a₁ = 0.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_12",
+              "question_text": "What is the middle term of AP with 9 terms: 2, 5, 8...?",
+              "options": [
+                "14",
+                "11",
+                "17",
+                "20"
+              ],
+              "correct_answer": "14",
+              "rationale": "Middle term is 5th term: a₅ = 2 + 4×3 = 14.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_13",
+              "question_text": "If three terms of AP are a, b, c, what is the relationship?",
+              "options": [
+                "2b = a + c",
+                "b² = ac",
+                "b = (a + c)/2",
+                "Both 2b = a + c and b = (a + c)/2"
+              ],
+              "correct_answer": "Both 2b = a + c and b = (a + c)/2",
+              "rationale": "In AP, middle term equals average of other two.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_14",
+              "question_text": "What is the sum of AP: 1 + 2 + 3 + ... + 100?",
+              "options": [
+                "5050",
+                "5000",
+                "5100",
+                "4950"
+              ],
+              "correct_answer": "5050",
+              "rationale": "S₁₀₀ = 100/2 × (1 + 100) = 50 × 101 = 5050.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_2_1_15",
+              "question_text": "If a₁ = 3, d = -2, what is a₆?",
+              "options": [
+                "-7",
+                "-5",
+                "-9",
+                "-3"
+              ],
+              "correct_answer": "-7",
+              "rationale": "a₆ = 3 + (6-1)×(-2) = 3 - 10 = -7.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "10.2.2",
+          "topic_name": "Geometric Progressions",
+          "explanation": "Geometric progressions are like compound interest - each term is multiplied by the same ratio! Starting with 2 and multiplying by 3 each time: 2, 6, 18, 54, 162... that's a GP! GPs model exponential growth like population growth, compound interest, or bacterial growth. The nth term formula arⁿ⁻¹ helps calculate any term. GPs grow much faster than APs - that's why compound interest beats simple interest!",
+          "difficulty": "hard",
+          "total_timer_minutes": 15,
+          "questions": [
+            {
+              "question_id": "10_2_2_1",
+              "question_text": "What is a geometric progression?",
+              "options": [
+                "Sequence with constant ratio",
+                "Sequence with constant difference",
+                "Sequence with random terms",
+                "Sequence with addition"
+              ],
+              "correct_answer": "Sequence with constant ratio",
+              "rationale": "GP has constant ratio between consecutive terms.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_2",
+              "question_text": "What is the common ratio of GP: 3, 6, 12, 24?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "6"
+              ],
+              "correct_answer": "2",
+              "rationale": "6/3 = 2, 12/6 = 2, 24/12 = 2. Common ratio is 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_3",
+              "question_text": "What is the 5th term of GP: 2, 6, 18, 54...?",
+              "options": [
+                "162",
+                "324",
+                "486",
+                "108"
+              ],
+              "correct_answer": "162",
+              "rationale": "a₅ = 2 × 3⁴ = 2 × 81 = 162.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_4",
+              "question_text": "Which sequence is a GP?",
+              "options": [
+                "2, 6, 18, 54",
+                "2, 4, 6, 8",
+                "1, 4, 9, 16",
+                "3, 6, 9, 12"
+              ],
+              "correct_answer": "2, 6, 18, 54",
+              "rationale": "2, 6, 18, 54 has constant ratio of 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_5",
+              "question_text": "If a₁ = 5 and r = 2, what is a₄?",
+              "options": [
+                "40",
+                "20",
+                "80",
+                "10"
+              ],
+              "correct_answer": "40",
+              "rationale": "a₄ = 5 × 2³ = 5 × 8 = 40.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_6",
+              "question_text": "What is the formula for nth term of GP?",
+              "options": [
+                "aₙ = arⁿ⁻¹",
+                "aₙ = arⁿ",
+                "aₙ = a + (n-1)r",
+                "aₙ = a × nr"
+              ],
+              "correct_answer": "aₙ = arⁿ⁻¹",
+              "rationale": "Standard formula for nth term of geometric progression.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_7",
+              "question_text": "If a₁ = 2 and a₅ = 162, what is r?",
+              "options": [
+                "3",
+                "2",
+                "4",
+                "9"
+              ],
+              "correct_answer": "3",
+              "rationale": "a₅ = a₁ × r⁴. 162 = 2 × r⁴. r⁴ = 81. r = 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_8",
+              "question_text": "What type of GP has |r| < 1?",
+              "options": [
+                "Convergent GP",
+                "Divergent GP",
+                "Constant GP",
+                "Oscillating GP"
+              ],
+              "correct_answer": "Convergent GP",
+              "rationale": "When |r| < 1, GP converges to 0 as n increases.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_9",
+              "question_text": "What is the sum to infinity of GP: 8, 4, 2, 1...?",
+              "options": [
+                "16",
+                "15",
+                "14",
+                "12"
+              ],
+              "correct_answer": "16",
+              "rationale": "S∞ = a/(1-r) = 8/(1-1/2) = 8/(1/2) = 16.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_10",
+              "question_text": "If three terms of GP are a, b, c, what is the relationship?",
+              "options": [
+                "b² = ac",
+                "2b = a + c",
+                "b = (a + c)/2",
+                "b² = a + c"
+              ],
+              "correct_answer": "b² = ac",
+              "rationale": "In GP, middle term squared equals product of other two.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_11",
+              "question_text": "What is the sum of first 5 terms of GP: 1, 2, 4, 8, 16?",
+              "options": [
+                "31",
+                "32",
+                "30",
+                "33"
+              ],
+              "correct_answer": "31",
+              "rationale": "S₅ = 1 + 2 + 4 + 8 + 16 = 31.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_12",
+              "question_text": "If a₁ = 1 and r = -2, what is a₄?",
+              "options": [
+                "-8",
+                "8",
+                "-16",
+                "16"
+              ],
+              "correct_answer": "-8",
+              "rationale": "a₄ = 1 × (-2)³ = 1 × (-8) = -8.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_13",
+              "question_text": "What happens to terms of GP when r > 1?",
+              "options": [
+                "Terms increase rapidly",
+                "Terms decrease",
+                "Terms stay constant",
+                "Terms oscillate"
+              ],
+              "correct_answer": "Terms increase rapidly",
+              "rationale": "When r > 1, terms grow exponentially larger.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_14",
+              "question_text": "What is the geometric mean of 4 and 9?",
+              "options": [
+                "6",
+                "5",
+                "7",
+                "8"
+              ],
+              "correct_answer": "6",
+              "rationale": "Geometric mean = √(4 × 9) = √36 = 6.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_2_2_15",
+              "question_text": "If GP has sum to infinity 20 and first term 10, what is r?",
+              "options": [
+                "1/2",
+                "2",
+                "1/3",
+                "3"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "S∞ = a/(1-r). 20 = 10/(1-r). 20(1-r) = 10. 20 - 20r = 10. 20r = 10. r = 1/2.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "ALGEBRA",
+      "modules": [
+        {
+          "module_id": "10.3.1",
+          "topic_name": "Quadratic Equations",
+          "explanation": "Quadratic equations are like finding the perfect balance! They have the form ax² + bx + c = 0 and can have 0, 1, or 2 real solutions. Think of throwing a ball - the path follows a parabola (quadratic), and the equation tells where it hits the ground! The quadratic formula x = (-b ± √(b²-4ac))/2a is like a master key that unlocks any quadratic equation. Discriminant b²-4ac tells us how many solutions exist!",
+          "difficulty": "hard",
+          "total_timer_minutes": 15,
+          "questions": [
+            {
+              "question_id": "10_3_1_1",
+              "question_text": "What is the standard form of quadratic equation?",
+              "options": [
+                "ax² + bx + c = 0",
+                "ax² + bx = c",
+                "ax² = bx + c",
+                "x² + ax + b = c"
+              ],
+              "correct_answer": "ax² + bx + c = 0",
+              "rationale": "Standard form is ax² + bx + c = 0 where a ≠ 0.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_2",
+              "question_text": "What is the discriminant of ax² + bx + c = 0?",
+              "options": [
+                "b² - 4ac",
+                "4ac - b²",
+                "b² + 4ac",
+                "√(b² - 4ac)"
+              ],
+              "correct_answer": "b² - 4ac",
+              "rationale": "Discriminant Δ = b² - 4ac determines the nature of roots.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_3",
+              "question_text": "If discriminant > 0, how many real roots does the equation have?",
+              "options": [
+                "Two distinct real roots",
+                "One real root",
+                "No real roots",
+                "Complex roots"
+              ],
+              "correct_answer": "Two distinct real roots",
+              "rationale": "When discriminant > 0, there are two distinct real roots.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_4",
+              "question_text": "What is the quadratic formula?",
+              "options": [
+                "x = (-b ± √(b²-4ac))/2a",
+                "x = (b ± √(b²-4ac))/2a",
+                "x = (-b ± √(b²+4ac))/2a",
+                "x = (b ± √(b²+4ac))/2a"
+              ],
+              "correct_answer": "x = (-b ± √(b²-4ac))/2a",
+              "rationale": "Quadratic formula provides solution for any quadratic equation.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_5",
+              "question_text": "Solve: x² - 5x + 6 = 0",
+              "options": [
+                "x = 2, 3",
+                "x = -2, -3",
+                "x = 1, 6",
+                "x = -1, -6"
+              ],
+              "correct_answer": "x = 2, 3",
+              "rationale": "Factor: (x-2)(x-3) = 0, so x = 2 or x = 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_6",
+              "question_text": "What is the sum of roots of 2x² - 8x + 6 = 0?",
+              "options": [
+                "4",
+                "-4",
+                "3",
+                "-3"
+              ],
+              "correct_answer": "4",
+              "rationale": "Sum of roots = -b/a = -(-8)/2 = 8/2 = 4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_7",
+              "question_text": "What is the product of roots of 3x² + 6x - 9 = 0?",
+              "options": [
+                "-3",
+                "3",
+                "-9",
+                "9"
+              ],
+              "correct_answer": "-3",
+              "rationale": "Product of roots = c/a = -9/3 = -3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_8",
+              "question_text": "Complete the square: x² + 6x + ?",
+              "options": [
+                "9",
+                "3",
+                "6",
+                "12"
+              ],
+              "correct_answer": "9",
+              "rationale": "To complete square: (6/2)² = 3² = 9.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_9",
+              "question_text": "If discriminant = 0, what type of roots?",
+              "options": [
+                "One real repeated root",
+                "Two distinct real roots",
+                "No real roots",
+                "Complex roots"
+              ],
+              "correct_answer": "One real repeated root",
+              "rationale": "When discriminant = 0, there is exactly one real root (repeated).",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_10",
+              "question_text": "Solve: x² - 9 = 0",
+              "options": [
+                "x = ±3",
+                "x = 3",
+                "x = -3",
+                "x = 0"
+              ],
+              "correct_answer": "x = ±3",
+              "rationale": "x² = 9, so x = ±√9 = ±3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_11",
+              "question_text": "What is the vertex form of parabola?",
+              "options": [
+                "y = a(x-h)² + k",
+                "y = ax² + bx + c",
+                "y = a(x+h)² + k",
+                "y = a(x-h)² - k"
+              ],
+              "correct_answer": "y = a(x-h)² + k",
+              "rationale": "Vertex form shows vertex at (h,k).",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_12",
+              "question_text": "If a quadratic opens upward, what is true about 'a'?",
+              "options": [
+                "a > 0",
+                "a < 0",
+                "a = 0",
+                "a is imaginary"
+              ],
+              "correct_answer": "a > 0",
+              "rationale": "When a > 0, parabola opens upward (minimum point).",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_13",
+              "question_text": "What is the axis of symmetry of x² - 4x + 3 = 0?",
+              "options": [
+                "x = 2",
+                "x = -2",
+                "x = 1",
+                "x = -1"
+              ],
+              "correct_answer": "x = 2",
+              "rationale": "Axis of symmetry: x = -b/2a = -(-4)/(2×1) = 4/2 = 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_14",
+              "question_text": "How many real roots does x² + 4x + 5 = 0 have?",
+              "options": [
+                "No real roots",
+                "One real root",
+                "Two real roots",
+                "Three real roots"
+              ],
+              "correct_answer": "No real roots",
+              "rationale": "Discriminant = 4² - 4×1×5 = 16 - 20 = -4 < 0, so no real roots.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_3_1_15",
+              "question_text": "What is the minimum value of x² - 6x + 5?",
+              "options": [
+                "-4",
+                "4",
+                "-5",
+                "5"
+              ],
+              "correct_answer": "-4",
+              "rationale": "Complete square: (x-3)² - 9 + 5 = (x-3)² - 4. Minimum value is -4.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "GEOMETRY",
+      "modules": [
+        {
+          "module_id": "10.4.1",
+          "topic_name": "Similarity of Triangles",
+          "explanation": "Similar triangles are like photocopies of different sizes! They have the same shape but different sizes - corresponding angles are equal and sides are proportional. Think of a small triangle and its enlarged version - they're similar! The ratio of corresponding sides is constant. This concept helps in measuring heights of buildings, map scaling, and optical instruments. AAA, SAS, and SSS similarity criteria help identify similar triangles!",
+          "difficulty": "medium",
+          "total_timer_minutes": 12,
+          "questions": [
+            {
+              "question_id": "10_4_1_1",
+              "question_text": "What makes two triangles similar?",
+              "options": [
+                "Corresponding angles equal",
+                "Corresponding sides equal",
+                "Same area",
+                "Same perimeter"
+              ],
+              "correct_answer": "Corresponding angles equal",
+              "rationale": "Similar triangles have equal corresponding angles and proportional sides.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_2",
+              "question_text": "If ΔABC ~ ΔDEF and AB = 6, DE = 9, what is the similarity ratio?",
+              "options": [
+                "2:3",
+                "3:2",
+                "1:1.5",
+                "1.5:1"
+              ],
+              "correct_answer": "2:3",
+              "rationale": "Ratio AB:DE = 6:9 = 2:3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_3",
+              "question_text": "Which is NOT a similarity criterion?",
+              "options": [
+                "SSA",
+                "AAA",
+                "SAS",
+                "SSS"
+              ],
+              "correct_answer": "SSA",
+              "rationale": "SSA is not a valid similarity criterion.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_4",
+              "question_text": "If similar triangles have sides in ratio 2:5, what is the ratio of their areas?",
+              "options": [
+                "4:25",
+                "2:5",
+                "8:125",
+                "√2:√5"
+              ],
+              "correct_answer": "4:25",
+              "rationale": "Area ratio = (side ratio)² = (2/5)² = 4/25.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_5",
+              "question_text": "What does AAA similarity mean?",
+              "options": [
+                "All three angles equal",
+                "Two angles equal",
+                "Three sides proportional",
+                "Two sides proportional and included angle equal"
+              ],
+              "correct_answer": "All three angles equal",
+              "rationale": "AAA means all three corresponding angles are equal.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_6",
+              "question_text": "In similar triangles, corresponding sides are:",
+              "options": [
+                "Proportional",
+                "Equal",
+                "Double",
+                "Half"
+              ],
+              "correct_answer": "Proportional",
+              "rationale": "Corresponding sides of similar triangles are proportional.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_7",
+              "question_text": "If ΔABC ~ ΔDEF with ratio 3:4 and BC = 12, what is EF?",
+              "options": [
+                "16",
+                "9",
+                "15",
+                "18"
+              ],
+              "correct_answer": "16",
+              "rationale": "BC:EF = 3:4. 12:EF = 3:4. EF = 12 × 4/3 = 16.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_8",
+              "question_text": "What is SAS similarity criterion?",
+              "options": [
+                "Two sides proportional and included angle equal",
+                "Three sides proportional",
+                "Three angles equal",
+                "Two angles equal"
+              ],
+              "correct_answer": "Two sides proportional and included angle equal",
+              "rationale": "SAS similarity requires two sides in proportion and included angle equal.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_9",
+              "question_text": "If similar triangles have perimeters 15 cm and 25 cm, what is the similarity ratio?",
+              "options": [
+                "3:5",
+                "5:3",
+                "15:25",
+                "1:5/3"
+              ],
+              "correct_answer": "3:5",
+              "rationale": "Perimeter ratio equals similarity ratio: 15:25 = 3:5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_10",
+              "question_text": "Which triangles are always similar?",
+              "options": [
+                "Equilateral triangles",
+                "Isosceles triangles",
+                "Right triangles",
+                "Scalene triangles"
+              ],
+              "correct_answer": "Equilateral triangles",
+              "rationale": "All equilateral triangles have 60° angles, so they're always similar.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_11",
+              "question_text": "What is the basic proportionality theorem?",
+              "options": [
+                "Line parallel to one side divides other sides proportionally",
+                "Similar triangles have equal angles",
+                "Areas of similar triangles are proportional",
+                "Perimeters are equal"
+              ],
+              "correct_answer": "Line parallel to one side divides other sides proportionally",
+              "rationale": "Basic proportionality theorem (Thales) states this property.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_12",
+              "question_text": "If similar triangles have area ratio 9:16, what is the side ratio?",
+              "options": [
+                "3:4",
+                "9:16",
+                "√9:√16",
+                "81:256"
+              ],
+              "correct_answer": "3:4",
+              "rationale": "Side ratio = √(area ratio) = √(9/16) = 3/4.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_13",
+              "question_text": "Two right triangles with one acute angle equal are:",
+              "options": [
+                "Similar",
+                "Congruent",
+                "Neither",
+                "Sometimes similar"
+              ],
+              "correct_answer": "Similar",
+              "rationale": "AA similarity - if one acute angle equal, other must also be equal.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_14",
+              "question_text": "What is SSS similarity criterion?",
+              "options": [
+                "Three sides proportional",
+                "Three sides equal",
+                "Three angles equal",
+                "Two sides equal and included angle equal"
+              ],
+              "correct_answer": "Three sides proportional",
+              "rationale": "SSS similarity requires all three corresponding sides to be proportional.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_4_1_15",
+              "question_text": "If ΔABC ~ ΔDEF and AB:BC = 2:3, what is DE:EF?",
+              "options": [
+                "2:3",
+                "3:2",
+                "1:1",
+                "Cannot determine"
+              ],
+              "correct_answer": "2:3",
+              "rationale": "Corresponding sides have the same ratio in similar triangles.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "COORDINATE GEOMETRY",
+      "modules": [
+        {
+          "module_id": "10.5.1",
+          "topic_name": "Distance Formula and Section Formula",
+          "explanation": "Coordinate geometry is like giving every point an address! The distance formula helps find how far apart two points are: √[(x₂-x₁)² + (y₂-y₁)²]. Think of it as the Pythagorean theorem in coordinate form! The section formula helps find points that divide lines in given ratios - like finding the midpoint (special case with ratio 1:1). These tools help in navigation, computer graphics, and GPS systems!",
+          "difficulty": "medium",
+          "total_timer_minutes": 12,
+          "questions": [
+            {
+              "question_id": "10_5_1_1",
+              "question_text": "What is the distance between (1,2) and (4,6)?",
+              "options": [
+                "5",
+                "4",
+                "3",
+                "√13"
+              ],
+              "correct_answer": "5",
+              "rationale": "Distance = √[(4-1)² + (6-2)²] = √[3² + 4²] = √[9 + 16] = √25 = 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_2",
+              "question_text": "What is the midpoint of (2,4) and (6,8)?",
+              "options": [
+                "(4,6)",
+                "(3,5)",
+                "(5,7)",
+                "(4,8)"
+              ],
+              "correct_answer": "(4,6)",
+              "rationale": "Midpoint = ((2+6)/2, (4+8)/2) = (8/2, 12/2) = (4,6).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_3",
+              "question_text": "What is the distance formula between (x₁,y₁) and (x₂,y₂)?",
+              "options": [
+                "√[(x₂-x₁)² + (y₂-y₁)²]",
+                "(x₂-x₁) + (y₂-y₁)",
+                "√[(x₂+x₁)² + (y₂+y₁)²]",
+                "|x₂-x₁| + |y₂-y₁|"
+              ],
+              "correct_answer": "√[(x₂-x₁)² + (y₂-y₁)²]",
+              "rationale": "Distance formula derived from Pythagorean theorem.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_4",
+              "question_text": "If a point divides (1,2) and (7,8) in ratio 2:1, what are its coordinates?",
+              "options": [
+                "(5,6)",
+                "(3,4)",
+                "(4,5)",
+                "(6,7)"
+              ],
+              "correct_answer": "(5,6)",
+              "rationale": "Using section formula: x = (2×7 + 1×1)/(2+1) = 15/3 = 5, y = (2×8 + 1×2)/3 = 18/3 = 6.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_5",
+              "question_text": "What is the distance from origin to (3,4)?",
+              "options": [
+                "5",
+                "7",
+                "√7",
+                "1"
+              ],
+              "correct_answer": "5",
+              "rationale": "Distance from (0,0) to (3,4) = √[3² + 4²] = √[9 + 16] = √25 = 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_6",
+              "question_text": "Which points are collinear: (1,1), (2,2), (3,4)?",
+              "options": [
+                "No",
+                "Yes",
+                "First two only",
+                "Last two only"
+              ],
+              "correct_answer": "No",
+              "rationale": "Check slope: (2,2) to (1,1) has slope 1, (3,4) to (2,2) has slope 2. Different slopes.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_7",
+              "question_text": "What is the centroid of triangle with vertices (0,0), (6,0), (0,6)?",
+              "options": [
+                "(2,2)",
+                "(3,3)",
+                "(1,1)",
+                "(4,4)"
+              ],
+              "correct_answer": "(2,2)",
+              "rationale": "Centroid = ((0+6+0)/3, (0+0+6)/3) = (6/3, 6/3) = (2,2).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_8",
+              "question_text": "What is the area of triangle with vertices (0,0), (4,0), (0,3)?",
+              "options": [
+                "6",
+                "12",
+                "3",
+                "8"
+              ],
+              "correct_answer": "6",
+              "rationale": "Area = 1/2 × base × height = 1/2 × 4 × 3 = 6.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_9",
+              "question_text": "Which point lies on line x + y = 5?",
+              "options": [
+                "(2,3)",
+                "(1,5)",
+                "(3,1)",
+                "(0,5)"
+              ],
+              "correct_answer": "(2,3)",
+              "rationale": "2 + 3 = 5, so (2,3) satisfies the equation.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_10",
+              "question_text": "What is the distance between (-2,1) and (3,-4)?",
+              "options": [
+                "√50",
+                "7",
+                "5",
+                "√26"
+              ],
+              "correct_answer": "√50",
+              "rationale": "Distance = √[(3-(-2))² + (-4-1)²] = √[5² + (-5)²] = √[25 + 25] = √50.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_11",
+              "question_text": "If a point divides (0,0) and (6,8) in ratio 1:2, what are its coordinates?",
+              "options": [
+                "(2, 8/3)",
+                "(4, 16/3)",
+                "(3,4)",
+                "(1, 4/3)"
+              ],
+              "correct_answer": "(2, 8/3)",
+              "rationale": "Using section formula: x = (1×6 + 2×0)/(1+2) = 6/3 = 2, y = (1×8 + 2×0)/3 = 8/3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_12",
+              "question_text": "What is the slope of line through (1,2) and (3,8)?",
+              "options": [
+                "3",
+                "2",
+                "4",
+                "5"
+              ],
+              "correct_answer": "3",
+              "rationale": "Slope = (8-2)/(3-1) = 6/2 = 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_13",
+              "question_text": "Which point is equidistant from (0,0) and (6,0)?",
+              "options": [
+                "(3,0)",
+                "(2,0)",
+                "(4,0)",
+                "(1,0)"
+              ],
+              "correct_answer": "(3,0)",
+              "rationale": "Midpoint of (0,0) and (6,0) is (3,0), equidistant from both.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_14",
+              "question_text": "What is the distance between parallel lines y = 2x + 1 and y = 2x + 7?",
+              "options": [
+                "6/√5",
+                "6",
+                "3",
+                "12"
+              ],
+              "correct_answer": "6/√5",
+              "rationale": "Distance = |7-1|/√(2²+(-1)²) = 6/√5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_5_1_15",
+              "question_text": "If three points are collinear, what is true about the area of triangle formed?",
+              "options": [
+                "Area is zero",
+                "Area is maximum",
+                "Area is constant",
+                "Area cannot be determined"
+              ],
+              "correct_answer": "Area is zero",
+              "rationale": "Collinear points lie on a straight line, so triangle area is zero.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "TRIGONOMETRY",
+      "modules": [
+        {
+          "module_id": "10.6.1",
+          "topic_name": "Trigonometric Identities and Heights",
+          "explanation": "Trigonometry is the mathematics of triangles and angles! Sin, cos, and tan are like special ratios that relate angles to side lengths. Think of standing at a distance from a building - trigonometry helps calculate its height using just angles and distances! The fundamental identity sin²θ + cos²θ = 1 is like the Pythagorean theorem in trigonometric form. These concepts are crucial in navigation, engineering, and physics!",
+          "difficulty": "hard",
+          "total_timer_minutes": 15,
+          "questions": [
+            {
+              "question_id": "10_6_1_1",
+              "question_text": "What is sin²θ + cos²θ equal to?",
+              "options": [
+                "1",
+                "0",
+                "tan²θ",
+                "cot²θ"
+              ],
+              "correct_answer": "1",
+              "rationale": "Fundamental trigonometric identity: sin²θ + cos²θ = 1.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_2",
+              "question_text": "What is tan 45°?",
+              "options": [
+                "1",
+                "0",
+                "√3",
+                "1/√3"
+              ],
+              "correct_answer": "1",
+              "rationale": "tan 45° = sin 45°/cos 45° = (√2/2)/(√2/2) = 1.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_3",
+              "question_text": "If sin θ = 3/5, what is cos θ?",
+              "options": [
+                "4/5",
+                "3/4",
+                "5/3",
+                "5/4"
+              ],
+              "correct_answer": "4/5",
+              "rationale": "sin²θ + cos²θ = 1. (3/5)² + cos²θ = 1. 9/25 + cos²θ = 1. cos²θ = 16/25. cos θ = 4/5.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_4",
+              "question_text": "What is the value of cos 0°?",
+              "options": [
+                "1",
+                "0",
+                "-1",
+                "∞"
+              ],
+              "correct_answer": "1",
+              "rationale": "cos 0° = 1.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_5",
+              "question_text": "What is sin 30°?",
+              "options": [
+                "1/2",
+                "√3/2",
+                "1",
+                "0"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "sin 30° = 1/2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_6",
+              "question_text": "If tan θ = 3/4, what is sec θ?",
+              "options": [
+                "5/4",
+                "4/3",
+                "5/3",
+                "3/5"
+              ],
+              "correct_answer": "5/4",
+              "rationale": "tan θ = opposite/adjacent = 3/4. hypotenuse = 5. sec θ = hypotenuse/adjacent = 5/4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_7",
+              "question_text": "What is 1 + tan²θ equal to?",
+              "options": [
+                "sec²θ",
+                "cosec²θ",
+                "cos²θ",
+                "sin²θ"
+              ],
+              "correct_answer": "sec²θ",
+              "rationale": "Identity: 1 + tan²θ = sec²θ.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_8",
+              "question_text": "If cos θ = 12/13, what is sin θ?",
+              "options": [
+                "5/13",
+                "12/5",
+                "13/5",
+                "13/12"
+              ],
+              "correct_answer": "5/13",
+              "rationale": "sin²θ = 1 - cos²θ = 1 - (12/13)² = 1 - 144/169 = 25/169. sin θ = 5/13.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_9",
+              "question_text": "What is the value of sin 90°?",
+              "options": [
+                "1",
+                "0",
+                "-1",
+                "∞"
+              ],
+              "correct_answer": "1",
+              "rationale": "sin 90° = 1.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_10",
+              "question_text": "If a building casts a shadow of 20m and sun angle is 30°, what is the height?",
+              "options": [
+                "20/√3 m",
+                "20√3 m",
+                "10 m",
+                "40 m"
+              ],
+              "correct_answer": "20/√3 m",
+              "rationale": "tan 30° = height/shadow. 1/√3 = height/20. height = 20/√3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_11",
+              "question_text": "What is cos 60°?",
+              "options": [
+                "1/2",
+                "√3/2",
+                "1/√2",
+                "0"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "cos 60° = 1/2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_12",
+              "question_text": "If sin θ = 4/5, what is cosec θ?",
+              "options": [
+                "5/4",
+                "4/5",
+                "3/4",
+                "5/3"
+              ],
+              "correct_answer": "5/4",
+              "rationale": "cosec θ = 1/sin θ = 1/(4/5) = 5/4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_13",
+              "question_text": "What is tan 60°?",
+              "options": [
+                "√3",
+                "1",
+                "1/√3",
+                "0"
+              ],
+              "correct_answer": "√3",
+              "rationale": "tan 60° = √3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_14",
+              "question_text": "If cot θ = 3/4, what is tan θ?",
+              "options": [
+                "4/3",
+                "3/4",
+                "3/5",
+                "4/5"
+              ],
+              "correct_answer": "4/3",
+              "rationale": "tan θ = 1/cot θ = 1/(3/4) = 4/3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_6_1_15",
+              "question_text": "From a point 50m from tower, angle of elevation is 45°. What is tower height?",
+              "options": [
+                "50 m",
+                "25 m",
+                "100 m",
+                "50√2 m"
+              ],
+              "correct_answer": "50 m",
+              "rationale": "tan 45° = height/50. 1 = height/50. height = 50m.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "MENSURATION",
+      "modules": [
+        {
+          "module_id": "10.7.1",
+          "topic_name": "Surface Areas and Volumes",
+          "explanation": "Mensuration is like measuring the world around us! Surface area is like wrapping paper - how much material needed to cover a 3D shape. Volume is like capacity - how much a container can hold. For a cylinder: surface area = 2πr(r+h) and volume = πr²h. These formulas help in construction, packaging, and manufacturing. Think of calculating paint needed for a tank or water it can hold!",
+          "difficulty": "hard",
+          "total_timer_minutes": 15,
+          "questions": [
+            {
+              "question_id": "10_7_1_1",
+              "question_text": "What is the volume of a cube with side 6 cm?",
+              "options": [
+                "216 cm³",
+                "36 cm³",
+                "72 cm³",
+                "108 cm³"
+              ],
+              "correct_answer": "216 cm³",
+              "rationale": "Volume of cube = side³ = 6³ = 216 cm³.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_2",
+              "question_text": "What is the curved surface area of cylinder with radius 3 cm and height 5 cm?",
+              "options": [
+                "30π cm²",
+                "15π cm²",
+                "60π cm²",
+                "90π cm²"
+              ],
+              "correct_answer": "30π cm²",
+              "rationale": "CSA = 2πrh = 2π × 3 × 5 = 30π cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_3",
+              "question_text": "What is the total surface area of cuboid 4cm × 3cm × 2cm?",
+              "options": [
+                "52 cm²",
+                "48 cm²",
+                "40 cm²",
+                "56 cm²"
+              ],
+              "correct_answer": "52 cm²",
+              "rationale": "TSA = 2(lw + lh + wh) = 2(4×3 + 4×2 + 3×2) = 2(12 + 8 + 6) = 52 cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_4",
+              "question_text": "What is the volume of cylinder with radius 7 cm and height 10 cm?",
+              "options": [
+                "490π cm³",
+                "70π cm³",
+                "140π cm³",
+                "980π cm³"
+              ],
+              "correct_answer": "490π cm³",
+              "rationale": "Volume = πr²h = π × 7² × 10 = π × 49 × 10 = 490π cm³.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_5",
+              "question_text": "What is the surface area of cube with side 5 cm?",
+              "options": [
+                "150 cm²",
+                "100 cm²",
+                "125 cm²",
+                "25 cm²"
+              ],
+              "correct_answer": "150 cm²",
+              "rationale": "Surface area = 6 × side² = 6 × 5² = 150 cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_6",
+              "question_text": "If a sphere has volume 36π cm³, what is its radius?",
+              "options": [
+                "3 cm",
+                "2 cm",
+                "4 cm",
+                "6 cm"
+              ],
+              "correct_answer": "3 cm",
+              "rationale": "Volume = (4/3)πr³ = 36π. (4/3)r³ = 36. r³ = 27. r = 3 cm.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_7",
+              "question_text": "What is the volume of cone with radius 6 cm and height 8 cm?",
+              "options": [
+                "96π cm³",
+                "48π cm³",
+                "192π cm³",
+                "288π cm³"
+              ],
+              "correct_answer": "96π cm³",
+              "rationale": "Volume = (1/3)πr²h = (1/3)π × 6² × 8 = (1/3)π × 36 × 8 = 96π cm³.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_8",
+              "question_text": "What is the total surface area of cylinder with radius 4 cm and height 6 cm?",
+              "options": [
+                "80π cm²",
+                "48π cm²",
+                "64π cm²",
+                "96π cm²"
+              ],
+              "correct_answer": "80π cm²",
+              "rationale": "TSA = 2πr(r + h) = 2π × 4 × (4 + 6) = 8π × 10 = 80π cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_9",
+              "question_text": "If radius of sphere is doubled, how does surface area change?",
+              "options": [
+                "4 times",
+                "2 times",
+                "8 times",
+                "Same"
+              ],
+              "correct_answer": "4 times",
+              "rationale": "Surface area = 4πr². If r becomes 2r, area = 4π(2r)² = 4 × 4πr² = 4 times.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_10",
+              "question_text": "What is the volume of hemisphere with radius 3 cm?",
+              "options": [
+                "18π cm³",
+                "36π cm³",
+                "9π cm³",
+                "27π cm³"
+              ],
+              "correct_answer": "18π cm³",
+              "rationale": "Volume of hemisphere = (2/3)πr³ = (2/3)π × 3³ = (2/3)π × 27 = 18π cm³.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_11",
+              "question_text": "What is the curved surface area of cone with radius 5 cm and slant height 13 cm?",
+              "options": [
+                "65π cm²",
+                "25π cm²",
+                "130π cm²",
+                "169π cm²"
+              ],
+              "correct_answer": "65π cm²",
+              "rationale": "CSA = πrl = π × 5 × 13 = 65π cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_12",
+              "question_text": "If volume of cube is 1000 cm³, what is its surface area?",
+              "options": [
+                "600 cm²",
+                "400 cm²",
+                "800 cm²",
+                "1000 cm²"
+              ],
+              "correct_answer": "600 cm²",
+              "rationale": "Side = ∛1000 = 10 cm. Surface area = 6 × 10² = 600 cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_13",
+              "question_text": "What is the ratio of volumes of two spheres with radii 2:3?",
+              "options": [
+                "8:27",
+                "4:9",
+                "2:3",
+                "1:1"
+              ],
+              "correct_answer": "8:27",
+              "rationale": "Volume ratio = (radius ratio)³ = (2/3)³ = 8/27 = 8:27.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_14",
+              "question_text": "What is the surface area of sphere with radius 7 cm?",
+              "options": [
+                "196π cm²",
+                "49π cm²",
+                "154π cm²",
+                "98π cm²"
+              ],
+              "correct_answer": "196π cm²",
+              "rationale": "Surface area = 4πr² = 4π × 7² = 4π × 49 = 196π cm².",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "10_7_1_15",
+              "question_text": "If a cylinder and cone have same radius and height, what is the ratio of their volumes?",
+              "options": [
+                "3:1",
+                "1:3",
+                "2:1",
+                "1:2"
+              ],
+              "correct_answer": "3:1",
+              "rationale": "Volume cylinder = πr²h, Volume cone = (1/3)πr²h. Ratio = πr²h : (1/3)πr²h = 3:1.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "STATISTICS AND PROBABILITY",
+      "modules": [
+        {
+          "module_id": "10.8_1",
+          "topic_name": "Statistics and Probability",
+          "explanation": "Statistics helps us make sense of data! Mean is the average, median is the middle value, and mode is most frequent. Think of test scores - mean tells overall performance, median shows typical score, mode reveals common patterns. Probability is like predicting the future - chance of events happening from 0 (impossible) to 1 (certain). These concepts help in weather forecasting, insurance, games, and decision-making!",
+          "difficulty": "medium",
+          "total_timer_minutes": 12,
+          "questions": [
+            {
+              "question_id": "10_8_1_1",
+              "question_text": "What is the mean of 2, 4, 6, 8, 10?",
+              "options": [
+                "6",
+                "5",
+                "7",
+                "8"
+              ],
+              "correct_answer": "6",
+              "rationale": "Mean = (2+4+6+8+10)/5 = 40/5 = 6.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_2",
+              "question_text": "What is the median of 3, 1, 4, 2, 5?",
+              "options": [
+                "3",
+                "2",
+                "4",
+                "5"
+              ],
+              "correct_answer": "3",
+              "rationale": "Arrange: 1, 2, 3, 4, 5. Middle value is 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_3",
+              "question_text": "What is the mode of 2, 3, 2, 4, 2, 5?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "2",
+              "rationale": "2 appears most frequently (3 times).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_4",
+              "question_text": "What is the probability of getting heads when tossing a fair coin?",
+              "options": [
+                "1/2",
+                "1",
+                "0",
+                "1/4"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "Fair coin has 2 equally likely outcomes. P(heads) = 1/2.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_5",
+              "question_text": "What is the range of 5, 8, 3, 9, 2?",
+              "options": [
+                "7",
+                "5",
+                "6",
+                "8"
+              ],
+              "correct_answer": "7",
+              "rationale": "Range = maximum - minimum = 9 - 2 = 7.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_6",
+              "question_text": "If mean of 5 numbers is 12, what is their sum?",
+              "options": [
+                "60",
+                "12",
+                "24",
+                "5"
+              ],
+              "correct_answer": "60",
+              "rationale": "Mean = sum/number. 12 = sum/5. sum = 12 × 5 = 60.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_7",
+              "question_text": "What is the probability of getting a number greater than 4 when rolling a die?",
+              "options": [
+                "1/3",
+                "1/2",
+                "2/3",
+                "1/6"
+              ],
+              "correct_answer": "1/3",
+              "rationale": "Numbers > 4 are 5 and 6 (2 outcomes). P = 2/6 = 1/3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_8",
+              "question_text": "What is the variance of 1, 2, 3, 4, 5?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "2",
+              "rationale": "Mean = 3. Variance = [(1-3)² + (2-3)² + (3-3)² + (4-3)² + (5-3)²]/5 = [4+1+0+1+4]/5 = 10/5 = 2.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_9",
+              "question_text": "What is the median of 2, 4, 6, 8?",
+              "options": [
+                "5",
+                "4",
+                "6",
+                "7"
+              ],
+              "correct_answer": "5",
+              "rationale": "Even number of terms: median = (4+6)/2 = 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_10",
+              "question_text": "If P(A) = 0.3, what is P(not A)?",
+              "options": [
+                "0.7",
+                "0.3",
+                "1",
+                "0"
+              ],
+              "correct_answer": "0.7",
+              "rationale": "P(not A) = 1 - P(A) = 1 - 0.3 = 0.7.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_11",
+              "question_text": "What is the standard deviation of data with variance 9?",
+              "options": [
+                "3",
+                "9",
+                "81",
+                "√9"
+              ],
+              "correct_answer": "3",
+              "rationale": "Standard deviation = √variance = √9 = 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_12",
+              "question_text": "What is the probability of getting an even number when rolling a die?",
+              "options": [
+                "1/2",
+                "1/3",
+                "2/3",
+                "1/6"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "Even numbers: 2, 4, 6 (3 outcomes). P = 3/6 = 1/2.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_13",
+              "question_text": "If two events are mutually exclusive, what is P(A or B)?",
+              "options": [
+                "P(A) + P(B)",
+                "P(A) × P(B)",
+                "P(A) - P(B)",
+                "P(A)/P(B)"
+              ],
+              "correct_answer": "P(A) + P(B)",
+              "rationale": "For mutually exclusive events: P(A ∪ B) = P(A) + P(B).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_14",
+              "question_text": "What is the mode of 1, 2, 3, 4, 5?",
+              "options": [
+                "No mode",
+                "1",
+                "3",
+                "5"
+              ],
+              "correct_answer": "No mode",
+              "rationale": "All numbers appear exactly once, so there is no mode.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "10_8_1_15",
+              "question_text": "If P(A) = 0.4 and P(B) = 0.5 and A, B are independent, what is P(A and B)?",
+              "options": [
+                "0.2",
+                "0.9",
+                "0.1",
+                "0.45"
+              ],
+              "correct_answer": "0.2",
+              "rationale": "For independent events: P(A ∩ B) = P(A) × P(B) = 0.4 × 0.5 = 0.2.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

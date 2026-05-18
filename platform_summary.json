@@ -1,0 +1,17 @@
+{
+  "platform_info": {
+    "name": "Learn Edu - TN Mathematics",
+    "version": "1.0.0",
+    "description": "Interactive Mathematics Learning Platform for TN State Board",
+    "target_audience": "Classes 1-9 Students",
+    "learning_style": "Duolingo-inspired gamified learning"
+  },
+  "generated_at": "2026-05-13T01:55:30.561387",
+  "summary": {
+    "achievement_badges": 5,
+    "learning_modes": 4,
+    "question_types": 5,
+    "curriculum_classes": 9,
+    "api_endpoints": 7
+  }
+}

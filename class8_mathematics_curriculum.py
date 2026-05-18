@@ -1,0 +1,736 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Class 8 Mathematics Curriculum Generator - TN State Board
+Transforms textbook content into Duolingo-style learning modules
+"""
+
+import json
+
+def generate_class8_curriculum():
+    """Generate comprehensive Class 8 Mathematics curriculum"""
+    
+    curriculum = {
+        "class": "8",
+        "subject": "Mathematics",
+        "chapters": [
+            {
+                "chapter_name": "Numbers",
+                "modules": [
+                    {
+                        "module_id": "8.1.1",
+                        "topic_name": "Rational Numbers",
+                        "explanation": "Rational numbers are like fractions that can be written as p/q where p and q are integers and q ≠ 0! They include integers, fractions, terminating decimals, and repeating decimals. Think of them as numbers that can be expressed as a ratio of two integers. They help us represent parts of wholes, measurements, and precise calculations in everyday life!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_1_1_1",
+                                "question_text": "Which of these is NOT a rational number?",
+                                "options": ["3/4", "0.5", "√2", "7"],
+                                "correct_answer": "√2",
+                                "explanation": "√2 is not a rational number because it cannot be expressed as a ratio of two integers. It's an irrational number.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_1_2",
+                                "question_text": "What is the decimal form of 3/8?",
+                                "options": ["0.375", "0.38", "0.3", "0.8"],
+                                "correct_answer": "0.375",
+                                "explanation": "3/8 = 0.375. Divide 3 by 8 to get the decimal equivalent.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_1_3",
+                                "question_text": "Which rational number is equivalent to 0.6?",
+                                "options": ["3/5", "6/10", "2/3", "1/2"],
+                                "correct_answer": "3/5",
+                                "explanation": "0.6 = 6/10 = 3/5. Simplify the fraction by dividing numerator and denominator by 2.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_1_4",
+                                "question_text": "Arrange in ascending order: -1/2, 0, 1/3, -1/4",
+                                "options": ["-1/2, -1/4, 0, 1/3", "-1/4, -1/2, 0, 1/3", "1/3, 0, -1/4, -1/2", "-1/2, 0, -1/4, 1/3"],
+                                "correct_answer": "-1/2, -1/4, 0, 1/3",
+                                "explanation": "Convert to decimals: -0.5, -0.25, 0, 0.333. Arrange from smallest to largest.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_1_5",
+                                "question_text": "What is the additive inverse of 5/7?",
+                                "options": ["5/7", "-5/7", "7/5", "-7/5"],
+                                "correct_answer": "-5/7",
+                                "explanation": "The additive inverse of 5/7 is -5/7 because 5/7 + (-5/7) = 0.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_1_6",
+                                "question_text": "If p/q = 2/3 and q = 6, what is p?",
+                                "options": ["2", "3", "4", "6"],
+                                "correct_answer": "4",
+                                "explanation": "p/6 = 2/3. Cross-multiply: 3p = 12. Therefore, p = 4.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.1.2",
+                        "topic_name": "Operations on Rational Numbers",
+                        "explanation": "Working with rational numbers is like working with fractions but with more flexibility! Addition and subtraction need common denominators, while multiplication and division are more straightforward. Remember: when dividing fractions, multiply by the reciprocal. These operations help us solve real-world problems involving parts and measurements!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "8_1_2_1",
+                                "question_text": "What is 2/3 + 1/4?",
+                                "options": ["3/7", "11/12", "5/12", "3/4"],
+                                "correct_answer": "11/12",
+                                "explanation": "2/3 + 1/4 = 8/12 + 3/12 = 11/12. Find common denominator (12) and add numerators.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_1_2_2",
+                                "question_text": "What is 3/5 × 2/3?",
+                                "options": ["6/15", "2/5", "1", "6/8"],
+                                "correct_answer": "2/5",
+                                "explanation": "3/5 × 2/3 = (3×2)/(5×3) = 6/15 = 2/5. Multiply numerators and denominators, then simplify.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_1_2_3",
+                                "question_text": "What is 5/6 ÷ 2/3?",
+                                "options": ["5/4", "3/4", "10/18", "5/9"],
+                                "correct_answer": "5/4",
+                                "explanation": "5/6 ÷ 2/3 = 5/6 × 3/2 = 15/12 = 5/4. Multiply by the reciprocal and simplify.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_1_2_4",
+                                "question_text": "What is 7/8 - 1/4?",
+                                "options": ["6/4", "5/8", "6/8", "3/4"],
+                                "correct_answer": "5/8",
+                                "explanation": "7/8 - 1/4 = 7/8 - 2/8 = 5/8. Find common denominator and subtract numerators.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_1_2_5",
+                                "question_text": "If x = 2/3 and y = 1/2, what is x + y?",
+                                "options": ["3/5", "7/6", "5/6", "4/5"],
+                                "correct_answer": "7/6",
+                                "explanation": "2/3 + 1/2 = 4/6 + 3/6 = 7/6. Find common denominator (6) and add.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_1_2_6",
+                                "question_text": "What is the product of 3/4 and its reciprocal?",
+                                "options": ["1", "9/16", "3/4", "4/3"],
+                                "correct_answer": "1",
+                                "explanation": "3/4 × 4/3 = 12/12 = 1. Any number multiplied by its reciprocal equals 1.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.1.3",
+                        "topic_name": "Square Roots and Cube Roots",
+                        "explanation": "Square roots and cube roots are like reverse operations of squaring and cubing! Square root of 25 is 5 because 5² = 25. Cube root of 27 is 3 because 3³ = 27. Perfect squares have whole number square roots, while perfect cubes have whole number cube roots. These help in geometry, physics, and engineering calculations!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_1_3_1",
+                                "question_text": "What is the square root of 64?",
+                                "options": ["6", "7", "8", "9"],
+                                "correct_answer": "8",
+                                "explanation": "√64 = 8 because 8² = 8 × 8 = 64.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_3_2",
+                                "question_text": "What is the cube root of 125?",
+                                "options": ["3", "4", "5", "6"],
+                                "correct_answer": "5",
+                                "explanation": "∛125 = 5 because 5³ = 5 × 5 × 5 = 125.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_3_3",
+                                "question_text": "Which of these is a perfect square?",
+                                "options": ["30", "49", "50", "60"],
+                                "correct_answer": "49",
+                                "explanation": "49 is a perfect square because √49 = 7, which is a whole number.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_3_4",
+                                "question_text": "What is √81 + √16?",
+                                "options": ["13", "17", "9", "25"],
+                                "correct_answer": "13",
+                                "explanation": "√81 + √16 = 9 + 4 = 13.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_3_5",
+                                "question_text": "If x² = 144, what is x?",
+                                "options": ["12", "14", "16", "18"],
+                                "correct_answer": "12",
+                                "explanation": "x² = 144, so x = √144 = 12. (We consider the positive root unless specified).",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_1_3_6",
+                                "question_text": "Which number is both a perfect square and perfect cube?",
+                                "options": ["8", "16", "27", "64"],
+                                "correct_answer": "64",
+                                "explanation": "64 is both a perfect square (√64 = 8) and perfect cube (∛64 = 4).",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Measurements",
+                "modules": [
+                    {
+                        "module_id": "8.2.1",
+                        "topic_name": "Area of Plane Figures",
+                        "explanation": "Area is the space inside 2D shapes! Different shapes have different formulas: Rectangle = length × width, Triangle = 1/2 × base × height, Circle = πr², Trapezium = 1/2 × (sum of parallel sides) × height. These formulas help in construction, landscaping, and design work!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_2_1_1",
+                                "question_text": "What is the area of a rectangle with length 12 cm and width 8 cm?",
+                                "options": ["96 cm²", "40 cm²", "20 cm²", "48 cm²"],
+                                "correct_answer": "96 cm²",
+                                "explanation": "Area = length × width = 12 cm × 8 cm = 96 cm².",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_2_1_2",
+                                "question_text": "What is the area of a triangle with base 10 cm and height 6 cm?",
+                                "options": ["30 cm²", "60 cm²", "16 cm²", "20 cm²"],
+                                "correct_answer": "30 cm²",
+                                "explanation": "Area = 1/2 × base × height = 1/2 × 10 cm × 6 cm = 30 cm².",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_2_1_3",
+                                "question_text": "What is the area of a circle with radius 7 cm? (π = 22/7)",
+                                "options": ["154 cm²", "44 cm²", "49 cm²", "308 cm²"],
+                                "correct_answer": "154 cm²",
+                                "explanation": "Area = πr² = (22/7) × 7² = (22/7) × 49 = 22 × 7 = 154 cm².",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_2_1_4",
+                                "question_text": "If a square has area 64 cm², what is its side length?",
+                                "options": ["4 cm", "6 cm", "8 cm", "10 cm"],
+                                "correct_answer": "8 cm",
+                                "explanation": "Side = √area = √64 = 8 cm.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_2_1_5",
+                                "question_text": "What is the area of a trapezium with parallel sides 8 cm and 12 cm, and height 5 cm?",
+                                "options": ["50 cm²", "100 cm²", "40 cm²", "20 cm²"],
+                                "correct_answer": "50 cm²",
+                                "explanation": "Area = 1/2 × (8 + 12) × 5 = 1/2 × 20 × 5 = 50 cm².",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.2.2",
+                        "topic_name": "Surface Area and Volume of 3D Shapes",
+                        "explanation": "3D shapes have both surface area (total area of all faces) and volume (space inside). Cube: SA = 6a², Volume = a³. Cuboid: SA = 2(lw + lh + wh), Volume = lwh. Cylinder: SA = 2πr(r + h), Volume = πr²h. These are crucial for packaging, construction, and engineering!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "8_2_2_1",
+                                "question_text": "What is the volume of a cube with side 5 cm?",
+                                "options": ["25 cm³", "125 cm³", "150 cm³", "100 cm³"],
+                                "correct_answer": "125 cm³",
+                                "explanation": "Volume = side³ = 5³ = 5 × 5 × 5 = 125 cm³.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_2_2_2",
+                                "question_text": "What is the surface area of a cube with side 4 cm?",
+                                "options": ["96 cm²", "64 cm²", "24 cm²", "48 cm²"],
+                                "correct_answer": "96 cm²",
+                                "explanation": "Surface area = 6 × side² = 6 × 4² = 6 × 16 = 96 cm².",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_2_2_3",
+                                "question_text": "What is the volume of a cuboid with dimensions 6 cm × 4 cm × 3 cm?",
+                                "options": ["72 cm³", "36 cm³", "13 cm³", "24 cm³"],
+                                "correct_answer": "72 cm³",
+                                "explanation": "Volume = length × width × height = 6 × 4 × 3 = 72 cm³.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_2_2_4",
+                                "question_text": "What is the volume of a cylinder with radius 3 cm and height 7 cm? (π = 22/7)",
+                                "options": ["198 cm³", "132 cm³", "66 cm³", "462 cm³"],
+                                "correct_answer": "198 cm³",
+                                "explanation": "Volume = πr²h = (22/7) × 3² × 7 = (22/7) × 9 × 7 = 22 × 9 = 198 cm³.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_2_2_5",
+                                "question_text": "If the volume of a cube is 216 cm³, what is its surface area?",
+                                "options": ["216 cm²", "150 cm²", "96 cm²", "288 cm²"],
+                                "correct_answer": "216 cm²",
+                                "explanation": "Side = ∛216 = 6 cm. Surface area = 6 × 6² = 6 × 36 = 216 cm².",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Algebra",
+                "modules": [
+                    {
+                        "module_id": "8.3.1",
+                        "topic_name": "Linear Equations in Two Variables",
+                        "explanation": "Linear equations in two variables are like straight lines on a graph! They have the form ax + by + c = 0, where x and y are variables. Each equation represents a line, and the solution is any point (x, y) that lies on that line. These help model relationships between two quantities in real life!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "8_3_1_1",
+                                "question_text": "Which of these is a linear equation in two variables?",
+                                "options": ["x + y = 5", "x² + y = 3", "xy = 6", "x² + y² = 25"],
+                                "correct_answer": "x + y = 5",
+                                "explanation": "x + y = 5 is linear because both variables have power 1. The others have variables with power 2 or are multiplied together.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_3_1_2",
+                                "question_text": "In the equation 2x + 3y = 12, if x = 3, what is y?",
+                                "options": ["1", "2", "3", "4"],
+                                "correct_answer": "2",
+                                "explanation": "2(3) + 3y = 12. 6 + 3y = 12. 3y = 6. y = 2.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_3_1_3",
+                                "question_text": "What is the x-intercept of the line x + 2y = 6?",
+                                "options": ["(6, 0)", "(0, 6)", "(3, 0)", "(0, 3)"],
+                                "correct_answer": "(6, 0)",
+                                "explanation": "For x-intercept, y = 0. x + 2(0) = 6. x = 6. So the point is (6, 0).",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_3_1_4",
+                                "question_text": "What is the y-intercept of the line 3x - y = 9?",
+                                "options": ["(0, -9)", "(0, 9)", "(3, 0)", "(-3, 0)"],
+                                "correct_answer": "(0, -9)",
+                                "explanation": "For y-intercept, x = 0. 3(0) - y = 9. -y = 9. y = -9. So the point is (0, -9).",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_3_1_5",
+                                "question_text": "Which point lies on the line 2x - y = 4?",
+                                "options": ["(3, 2)", "(2, 0)", "(1, -2)", "(4, 4)"],
+                                "correct_answer": "(3, 2)",
+                                "explanation": "Check (3, 2): 2(3) - 2 = 6 - 2 = 4. This satisfies the equation, so (3, 2) lies on the line.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.3.2",
+                        "topic_name": "Algebraic Identities",
+                        "explanation": "Algebraic identities are like mathematical shortcuts that always work! They include (a + b)² = a² + 2ab + b², (a - b)² = a² - 2ab + b², and (a + b)(a - b) = a² - b². These help simplify complex expressions and solve problems faster in algebra and geometry!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_3_2_1",
+                                "question_text": "What is (x + 3)²?",
+                                "options": ["x² + 6x + 9", "x² + 9", "x² + 3x + 9", "x² + 6x + 3"],
+                                "correct_answer": "x² + 6x + 9",
+                                "explanation": "(x + 3)² = x² + 2(x)(3) + 3² = x² + 6x + 9 using (a + b)² identity.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_3_2_2",
+                                "question_text": "What is (2x - 1)²?",
+                                "options": ["4x² - 4x + 1", "4x² + 1", "4x² - 2x + 1", "2x² - 2x + 1"],
+                                "correct_answer": "4x² - 4x + 1",
+                                "explanation": "(2x - 1)² = (2x)² - 2(2x)(1) + 1² = 4x² - 4x + 1 using (a - b)² identity.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_3_2_3",
+                                "question_text": "What is (x + 5)(x - 5)?",
+                                "options": ["x² - 25", "x² + 25", "x² - 5x + 25", "x² + 5x - 25"],
+                                "correct_answer": "x² - 25",
+                                "explanation": "(x + 5)(x - 5) = x² - 5² = x² - 25 using (a + b)(a - b) identity.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_3_2_4",
+                                "question_text": "If x = 2 and y = 3, what is (x + y)²?",
+                                "options": ["25", "13", "10", "5"],
+                                "correct_answer": "25",
+                                "explanation": "(x + y)² = (2 + 3)² = 5² = 25.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_3_2_5",
+                                "question_text": "What is the expanded form of (3a + 2b)²?",
+                                "options": ["9a² + 12ab + 4b²", "9a² + 4b²", "9a² + 6ab + 4b²", "3a² + 4ab + 2b²"],
+                                "correct_answer": "9a² + 12ab + 4b²",
+                                "explanation": "(3a + 2b)² = (3a)² + 2(3a)(2b) + (2b)² = 9a² + 12ab + 4b².",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Life Mathematics",
+                "modules": [
+                    {
+                        "module_id": "8.4.1",
+                        "topic_name": "Compound Interest",
+                        "explanation": "Compound interest is like interest on interest - it grows faster than simple interest! Formula: A = P(1 + r/n)^(nt), where P is principal, r is annual rate, n is times compounded per year, t is years. This is how banks, investments, and loans really work in the real world!",
+                        "difficulty": "hard",
+                        "total_timer_minutes": 10,
+                        "questions": [
+                            {
+                                "question_id": "8_4_1_1",
+                                "question_text": "What is the compound interest on ₹1000 for 2 years at 10% per annum compounded annually?",
+                                "options": ["₹200", "₹210", "₹220", "₹1210"],
+                                "correct_answer": "₹210",
+                                "explanation": "Amount = 1000(1 + 0.1)² = 1000 × 1.21 = ₹1210. CI = 1210 - 1000 = ₹210.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_4_1_2",
+                                "question_text": "If ₹5000 becomes ₹5500 in one year at compound interest, what is the rate?",
+                                "options": ["5%", "10%", "15%", "20%"],
+                                "correct_answer": "10%",
+                                "explanation": "Amount = Principal(1 + r). 5500 = 5000(1 + r). 1 + r = 1.1. r = 0.1 = 10%.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_4_1_3",
+                                "question_text": "What will ₹2000 become in 3 years at 5% compound interest annually?",
+                                "options": ["₹2315", "₹2300", "₹2400", "₹2500"],
+                                "correct_answer": "₹2315",
+                                "explanation": "Amount = 2000(1 + 0.05)³ = 2000 × 1.157625 = ₹2315.25 ≈ ₹2315.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_4_1_4",
+                                "question_text": "The difference between compound and simple interest on ₹1000 for 2 years at 10% is:",
+                                "options": ["₹10", "₹20", "₹30", "₹40"],
+                                "correct_answer": "₹10",
+                                "explanation": "SI = 1000 × 10% × 2 = ₹200. CI = ₹210. Difference = ₹10.",
+                                "timer_per_question_seconds": 60
+                            },
+                            {
+                                "question_id": "8_4_1_5",
+                                "question_text": "If money doubles in 5 years at compound interest, approximately what is the rate?",
+                                "options": ["10%", "14%", "15%", "20%"],
+                                "correct_answer": "14%",
+                                "explanation": "2P = P(1 + r)⁵. 2 = (1 + r)⁵. 1 + r = 2^(1/5) ≈ 1.14. r ≈ 14%.",
+                                "timer_per_question_seconds": 60
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.4.2",
+                        "topic_name": "Time and Work",
+                        "explanation": "Time and work problems involve understanding how work is distributed! If A can do a job in x days and B in y days, together they can do it in (xy)/(x + y) days. Work = Rate × Time. These concepts help in project planning, resource allocation, and efficiency calculations!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_4_2_1",
+                                "question_text": "If A can complete a work in 6 days and B in 12 days, how many days will they take together?",
+                                "options": ["4 days", "8 days", "3 days", "5 days"],
+                                "correct_answer": "4 days",
+                                "explanation": "Together: (6 × 12)/(6 + 12) = 72/18 = 4 days. Or A's rate = 1/6, B's rate = 1/12, together = 1/6 + 1/12 = 1/4.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_4_2_2",
+                                "question_text": "If 3 workers can build a wall in 8 days, how many days will 4 workers take?",
+                                "options": ["6 days", "8 days", "10 days", "12 days"],
+                                "correct_answer": "6 days",
+                                "explanation": "Work is inversely proportional to workers. 3 × 8 = 4 × days. days = 24/4 = 6 days.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_4_2_3",
+                                "question_text": "A pipe can fill a tank in 6 hours and another can empty it in 8 hours. How long to fill the tank?",
+                                "options": ["24 hours", "12 hours", "48 hours", "3 hours"],
+                                "correct_answer": "24 hours",
+                                "explanation": "Net rate = 1/6 - 1/8 = (4 - 3)/24 = 1/24. Time = 24 hours.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_4_2_4",
+                                "question_text": "If 5 machines produce 500 items in 10 days, how many items will 8 machines produce in 5 days?",
+                                "options": ["400", "500", "600", "800"],
+                                "correct_answer": "400",
+                                "explanation": "Rate per machine per day = 500/(5 × 10) = 10 items. 8 machines × 5 days × 10 = 400 items.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_4_2_5",
+                                "question_text": "A and B together can do a work in 15 days. If A alone takes 20 days, how long does B take?",
+                                "options": ["60 days", "30 days", "40 days", "50 days"],
+                                "correct_answer": "60 days",
+                                "explanation": "1/15 = 1/20 + 1/B. 1/B = 1/15 - 1/20 = (4 - 3)/60 = 1/60. B = 60 days.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Statistics",
+                "modules": [
+                    {
+                        "module_id": "8.5.1",
+                        "topic_name": "Data Representation",
+                        "explanation": "Data representation turns numbers into visual stories! Bar graphs compare quantities, line graphs show trends over time, pie charts display parts of a whole, and histograms show frequency distributions. Each type has its strength - choose the right one to make your data tell its story effectively!",
+                        "difficulty": "easy",
+                        "total_timer_minutes": 6,
+                        "questions": [
+                            {
+                                "question_id": "8_5_1_1",
+                                "question_text": "Which graph is best for showing changes over time?",
+                                "options": ["Bar graph", "Line graph", "Pie chart", "Histogram"],
+                                "correct_answer": "Line graph",
+                                "explanation": "Line graphs are excellent for showing trends and changes over time periods.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_5_1_2",
+                                "question_text": "What does a pie chart show best?",
+                                "options": ["Trends over time", "Comparisons between categories", "Parts of a whole", "Frequency distribution"],
+                                "correct_answer": "Parts of a whole",
+                                "explanation": "Pie charts are perfect for showing how a total is divided into parts or percentages.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_5_1_3",
+                                "question_text": "In a histogram, what do the bars represent?",
+                                "options": ["Categories", "Time periods", "Frequency ranges", "Percentages"],
+                                "correct_answer": "Frequency ranges",
+                                "explanation": "Histogram bars show the frequency of data within specific ranges or intervals.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_5_1_4",
+                                "question_text": "Which graph would you use to compare sales of different products?",
+                                "options": ["Line graph", "Bar graph", "Pie chart", "Scatter plot"],
+                                "correct_answer": "Bar graph",
+                                "explanation": "Bar graphs are ideal for comparing quantities across different categories like products.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_5_1_5",
+                                "question_text": "What is the purpose of data representation?",
+                                "options": ["To make numbers look pretty", "To make data easier to understand", "To hide information", "To make calculations harder"],
+                                "correct_answer": "To make data easier to understand",
+                                "explanation": "Data representation helps visualize information to make patterns and insights more apparent.",
+                                "timer_per_question_seconds": 30
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.5.2",
+                        "topic_name": "Measures of Central Tendency",
+                        "explanation": "Measures of central tendency find the 'center' of data! Mean is the average (sum ÷ count), median is the middle value, and mode is the most frequent value. Each has its use - mean for balanced data, median for skewed data, mode for most common values. These help summarize large datasets!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_5_2_1",
+                                "question_text": "What is the mean of 2, 4, 6, 8, 10?",
+                                "options": ["5", "6", "7", "8"],
+                                "correct_answer": "6",
+                                "explanation": "Mean = (2 + 4 + 6 + 8 + 10) ÷ 5 = 30 ÷ 5 = 6.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_5_2_2",
+                                "question_text": "What is the median of 3, 1, 7, 5, 9?",
+                                "options": ["3", "5", "7", "9"],
+                                "correct_answer": "5",
+                                "explanation": "Arrange in order: 1, 3, 5, 7, 9. The middle value (median) is 5.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_5_2_3",
+                                "question_text": "What is the mode of 2, 3, 5, 3, 7, 3, 9?",
+                                "options": ["2", "3", "5", "7"],
+                                "correct_answer": "3",
+                                "explanation": "3 appears most frequently (3 times), so it's the mode.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_5_2_4",
+                                "question_text": "If the mean of 5 numbers is 12, what is their sum?",
+                                "options": ["48", "60", "72", "84"],
+                                "correct_answer": "60",
+                                "explanation": "Mean = Sum ÷ Count. 12 = Sum ÷ 5. Sum = 12 × 5 = 60.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_5_2_5",
+                                "question_text": "Which measure is affected most by extreme values?",
+                                "options": ["Mean", "Median", "Mode", "All equally"],
+                                "correct_answer": "Mean",
+                                "explanation": "Mean is most affected by extreme values because it uses all values in calculation.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_name": "Information Processing",
+                "modules": [
+                    {
+                        "module_id": "8.6.1",
+                        "topic_name": "Set Theory Basics",
+                        "explanation": "Sets are like collections of similar items! They can be represented using roster form {1, 2, 3} or set-builder form {x | x is a natural number less than 4}. Set operations include union (∪), intersection (∩), and complement. These concepts help organize and classify information systematically!",
+                        "difficulty": "medium",
+                        "total_timer_minutes": 8,
+                        "questions": [
+                            {
+                                "question_id": "8_6_1_1",
+                                "question_text": "What is the union of sets A = {1, 2, 3} and B = {3, 4, 5}?",
+                                "options": ["{3}", "{1, 2, 4, 5}", "{1, 2, 3, 4, 5}", "{1, 2, 3}"],
+                                "correct_answer": "{1, 2, 3, 4, 5}",
+                                "explanation": "Union A ∪ B contains all elements from both sets: {1, 2, 3, 4, 5}.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_6_1_2",
+                                "question_text": "What is the intersection of sets P = {a, b, c} and Q = {c, d, e}?",
+                                "options": ["{c}", "{a, b, d, e}", "{a, b, c, d, e}", "{}"],
+                                "correct_answer": "{c}",
+                                "explanation": "Intersection P ∩ Q contains only elements common to both sets: {c}.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_6_1_3",
+                                "question_text": "Which set notation represents 'x is an element of set A'?",
+                                "options": ["x ∈ A", "x ⊂ A", "x ∉ A", "x ⊆ A"],
+                                "correct_answer": "x ∈ A",
+                                "explanation": "x ∈ A means 'x is an element of set A'.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_6_1_4",
+                                "question_text": "If U = {1, 2, 3, 4, 5, 6} and A = {2, 4, 6}, what is A' (complement of A)?",
+                                "options": ["{2, 4, 6}", "{1, 3, 5}", "{1, 2, 3, 4, 5, 6}", "{}"],
+                                "correct_answer": "{1, 3, 5}",
+                                "explanation": "Complement A' contains elements in U but not in A: {1, 3, 5}.",
+                                "timer_per_question_seconds": 45
+                            },
+                            {
+                                "question_id": "8_6_1_5",
+                                "question_text": "How many elements are in the power set of {1, 2}?",
+                                "options": ["2", "3", "4", "8"],
+                                "correct_answer": "4",
+                                "explanation": "Power set has 2^n elements where n is the number of elements in original set. 2² = 4.",
+                                "timer_per_question_seconds": 45
+                            }
+                        ]
+                    },
+                    {
+                        "module_id": "8.6.2",
+                        "topic_name": "Logical Reasoning",
+                        "explanation": "Logical reasoning helps us think systematically and make valid conclusions! It involves identifying patterns, making deductions, and solving puzzles. Venn diagrams help visualize relationships between sets, while logical statements help in decision-making. These skills are crucial for problem-solving and critical thinking!",
+                        "difficulty": "easy",
+                        "total_timer_minutes": 6,
+                        "questions": [
+                            {
+                                "question_id": "8_6_2_1",
+                                "question_text": "If all cats are animals and some animals are pets, what can we conclude?",
+                                "options": ["All cats are pets", "Some cats are pets", "No cats are pets", "Some pets are cats"],
+                                "correct_answer": "Some cats are pets",
+                                "explanation": "Since all cats are animals and some animals are pets, it's possible that some cats are pets.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_6_2_2",
+                                "question_text": "What do Venn diagrams help visualize?",
+                                "options": ["Only numbers", "Relationships between sets", "Only geometric shapes", "Time sequences"],
+                                "correct_answer": "Relationships between sets",
+                                "explanation": "Venn diagrams show relationships, intersections, and unions between different sets.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_6_2_3",
+                                "question_text": "In a logical statement 'If P then Q', what is the contrapositive?",
+                                "options": ["If Q then P", "If not P then not Q", "If not Q then not P", "Q if and only if P"],
+                                "correct_answer": "If not Q then not P",
+                                "explanation": "The contrapositive of 'If P then Q' is 'If not Q then not P' and they are logically equivalent.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_6_2_4",
+                                "question_text": "Which is NOT a logical connective?",
+                                "options": ["AND", "OR", "NOT", "MAYBE"],
+                                "correct_answer": "MAYBE",
+                                "explanation": "AND, OR, NOT are standard logical connectives. MAYBE is not a formal logical connective.",
+                                "timer_per_question_seconds": 30
+                            },
+                            {
+                                "question_id": "8_6_2_5",
+                                "question_text": "What is deductive reasoning?",
+                                "options": ["Making general conclusions from specific cases", "Applying general rules to specific cases", "Guessing randomly", "Following emotions"],
+                                "correct_answer": "Applying general rules to specific cases",
+                                "explanation": "Deductive reasoning starts with general principles and applies them to reach specific conclusions.",
+                                "timer_per_question_seconds": 30
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+    
+    return curriculum
+
+def save_curriculum_to_json():
+    """Save the curriculum to a JSON file"""
+    curriculum = generate_class8_curriculum()
+    
+    with open('class8_mathematics_curriculum.json', 'w', encoding='utf-8') as f:
+        json.dump(curriculum, f, indent=2, ensure_ascii=False)
+    
+    print("Class 8 Mathematics curriculum saved to 'class8_mathematics_curriculum.json'")
+    
+    # Print statistics
+    total_modules = sum(len(chapter['modules']) for chapter in curriculum['chapters'])
+    total_questions = 0
+    
+    for chapter in curriculum['chapters']:
+        for module in chapter['modules']:
+            total_questions += len(module['questions'])
+    
+    print(f"Statistics:")
+    print(f"  Chapters: {len(curriculum['chapters'])}")
+    print(f"  Modules: {total_modules}")
+    print(f"  Questions: {total_questions}")
+
+if __name__ == "__main__":
+    save_curriculum_to_json()

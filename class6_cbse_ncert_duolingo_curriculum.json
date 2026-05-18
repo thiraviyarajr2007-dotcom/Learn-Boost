@@ -1,0 +1,2150 @@
+{
+  "class": "6",
+  "board": "CBSE",
+  "subject": "Mathematics",
+  "source_pdf": "NCERT 6th maths book.pdf",
+  "chapters": [
+    {
+      "chapter_name": "Knowing Our Numbers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Comparing, Arranging and Place Value",
+          "explanation": "Large numbers are easier when we read them place by place. Digits get their value from where they sit: ones, tens, hundreds, thousands, lakhs and crores. To compare numbers, first count digits; the number with more digits is greater. If digits are equal in number, compare from the left. Commas and place-value boxes help us read, write and expand big numbers clearly.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which is the greatest number: 92, 392, 4456, 89742?",
+              "options": [
+                "92",
+                "392",
+                "4456",
+                "89742"
+              ],
+              "correct_answer": "89742",
+              "rationale": "It has the most digits, so it is greatest.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "The smallest 5-digit number is",
+              "options": [
+                "9999",
+                "10000",
+                "100000",
+                "1000"
+              ],
+              "correct_answer": "10000",
+              "rationale": "Adding 1 to 9999 gives 10000.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "In 45,278, the digit 4 is in the",
+              "options": [
+                "ones place",
+                "hundreds place",
+                "thousands place",
+                "ten thousands place"
+              ],
+              "correct_answer": "ten thousands place",
+              "rationale": "The leftmost digit 4 represents 4 ten thousands.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Ascending order means arranging from",
+              "options": [
+                "greatest to smallest",
+                "smallest to greatest",
+                "left to right only",
+                "odd to even"
+              ],
+              "correct_answer": "smallest to greatest",
+              "rationale": "Ascending order goes upward from small to large.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "In Indian numeration, the first comma from the right comes after",
+              "options": [
+                "one digit",
+                "two digits",
+                "three digits",
+                "four digits"
+              ],
+              "correct_answer": "three digits",
+              "rationale": "The first comma marks thousands after the hundreds place.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Estimation, Brackets and Roman Numerals",
+          "explanation": "Estimation gives a quick, sensible answer without exact calculation. We round numbers to nearest tens, hundreds or thousands to make mental work easier. Brackets tell us which part to do first. Roman numerals use letters such as I, V, X, L and C to write numbers. These tools help in checking answers, simplifying expressions and reading older number systems.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Rounding 68 to the nearest ten gives",
+              "options": [
+                "60",
+                "70",
+                "80",
+                "100"
+              ],
+              "correct_answer": "70",
+              "rationale": "68 is closer to 70 than to 60.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Rounding 348 to the nearest hundred gives",
+              "options": [
+                "300",
+                "340",
+                "350",
+                "400"
+              ],
+              "correct_answer": "300",
+              "rationale": "348 is less than halfway to 400.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "In 5 x (3 + 2), which part is done first?",
+              "options": [
+                "5 x 3",
+                "3 + 2",
+                "5 + 2",
+                "No part"
+              ],
+              "correct_answer": "3 + 2",
+              "rationale": "Brackets are solved first.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "The Roman numeral X stands for",
+              "options": [
+                "5",
+                "10",
+                "50",
+                "100"
+              ],
+              "correct_answer": "10",
+              "rationale": "X represents ten.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "The Roman numeral IV stands for",
+              "options": [
+                "4",
+                "6",
+                "9",
+                "11"
+              ],
+              "correct_answer": "4",
+              "rationale": "I before V means one less than five.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Whole Numbers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Whole Numbers and Number Line",
+          "explanation": "Whole numbers are 0, 1, 2, 3 and so on. They begin at zero and continue forever. On a number line, numbers increase as we move right. Addition means jumping right, subtraction means jumping left, and multiplication can be shown as repeated equal jumps. The number line makes whole-number operations visible and friendly.",
+          "difficulty": "Easy",
+          "total_timer_minutes": 7,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which is the smallest whole number?",
+              "options": [
+                "0",
+                "1",
+                "-1",
+                "10"
+              ],
+              "correct_answer": "0",
+              "rationale": "Whole numbers begin from zero.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 2,
+              "question_text": "The successor of 999 is",
+              "options": [
+                "998",
+                "999",
+                "1000",
+                "1001"
+              ],
+              "correct_answer": "1000",
+              "rationale": "Successor means the next number.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 3,
+              "question_text": "The predecessor of 100 is",
+              "options": [
+                "99",
+                "100",
+                "101",
+                "0"
+              ],
+              "correct_answer": "99",
+              "rationale": "Predecessor means one less.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 4,
+              "question_text": "On a number line, numbers increase when we move",
+              "options": [
+                "left",
+                "right",
+                "down",
+                "nowhere"
+              ],
+              "correct_answer": "right",
+              "rationale": "Greater whole numbers are to the right.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 5,
+              "question_text": "3 + 4 on a number line means",
+              "options": [
+                "4 jumps left from 3",
+                "4 jumps right from 3",
+                "3 jumps left from 4",
+                "No jump"
+              ],
+              "correct_answer": "4 jumps right from 3",
+              "rationale": "Addition moves right.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Properties and Patterns in Whole Numbers",
+          "explanation": "Whole numbers follow useful properties. Addition and multiplication are closed, commutative and associative for whole numbers. Zero is the additive identity because adding zero changes nothing. One is the multiplicative identity because multiplying by one changes nothing. Patterns in whole numbers help us notice rules and build confidence with calculations.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which is the additive identity for whole numbers?",
+              "options": [
+                "0",
+                "1",
+                "10",
+                "100"
+              ],
+              "correct_answer": "0",
+              "rationale": "Adding 0 leaves the number unchanged.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which is the multiplicative identity?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "10"
+              ],
+              "correct_answer": "1",
+              "rationale": "Multiplying by 1 leaves the number unchanged.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Which property is shown by 4 + 7 = 7 + 4?",
+              "options": [
+                "Closure",
+                "Commutative property",
+                "Associative property",
+                "Distributive property"
+              ],
+              "correct_answer": "Commutative property",
+              "rationale": "The order changes but the sum is the same.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is 25 x 0?",
+              "options": [
+                "0",
+                "1",
+                "25",
+                "250"
+              ],
+              "correct_answer": "0",
+              "rationale": "Any whole number multiplied by zero is zero.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which operation is not closed for whole numbers?",
+              "options": [
+                "Addition",
+                "Multiplication",
+                "Subtraction",
+                "Adding zero"
+              ],
+              "correct_answer": "Subtraction",
+              "rationale": "For example, 3 - 5 is not a whole number.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Playing With Numbers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Factors, Multiples, Prime and Composite Numbers",
+          "explanation": "Factors divide a number exactly, while multiples are products of a number. For example, factors of 6 are 1, 2, 3 and 6, and multiples of 6 include 6, 12 and 18. A prime number has exactly two factors, 1 and itself. A composite number has more than two factors. These ideas are like the building blocks of numbers.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which is a factor of 12?",
+              "options": [
+                "5",
+                "7",
+                "3",
+                "10"
+              ],
+              "correct_answer": "3",
+              "rationale": "12 divided by 3 leaves no remainder.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which is a multiple of 8?",
+              "options": [
+                "12",
+                "16",
+                "18",
+                "22"
+              ],
+              "correct_answer": "16",
+              "rationale": "16 = 8 x 2.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A prime number has exactly",
+              "options": [
+                "one factor",
+                "two factors",
+                "three factors",
+                "no factors"
+              ],
+              "correct_answer": "two factors",
+              "rationale": "A prime has factors 1 and itself.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Which number is composite?",
+              "options": [
+                "2",
+                "3",
+                "5",
+                "9"
+              ],
+              "correct_answer": "9",
+              "rationale": "9 has factors 1, 3 and 9.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "1 is",
+              "options": [
+                "prime",
+                "composite",
+                "neither prime nor composite",
+                "even only"
+              ],
+              "correct_answer": "neither prime nor composite",
+              "rationale": "It has only one factor.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Divisibility, Prime Factorisation, HCF and LCM",
+          "explanation": "Divisibility rules help us check division quickly. Prime factorisation breaks a number into prime-number building blocks. HCF is the greatest common factor shared by numbers, while LCM is the smallest common multiple. These tools help solve sharing, grouping and timing problems without listing too many numbers.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A number is divisible by 2 if its ones digit is",
+              "options": [
+                "odd",
+                "even",
+                "5",
+                "9"
+              ],
+              "correct_answer": "even",
+              "rationale": "Numbers ending in 0, 2, 4, 6 or 8 are divisible by 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "A number is divisible by 5 if it ends in",
+              "options": [
+                "0 or 5",
+                "2 or 4",
+                "3 or 6",
+                "1 or 9"
+              ],
+              "correct_answer": "0 or 5",
+              "rationale": "This is the divisibility rule for 5.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Prime factorisation of 12 is",
+              "options": [
+                "2 x 2 x 3",
+                "2 x 6",
+                "3 x 4",
+                "1 x 12"
+              ],
+              "correct_answer": "2 x 2 x 3",
+              "rationale": "All factors in prime factorisation must be prime.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "HCF of 6 and 8 is",
+              "options": [
+                "1",
+                "2",
+                "6",
+                "24"
+              ],
+              "correct_answer": "2",
+              "rationale": "2 is the greatest factor common to both.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "LCM of 4 and 6 is",
+              "options": [
+                "2",
+                "6",
+                "12",
+                "24"
+              ],
+              "correct_answer": "12",
+              "rationale": "12 is the smallest common multiple of 4 and 6.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Basic Geometrical Ideas",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Points, Lines, Line Segments and Curves",
+          "explanation": "Geometry begins with simple ideas. A point shows an exact position. A line segment has two end points, while a line extends endlessly in both directions. Intersecting lines meet, and parallel lines never meet. Curves may be open or closed. These basic ideas help us describe maps, drawings, shapes and objects around us.",
+          "difficulty": "Easy",
+          "total_timer_minutes": 7,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A point shows",
+              "options": [
+                "an exact position",
+                "a long path",
+                "a surface",
+                "a solid"
+              ],
+              "correct_answer": "an exact position",
+              "rationale": "A point marks a location.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 2,
+              "question_text": "A line segment has",
+              "options": [
+                "no end points",
+                "one end point",
+                "two end points",
+                "three end points"
+              ],
+              "correct_answer": "two end points",
+              "rationale": "A segment is a part of a line with two ends.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 3,
+              "question_text": "Parallel lines",
+              "options": [
+                "always meet",
+                "never meet",
+                "form circles",
+                "have one endpoint"
+              ],
+              "correct_answer": "never meet",
+              "rationale": "Parallel lines remain the same distance apart.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 4,
+              "question_text": "Intersecting lines",
+              "options": [
+                "meet at a point",
+                "never meet",
+                "are always curved",
+                "are always equal"
+              ],
+              "correct_answer": "meet at a point",
+              "rationale": "Intersecting means crossing or meeting.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 5,
+              "question_text": "A closed curve",
+              "options": [
+                "has open ends",
+                "does not enclose space",
+                "joins back to itself",
+                "is always straight"
+              ],
+              "correct_answer": "joins back to itself",
+              "rationale": "A closed curve has no open end.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Polygons, Angles, Triangles and Quadrilaterals",
+          "explanation": "A polygon is a closed figure made of line segments. Triangles have three sides, quadrilaterals have four sides, and circles are not polygons because they are curved. An angle is formed when two rays meet at a point. These shape names are the vocabulary students need before measuring and constructing figures.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A polygon is made of",
+              "options": [
+                "curves only",
+                "line segments",
+                "dots only",
+                "numbers"
+              ],
+              "correct_answer": "line segments",
+              "rationale": "Polygons are closed figures made from line segments.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A triangle has",
+              "options": [
+                "2 sides",
+                "3 sides",
+                "4 sides",
+                "5 sides"
+              ],
+              "correct_answer": "3 sides",
+              "rationale": "Tri means three.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A quadrilateral has",
+              "options": [
+                "3 sides",
+                "4 sides",
+                "5 sides",
+                "6 sides"
+              ],
+              "correct_answer": "4 sides",
+              "rationale": "Quad means four.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "An angle is formed by",
+              "options": [
+                "two rays with a common endpoint",
+                "two numbers",
+                "one point only",
+                "a closed curve only"
+              ],
+              "correct_answer": "two rays with a common endpoint",
+              "rationale": "The common endpoint is the vertex.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which is not a polygon?",
+              "options": [
+                "Triangle",
+                "Rectangle",
+                "Circle",
+                "Pentagon"
+              ],
+              "correct_answer": "Circle",
+              "rationale": "A circle is curved, not made of line segments.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Understanding Elementary Shapes",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Measuring Line Segments and Angles",
+          "explanation": "To compare shapes, we measure them. A ruler measures line segments. Angles can be right, straight, acute, obtuse or reflex, and a protractor measures them in degrees. A right angle is 90 degrees and a straight angle is 180 degrees. Measurement turns a rough drawing into clear mathematical information.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A ruler is used to measure",
+              "options": [
+                "angles",
+                "line segments",
+                "weight",
+                "time"
+              ],
+              "correct_answer": "line segments",
+              "rationale": "Rulers measure length.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A right angle measures",
+              "options": [
+                "45 degrees",
+                "90 degrees",
+                "180 degrees",
+                "360 degrees"
+              ],
+              "correct_answer": "90 degrees",
+              "rationale": "A right angle is one quarter turn.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A straight angle measures",
+              "options": [
+                "90 degrees",
+                "120 degrees",
+                "180 degrees",
+                "360 degrees"
+              ],
+              "correct_answer": "180 degrees",
+              "rationale": "A straight angle makes a straight line.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "An acute angle is",
+              "options": [
+                "less than 90 degrees",
+                "equal to 90 degrees",
+                "more than 90 and less than 180 degrees",
+                "equal to 180 degrees"
+              ],
+              "correct_answer": "less than 90 degrees",
+              "rationale": "Acute angles are smaller than a right angle.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A protractor measures",
+              "options": [
+                "area",
+                "angle",
+                "mass",
+                "volume"
+              ],
+              "correct_answer": "angle",
+              "rationale": "Angles are measured with a protractor.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Triangles, Quadrilaterals, Polygons and 3-D Shapes",
+          "explanation": "Shapes can be classified by sides, angles and surfaces. Triangles may be classified by sides or by angles. Quadrilaterals include squares, rectangles and other four-sided figures. Polygons are flat closed shapes made of line segments. Three-dimensional shapes such as cubes, cuboids, cones and cylinders have faces, edges and vertices.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "An equilateral triangle has",
+              "options": [
+                "all sides equal",
+                "two sides equal",
+                "no equal sides",
+                "four sides"
+              ],
+              "correct_answer": "all sides equal",
+              "rationale": "Equilateral means all sides are equal.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A scalene triangle has",
+              "options": [
+                "all sides equal",
+                "two equal sides",
+                "no equal sides",
+                "four equal sides"
+              ],
+              "correct_answer": "no equal sides",
+              "rationale": "Scalene triangles have all sides different.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A rectangle is a",
+              "options": [
+                "triangle",
+                "quadrilateral",
+                "circle",
+                "line"
+              ],
+              "correct_answer": "quadrilateral",
+              "rationale": "It has four sides.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A cube is a",
+              "options": [
+                "2-D shape",
+                "3-D shape",
+                "line segment",
+                "curve"
+              ],
+              "correct_answer": "3-D shape",
+              "rationale": "A cube has length, breadth and height.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A polygon with five sides is called a",
+              "options": [
+                "triangle",
+                "quadrilateral",
+                "pentagon",
+                "hexagon"
+              ],
+              "correct_answer": "pentagon",
+              "rationale": "Penta means five.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Integers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Integers and the Number Line",
+          "explanation": "Integers include positive numbers, negative numbers and zero. They help describe situations in opposite directions, such as profit and loss, above and below sea level, or temperatures above and below zero. On the number line, positive integers are to the right of zero and negative integers are to the left.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which is an integer?",
+              "options": [
+                "1/2",
+                "-5",
+                "0.4",
+                "2.5"
+              ],
+              "correct_answer": "-5",
+              "rationale": "Negative whole numbers are integers.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "On a number line, -3 lies",
+              "options": [
+                "right of 0",
+                "left of 0",
+                "at 0",
+                "above 0"
+              ],
+              "correct_answer": "left of 0",
+              "rationale": "Negative integers lie to the left of zero.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Which integer is greater: -2 or -5?",
+              "options": [
+                "-2",
+                "-5",
+                "Both equal",
+                "Cannot compare"
+              ],
+              "correct_answer": "-2",
+              "rationale": "-2 is closer to zero and lies to the right of -5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "The opposite of 7 is",
+              "options": [
+                "0",
+                "1",
+                "-7",
+                "14"
+              ],
+              "correct_answer": "-7",
+              "rationale": "Opposite integers are the same distance from zero on opposite sides.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Zero is",
+              "options": [
+                "positive",
+                "negative",
+                "neither positive nor negative",
+                "only negative"
+              ],
+              "correct_answer": "neither positive nor negative",
+              "rationale": "Zero separates positive and negative integers.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Addition and Subtraction of Integers",
+          "explanation": "Adding a positive integer moves right on the number line, and adding a negative integer moves left. Subtracting an integer can be understood as moving in the opposite direction. These rules make integer operations easier and connect directly to real-life gains, losses, climbs and drops.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "What is 3 + (-5)?",
+              "options": [
+                "8",
+                "-8",
+                "-2",
+                "2"
+              ],
+              "correct_answer": "-2",
+              "rationale": "Move 5 steps left from 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "What is -4 + 6?",
+              "options": [
+                "-10",
+                "10",
+                "2",
+                "-2"
+              ],
+              "correct_answer": "2",
+              "rationale": "Move 6 steps right from -4.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "What is -3 + (-2)?",
+              "options": [
+                "5",
+                "-5",
+                "1",
+                "-1"
+              ],
+              "correct_answer": "-5",
+              "rationale": "Two negative jumps move farther left.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "What is 5 - 8?",
+              "options": [
+                "13",
+                "3",
+                "-3",
+                "-13"
+              ],
+              "correct_answer": "-3",
+              "rationale": "Moving 8 left from 5 reaches -3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Adding zero to an integer gives",
+              "options": [
+                "zero always",
+                "the same integer",
+                "a positive number",
+                "a negative number"
+              ],
+              "correct_answer": "the same integer",
+              "rationale": "Zero does not change the value.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fractions",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Meaning, Number Line and Types of Fractions",
+          "explanation": "A fraction shows a part of a whole or a part of a group. The denominator tells how many equal parts the whole has, and the numerator tells how many parts are taken. Fractions can be shown on a number line. Proper fractions are less than one, while improper fractions are one or more than one and can be written as mixed fractions.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In 3/5, the denominator is",
+              "options": [
+                "3",
+                "5",
+                "8",
+                "2"
+              ],
+              "correct_answer": "5",
+              "rationale": "The denominator tells the number of equal parts.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A proper fraction is",
+              "options": [
+                "less than 1",
+                "always more than 1",
+                "always equal to 1",
+                "never on a number line"
+              ],
+              "correct_answer": "less than 1",
+              "rationale": "In a proper fraction, numerator is less than denominator.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Which is an improper fraction?",
+              "options": [
+                "2/5",
+                "3/7",
+                "9/4",
+                "1/8"
+              ],
+              "correct_answer": "9/4",
+              "rationale": "The numerator is greater than the denominator.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "2 1/3 is a",
+              "options": [
+                "proper fraction",
+                "mixed fraction",
+                "decimal only",
+                "integer"
+              ],
+              "correct_answer": "mixed fraction",
+              "rationale": "It has a whole number and a fraction.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Fractions on a number line are placed between",
+              "options": [
+                "only negative numbers",
+                "whole numbers",
+                "letters only",
+                "angles"
+              ],
+              "correct_answer": "whole numbers",
+              "rationale": "Fractions divide intervals into equal parts.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Equivalent, Simplest, Like and Unlike Fractions",
+          "explanation": "Equivalent fractions name the same value, like 1/2 and 2/4. A fraction is in simplest form when numerator and denominator have no common factor except 1. Like fractions have the same denominator, so they are easy to compare, add and subtract. Unlike fractions first need common denominators.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which fraction is equivalent to 1/2?",
+              "options": [
+                "2/4",
+                "1/3",
+                "3/5",
+                "4/5"
+              ],
+              "correct_answer": "2/4",
+              "rationale": "Multiplying numerator and denominator by 2 gives 2/4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "The simplest form of 4/8 is",
+              "options": [
+                "1/2",
+                "2/4",
+                "4/4",
+                "8/4"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "Divide numerator and denominator by 4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Like fractions have the same",
+              "options": [
+                "numerator",
+                "denominator",
+                "value always",
+                "mixed number"
+              ],
+              "correct_answer": "denominator",
+              "rationale": "Like fractions share a denominator.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Which is greater: 3/7 or 5/7?",
+              "options": [
+                "3/7",
+                "5/7",
+                "Both equal",
+                "Cannot compare"
+              ],
+              "correct_answer": "5/7",
+              "rationale": "For like fractions, greater numerator means greater fraction.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "What is 2/9 + 4/9?",
+              "options": [
+                "6/9",
+                "6/18",
+                "8/9",
+                "2/4"
+              ],
+              "correct_answer": "6/9",
+              "rationale": "Add numerators when denominators are the same.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Decimals",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Tenths, Hundredths and Comparing Decimals",
+          "explanation": "Decimals are another way to write fractions with denominators 10, 100 and so on. One tenth is written as 0.1 and one hundredth as 0.01. Decimal place value helps us compare numbers carefully. Just like whole numbers, digits have value based on position, but here positions continue to the right of the decimal point.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "One tenth is written as",
+              "options": [
+                "0.1",
+                "0.01",
+                "1.0",
+                "10.0"
+              ],
+              "correct_answer": "0.1",
+              "rationale": "One tenth means 1/10.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "One hundredth is written as",
+              "options": [
+                "0.1",
+                "0.01",
+                "0.001",
+                "1.00"
+              ],
+              "correct_answer": "0.01",
+              "rationale": "One hundredth means 1/100.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Which is greater: 0.7 or 0.5?",
+              "options": [
+                "0.7",
+                "0.5",
+                "Both equal",
+                "Cannot compare"
+              ],
+              "correct_answer": "0.7",
+              "rationale": "Seven tenths is greater than five tenths.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "2.35 has 3 in the",
+              "options": [
+                "ones place",
+                "tenths place",
+                "hundredths place",
+                "thousands place"
+              ],
+              "correct_answer": "tenths place",
+              "rationale": "The first digit after the decimal point is tenths.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "0.09 means",
+              "options": [
+                "nine tenths",
+                "nine hundredths",
+                "nine tens",
+                "nine hundreds"
+              ],
+              "correct_answer": "nine hundredths",
+              "rationale": "The 9 is in the hundredths place.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Using, Adding and Subtracting Decimals",
+          "explanation": "Decimals appear in money, length and weight. Rupees and paise, metres and centimetres, and kilograms and grams can be written using decimals. To add or subtract decimals, line up the decimal points and then calculate as usual. This keeps tenths under tenths and hundredths under hundredths.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Rs 5 and 75 paise can be written as",
+              "options": [
+                "Rs 5.75",
+                "Rs 575",
+                "Rs 0.575",
+                "Rs 75.5"
+              ],
+              "correct_answer": "Rs 5.75",
+              "rationale": "75 paise is 0.75 rupee.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "What is 1.2 + 2.3?",
+              "options": [
+                "3.5",
+                "3.3",
+                "2.5",
+                "35"
+              ],
+              "correct_answer": "3.5",
+              "rationale": "Add tenths with tenths.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "What is 5.6 - 2.1?",
+              "options": [
+                "3.5",
+                "3.7",
+                "7.7",
+                "2.5"
+              ],
+              "correct_answer": "3.5",
+              "rationale": "Subtract after aligning decimal points.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "When adding decimals, we should align",
+              "options": [
+                "last digits only",
+                "decimal points",
+                "largest digits only",
+                "commas"
+              ],
+              "correct_answer": "decimal points",
+              "rationale": "Place values must match.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "3 kg 500 g is",
+              "options": [
+                "3.5 kg",
+                "35 kg",
+                "0.35 kg",
+                "3500 kg"
+              ],
+              "correct_answer": "3.5 kg",
+              "rationale": "500 g is half a kilogram.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Handling",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Recording, Organising and Interpreting Data",
+          "explanation": "Data is information collected from observations, surveys or counts. Raw data is easier to understand when it is organised in tables or tally marks. A pictograph uses pictures to represent data, and each picture may stand for more than one object. Interpreting data means reading it to answer questions.",
+          "difficulty": "Easy",
+          "total_timer_minutes": 7,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Data means",
+              "options": [
+                "collected information",
+                "only shapes",
+                "only angles",
+                "a ruler"
+              ],
+              "correct_answer": "collected information",
+              "rationale": "Data is information gathered for a purpose.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 2,
+              "question_text": "Tally marks help us",
+              "options": [
+                "measure angles",
+                "count repeated items",
+                "draw circles",
+                "find area"
+              ],
+              "correct_answer": "count repeated items",
+              "rationale": "Tallies organise counts quickly.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 3,
+              "question_text": "A pictograph uses",
+              "options": [
+                "pictures",
+                "only decimals",
+                "only variables",
+                "only lines"
+              ],
+              "correct_answer": "pictures",
+              "rationale": "Pictures represent quantities.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 4,
+              "question_text": "If one picture stands for 5 students, three pictures stand for",
+              "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+              ],
+              "correct_answer": "15",
+              "rationale": "3 x 5 = 15.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 5,
+              "question_text": "Organised data is easier to",
+              "options": [
+                "hide",
+                "read and compare",
+                "erase",
+                "make random"
+              ],
+              "correct_answer": "read and compare",
+              "rationale": "Organisation shows patterns clearly.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Bar Graphs",
+          "explanation": "A bar graph represents data with bars of equal width. The height or length of each bar shows the quantity. A scale tells what each step on the graph stands for. Bar graphs are useful when we want to compare categories such as favourite games, number of students or monthly rainfall.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A bar graph uses",
+              "options": [
+                "bars",
+                "only circles",
+                "fractions only",
+                "compass arcs"
+              ],
+              "correct_answer": "bars",
+              "rationale": "Bars show quantities.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Bars in a bar graph should usually have equal",
+              "options": [
+                "colour only",
+                "width",
+                "height always",
+                "labels only"
+              ],
+              "correct_answer": "width",
+              "rationale": "Equal width keeps the graph clear.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "The scale of a graph tells",
+              "options": [
+                "what each unit represents",
+                "only the title",
+                "only colour",
+                "the smallest number only"
+              ],
+              "correct_answer": "what each unit represents",
+              "rationale": "Scale connects bar length to data value.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A taller bar usually represents",
+              "options": [
+                "smaller quantity",
+                "larger quantity",
+                "no quantity",
+                "same quantity always"
+              ],
+              "correct_answer": "larger quantity",
+              "rationale": "Bar height or length shows value.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Bar graphs help us",
+              "options": [
+                "compare categories",
+                "construct circles only",
+                "find HCF only",
+                "write Roman numerals"
+              ],
+              "correct_answer": "compare categories",
+              "rationale": "They make category comparison visual.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Mensuration",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Perimeter of Shapes",
+          "explanation": "Perimeter is the distance around a closed figure. Imagine walking along the boundary of a garden; the total distance walked is the perimeter. For a rectangle, perimeter is twice the sum of length and breadth. For a square, it is four times the side. Perimeter helps measure fencing, borders and paths.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Perimeter means",
+              "options": [
+                "surface covered",
+                "distance around a figure",
+                "inside space",
+                "angle measure"
+              ],
+              "correct_answer": "distance around a figure",
+              "rationale": "Perimeter is boundary length.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Perimeter of a rectangle is",
+              "options": [
+                "l x b",
+                "2(l + b)",
+                "4s",
+                "l + b"
+              ],
+              "correct_answer": "2(l + b)",
+              "rationale": "Add all four sides of the rectangle.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Perimeter of a square of side s is",
+              "options": [
+                "s x s",
+                "4s",
+                "2s",
+                "s + 4"
+              ],
+              "correct_answer": "4s",
+              "rationale": "A square has four equal sides.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A regular shape has",
+              "options": [
+                "all sides equal",
+                "no sides",
+                "only curves",
+                "all angles zero"
+              ],
+              "correct_answer": "all sides equal",
+              "rationale": "Regular shapes have equal sides.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Perimeter is measured in",
+              "options": [
+                "square units",
+                "linear units",
+                "cubic units",
+                "degrees"
+              ],
+              "correct_answer": "linear units",
+              "rationale": "It is a length.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Area of Rectangle and Square",
+          "explanation": "Area is the amount of surface covered by a figure. We measure area in square units because we count how many unit squares fit inside. The area of a rectangle is length times breadth. The area of a square is side times side. Area helps measure floors, walls, fields and notebook covers.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Area means",
+              "options": [
+                "distance around",
+                "surface covered",
+                "angle size",
+                "number name"
+              ],
+              "correct_answer": "surface covered",
+              "rationale": "Area measures the region inside a shape.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Area is measured in",
+              "options": [
+                "square units",
+                "degrees",
+                "litres",
+                "rupees"
+              ],
+              "correct_answer": "square units",
+              "rationale": "Area counts unit squares.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Area of a rectangle is",
+              "options": [
+                "l + b",
+                "2(l + b)",
+                "l x b",
+                "4l"
+              ],
+              "correct_answer": "l x b",
+              "rationale": "Rectangle area is length times breadth.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Area of a square of side s is",
+              "options": [
+                "4s",
+                "s x s",
+                "2s",
+                "s + s"
+              ],
+              "correct_answer": "s x s",
+              "rationale": "Area of a square is side multiplied by side.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A rectangle of length 5 cm and breadth 3 cm has area",
+              "options": [
+                "8 sq cm",
+                "15 sq cm",
+                "16 sq cm",
+                "30 sq cm"
+              ],
+              "correct_answer": "15 sq cm",
+              "rationale": "5 x 3 = 15 square centimetres.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Algebra",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Patterns, Variables and Expressions",
+          "explanation": "Algebra uses letters to stand for numbers. A variable can take different values, just like a box waiting to be filled. Matchstick patterns show how a rule can describe many cases at once. Expressions such as x + 3 or 2n help us write mathematical rules in a short and powerful way.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A variable is usually represented by",
+              "options": [
+                "a letter",
+                "only a ruler",
+                "a fixed picture",
+                "a comma"
+              ],
+              "correct_answer": "a letter",
+              "rationale": "Letters such as x or n can represent numbers.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "In x + 5, x is a",
+              "options": [
+                "constant",
+                "variable",
+                "unit",
+                "bar"
+              ],
+              "correct_answer": "variable",
+              "rationale": "x can take different values.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "An expression has",
+              "options": [
+                "only an equal sign",
+                "numbers, variables and operations",
+                "only pictures",
+                "only angles"
+              ],
+              "correct_answer": "numbers, variables and operations",
+              "rationale": "Expressions combine quantities without necessarily being equations.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "If n = 4, then n + 3 equals",
+              "options": [
+                "3",
+                "4",
+                "7",
+                "12"
+              ],
+              "correct_answer": "7",
+              "rationale": "Substitute 4 for n.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "2n means",
+              "options": [
+                "2 + n",
+                "2 x n",
+                "n - 2",
+                "2 divided by n"
+              ],
+              "correct_answer": "2 x n",
+              "rationale": "A number next to a variable means multiplication.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Equations and Solutions",
+          "explanation": "An equation is a mathematical sentence with an equal sign. It says both sides have the same value. A solution is the value of the variable that makes the equation true. We can find solutions by thinking, checking or using inverse operations. Equations turn number puzzles into clear steps.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which is an equation?",
+              "options": [
+                "x + 2",
+                "x + 2 = 7",
+                "7, 8, 9",
+                "x only"
+              ],
+              "correct_answer": "x + 2 = 7",
+              "rationale": "An equation has an equal sign.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A solution of an equation makes it",
+              "options": [
+                "long",
+                "true",
+                "curved",
+                "negative"
+              ],
+              "correct_answer": "true",
+              "rationale": "The value must satisfy the equation.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Solve x + 3 = 8.",
+              "options": [
+                "3",
+                "5",
+                "8",
+                "11"
+              ],
+              "correct_answer": "5",
+              "rationale": "5 + 3 = 8.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Solve y - 4 = 6.",
+              "options": [
+                "2",
+                "4",
+                "6",
+                "10"
+              ],
+              "correct_answer": "10",
+              "rationale": "10 - 4 = 6.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "In 2n = 12, n equals",
+              "options": [
+                "2",
+                "6",
+                "10",
+                "12"
+              ],
+              "correct_answer": "6",
+              "rationale": "2 x 6 = 12.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Ratio and Proportion",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Ratio",
+          "explanation": "A ratio compares two quantities of the same kind. If there are 2 red balls and 3 blue balls, the ratio of red to blue is 2:3. Ratios help us compare parts, not just count them. Before writing a ratio, quantities should be in the same units, such as centimetres with centimetres.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A ratio compares",
+              "options": [
+                "two quantities",
+                "only one number",
+                "only angles",
+                "only letters"
+              ],
+              "correct_answer": "two quantities",
+              "rationale": "Ratio shows how two quantities relate.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "The ratio of 2 red balls to 3 blue balls is",
+              "options": [
+                "3:2",
+                "2:3",
+                "5:2",
+                "2:5"
+              ],
+              "correct_answer": "2:3",
+              "rationale": "Write red first, then blue.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Before comparing 1 m and 50 cm, first",
+              "options": [
+                "ignore units",
+                "make units same",
+                "add both",
+                "draw a circle"
+              ],
+              "correct_answer": "make units same",
+              "rationale": "Ratios need same units.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "1 m equals",
+              "options": [
+                "10 cm",
+                "100 cm",
+                "1000 cm",
+                "1 cm"
+              ],
+              "correct_answer": "100 cm",
+              "rationale": "A metre has 100 centimetres.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "The ratio 4:8 in simplest form is",
+              "options": [
+                "1:2",
+                "2:1",
+                "4:4",
+                "8:4"
+              ],
+              "correct_answer": "1:2",
+              "rationale": "Divide both terms by 4.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Proportion and Unitary Method",
+          "explanation": "Proportion means two ratios are equal. For example, 2:4 and 1:2 are in proportion because they express the same comparison. The unitary method first finds the value of one unit, then uses it to find the value of many units. It is useful for price, distance, work and sharing problems.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Two equal ratios are said to be in",
+              "options": [
+                "area",
+                "proportion",
+                "symmetry",
+                "perimeter"
+              ],
+              "correct_answer": "proportion",
+              "rationale": "Proportion means equality of ratios.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Are 2:4 and 1:2 in proportion?",
+              "options": [
+                "Yes",
+                "No",
+                "Only sometimes",
+                "Cannot say"
+              ],
+              "correct_answer": "Yes",
+              "rationale": "2:4 simplifies to 1:2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "If 3 pens cost Rs 30, one pen costs",
+              "options": [
+                "Rs 3",
+                "Rs 10",
+                "Rs 30",
+                "Rs 90"
+              ],
+              "correct_answer": "Rs 10",
+              "rationale": "Divide total cost by 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "If one notebook costs Rs 12, five notebooks cost",
+              "options": [
+                "Rs 17",
+                "Rs 24",
+                "Rs 60",
+                "Rs 120"
+              ],
+              "correct_answer": "Rs 60",
+              "rationale": "5 x 12 = 60.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Unitary method first finds the value of",
+              "options": [
+                "zero units",
+                "one unit",
+                "all units directly",
+                "two ratios only"
+              ],
+              "correct_answer": "one unit",
+              "rationale": "Then we multiply for the required number of units.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Symmetry",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Line Symmetry and Reflection",
+          "explanation": "A figure has line symmetry if one line divides it into two matching halves. If folded along that line, both halves cover each other exactly. Reflection is like seeing a mirror image. Symmetry appears in letters, leaves, rangoli designs and many everyday objects. It helps us notice balance and beauty in shapes.",
+          "difficulty": "Easy",
+          "total_timer_minutes": 7,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A line of symmetry divides a figure into",
+              "options": [
+                "two matching halves",
+                "three unequal parts",
+                "only curves",
+                "no parts"
+              ],
+              "correct_answer": "two matching halves",
+              "rationale": "The halves overlap exactly.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 2,
+              "question_text": "A mirror image is related to",
+              "options": [
+                "reflection",
+                "ratio",
+                "perimeter",
+                "HCF"
+              ],
+              "correct_answer": "reflection",
+              "rationale": "Reflection produces a mirror image.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 3,
+              "question_text": "A rectangle has how many lines of symmetry?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "4"
+              ],
+              "correct_answer": "2",
+              "rationale": "A non-square rectangle has two symmetry lines.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 4,
+              "question_text": "A square has how many lines of symmetry?",
+              "options": [
+                "1",
+                "2",
+                "4",
+                "6"
+              ],
+              "correct_answer": "4",
+              "rationale": "It has two diagonals and two midlines.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": 5,
+              "question_text": "If a figure has no matching fold line, it has",
+              "options": [
+                "no line symmetry",
+                "four lines of symmetry",
+                "only ratio",
+                "only area"
+              ],
+              "correct_answer": "no line symmetry",
+              "rationale": "Line symmetry requires matching halves.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Figures With Multiple Lines of Symmetry",
+          "explanation": "Some figures have more than one line of symmetry. A square has four, an equilateral triangle has three, and a circle has many. More symmetry usually means the figure is very balanced. By drawing possible fold lines, students can test whether both sides match exactly.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "An equilateral triangle has",
+              "options": [
+                "1 line of symmetry",
+                "2 lines of symmetry",
+                "3 lines of symmetry",
+                "0 lines of symmetry"
+              ],
+              "correct_answer": "3 lines of symmetry",
+              "rationale": "Each vertex-to-midpoint line is a symmetry line.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A circle has",
+              "options": [
+                "no line of symmetry",
+                "only one",
+                "only two",
+                "many lines of symmetry"
+              ],
+              "correct_answer": "many lines of symmetry",
+              "rationale": "Every diameter is a line of symmetry.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A figure has line symmetry if its halves",
+              "options": [
+                "overlap exactly",
+                "are different",
+                "have different sizes",
+                "are open"
+              ],
+              "correct_answer": "overlap exactly",
+              "rationale": "Matching halves show symmetry.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Which shape has four lines of symmetry?",
+              "options": [
+                "Square",
+                "Scalene triangle",
+                "Rectangle only",
+                "Parallelogram always"
+              ],
+              "correct_answer": "Square",
+              "rationale": "A square has four symmetry lines.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Symmetry is checked by imagining a",
+              "options": [
+                "fold",
+                "decimal point",
+                "bar graph",
+                "factor tree"
+              ],
+              "correct_answer": "fold",
+              "rationale": "Folding helps test matching halves.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Practical Geometry",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Constructing Circles and Line Segments",
+          "explanation": "Practical geometry teaches accurate drawing with tools. A compass draws circles when the radius is known. A ruler helps draw and measure line segments. We can also copy a given line segment using ruler and compass. These constructions train the hand and eye to create exact mathematical figures.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A compass is used to draw",
+              "options": [
+                "circles",
+                "bar graphs only",
+                "ratios",
+                "tally marks"
+              ],
+              "correct_answer": "circles",
+              "rationale": "A compass draws circles and arcs.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "To construct a circle, we need its",
+              "options": [
+                "radius",
+                "ratio",
+                "HCF",
+                "mode"
+              ],
+              "correct_answer": "radius",
+              "rationale": "The compass opening is set to the radius.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A line segment has",
+              "options": [
+                "two endpoints",
+                "no endpoints",
+                "one endpoint",
+                "only curves"
+              ],
+              "correct_answer": "two endpoints",
+              "rationale": "A segment is bounded at both ends.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A ruler is used to draw",
+              "options": [
+                "straight line segments",
+                "only circles",
+                "only angles",
+                "only pictures"
+              ],
+              "correct_answer": "straight line segments",
+              "rationale": "Rulers help draw straight lengths.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Copying a line segment means making another segment of",
+              "options": [
+                "different length",
+                "same length",
+                "zero length",
+                "curved shape"
+              ],
+              "correct_answer": "same length",
+              "rationale": "The copy must match the original length.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Constructing Perpendiculars, Bisectors and Angles",
+          "explanation": "A perpendicular makes a right angle with a line. Practical geometry shows how to draw perpendiculars through points on or away from a line. A perpendicular bisector cuts a segment into two equal parts at right angles. We can also construct angles, copy angles and bisect angles using ruler and compass.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Perpendicular lines meet at",
+              "options": [
+                "45 degrees",
+                "60 degrees",
+                "90 degrees",
+                "180 degrees"
+              ],
+              "correct_answer": "90 degrees",
+              "rationale": "Perpendicular lines form right angles.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "A perpendicular bisector divides a line segment into",
+              "options": [
+                "two equal parts",
+                "three parts",
+                "unequal parts",
+                "curves"
+              ],
+              "correct_answer": "two equal parts",
+              "rationale": "A bisector cuts into two equal halves.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "An angle bisector divides an angle into",
+              "options": [
+                "two equal angles",
+                "two unequal angles",
+                "a circle",
+                "a line segment only"
+              ],
+              "correct_answer": "two equal angles",
+              "rationale": "Bisect means divide into two equal parts.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "A protractor is used to construct an angle of given",
+              "options": [
+                "measure",
+                "area",
+                "weight",
+                "ratio"
+              ],
+              "correct_answer": "measure",
+              "rationale": "Angles are measured in degrees.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "A right angle can be constructed using",
+              "options": [
+                "ruler and compass",
+                "tally marks",
+                "bar graph",
+                "decimal table"
+              ],
+              "correct_answer": "ruler and compass",
+              "rationale": "Practical geometry uses these tools for constructions.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

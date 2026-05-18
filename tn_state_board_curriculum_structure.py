@@ -1,0 +1,823 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+TN State Board Mathematics Curriculum Structure - Classes 1-8
+Organized by Terms and Chapters for Educational Platform
+"""
+
+import json
+
+def generate_tn_curriculum_structure():
+    """Generate complete TN State Board Mathematics structure for Classes 1-8"""
+    
+    curriculum_structure = {
+        "education_board": "Tamil Nadu State Board",
+        "subject": "Mathematics",
+        "classes": {
+            "Class 1": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "1.1",
+                                "chapter_name": "NUMBERS 1 TO 10",
+                                "topics": [
+                                    "Learning Numbers 1 to 5",
+                                    "Learning Numbers 6 to 10",
+                                    "Counting and Number Recognition",
+                                    "Number Writing Practice"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "1.2",
+                                "chapter_name": "ADDITION",
+                                "topics": [
+                                    "Adding with Pictures",
+                                    "Simple Addition (within 10)",
+                                    "Number Bonds",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 10
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "1.3",
+                                "chapter_name": "SUBTRACTION",
+                                "topics": [
+                                    "Taking Away",
+                                    "Simple Subtraction (within 10)",
+                                    "Subtraction with Pictures",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 10
+                            },
+                            {
+                                "chapter_id": "1.4",
+                                "chapter_name": "SHAPES",
+                                "topics": [
+                                    "Basic Shapes (Circle, Square, Triangle)",
+                                    "Rectangle and Oval",
+                                    "Shapes in Environment",
+                                    "Shape Recognition"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 8
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "1.5",
+                                "chapter_name": "MEASUREMENTS",
+                                "topics": [
+                                    "Comparison (Big/Small, Long/Short)",
+                                    "Simple Measurements",
+                                    "Time (Day/Night)",
+                                    "Money (Basic Coins)"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 8
+                            },
+                            {
+                                "chapter_id": "1.6",
+                                "chapter_name": "PATTERNS",
+                                "topics": [
+                                    "Number Patterns",
+                                    "Shape Patterns",
+                                    "Color Patterns",
+                                    "Simple Sequences"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 6
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 2": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "2.1",
+                                "chapter_name": "NUMBERS 1 TO 100",
+                                "topics": [
+                                    "Numbers 1-50",
+                                    "Numbers 51-100",
+                                    "Place Value (Tens and Ones)",
+                                    "Number Order"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 15
+                            },
+                            {
+                                "chapter_id": "2.2",
+                                "chapter_name": "ADDITION",
+                                "topics": [
+                                    "Addition without Regrouping",
+                                    "Addition with Regrouping",
+                                    "Adding Three Numbers",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 12
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "2.3",
+                                "chapter_name": "SUBTRACTION",
+                                "topics": [
+                                    "Subtraction without Regrouping",
+                                    "Subtraction with Regrouping",
+                                    "Subtraction Word Problems",
+                                    "Checking Subtraction"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "2.4",
+                                "chapter_name": "MULTIPLICATION",
+                                "topics": [
+                                    "Introduction to Multiplication",
+                                    "Multiplication as Repeated Addition",
+                                    "Tables 2, 5, 10",
+                                    "Simple Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 10
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "2.5",
+                                "chapter_name": "MEASUREMENTS",
+                                "topics": [
+                                    "Length (cm, m)",
+                                    "Weight (kg, g)",
+                                    "Capacity (l, ml)",
+                                    "Time (Hours, Minutes)"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 10
+                            },
+                            {
+                                "chapter_id": "2.6",
+                                "chapter_name": "GEOMETRY",
+                                "topics": [
+                                    "2D Shapes",
+                                    "3D Shapes",
+                                    "Lines and Curves",
+                                    "Symmetry"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 8
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 3": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "3.1",
+                                "chapter_name": "NUMBERS",
+                                "topics": [
+                                    "Numbers 1-1000",
+                                    "Place Value (Hundreds, Tens, Ones)",
+                                    "Comparing Numbers",
+                                    "Number Patterns"
+                                ],
+                                "difficulty": "Easy",
+                                "estimated_hours": 16
+                            },
+                            {
+                                "chapter_id": "3.2",
+                                "chapter_name": "ADDITION",
+                                "topics": [
+                                    "4-Digit Addition",
+                                    "Addition with Carrying",
+                                    "Mental Addition",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "3.3",
+                                "chapter_name": "SUBTRACTION",
+                                "topics": [
+                                    "4-Digit Subtraction",
+                                    "Subtraction with Borrowing",
+                                    "Mixed Operations",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "3.4",
+                                "chapter_name": "MULTIPLICATION",
+                                "topics": [
+                                    "Multiplication Tables (2-10)",
+                                    "2-Digit by 1-Digit",
+                                    "2-Digit by 2-Digit",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "3.5",
+                                "chapter_name": "DIVISION",
+                                "topics": [
+                                    "Introduction to Division",
+                                    "Division as Repeated Subtraction",
+                                    "Long Division",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "3.6",
+                                "chapter_name": "FRACTIONS",
+                                "topics": [
+                                    "Introduction to Fractions",
+                                    "Like Fractions",
+                                    "Comparison of Fractions",
+                                    "Simple Operations"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 10
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 4": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "4.1",
+                                "chapter_name": "LARGE NUMBERS",
+                                "topics": [
+                                    "Numbers 1-10000",
+                                    "Place Value (Thousands)",
+                                    "Rounding Numbers",
+                                    "Number Patterns"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 16
+                            },
+                            {
+                                "chapter_id": "4.2",
+                                "chapter_name": "ADDITION AND SUBTRACTION",
+                                "topics": [
+                                    "Large Number Addition",
+                                    "Large Number Subtraction",
+                                    "Mixed Operations",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "4.3",
+                                "chapter_name": "MULTIPLICATION",
+                                "topics": [
+                                    "3-Digit by 1-Digit",
+                                    "3-Digit by 2-Digit",
+                                    "Multiplication Properties",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            },
+                            {
+                                "chapter_id": "4.4",
+                                "chapter_name": "DIVISION",
+                                "topics": [
+                                    "3-Digit Division",
+                                    "Division with Remainders",
+                                    "Checking Division",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "4.5",
+                                "chapter_name": "FRACTIONS AND DECIMALS",
+                                "topics": [
+                                    "Proper and Improper Fractions",
+                                    "Mixed Fractions",
+                                    "Introduction to Decimals",
+                                    "Comparison"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "4.6",
+                                "chapter_name": "MEASUREMENTS",
+                                "topics": [
+                                    "Perimeter",
+                                    "Area",
+                                    "Volume",
+                                    "Time and Money"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 5": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "5.1",
+                                "chapter_name": "NUMBERS",
+                                "topics": [
+                                    "Numbers 1-100000",
+                                    "Place Value (Ten Thousands)",
+                                    "Roman Numerals",
+                                    "Number Systems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 16
+                            },
+                            {
+                                "chapter_id": "5.2",
+                                "chapter_name": "OPERATIONS",
+                                "topics": [
+                                    "Large Number Operations",
+                                    "Order of Operations",
+                                    "Mental Mathematics",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "5.3",
+                                "chapter_name": "FRACTIONS",
+                                "topics": [
+                                    "Types of Fractions",
+                                    "Equivalent Fractions",
+                                    "Operations with Fractions",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 16
+                            },
+                            {
+                                "chapter_id": "5.4",
+                                "chapter_name": "DECIMALS",
+                                "topics": [
+                                    "Decimal Place Value",
+                                    "Operations with Decimals",
+                                    "Fractions to Decimals",
+                                    "Money Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "5.5",
+                                "chapter_name": "PERCENTAGE",
+                                "topics": [
+                                    "Introduction to Percentage",
+                                    "Percentage to Fraction",
+                                    "Percentage Problems",
+                                    "Real Life Applications"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "5.6",
+                                "chapter_name": "GEOMETRY",
+                                "topics": [
+                                    "Angles",
+                                    "Triangles",
+                                    "Quadrilaterals",
+                                    "Circles"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 6": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "6.1",
+                                "chapter_name": "NUMBER SYSTEM",
+                                "topics": [
+                                    "Knowing Our Numbers",
+                                    "Whole Numbers",
+                                    "Playing With Numbers",
+                                    "Negative Numbers"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 18
+                            },
+                            {
+                                "chapter_id": "6.2",
+                                "chapter_name": "BASIC GEOMETRY",
+                                "topics": [
+                                    "Points, Lines, and Planes",
+                                    "Angles",
+                                    "Triangles",
+                                    "Circles"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "6.3",
+                                "chapter_name": "INTEGERS",
+                                "topics": [
+                                    "Introduction to Integers",
+                                    "Addition of Integers",
+                                    "Subtraction of Integers",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            },
+                            {
+                                "chapter_id": "6.4",
+                                "chapter_name": "FRACTIONS AND DECIMALS",
+                                "topics": [
+                                    "Fractions Review",
+                                    "Operations with Fractions",
+                                    "Decimals Review",
+                                    "Operations with Decimals"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 16
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "6.5",
+                                "chapter_name": "DATA HANDLING",
+                                "topics": [
+                                    "Data Collection",
+                                    "Pictographs",
+                                    "Bar Graphs",
+                                    "Interpretation"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 12
+                            },
+                            {
+                                "chapter_id": "6.6",
+                                "chapter_name": "MEASUREMENTS",
+                                "topics": [
+                                    "Perimeter",
+                                    "Area",
+                                    "Volume",
+                                    "Surface Area"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 7": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "7.1",
+                                "chapter_name": "NUMBER SYSTEM",
+                                "topics": [
+                                    "Integers and Their Properties",
+                                    "Fractions and Decimals",
+                                    "Rational Numbers",
+                                    "Powers and Exponents"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 20
+                            },
+                            {
+                                "chapter_id": "7.2",
+                                "chapter_name": "MEASUREMENTS",
+                                "topics": [
+                                    "Area and Perimeter",
+                                    "Volume and Surface Area",
+                                    "Conversion of Units",
+                                    "Practical Problems"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 16
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "7.3",
+                                "chapter_name": "ALGEBRA",
+                                "topics": [
+                                    "Algebraic Expressions",
+                                    "Linear Equations",
+                                    "Inequalities",
+                                    "Word Problems"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 18
+                            },
+                            {
+                                "chapter_id": "7.4",
+                                "chapter_name": "DIRECT AND INVERSE PROPORTION",
+                                "topics": [
+                                    "Direct Proportion",
+                                    "Inverse Proportion",
+                                    "Time and Work",
+                                    "Speed, Distance and Time"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 16
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "7.5",
+                                "chapter_name": "GEOMETRY",
+                                "topics": [
+                                    "Lines and Angles",
+                                    "Triangles and Their Properties",
+                                    "Congruence of Triangles",
+                                    "Practical Geometry"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 18
+                            },
+                            {
+                                "chapter_id": "7.6",
+                                "chapter_name": "INFORMATION PROCESSING",
+                                "topics": [
+                                    "Data Handling and Representation",
+                                    "Probability Basics",
+                                    "Statistics",
+                                    "Graphs"
+                                ],
+                                "difficulty": "Medium",
+                                "estimated_hours": 14
+                            }
+                        ]
+                    }
+                }
+            },
+            "Class 8": {
+                "term_structure": {
+                    "Term 1": {
+                        "months": ["June", "July", "August", "September"],
+                        "chapters": [
+                            {
+                                "chapter_id": "8.1",
+                                "chapter_name": "NUMBER SYSTEM",
+                                "topics": [
+                                    "Rational Numbers",
+                                    "Powers and Exponents",
+                                    "Square Roots and Cube Roots",
+                                    "Real Numbers"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 20
+                            },
+                            {
+                                "chapter_id": "8.2",
+                                "chapter_name": "ALGEBRA",
+                                "topics": [
+                                    "Algebraic Expressions",
+                                    "Factorization",
+                                    "Linear Equations in One Variable",
+                                    "Linear Equations in Two Variables"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 22
+                            }
+                        ]
+                    },
+                    "Term 2": {
+                        "months": ["October", "November", "December", "January"],
+                        "chapters": [
+                            {
+                                "chapter_id": "8.3",
+                                "chapter_name": "GEOMETRY",
+                                "topics": [
+                                    "Understanding Quadrilaterals",
+                                    "Practical Geometry",
+                                    "Mensuration",
+                                    "Visualizing Solid Shapes"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 20
+                            },
+                            {
+                                "chapter_id": "8.4",
+                                "chapter_name": "COMMERCIAL MATHEMATICS",
+                                "topics": [
+                                    "Percentage and Profit Loss",
+                                    "Compound Interest",
+                                    "Time and Work",
+                                    "Partnership"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 18
+                            }
+                        ]
+                    },
+                    "Term 3": {
+                        "months": ["February", "March", "April"],
+                        "chapters": [
+                            {
+                                "chapter_id": "8.5",
+                                "chapter_name": "DATA HANDLING",
+                                "topics": [
+                                    "Data Organization",
+                                    "Graphical Representation",
+                                    "Measures of Central Tendency",
+                                    "Probability"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 16
+                            },
+                            {
+                                "chapter_id": "8.6",
+                                "chapter_name": "COORDINATE GEOMETRY",
+                                "topics": [
+                                    "Introduction to Coordinate System",
+                                    "Plotting Points",
+                                    "Distance Formula",
+                                    "Applications"
+                                ],
+                                "difficulty": "Hard",
+                                "estimated_hours": 16
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "educational_features": {
+            "duolingo_style_elements": [
+                "Gamified Learning Points",
+                "Progress Tracking",
+                "Achievement Badges",
+                "Streak System",
+                "Interactive Questions",
+                "Immediate Feedback",
+                "Level Progression",
+                "Time-based Challenges"
+            ],
+            "learning_modes": [
+                "Practice Mode",
+                "Test Mode", 
+                "Review Mode",
+                "Challenge Mode",
+                "Competition Mode"
+            ],
+            "assessment_types": [
+                "Formative Assessment",
+                "Summative Assessment",
+                "Diagnostic Assessment",
+                "Peer Assessment"
+            ]
+        },
+        "platform_integration": {
+            "website_pages": [
+                "Dashboard",
+                "Class Selection",
+                "Chapter Navigation",
+                "Module Interface",
+                "Quiz Engine",
+                "Progress Analytics",
+                "Achievement Center",
+                "Parent Portal"
+            ],
+            "mobile_features": [
+                "Offline Learning",
+                "Push Notifications",
+                "Voice Instructions",
+                "Touch Interactions",
+                "Camera Integration",
+                "Augmented Reality"
+            ]
+        }
+    }
+    
+    return curriculum_structure
+
+def save_curriculum_structure():
+    """Save the complete curriculum structure"""
+    structure = generate_tn_curriculum_structure()
+    
+    with open('tn_state_board_curriculum_structure.json', 'w', encoding='utf-8') as f:
+        json.dump(structure, f, indent=2, ensure_ascii=False)
+    
+    print("TN State Board Curriculum Structure saved to 'tn_state_board_curriculum_structure.json'")
+    
+    # Print summary statistics
+    total_classes = len(structure["classes"])
+    total_chapters = 0
+    total_topics = 0
+    
+    for class_name, class_data in structure["classes"].items():
+        for term_data in class_data["term_structure"].values():
+            total_chapters += len(term_data["chapters"])
+            for chapter in term_data["chapters"]:
+                total_topics += len(chapter["topics"])
+    
+    print(f"\nCurriculum Summary:")
+    print(f"  Total Classes: {total_classes}")
+    print(f"  Total Chapters: {total_chapters}")
+    print(f"  Total Topics: {total_topics}")
+    print(f"  Educational Features: {len(structure['educational_features']['duolingo_style_elements'])}")
+    print(f"  Website Pages: {len(structure['platform_integration']['website_pages'])}")
+
+if __name__ == "__main__":
+    save_curriculum_structure()

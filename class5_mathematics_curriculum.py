@@ -1,0 +1,1484 @@
+# /// script
+# requires-python = ">=3.8"
+# ///
+
+import json
+
+def create_class5_curriculum():
+    """Create the complete curriculum structure for Class 5 Mathematics"""
+    
+    curriculum = {
+        "class": "5",
+        "subject": "Mathematics",
+        "board": "TN State Board",
+        "terms": [
+            {
+                "term_name": "Term 1",
+                "chapters": [
+                    {
+                        "chapter_name": "Geometry",
+                        "modules": [
+                            {
+                                "module_id": 1,
+                                "topic_name": "Types of Angles",
+                                "explanation": "Angles are like corners that tell us how much something turns! A right angle is exactly 90°, like the corner of a book. An acute angle is less than 90°, like a sharp corner. An obtuse angle is more than 90° but less than 180°, like a wide corner. A straight angle is exactly 180°, like a flat line. Understanding angles helps you build and design things!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What type of angle is 45°?",
+                                        "options": ["Right angle", "Acute angle", "Obtuse angle", "Straight angle"],
+                                        "correct_answer": "Acute angle",
+                                        "rationale": "45° is less than 90°, so it's an acute angle.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What type of angle is 120°?",
+                                        "options": ["Right angle", "Acute angle", "Obtuse angle", "Straight angle"],
+                                        "correct_answer": "Obtuse angle",
+                                        "rationale": "120° is more than 90° but less than 180°, so it's an obtuse angle.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "How many degrees is a right angle?",
+                                        "options": ["45°", "90°", "180°", "360°"],
+                                        "correct_answer": "90°",
+                                        "rationale": "A right angle measures exactly 90 degrees.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What type of angle is 180°?",
+                                        "options": ["Right angle", "Acute angle", "Obtuse angle", "Straight angle"],
+                                        "correct_answer": "Straight angle",
+                                        "rationale": "180° is exactly a straight angle.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What type of angle is 89°?",
+                                        "options": ["Right angle", "Acute angle", "Obtuse angle", "Straight angle"],
+                                        "correct_answer": "Acute angle",
+                                        "rationale": "89° is less than 90°, so it's an acute angle.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What type of angle is 91°?",
+                                        "options": ["Right angle", "Acute angle", "Obtuse angle", "Straight angle"],
+                                        "correct_answer": "Obtuse angle",
+                                        "rationale": "91° is more than 90°, so it's an obtuse angle.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 2,
+                                "topic_name": "Triangles and Their Properties",
+                                "explanation": "Triangles are amazing shapes with special rules! An equilateral triangle has 3 equal sides and 3 equal angles (60° each). An isosceles triangle has 2 equal sides and 2 equal angles. A scalene triangle has no equal sides or angles. The angles in any triangle always add up to 180°. These properties help you identify and work with triangles!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many degrees are in each angle of an equilateral triangle?",
+                                        "options": ["30°", "45°", "60°", "90°"],
+                                        "correct_answer": "60°",
+                                        "rationale": "In an equilateral triangle, each angle is 60° (180° ÷ 3).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What type of triangle has 3 equal sides?",
+                                        "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+                                        "correct_answer": "Equilateral",
+                                        "rationale": "An equilateral triangle has 3 equal sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What type of triangle has 2 equal sides?",
+                                        "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+                                        "correct_answer": "Isosceles",
+                                        "rationale": "An isosceles triangle has 2 equal sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What type of triangle has no equal sides?",
+                                        "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+                                        "correct_answer": "Scalene",
+                                        "rationale": "A scalene triangle has no equal sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What do the angles in any triangle add up to?",
+                                        "options": ["90°", "180°", "270°", "360°"],
+                                        "correct_answer": "180°",
+                                        "rationale": "The sum of angles in any triangle is always 180°.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "If two angles of a triangle are 50° and 60°, what is the third angle?",
+                                        "options": ["50°", "60°", "70°", "80°"],
+                                        "correct_answer": "70°",
+                                        "rationale": "180° - 50° - 60° = 70°.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Numbers",
+                        "modules": [
+                            {
+                                "module_id": 3,
+                                "topic_name": "Large Numbers up to Crores",
+                                "explanation": "Let's explore huge numbers! Numbers up to 99,99,99,999 have eight places: crores, ten lakhs, lakhs, ten thousands, thousands, hundreds, tens, and ones. In 4,56,78,901, 4 is crores, 56 is lakhs, 78 is thousands, 901 is hundreds/tens/ones. These massive numbers help you count populations, distances, and big quantities!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many zeros are in one crore?",
+                                        "options": ["5", "6", "7", "8"],
+                                        "correct_answer": "7",
+                                        "rationale": "One crore = 1,00,00,000 has 7 zeros.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is the value of 5 in 5,67,89,012?",
+                                        "options": ["5 crores", "50 lakhs", "5 lakhs", "50 thousands"],
+                                        "correct_answer": "5 crores",
+                                        "rationale": "5 is in the crores place, so it's worth 5 crores.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What digit is in the lakhs place in 3,45,67,890?",
+                                        "options": ["3", "4", "5", "6"],
+                                        "correct_answer": "5",
+                                        "rationale": "In 3,45,67,890, the lakhs place is 5.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 2 crores + 3 lakhs + 4 thousands + 5 hundreds?",
+                                        "options": ["2,03,04,500", "2,30,04,500", "2,03,40,500", "2,34,05,000"],
+                                        "correct_answer": "2,03,04,500",
+                                        "rationale": "2,00,00,000 + 3,00,000 + 4,000 + 500 = 2,03,04,500.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Which is larger: 45,67,890 or 54,67,890?",
+                                        "options": ["45,67,890", "54,67,890", "They are equal", "Cannot say"],
+                                        "correct_answer": "54,67,890",
+                                        "rationale": "54,67,890 has a larger crores digit (5 vs 4).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 1 crore in numbers?",
+                                        "options": ["10,00,000", "1,00,00,000", "10,00,00,000", "1,00,000"],
+                                        "correct_answer": "1,00,00,000",
+                                        "rationale": "1 crore = 1,00,00,000.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "How many lakhs make 1 crore?",
+                                        "options": ["10", "100", "1000", "10000"],
+                                        "correct_answer": "100",
+                                        "rationale": "1 crore = 100 lakhs.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is the place value of 7 in 8,76,54,321?",
+                                        "options": ["7 crores", "70 lakhs", "7 lakhs", "70 thousands"],
+                                        "correct_answer": "70 lakhs",
+                                        "rationale": "7 is in the ten lakhs place, so it's worth 70 lakhs.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 4,
+                                "topic_name": "Place Value and Face Value",
+                                "explanation": "Place value and face value are like cousins! Face value is just the digit itself (like 5). Place value is what the digit is worth based on its position (like 500 if 5 is in hundreds place). In 5,432, the face value of 5 is 5, but its place value is 5,000. Understanding both helps you work with big numbers!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is the face value of 7 in 7,890?",
+                                        "options": ["7", "70", "700", "7000"],
+                                        "correct_answer": "7",
+                                        "rationale": "Face value is just the digit itself, so it's 7.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is the place value of 7 in 7,890?",
+                                        "options": ["7", "70", "700", "7000"],
+                                        "correct_answer": "7000",
+                                        "rationale": "7 is in the thousands place, so its place value is 7000.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "In 4,567, what is the face value of 6?",
+                                        "options": ["6", "60", "600", "6000"],
+                                        "correct_answer": "6",
+                                        "rationale": "Face value is just the digit itself, so it's 6.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "In 4,567, what is the place value of 6?",
+                                        "options": ["6", "60", "600", "6000"],
+                                        "correct_answer": "60",
+                                        "rationale": "6 is in the tens place, so its place value is 60.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the difference between face value and place value of 9 in 9,876?",
+                                        "options": ["0", "9,000", "9,867", "9,876"],
+                                        "correct_answer": "9,000",
+                                        "rationale": "Place value (9000) - face value (9) = 8991, but the place value itself is 9000.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "In 3,45,678, what is the place value of 4?",
+                                        "options": ["4", "40", "400", "40,000"],
+                                        "correct_answer": "40,000",
+                                        "rationale": "4 is in the ten thousands place, so its place value is 40,000.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Addition and Subtraction",
+                        "modules": [
+                            {
+                                "module_id": 5,
+                                "topic_name": "Addition of Large Numbers",
+                                "explanation": "Adding huge numbers is like building towers! When adding 45,67,890 + 12,34,567, line up the numbers by place value and add each column from right to left. Carry over when a column exceeds 9. Practice with large numbers helps you handle real-world calculations like budgets and populations!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 45,67,890 + 12,34,567?",
+                                        "options": ["57,02,457", "58,02,457", "57,12,457", "58,12,457"],
+                                        "correct_answer": "58,02,457",
+                                        "rationale": "45,67,890 + 12,34,567 = 58,02,457.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 23,45,678 + 34,56,789?",
+                                        "options": ["57,12,467", "58,02,467", "57,02,467", "58,12,467"],
+                                        "correct_answer": "58,02,467",
+                                        "rationale": "23,45,678 + 34,56,789 = 58,02,467.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 12,34,567 + 87,65,433?",
+                                        "options": ["99,99,900", "99,99,000", "99,89,000", "99,99,990"],
+                                        "correct_answer": "99,99,900",
+                                        "rationale": "12,34,567 + 87,65,433 = 99,99,900.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 50,00,000 + 25,00,000?",
+                                        "options": ["65,00,000", "75,00,000", "85,00,000", "95,00,000"],
+                                        "correct_answer": "75,00,000",
+                                        "rationale": "50,00,000 + 25,00,000 = 75,00,000.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 1,23,45,678 + 2,34,56,789?",
+                                        "options": ["3,57,12,467", "3,58,02,467", "3,68,02,467", "3,57,02,467"],
+                                        "correct_answer": "3,58,02,467",
+                                        "rationale": "1,23,45,678 + 2,34,56,789 = 3,58,02,467.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 99,99,999 + 1?",
+                                        "options": ["99,99,990", "99,99,100", "1,00,00,000", "1,00,00,001"],
+                                        "correct_answer": "1,00,00,000",
+                                        "rationale": "99,99,999 + 1 = 1,00,00,000.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 45,67,890 + 45,67,890?",
+                                        "options": ["90,35,780", "91,35,780", "91,45,780", "90,45,780"],
+                                        "correct_answer": "91,35,780",
+                                        "rationale": "45,67,890 + 45,67,890 = 91,35,780.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 10,00,000 + 20,00,000 + 30,00,000?",
+                                        "options": ["50,00,000", "60,00,000", "70,00,000", "80,00,000"],
+                                        "correct_answer": "60,00,000",
+                                        "rationale": "10,00,000 + 20,00,000 + 30,00,000 = 60,00,000.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 6,
+                                "topic_name": "Subtraction of Large Numbers",
+                                "explanation": "Subtracting huge numbers needs careful borrowing! When subtracting 98,76,543 - 45,67,890, line up numbers by place value and subtract each column from right to left. Borrow from the next column when needed. This skill helps you calculate differences in populations, distances, and budgets!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 98,76,543 - 45,67,890?",
+                                        "options": ["53,08,653", "52,08,653", "53,18,653", "52,18,653"],
+                                        "correct_answer": "53,08,653",
+                                        "rationale": "98,76,543 - 45,67,890 = 53,08,653.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 87,65,432 - 34,56,789?",
+                                        "options": ["52,18,643", "53,08,643", "52,08,643", "53,18,643"],
+                                        "correct_answer": "53,08,643",
+                                        "rationale": "87,65,432 - 34,56,789 = 53,08,643.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 1,00,00,000 - 12,34,567?",
+                                        "options": ["87,65,433", "88,65,433", "87,75,433", "88,75,433"],
+                                        "correct_answer": "87,65,433",
+                                        "rationale": "1,00,00,000 - 12,34,567 = 87,65,433.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 75,00,000 - 25,00,000?",
+                                        "options": ["40,00,000", "50,00,000", "60,00,000", "70,00,000"],
+                                        "correct_answer": "50,00,000",
+                                        "rationale": "75,00,000 - 25,00,000 = 50,00,000.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 5,67,89,012 - 2,34,56,789?",
+                                        "options": ["3,33,32,223", "3,43,32,223", "3,33,42,223", "3,43,42,223"],
+                                        "correct_answer": "3,33,32,223",
+                                        "rationale": "5,67,89,012 - 2,34,56,789 = 3,33,32,223.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_id": 6,
+                                        "question_text": "What is 1,00,00,000 - 1?",
+                                        "options": ["99,99,999", "99,99,990", "1,00,00,001", "99,99,900"],
+                                        "correct_answer": "99,99,999",
+                                        "rationale": "1,00,00,000 - 1 = 99,99,999.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 67,89,012 - 45,67,890?",
+                                        "options": ["22,21,122", "21,21,122", "22,31,122", "21,31,122"],
+                                        "correct_answer": "22,21,122",
+                                        "rationale": "67,89,012 - 45,67,890 = 22,21,122.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 90,00,000 - 12,34,567 - 23,45,678?",
+                                        "options": ["54,19,789", "54,29,789", "55,19,789", "55,29,789"],
+                                        "correct_answer": "54,19,789",
+                                        "rationale": "90,00,000 - 12,34,567 - 23,45,678 = 54,19,789.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Multiplication",
+                        "modules": [
+                            {
+                                "module_id": 7,
+                                "topic_name": "Multiplication of Large Numbers",
+                                "explanation": "Multiplying huge numbers is like building with blocks! When multiplying 1234 × 567, multiply 1234 by each digit of 567 (7, 60, 500) and add the results. Line up the partial products correctly. This skill helps you calculate areas, volumes, and large quantities efficiently!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 1234 × 567?",
+                                        "options": ["699,678", "699,778", "699,878", "699,978"],
+                                        "correct_answer": "699,678",
+                                        "rationale": "1234 × 567 = 699,678.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 2345 × 678?",
+                                        "options": ["1,589,810", "1,589,910", "1,590,010", "1,590,110"],
+                                        "correct_answer": "1,589,810",
+                                        "rationale": "2345 × 678 = 1,589,810.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 3456 × 1000?",
+                                        "options": ["3,456,000", "34,560,000", "345,600,000", "3,456,000,000"],
+                                        "correct_answer": "3,456,000",
+                                        "rationale": "3456 × 1000 = 3,456,000.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 4567 × 200?",
+                                        "options": ["913,400", "913,340", "913,430", "913,440"],
+                                        "correct_answer": "913,400",
+                                        "rationale": "4567 × 200 = 913,400.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 5678 × 111?",
+                                        "options": ["630,258", "630,358", "630,458", "630,558"],
+                                        "correct_answer": "630,258",
+                                        "rationale": "5678 × 111 = 630,258.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 6789 × 10?",
+                                        "options": ["6,789", "67,890", "678,900", "6,789,000"],
+                                        "correct_answer": "67,890",
+                                        "rationale": "6789 × 10 = 67,890.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 7890 × 222?",
+                                        "options": ["1,751,580", "1,751,680", "1,751,780", "1,751,880"],
+                                        "correct_answer": "1,751,580",
+                                        "rationale": "7890 × 222 = 1,751,580.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 1111 × 1111?",
+                                        "options": ["1,234,321", "1,234,421", "1,234,521", "1,234,621"],
+                                        "correct_answer": "1,234,321",
+                                        "rationale": "1111 × 1111 = 1,234,321.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Time",
+                        "modules": [
+                            {
+                                "module_id": 8,
+                                "topic_name": "Time Conversions and Calculations",
+                                "explanation": "Time calculations help you plan your day! 60 seconds = 1 minute, 60 minutes = 1 hour, 24 hours = 1 day, 7 days = 1 week, 4 weeks = 1 month, 12 months = 1 year, 365 days = 1 year. Converting between units helps you solve real-life time problems and manage schedules effectively!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many minutes are in 3 hours?",
+                                        "options": ["120", "150", "180", "210"],
+                                        "correct_answer": "180",
+                                        "rationale": "3 hours × 60 minutes = 180 minutes.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "How many seconds are in 5 minutes?",
+                                        "options": ["200", "250", "300", "350"],
+                                        "correct_answer": "300",
+                                        "rationale": "5 minutes × 60 seconds = 300 seconds.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "How many days are in 8 weeks?",
+                                        "options": ["49", "56", "63", "70"],
+                                        "correct_answer": "56",
+                                        "rationale": "8 weeks × 7 days = 56 days.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "How many hours are in 3 days?",
+                                        "options": ["48", "60", "72", "84"],
+                                        "correct_answer": "72",
+                                        "rationale": "3 days × 24 hours = 72 hours.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "How many months are in 3 years?",
+                                        "options": ["24", "30", "36", "42"],
+                                        "correct_answer": "36",
+                                        "rationale": "3 years × 12 months = 36 months.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 2 hours 30 minutes in minutes?",
+                                        "options": ["120", "130", "140", "150"],
+                                        "correct_answer": "150",
+                                        "rationale": "2 hours 30 minutes = 2×60 + 30 = 120 + 30 = 150 minutes.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Money",
+                        "modules": [
+                            {
+                                "module_id": 9,
+                                "topic_name": "Money Problems and Budgeting",
+                                "explanation": "Money skills help you make smart financial decisions! Calculate total costs, find change, compare prices, and make budgets. When shopping, add item prices for the total. When paying, subtract to get change. Understanding money helps you save, spend wisely, and plan for the future!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "If a laptop costs ₹45,678 and a mouse costs ₹1,234, what's the total cost?",
+                                        "options": ["₹46,902", "₹46,912", "₹47,902", "₹47,912"],
+                                        "correct_answer": "₹46,912",
+                                        "rationale": "₹45,678 + ₹1,234 = ₹46,912.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If you have ₹1,00,000 and buy something for ₹67,890, how much is left?",
+                                        "options": ["₹22,110", "₹32,110", "₹42,110", "₹52,110"],
+                                        "correct_answer": "₹32,110",
+                                        "rationale": "₹1,00,000 - ₹67,890 = ₹32,110.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "If you buy 5 books at ₹234 each, what's the total cost?",
+                                        "options": ["₹1,070", "₹1,170", "₹1,270", "₹1,370"],
+                                        "correct_answer": "₹1,170",
+                                        "rationale": "5 × ₹234 = ₹1,170.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "If a phone costs ₹12,345 and you pay with ₹15,000, what change do you get?",
+                                        "options": ["₹2,555", "₹2,655", "₹2,755", "₹2,855"],
+                                        "correct_answer": "₹2,655",
+                                        "rationale": "₹15,000 - ₹12,345 = ₹2,655 change.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is ₹34,567 + ₹23,456?",
+                                        "options": ["₹57,023", "₹58,023", "₹57,123", "₹58,123"],
+                                        "correct_answer": "₹58,023",
+                                        "rationale": "₹34,567 + ₹23,456 = ₹58,023.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "If you buy 3 pens at ₹45 each and 2 notebooks at ₹67 each, what's the total?",
+                                        "options": ["₹239", "₹249", "₹259", "₹269"],
+                                        "correct_answer": "₹269",
+                                        "rationale": "3×₹45 + 2×₹67 = ₹135 + ₹134 = ₹269.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is ₹89,012 - ₹45,678?",
+                                        "options": ["₹43,334", "₹43,434", "₹43,534", "₹43,634"],
+                                        "correct_answer": "₹43,334",
+                                        "rationale": "₹89,012 - ₹45,678 = ₹43,334.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "If you have ₹50,000 and spend ₹12,345, ₹23,456, and ₹5,678, how much is left?",
+                                        "options": ["₹8,421", "₹8,521", "₹8,621", "₹8,721"],
+                                        "correct_answer": "₹8,521",
+                                        "rationale": "Total spent = ₹12,345 + ₹23,456 + ₹5,678 = ₹41,479. Remaining = ₹50,000 - ₹41,479 = ₹8,521.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "term_name": "Term 2",
+                "chapters": [
+                    {
+                        "chapter_name": "Division",
+                        "modules": [
+                            {
+                                "module_id": 10,
+                                "topic_name": "Division of Large Numbers",
+                                "explanation": "Division is sharing equally! When dividing 45,678 ÷ 123, use long division. Divide step by step: hundreds, then tens, then ones. Bring down remainders as you go. This skill helps you solve real problems like distributing items evenly or calculating averages!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 4,567 ÷ 23?",
+                                        "options": ["178", "188", "198", "208"],
+                                        "correct_answer": "198",
+                                        "rationale": "4,567 ÷ 23 = 198.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 6,789 ÷ 34?",
+                                        "options": ["179", "189", "199", "209"],
+                                        "correct_answer": "199",
+                                        "rationale": "6,789 ÷ 34 = 199.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 8,640 ÷ 45?",
+                                        "options": ["172", "182", "192", "202"],
+                                        "correct_answer": "192",
+                                        "rationale": "8,640 ÷ 45 = 192.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 9,999 ÷ 99?",
+                                        "options": ["91", "101", "111", "121"],
+                                        "correct_answer": "101",
+                                        "rationale": "9,999 ÷ 99 = 101.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 12,345 ÷ 123?",
+                                        "options": ["90", "100", "110", "120"],
+                                        "correct_answer": "100",
+                                        "rationale": "12,345 ÷ 123 = 100.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_id": 6,
+                                        "question_text": "What is 15,678 ÷ 156?",
+                                        "options": ["90", "100", "110", "120"],
+                                        "correct_answer": "100",
+                                        "rationale": "15,678 ÷ 156 = 100.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 18,750 ÷ 125?",
+                                        "options": ["140", "150", "160", "170"],
+                                        "correct_answer": "150",
+                                        "rationale": "18,750 ÷ 125 = 150.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 22,222 ÷ 222?",
+                                        "options": ["90", "100", "110", "120"],
+                                        "correct_answer": "100",
+                                        "rationale": "22,222 ÷ 222 = 100.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Fractions",
+                        "modules": [
+                            {
+                                "module_id": 11,
+                                "topic_name": "Mixed Fractions and Improper Fractions",
+                                "explanation": "Mixed fractions combine whole numbers and fractions! 2 1/4 means 2 whole parts and 1/4 of another. Improper fractions have numerators larger than denominators (like 9/4). To convert: 9/4 = 2 1/4 (9 ÷ 4 = 2 remainder 1). These help you work with quantities larger than one whole!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 7/4 as a mixed fraction?",
+                                        "options": ["1 3/4", "2 1/4", "1 1/4", "2 3/4"],
+                                        "correct_answer": "1 3/4",
+                                        "rationale": "7 ÷ 4 = 1 remainder 3, so 7/4 = 1 3/4.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 9/2 as a mixed fraction?",
+                                        "options": ["4 1/2", "3 1/2", "4 3/2", "3 3/2"],
+                                        "correct_answer": "4 1/2",
+                                        "rationale": "9 ÷ 2 = 4 remainder 1, so 9/2 = 4 1/2.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 11/3 as a mixed fraction?",
+                                        "options": ["3 2/3", "2 2/3", "3 1/3", "2 1/3"],
+                                        "correct_answer": "3 2/3",
+                                        "rationale": "11 ÷ 3 = 3 remainder 2, so 11/3 = 3 2/3.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 2 1/4 as an improper fraction?",
+                                        "options": ["7/4", "8/4", "9/4", "10/4"],
+                                        "correct_answer": "9/4",
+                                        "rationale": "2 1/4 = (2×4 + 1)/4 = 9/4.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 3 1/2 as an improper fraction?",
+                                        "options": ["6/2", "7/2", "8/2", "9/2"],
+                                        "correct_answer": "7/2",
+                                        "rationale": "3 1/2 = (3×2 + 1)/2 = 7/2.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 4 2/3 as an improper fraction?",
+                                        "options": ["12/3", "13/3", "14/3", "15/3"],
+                                        "correct_answer": "14/3",
+                                        "rationale": "4 2/3 = (4×3 + 2)/3 = 14/3.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 15/5 as a mixed fraction?",
+                                        "options": ["2", "3", "4", "5"],
+                                        "correct_answer": "3",
+                                        "rationale": "15 ÷ 5 = 3, so 15/5 = 3.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 5 3/4 as an improper fraction?",
+                                        "options": ["20/4", "21/4", "22/4", "23/4"],
+                                        "correct_answer": "23/4",
+                                        "rationale": "5 3/4 = (5×4 + 3)/4 = 23/4.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 12,
+                                "topic_name": "Multiplication of Fractions",
+                                "explanation": "Multiplying fractions is straightforward! Multiply numerators together and denominators together: (a/b) × (c/d) = (a×c)/(b×d). Simplify if possible. For mixed fractions, convert to improper fractions first. This helps you calculate portions of quantities efficiently!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 1/2 × 1/3?",
+                                        "options": ["1/6", "1/5", "2/5", "2/6"],
+                                        "correct_answer": "1/6",
+                                        "rationale": "1/2 × 1/3 = (1×1)/(2×3) = 1/6.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 2/3 × 3/4?",
+                                        "options": ["6/12", "5/12", "6/7", "5/7"],
+                                        "correct_answer": "6/12",
+                                        "rationale": "2/3 × 3/4 = (2×3)/(3×4) = 6/12 = 1/2.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 3/4 × 2/5?",
+                                        "options": ["6/20", "5/20", "6/9", "5/9"],
+                                        "correct_answer": "6/20",
+                                        "rationale": "3/4 × 2/5 = (3×2)/(4×5) = 6/20 = 3/10.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 4/5 × 5/6?",
+                                        "options": ["20/30", "19/30", "20/11", "19/11"],
+                                        "correct_answer": "20/30",
+                                        "rationale": "4/5 × 5/6 = (4×5)/(5×6) = 20/30 = 2/3.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 2 × 3/4?",
+                                        "options": ["6/4", "5/4", "7/4", "8/4"],
+                                        "correct_answer": "6/4",
+                                        "rationale": "2 × 3/4 = 2/1 × 3/4 = 6/4 = 1 1/2.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_id": 6,
+                                        "question_text": "What is 3/2 × 4?",
+                                        "options": ["12/2", "11/2", "13/2", "14/2"],
+                                        "correct_answer": "12/2",
+                                        "rationale": "3/2 × 4 = 3/2 × 4/1 = 12/2 = 6.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 1/2 × 1/2 × 1/2?",
+                                        "options": ["1/4", "1/6", "1/8", "1/10"],
+                                        "correct_answer": "1/8",
+                                        "rationale": "1/2 × 1/2 × 1/2 = 1/8.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 2/3 × 3/4 × 4/5?",
+                                        "options": ["24/60", "23/60", "24/59", "23/59"],
+                                        "correct_answer": "24/60",
+                                        "rationale": "2/3 × 3/4 × 4/5 = 24/60 = 2/5.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Decimals",
+                        "modules": [
+                            {
+                                "module_id": 13,
+                                "topic_name": "Decimal Operations",
+                                "explanation": "Decimal operations are like working with money! Add and subtract decimals by lining up decimal points. Multiply decimals normally, then count decimal places. Divide decimals by moving decimal points. These skills help you calculate prices, measurements, and scientific values precisely!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 12.34 + 56.78?",
+                                        "options": ["68.12", "69.12", "68.22", "69.22"],
+                                        "correct_answer": "69.12",
+                                        "rationale": "12.34 + 56.78 = 69.12.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 89.76 - 34.56?",
+                                        "options": ["54.20", "55.20", "54.30", "55.30"],
+                                        "correct_answer": "55.20",
+                                        "rationale": "89.76 - 34.56 = 55.20.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 2.5 × 3.4?",
+                                        "options": ["8.5", "8.6", "9.5", "9.6"],
+                                        "correct_answer": "8.5",
+                                        "rationale": "2.5 × 3.4 = 8.5.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 4.8 ÷ 2.4?",
+                                        "options": ["1", "2", "3", "4"],
+                                        "correct_answer": "2",
+                                        "rationale": "4.8 ÷ 2.4 = 2.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 123.45 + 67.89?",
+                                        "options": ["190.34", "191.34", "190.44", "191.44"],
+                                        "correct_answer": "191.34",
+                                        "rationale": "123.45 + 67.89 = 191.34.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 987.65 - 432.10?",
+                                        "options": ["555.55", "556.55", "555.65", "556.65"],
+                                        "correct_answer": "555.55",
+                                        "rationale": "987.65 - 432.10 = 555.55.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 3.14 × 2.5?",
+                                        "options": ["7.85", "7.95", "8.85", "8.95"],
+                                        "correct_answer": "7.85",
+                                        "rationale": "3.14 × 2.5 = 7.85.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 15.6 ÷ 1.2?",
+                                        "options": ["11", "12", "13", "14"],
+                                        "correct_answer": "13",
+                                        "rationale": "15.6 ÷ 1.2 = 13.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Measurements",
+                        "modules": [
+                            {
+                                "module_id": 14,
+                                "topic_name": "Area and Perimeter of Complex Shapes",
+                                "explanation": "Area and perimeter help you measure spaces! Perimeter = distance around the outside. Area = space inside. For rectangles: perimeter = 2 × (length + width), area = length × width. For complex shapes, break them into simpler shapes. These skills help in construction, gardening, and design!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is the perimeter of a rectangle 12 cm by 8 cm?",
+                                        "options": ["30 cm", "40 cm", "50 cm", "60 cm"],
+                                        "correct_answer": "40 cm",
+                                        "rationale": "Perimeter = 2 × (12 + 8) = 2 × 20 = 40 cm.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is the area of a rectangle 12 cm by 8 cm?",
+                                        "options": ["80 cm²", "90 cm²", "96 cm²", "100 cm²"],
+                                        "correct_answer": "96 cm²",
+                                        "rationale": "Area = 12 × 8 = 96 cm².",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is the perimeter of a square with side 15 cm?",
+                                        "options": ["45 cm", "60 cm", "75 cm", "90 cm"],
+                                        "correct_answer": "60 cm",
+                                        "rationale": "Perimeter = 4 × 15 = 60 cm.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is the area of a square with side 15 cm?",
+                                        "options": ["200 cm²", "225 cm²", "250 cm²", "275 cm²"],
+                                        "correct_answer": "225 cm²",
+                                        "rationale": "Area = 15 × 15 = 225 cm².",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the perimeter of a rectangle 25 cm by 10 cm?",
+                                        "options": ["60 cm", "70 cm", "80 cm", "90 cm"],
+                                        "correct_answer": "70 cm",
+                                        "rationale": "Perimeter = 2 × (25 + 10) = 2 × 35 = 70 cm.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_id": 6,
+                                        "question_text": "What is the area of a rectangle 25 cm by 10 cm?",
+                                        "options": ["200 cm²", "250 cm²", "300 cm²", "350 cm²"],
+                                        "correct_answer": "250 cm²",
+                                        "rationale": "Area = 25 × 10 = 250 cm².",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is the perimeter of a square with side 20 cm?",
+                                        "options": ["60 cm", "70 cm", "80 cm", "90 cm"],
+                                        "correct_answer": "80 cm",
+                                        "rationale": "Perimeter = 4 × 20 = 80 cm.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is the area of a square with side 20 cm?",
+                                        "options": ["300 cm²", "350 cm²", "400 cm²", "450 cm²"],
+                                        "correct_answer": "400 cm²",
+                                        "rationale": "Area = 20 × 20 = 400 cm².",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "term_name": "Term 3",
+                "chapters": [
+                    {
+                        "chapter_name": "Percentage",
+                        "modules": [
+                            {
+                                "module_id": 15,
+                                "topic_name": "Introduction to Percentage",
+                                "explanation": "Percentage means 'out of 100'! 25% = 25/100 = 1/4 = 0.25. 50% = 50/100 = 1/2 = 0.5. 100% = 100/100 = 1. Percentage helps you understand discounts, grades, statistics, and proportions in everyday life. It's a universal way to compare quantities!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 25% as a fraction?",
+                                        "options": ["1/2", "1/3", "1/4", "1/5"],
+                                        "correct_answer": "1/4",
+                                        "rationale": "25% = 25/100 = 1/4.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 50% as a decimal?",
+                                        "options": ["0.05", "0.5", "5.0", "50.0"],
+                                        "correct_answer": "0.5",
+                                        "rationale": "50% = 50/100 = 0.5.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 75% as a fraction?",
+                                        "options": ["1/2", "2/3", "3/4", "4/5"],
+                                        "correct_answer": "3/4",
+                                        "rationale": "75% = 75/100 = 3/4.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 10% as a decimal?",
+                                        "options": ["0.01", "0.1", "1.0", "10.0"],
+                                        "correct_answer": "0.1",
+                                        "rationale": "10% = 10/100 = 0.1.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 100% as a fraction?",
+                                        "options": ["1/2", "3/4", "1", "2"],
+                                        "correct_answer": "1",
+                                        "rationale": "100% = 100/100 = 1.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 20% as a fraction?",
+                                        "options": ["1/2", "1/3", "1/4", "1/5"],
+                                        "correct_answer": "1/5",
+                                        "rationale": "20% = 20/100 = 1/5.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 16,
+                                "topic_name": "Percentage Calculations",
+                                "explanation": "Percentage calculations help you find parts of quantities! To find 25% of 200: 200 × 25/100 = 50. To find what percentage 50 is of 200: (50/200) × 100 = 25%. These skills help you calculate discounts, taxes, tips, and analyze data in everyday situations!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 25% of 200?",
+                                        "options": ["40", "50", "60", "70"],
+                                        "correct_answer": "50",
+                                        "rationale": "200 × 25/100 = 50.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 50% of 300?",
+                                        "options": ["120", "130", "140", "150"],
+                                        "correct_answer": "150",
+                                        "rationale": "300 × 50/100 = 150.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 10% of 450?",
+                                        "options": ["35", "40", "45", "50"],
+                                        "correct_answer": "45",
+                                        "rationale": "450 × 10/100 = 45.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What percentage is 75 of 300?",
+                                        "options": ["20%", "25%", "30%", "35%"],
+                                        "correct_answer": "25%",
+                                        "rationale": "(75/300) × 100 = 25%.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 75% of 400?",
+                                        "options": ["250", "275", "300", "325"],
+                                        "correct_answer": "300",
+                                        "rationale": "400 × 75/100 = 300.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_id": 6,
+                                        "question_text": "What percentage is 120 of 600?",
+                                        "options": ["15%", "20%", "25%", "30%"],
+                                        "correct_answer": "20%",
+                                        "rationale": "(120/600) × 100 = 20%.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 5% of 800?",
+                                        "options": ["30", "35", "40", "45"],
+                                        "correct_answer": "40",
+                                        "rationale": "800 × 5/100 = 40.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What percentage is 90 of 180?",
+                                        "options": ["40%", "45%", "50%", "55%"],
+                                        "correct_answer": "50%",
+                                        "rationale": "(90/180) × 100 = 50%.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Data Handling",
+                        "modules": [
+                            {
+                                "module_id": 17,
+                                "topic_name": "Average and Mean",
+                                "explanation": "Average (mean) is like sharing equally! To find the average of numbers, add them all and divide by how many numbers there are. For 10, 20, 30: (10 + 20 + 30) ÷ 3 = 20. Average helps you find typical values in data sets and make fair comparisons!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is the average of 10, 20, 30?",
+                                        "options": ["15", "20", "25", "30"],
+                                        "correct_answer": "20",
+                                        "rationale": "(10 + 20 + 30) ÷ 3 = 60 ÷ 3 = 20.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is the average of 5, 15, 25, 35?",
+                                        "options": ["15", "20", "25", "30"],
+                                        "correct_answer": "20",
+                                        "rationale": "(5 + 15 + 25 + 35) ÷ 4 = 80 ÷ 4 = 20.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is the average of 12, 18, 24?",
+                                        "options": ["14", "16", "18", "20"],
+                                        "correct_answer": "18",
+                                        "rationale": "(12 + 18 + 24) ÷ 3 = 54 ÷ 3 = 18.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is the average of 8, 12, 16, 20?",
+                                        "options": ["12", "14", "16", "18"],
+                                        "correct_answer": "14",
+                                        "rationale": "(8 + 12 + 16 + 20) ÷ 4 = 56 ÷ 4 = 14.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the average of 100, 200?",
+                                        "options": ["100", "150", "200", "250"],
+                                        "correct_answer": "150",
+                                        "rationale": "(100 + 200) ÷ 2 = 300 ÷ 2 = 150.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is the average of 7, 14, 21, 28, 35?",
+                                        "options": ["17", "19", "21", "23"],
+                                        "correct_answer": "21",
+                                        "rationale": "(7 + 14 + 21 + 28 + 35) ÷ 5 = 105 ÷ 5 = 21.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Geometry",
+                        "modules": [
+                            {
+                                "module_id": 18,
+                                "topic_name": "3D Shapes and Volume",
+                                "explanation": "3D shapes are solid objects! Volume is the space inside. Cube volume = side³. Cuboid volume = length × width × height. Cylinder volume = π × radius² × height. Understanding volume helps you calculate how much liquid containers hold and how much space objects occupy!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is the volume of a cube with side 4 cm?",
+                                        "options": ["48 cm³", "56 cm³", "64 cm³", "72 cm³"],
+                                        "correct_answer": "64 cm³",
+                                        "rationale": "Volume = 4³ = 4 × 4 × 4 = 64 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is the volume of a cuboid 6 cm × 4 cm × 3 cm?",
+                                        "options": ["48 cm³", "60 cm³", "72 cm³", "84 cm³"],
+                                        "correct_answer": "72 cm³",
+                                        "rationale": "Volume = 6 × 4 × 3 = 72 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is the volume of a cube with side 5 cm?",
+                                        "options": ["100 cm³", "125 cm³", "150 cm³", "175 cm³"],
+                                        "correct_answer": "125 cm³",
+                                        "rationale": "Volume = 5³ = 5 × 5 × 5 = 125 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is the volume of a cuboid 8 cm × 5 cm × 2 cm?",
+                                        "options": ["60 cm³", "70 cm³", "80 cm³", "90 cm³"],
+                                        "correct_answer": "80 cm³",
+                                        "rationale": "Volume = 8 × 5 × 2 = 80 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_id": 5,
+                                        "question_text": "What is the volume of a cube with side 3 cm?",
+                                        "options": ["18 cm³", "21 cm³", "24 cm³", "27 cm³"],
+                                        "correct_answer": "27 cm³",
+                                        "rationale": "Volume = 3³ = 3 × 3 × 3 = 27 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is the volume of a cuboid 10 cm × 6 cm × 4 cm?",
+                                        "options": ["200 cm³", "220 cm³", "240 cm³", "260 cm³"],
+                                        "correct_answer": "240 cm³",
+                                        "rationale": "Volume = 10 × 6 × 4 = 240 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is the volume of a cube with side 7 cm?",
+                                        "options": ["323 cm³", "333 cm³", "343 cm³", "353 cm³"],
+                                        "correct_answer": "343 cm³",
+                                        "rationale": "Volume = 7³ = 7 × 7 × 7 = 343 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is the volume of a cuboid 12 cm × 8 cm × 5 cm?",
+                                        "options": ["420 cm³", "460 cm³", "480 cm³", "520 cm³"],
+                                        "correct_answer": "480 cm³",
+                                        "rationale": "Volume = 12 × 8 × 5 = 480 cm³.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Patterns",
+                        "modules": [
+                            {
+                                "module_id": 19,
+                                "topic_name": "Number Patterns and Sequences",
+                                "explanation": "Number patterns are mathematical puzzles! Arithmetic patterns add/subtract the same amount: 3, 7, 11, 15... (add 4). Geometric patterns multiply/divide: 2, 6, 18, 54... (multiply by 3). Finding pattern rules helps you predict next numbers and solve problems efficiently!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What comes next: 5, 10, 15, 20, ?",
+                                        "options": ["21", "22", "23", "25"],
+                                        "correct_answer": "25",
+                                        "rationale": "The pattern adds 5 each time, so 20 + 5 = 25.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What comes next: 3, 6, 12, 24, ?",
+                                        "options": ["36", "42", "48", "54"],
+                                        "correct_answer": "48",
+                                        "rationale": "The pattern doubles each time: 24 × 2 = 48.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What comes next: 100, 90, 80, 70, ?",
+                                        "options": ["50", "60", "65", "75"],
+                                        "correct_answer": "60",
+                                        "rationale": "The pattern subtracts 10 each time, so 70 - 10 = 60.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What comes next: 2, 5, 8, 11, ?",
+                                        "options": ["12", "13", "14", "15"],
+                                        "correct_answer": "14",
+                                        "rationale": "The pattern adds 3 each time, so 11 + 3 = 14.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What comes next: 1, 4, 9, 16, ?",
+                                        "options": ["20", "21", "24", "25"],
+                                        "correct_answer": "25",
+                                        "rationale": "The pattern is squares: 1², 2², 3², 4², so next is 5² = 25.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What comes next: 81, 27, 9, 3, ?",
+                                        "options": ["0", "1", "2", "3"],
+                                        "correct_answer": "1",
+                                        "rationale": "The pattern divides by 3 each time: 3 ÷ 3 = 1.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Mental Mathematics",
+                        "modules": [
+                            {
+                                "module_id": 20,
+                                "topic_name": "Advanced Mental Math Strategies",
+                                "explanation": "Mental math makes you a calculation wizard! Use strategies like: 99 × 8 = (100 - 1) × 8 = 800 - 8 = 792. Or 25 × 16 = 25 × 4 × 4 = 100 × 4 = 400. Breaking numbers into friendly parts makes complex calculations easy and builds confidence!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 99 × 8 using mental math?",
+                                        "options": ["692", "702", "792", "892"],
+                                        "correct_answer": "792",
+                                        "rationale": "99 × 8 = (100 - 1) × 8 = 800 - 8 = 792.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 25 × 16 using mental math?",
+                                        "options": ["300", "350", "400", "450"],
+                                        "correct_answer": "400",
+                                        "rationale": "25 × 16 = 25 × 4 × 4 = 100 × 4 = 400.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 125 × 8 using mental math?",
+                                        "options": ["800", "900", "1000", "1100"],
+                                        "correct_answer": "1000",
+                                        "rationale": "125 × 8 = 1000 (8 × 125 = 1000).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 987 - 123 using mental math?",
+                                        "options": ["754", "764", "774", "784"],
+                                        "correct_answer": "864",
+                                        "rationale": "987 - 123 = (987 - 100) - 23 = 887 - 23 = 864.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_id": 5,
+                                        "question_text": "What is 50 × 24 using mental math?",
+                                        "options": ["1000", "1100", "1200", "1300"],
+                                        "correct_answer": "1200",
+                                        "rationale": "50 × 24 = 50 × (25 - 1) = 1250 - 50 = 1200.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 75 × 4 using mental math?",
+                                        "options": ["250", "275", "300", "325"],
+                                        "correct_answer": "300",
+                                        "rationale": "75 × 4 = (50 + 25) × 4 = 200 + 100 = 300.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 150 × 6 using mental math?",
+                                        "options": ["800", "850", "900", "950"],
+                                        "correct_answer": "900",
+                                        "rationale": "150 × 6 = (100 + 50) × 6 = 600 + 300 = 900.",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 999 + 1 using mental math?",
+                                        "options": ["900", "990", "1000", "1100"],
+                                        "correct_answer": "1000",
+                                        "rationale": "999 + 1 = 1000.",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+    
+    return curriculum
+
+# Generate and save the curriculum
+curriculum = create_class5_curriculum()
+output_file = r"c:\Users\thira\OneDrive - Rathinam Group Of Institutions\Desktop\My carrier\projects\learn-edu\class5_mathematics_curriculum.json"
+
+with open(output_file, 'w', encoding='utf-8') as f:
+    json.dump(curriculum, f, ensure_ascii=False, indent=2)
+
+print(f"Class 5 Mathematics curriculum saved to {output_file}")
+total_modules = sum(len(term['chapters']) for term in curriculum['terms'])
+total_chapters = sum(len(chapter['modules']) for term in curriculum['terms'] for chapter in term['chapters'])
+print(f"Total chapters created: {total_modules}")
+print(f"Total modules created: {total_chapters}")
+
+# Count actual questions
+actual_questions = 0
+for term in curriculum['terms']:
+    for chapter in term['chapters']:
+        for module in chapter['modules']:
+            actual_questions += len(module['questions'])
+print(f"Total questions generated: {actual_questions}")

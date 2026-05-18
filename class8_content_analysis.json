@@ -1,0 +1,4177 @@
+{
+  "class": "8",
+  "chapters": [
+    {
+      "number": "1",
+      "title": "NUMBERS"
+    },
+    {
+      "number": "2",
+      "title": "MEASUREMENTS"
+    },
+    {
+      "number": "3",
+      "title": "ALGEBRA"
+    },
+    {
+      "number": "4",
+      "title": "LIFE MATHEMATICS"
+    },
+    {
+      "number": "6",
+      "title": "STATISTICS"
+    },
+    {
+      "number": "7",
+      "title": "INFORMATION PROCESSING"
+    },
+    {
+      "number": "1",
+      "title": "NUMBERS"
+    },
+    {
+      "number": "8",
+      "title": "FINDING THE SQUARE ROOT OF NUMBERS IN"
+    },
+    {
+      "number": "5",
+      "title": "ON THE NUMBER LINE"
+    },
+    {
+      "number": "1",
+      "title": "THE SIMPLEST FORM OF"
+    },
+    {
+      "number": "2",
+      "title": "WHICH OF THE FOLLOWING IS NOT AN EQUIVALENT FRACTION OF"
+    },
+    {
+      "number": "3",
+      "title": "WHICH IS BIGGER"
+    },
+    {
+      "number": "5",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "7",
+      "title": "DIVIDE"
+    },
+    {
+      "number": "9",
+      "title": "IN A CITY"
+    },
+    {
+      "number": "20",
+      "title": "OF THE POPULATION ARE WOMEN AND"
+    },
+    {
+      "number": "4",
+      "title": "ARE CHILDREN"
+    },
+    {
+      "number": "10",
+      "title": "REPRESENT"
+    },
+    {
+      "number": "1",
+      "title": "IS THE NUMBER"
+    },
+    {
+      "number": "2",
+      "title": "WRITE ANY"
+    },
+    {
+      "number": "20",
+      "title": "FOR THIS REASON"
+    },
+    {
+      "number": "4",
+      "title": "ON THE NUMBER LINE"
+    },
+    {
+      "number": "4",
+      "title": "BEING NEGATIVE WOULD BE MARKED TO"
+    },
+    {
+      "number": "4",
+      "title": "TO THE RIGHT OF ZERO"
+    },
+    {
+      "number": "4",
+      "title": "TO THE LEFT OF ZERO"
+    },
+    {
+      "number": "2",
+      "title": "BETWEEN"
+    },
+    {
+      "number": "7",
+      "title": "AND B REPRESENTS THE RATIONAL NUMBER"
+    },
+    {
+      "number": "5",
+      "title": "TRY THESE"
+    },
+    {
+      "number": "1",
+      "title": "WHICH OF THE FOLLOWING PAIRS REPRESENTS EQUIVALENT RATIONAL NUMBERS"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE STANDARD FORM OF"
+    },
+    {
+      "number": "3",
+      "title": "MARK THE FOLLOWING RATIONAL NUMBERS ON A NUMBER LINE"
+    },
+    {
+      "number": "60",
+      "title": "AND SO"
+    },
+    {
+      "number": "9",
+      "title": "IS ONE RATIONAL NUMBER WE HAVE FOUND IN BETWEEN"
+    },
+    {
+      "number": "7",
+      "title": "BY THE FOLLOWING"
+    },
+    {
+      "number": "70",
+      "title": "AND SEE THAT THERE"
+    },
+    {
+      "number": "700",
+      "title": "THEN AGAIN"
+    },
+    {
+      "number": "20",
+      "title": "AS SHOWN BELOW"
+    },
+    {
+      "number": "9",
+      "title": "GIVES THE RANGE OF RATIONAL NUMBERS FROM"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "5",
+      "title": "LIES BETWEEN THE INTEGERS"
+    },
+    {
+      "number": "3",
+      "title": "ARE EQUIDISTANT FROM"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "5",
+      "title": "LIES TO THE LEFT OF"
+    },
+    {
+      "number": "5",
+      "title": "IS GREATER THAN"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE RATIONAL NUMBERS REPRESENTED BY EACH OF THE QUESTION MARKS MARKED ON THE"
+    },
+    {
+      "number": "4",
+      "title": "THE POINTS S"
+    },
+    {
+      "number": "5",
+      "title": "DRAW A NUMBER LINE AND REPRESENT THE FOLLOWING RATIONAL NUMBERS ON IT"
+    },
+    {
+      "number": "6",
+      "title": "WRITE THE DECIMAL FORM OF THE FOLLOWING RATIONAL NUMBERS"
+    },
+    {
+      "number": "7",
+      "title": "LIST ANY FIVE RATIONAL NUMBERS BETWEEN THE GIVEN RATIONAL NUMBERS"
+    },
+    {
+      "number": "8",
+      "title": "USE THE METHOD OF AVERAGES TO WRITE"
+    },
+    {
+      "number": "9",
+      "title": "COMPARE THE FOLLOWING PAIRS OF RATIONAL NUMBERS"
+    },
+    {
+      "number": "10",
+      "title": "ARRANGE THE FOLLOWING RATIONAL NUMBERS IN ASCENDING AND DESCENDING ORDER"
+    },
+    {
+      "number": "11",
+      "title": "THE NUMBER WHICH IS SUBTRACTED FROM"
+    },
+    {
+      "number": "11",
+      "title": "TO GET"
+    },
+    {
+      "number": "12",
+      "title": "WHICH OF THE FOLLOWING PAIRS IS EQUIVALENT"
+    },
+    {
+      "number": "4",
+      "title": "IS A RATIONAL NUMBER WHICH LIES BETWEEN"
+    },
+    {
+      "number": "14",
+      "title": "WHICH OF THE FOLLOWING RATIONAL NUMBERS IS THE GREATEST"
+    },
+    {
+      "number": "15",
+      "title": "THE SUM OF THE DIGITS OF THE DENOMINATOR IN THE SIMPLEST FORM OF"
+    },
+    {
+      "number": "3",
+      "title": "ARE ADDITIVE INVERSES OF EACH"
+    },
+    {
+      "number": "5",
+      "title": "IF ONE NUMBER IS"
+    },
+    {
+      "number": "3",
+      "title": "WHAT IS THE MULTIPLICATIVE"
+    },
+    {
+      "number": "3",
+      "title": "IF ONE NUMBER IS"
+    },
+    {
+      "number": "3",
+      "title": "ON BOTH SIDES"
+    },
+    {
+      "number": "4",
+      "title": "M LONG"
+    },
+    {
+      "number": "9",
+      "title": "IF THE"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE SUM"
+    },
+    {
+      "number": "4",
+      "title": "SUBTRACT"
+    },
+    {
+      "number": "5",
+      "title": "EVALUATE"
+    },
+    {
+      "number": "6",
+      "title": "DIVIDE"
+    },
+    {
+      "number": "8",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "9",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "10",
+      "title": "A STUDENT HAD MULTIPLIED A NUMBER BY"
+    },
+    {
+      "number": "3",
+      "title": "INSTEAD OF DIVIDING IT BY"
+    },
+    {
+      "number": "3",
+      "title": "AND GOT"
+    },
+    {
+      "number": "11",
+      "title": "THE STANDARD FORM OF THE SUM"
+    },
+    {
+      "number": "15",
+      "title": "WHICH OF THESE RATIONAL NUMBERS WHICH HAVE ADDITIVE INVERSE"
+    },
+    {
+      "number": "7",
+      "title": "THAT IS"
+    },
+    {
+      "number": "1",
+      "title": "VERIFY THE CLOSURE PROPERTY FOR ADDITION AND MULTIPLICATION FOR THE"
+    },
+    {
+      "number": "2",
+      "title": "VERIFY THE COMMUTATIVE PROPERTY FOR ADDITION AND MULTIPLICATION FOR"
+    },
+    {
+      "number": "3",
+      "title": "VERIFY THE ASSOCIATIVE PROPERTY FOR ADDITION AND MULTIPLICATION FOR THE RATIONAL NUMBERS"
+    },
+    {
+      "number": "4",
+      "title": "VERIFY THE DISTRIBUTIVE PROPERTY AB CA BA C"
+    },
+    {
+      "number": "5",
+      "title": "VERIFY THE IDENTITY PROPERTY FOR ADDITION AND MULTIPLICATION FOR THE RATIONAL NUMBERS"
+    },
+    {
+      "number": "6",
+      "title": "VERIFY THE ADDITIVE AND MULTIPLICATIVE INVERSE PROPERTY FOR THE RATIONAL NUMBERS"
+    },
+    {
+      "number": "7",
+      "title": "CLOSURE PROPERTY IS NOT TRUE FOR DIVISION OF RATIONAL NUMBERS BECAUSE OF THE NUMBER"
+    },
+    {
+      "number": "9",
+      "title": "WHICH OF THE FOLLOWING ILLUSTRATES THE INVERSE PROPERTY FOR ADDITION"
+    },
+    {
+      "number": "1",
+      "title": "IS THE SQUARE OF A PRIME NUMBER"
+    },
+    {
+      "number": "2",
+      "title": "WILL THE SUM OF TWO PERFECT SQUARES ALWAYS BE A PERFECT SQUARE"
+    },
+    {
+      "number": "1",
+      "title": "WHICH AMONG"
+    },
+    {
+      "number": "2",
+      "title": "ONE CAN JUDGE JUST BY LOOK THAT EACH OF THE FOLLOWING NUMBERS"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE SQUARE OF THE FOLLOWING NUMBERS"
+    },
+    {
+      "number": "4",
+      "title": "EXAMINE IF EACH OF THE FOLLOWING IS A PERFECT SQUARE"
+    },
+    {
+      "number": "5",
+      "title": "FIND THE SQUARE ROOT BY PRIME FACTORISATION METHOD"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE SQUARE ROOT BY LONG DIVISION METHOD"
+    },
+    {
+      "number": "7",
+      "title": "ESTIMATE THE VALUE OF THE FOLLOWING SQUARE ROOTS TO THE NEAREST WHOLE NUMBER"
+    },
+    {
+      "number": "8",
+      "title": "FIND THE SQUARE ROOT OF THE FOLLOWING DECIMAL NUMBERS AND FRACTIONS"
+    },
+    {
+      "number": "9",
+      "title": "FIND THE LEAST NUMBER THAT MUST BE SUBTRACTED TO"
+    },
+    {
+      "number": "10",
+      "title": "FIND THE LEAST NUMBER BY WHICH"
+    },
+    {
+      "number": "11",
+      "title": "THE SQUARE OF"
+    },
+    {
+      "number": "15",
+      "title": "THE NUMBER OF DIGITS IN THE SQUARE ROOT OF"
+    },
+    {
+      "number": "1",
+      "title": "THE CUBE OF A POSITIVE NUMBER IS"
+    },
+    {
+      "number": "2",
+      "title": "THE CUBE OF A NEGATIVE NUMBER IS"
+    },
+    {
+      "number": "3",
+      "title": "THE CUBE OF EVERY EVEN NUMBER IS"
+    },
+    {
+      "number": "4",
+      "title": "THE CUBE OF EVERY ODD NUMBER IS ODD"
+    },
+    {
+      "number": "5",
+      "title": "IF A NATURAL NUMBER ENDS WITH"
+    },
+    {
+      "number": "6",
+      "title": "IF A NATURAL NUMBER ENDS WITH"
+    },
+    {
+      "number": "7",
+      "title": "IF A NATURAL NUMBER ENDS WITH"
+    },
+    {
+      "number": "8",
+      "title": "THE SUM OF THE CUBES OF FIRST N NATURAL"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "SHOW THAT"
+    },
+    {
+      "number": "4",
+      "title": "FIND THE SMALLEST NUMBER BY WHICH"
+    },
+    {
+      "number": "5",
+      "title": "FIND THE SMALLEST NUMBER BY WHICH"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE CUBE ROOT OF"
+    },
+    {
+      "number": "7",
+      "title": "FIND THE CUBE ROOT OF"
+    },
+    {
+      "number": "8",
+      "title": "WHAT IS THE SQUARE ROOT OF CUBE ROOT OF"
+    },
+    {
+      "number": "9",
+      "title": "IF THE CUBE OF A SQUARED NUMBER IS"
+    },
+    {
+      "number": "10",
+      "title": "FIND THE TWO SMALLEST PERFECT SQUARE NUMBERS WHICH WHEN MULTIPLIED TOGETHER GIVES A"
+    },
+    {
+      "number": "73",
+      "title": "AS THE SUM OF CONSECUTIVE ODD NUMBERS"
+    },
+    {
+      "number": "2",
+      "title": "NEXT IS"
+    },
+    {
+      "number": "2",
+      "title": "DIVIDED BY"
+    },
+    {
+      "number": "4",
+      "title": "AND SO ON"
+    },
+    {
+      "number": "1",
+      "title": "PRODUCT OF SAME POWERS TO POWER OF PRODUCT RULE"
+    },
+    {
+      "number": "2",
+      "title": "QUOTIENT OF SAME POWERS TO POWER OF QUOTIENT RULE"
+    },
+    {
+      "number": "3",
+      "title": "ZERO EXPONENT RULE"
+    },
+    {
+      "number": "195",
+      "title": "IS IN STANDARD FORM"
+    },
+    {
+      "number": "1",
+      "title": "THE POSITIVE  EXPONENT IN"
+    },
+    {
+      "number": "2",
+      "title": "THE NEGATIVE  EXPONENT IN"
+    },
+    {
+      "number": "1",
+      "title": "WRITE IN STANDARD FORM"
+    },
+    {
+      "number": "2",
+      "title": "WRITE IN SCIENTIFIC NOTATION"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "EVALUATE"
+    },
+    {
+      "number": "4",
+      "title": "EVALUATE"
+    },
+    {
+      "number": "5",
+      "title": "EVALUATE"
+    },
+    {
+      "number": "6",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "7",
+      "title": "SOLVE FOR X"
+    },
+    {
+      "number": "8",
+      "title": "EXPAND USING EXPONENTS"
+    },
+    {
+      "number": "9",
+      "title": "FIND THE NUMBER IN STANDARD FORM FOR THE FOLLOWING EXPANSIONS"
+    },
+    {
+      "number": "10",
+      "title": "WRITE THE FOLLOWING NUMBERS IN SCIENTIFIC NOTATION"
+    },
+    {
+      "number": "11",
+      "title": "BY WHAT NUMBER SHOULD"
+    },
+    {
+      "number": "13",
+      "title": "WHICH IS NOT CORRECT"
+    },
+    {
+      "number": "4",
+      "title": "OF A BOX OF APPLES WEIGHS"
+    },
+    {
+      "number": "2",
+      "title": "MANGALAM BUYS A WATER JUG OF CAPACITY"
+    },
+    {
+      "number": "3",
+      "title": "RAVI MULTIPLIED"
+    },
+    {
+      "number": "15",
+      "title": "AND HE SAYS  THAT THE SIMPLEST FORM OF THIS PRODUCT IS"
+    },
+    {
+      "number": "3",
+      "title": "WHO IS CORRECT"
+    },
+    {
+      "number": "4",
+      "title": "FIND THE LENGTH OF A ROOM WHOSE AREA IS"
+    },
+    {
+      "number": "5",
+      "title": "THERE IS A LARGE SQUARE PORTRAIT OF A LEADER THAT COVERS AN AREA OF"
+    },
+    {
+      "number": "6",
+      "title": "A GREETING CARD HAS AN AREA"
+    },
+    {
+      "number": "10",
+      "title": "GIVE THE ANSWER  IN SCIENTIFIC NOTATION"
+    },
+    {
+      "number": "11",
+      "title": "IN A MAP"
+    },
+    {
+      "number": "6",
+      "title": "INCHES AND"
+    },
+    {
+      "number": "3",
+      "title": "INCHES FROM THE CITY A WHICH LIES BETWEEN THE CITIES"
+    },
+    {
+      "number": "12",
+      "title": "GIVE AN EXAMPLE AND VERIFY EACH OF THE FOLLOWING STATEMENTS"
+    },
+    {
+      "number": "4",
+      "title": "OF A RAGI ADAI  WEIGHS"
+    },
+    {
+      "number": "3",
+      "title": "OF THE SAME"
+    },
+    {
+      "number": "15",
+      "title": "FIND X IF"
+    },
+    {
+      "number": "16",
+      "title": "BY HOW MUCH DOES"
+    },
+    {
+      "number": "17",
+      "title": "A GROUP OF"
+    },
+    {
+      "number": "18",
+      "title": "EVALUATE"
+    },
+    {
+      "number": "19",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "20",
+      "title": "ORDER THE FOLLOWING FROM THE LEAST TO THE GREATEST"
+    },
+    {
+      "number": "2",
+      "title": "MEASUREMENTS"
+    },
+    {
+      "number": "2",
+      "title": "WHEN IS THE"
+    },
+    {
+      "number": "1",
+      "title": "USING A BANGLE"
+    },
+    {
+      "number": "2",
+      "title": "BY PAPER FOLDING"
+    },
+    {
+      "number": "3",
+      "title": "CHECK WHETHER THE DIAMETER OF A CIRCLE IS TWICE ITS RADIUS"
+    },
+    {
+      "number": "2",
+      "title": "EQUAL SECTORS WE WILL GET"
+    },
+    {
+      "number": "1",
+      "title": "IF A CIRCLE OF RADIUS R UNITS DIVIDED INTO N EQUAL SECTORS"
+    },
+    {
+      "number": "2",
+      "title": "OF CIRCUMFERENCE"
+    },
+    {
+      "number": "2",
+      "title": "OF DIAMETER"
+    },
+    {
+      "number": "1",
+      "title": "THE PERIMETER OF A SEMI"
+    },
+    {
+      "number": "2",
+      "title": "THE PERIMETER OF A CIRCULAR QUADRANT"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "MATCH THE FOLLOWING"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE CENTRAL ANGLE OF THE SHADED SECTORS"
+    },
+    {
+      "number": "4",
+      "title": "FOR THE SECTORS WITH GIVEN MEASURES"
+    },
+    {
+      "number": "5",
+      "title": "FROM THE MEASURES GIVEN BELOW"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE CENTRAL ANGLE OF EACH OF THE SECTORS WHOSE MEASURES ARE GIVEN BELOW"
+    },
+    {
+      "number": "7",
+      "title": "A CIRCLE OF RADIUS"
+    },
+    {
+      "number": "8",
+      "title": "A CIRCLE OF RADIUS"
+    },
+    {
+      "number": "9",
+      "title": "DHAMU FIXES A SQUARE TILE OF"
+    },
+    {
+      "number": "10",
+      "title": "A CIRCLE IS FORMED WITH"
+    },
+    {
+      "number": "4",
+      "title": "ARCS AND"
+    },
+    {
+      "number": "1",
+      "title": "THE AREA OF THE UNSHADED REGIONS IN EACH OF THE SQUARES OF SIDE A UNITS ARE THE"
+    },
+    {
+      "number": "2",
+      "title": "IF THE BIGGEST CIRCLE IS CUT FROM A SQUARE OF SIDE"
+    },
+    {
+      "number": "3",
+      "title": "THE AREA OF THE BIGGEST CIRCLE CUT OUT FROM THE SQUARE OF"
+    },
+    {
+      "number": "4",
+      "title": "IN THE GIVEN FIGURE IF P"
+    },
+    {
+      "number": "1",
+      "title": "FIND THE PERIMETER AND AREA OF THE FIGURES GIVEN BELOW"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE AREA OF THE SHADED PART IN THE FOLLOWING FIGURES"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE AREA OF THE COMBINED FIGURE GIVEN WHICH IS GOT BY THE"
+    },
+    {
+      "number": "4",
+      "title": "FIND THE AREA OF THE COMBINED FIGURE GIVEN"
+    },
+    {
+      "number": "5",
+      "title": "THE DOOR MAT WHICH IS HEXAGONAL IN SHAPE HAS THE FOLLOWING"
+    },
+    {
+      "number": "6",
+      "title": "A ROCKET DRAWING HAS THE MEASURES AS GIVEN IN THE"
+    },
+    {
+      "number": "7",
+      "title": "FIND THE AREA OF THE IRREGULAR POLYGON SHAPED FIELDS GIVEN BELOW"
+    },
+    {
+      "number": "8",
+      "title": "VERTICES"
+    },
+    {
+      "number": "1",
+      "title": "DRAW EACH OF THE GIVEN SOLID FIGURES ON AN ISOMETRIC DOT SHEET"
+    },
+    {
+      "number": "2",
+      "title": "DRAW EACH OF THE GIVEN SOLID FIGURES ON A GRID PAPERACTIVITY"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "MATCH THE FOLLOWING"
+    },
+    {
+      "number": "4",
+      "title": "FOR EACH SOLID"
+    },
+    {
+      "number": "1",
+      "title": "TWO GATES ARE FITTED AT THE ENTRANCE OF A LIBRARY"
+    },
+    {
+      "number": "2",
+      "title": "WITH HIS USUAL SPEED"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE AREA OF THE HOUSE DRAWING GIVEN IN THE FIGURE"
+    },
+    {
+      "number": "4",
+      "title": "DRAW THE TOP"
+    },
+    {
+      "number": "5",
+      "title": "GUNA HAS FIXED A SINGLE DOOR OF WIDTH"
+    },
+    {
+      "number": "2",
+      "title": "FEET IN HIS ROOM"
+    },
+    {
+      "number": "6",
+      "title": "IN A RECTANGULAR FIELD WHICH MEASURES"
+    },
+    {
+      "number": "7",
+      "title": "THREE IDENTICAL COINS EACH OF DIAMETER"
+    },
+    {
+      "number": "8",
+      "title": "USING EULER"
+    },
+    {
+      "number": "1",
+      "title": "WRITE THE NUMBER OF TERMS IN THE FOLLOWING EXPRESSIONS"
+    },
+    {
+      "number": "2",
+      "title": "IDENTIFY THE NUMERICAL CO"
+    },
+    {
+      "number": "3",
+      "title": "ALGEBRA"
+    },
+    {
+      "number": "3",
+      "title": "PICK OUT THE LIKE TERMS FROM THE FOLLOWING"
+    },
+    {
+      "number": "5",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "6",
+      "title": "THE SIDES OF A TRIANGLE ARE"
+    },
+    {
+      "number": "7",
+      "title": "SUBTRACT"
+    },
+    {
+      "number": "8",
+      "title": "SUBTRACT"
+    },
+    {
+      "number": "9",
+      "title": "THE LENGTH OF A LOG IS"
+    },
+    {
+      "number": "10",
+      "title": "A TIN HAD X LITRES  OF OIL"
+    },
+    {
+      "number": "1",
+      "title": "COMPLETE THE TABLE"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE PRODUCT OF THE TERMS"
+    },
+    {
+      "number": "3",
+      "title": "IF LP Q"
+    },
+    {
+      "number": "4",
+      "title": "EXPAND"
+    },
+    {
+      "number": "5",
+      "title": "FIND THE PRODUCT OF"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE MISSING TERM"
+    },
+    {
+      "number": "7",
+      "title": "MATCH THE FOLLOWING"
+    },
+    {
+      "number": "8",
+      "title": "A CAR MOVES AT A UNIFORM SPEED OF X"
+    },
+    {
+      "number": "9",
+      "title": "THE PRODUCT OF"
+    },
+    {
+      "number": "10",
+      "title": "THE MISSING TERMS IN THE PRODUCT"
+    },
+    {
+      "number": "11",
+      "title": "IF THE AREA OF A SQUARE IS"
+    },
+    {
+      "number": "12",
+      "title": "IF THE AREA OF A RECTANGLE IS"
+    },
+    {
+      "number": "13",
+      "title": "IF THE AREA OF A RECTANGULAR LAND IS"
+    },
+    {
+      "number": "1",
+      "title": "OF A TERM IS USUALLY NOT"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "4",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "5",
+      "title": "DIVIDE"
+    },
+    {
+      "number": "6",
+      "title": "IDENTIFY THE ERRORS AND CORRECT THEM"
+    },
+    {
+      "number": "7",
+      "title": "STATEMENT A"
+    },
+    {
+      "number": "8",
+      "title": "STATEMENT A"
+    },
+    {
+      "number": "1",
+      "title": "EXPAN D"
+    },
+    {
+      "number": "2",
+      "title": "EXPAND"
+    },
+    {
+      "number": "3",
+      "title": "EXPAND"
+    },
+    {
+      "number": "4",
+      "title": "SIMPLIFY"
+    },
+    {
+      "number": "5",
+      "title": "FIND THE VOLUME OF THE CUBE WHOSE SIDE IS"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE VOLUME OF THE CUBOID WHOSE DIMENSIONS ARE"
+    },
+    {
+      "number": "1",
+      "title": "FACTORISE THE FOLLOWING BY TAKING OUT THE COMMON FACTOR"
+    },
+    {
+      "number": "2",
+      "title": "FACTORISE THE FOLLOWING EXPRESSIONS"
+    },
+    {
+      "number": "3",
+      "title": "FACTORISE THE FOLLOWING EXPRESSIONS USING"
+    },
+    {
+      "number": "4",
+      "title": "FACTORISE THE FOLLOWING EXPRESSIONS USING"
+    },
+    {
+      "number": "5",
+      "title": "FACTORS OF"
+    },
+    {
+      "number": "6",
+      "title": "FACTORS OF"
+    },
+    {
+      "number": "8",
+      "title": "THE FACTORS OF X"
+    },
+    {
+      "number": "9",
+      "title": "THE FACTORS OF"
+    },
+    {
+      "number": "10",
+      "title": "ONE FACTOR OF X"
+    },
+    {
+      "number": "1",
+      "title": "SUBTRACT"
+    },
+    {
+      "number": "2",
+      "title": "MULTIPLY"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE SIMPLE INTEREST ON RS"
+    },
+    {
+      "number": "4",
+      "title": "THE COST OF A NOTE BOOK IS RS"
+    },
+    {
+      "number": "5",
+      "title": "FACTORISE"
+    },
+    {
+      "number": "6",
+      "title": "A CONTRACTOR USES THE EXPRESSION"
+    },
+    {
+      "number": "7",
+      "title": "A MASON USES THE EXPRESSION XX"
+    },
+    {
+      "number": "8",
+      "title": "FIND THE MISSING TERM"
+    },
+    {
+      "number": "9",
+      "title": "FACTORISE"
+    },
+    {
+      "number": "10",
+      "title": "FACTORISE"
+    },
+    {
+      "number": "16",
+      "title": "DIVIDED BY Y"
+    },
+    {
+      "number": "7",
+      "title": "IS ADDED TO A GIVEN NUMBER TO GIVE"
+    },
+    {
+      "number": "4",
+      "title": "TIMES THE NUMBER IS"
+    },
+    {
+      "number": "1",
+      "title": "ON SUBTRACTING"
+    },
+    {
+      "number": "2",
+      "title": "THE SUM OF THREE CONSECUTIVE INTEGERS IS"
+    },
+    {
+      "number": "3",
+      "title": "PETER HAD A TWO HUNDRED RUPEE NOTE"
+    },
+    {
+      "number": "4",
+      "title": "THE BASE ANGLES OF AN ISOSCELES TRIANGLE ARE EQUAL AND THE VERTEX ANGLE MEASURES"
+    },
+    {
+      "number": "5",
+      "title": "IN A TRIANGLE ABC"
+    },
+    {
+      "number": "5",
+      "title": "LESS THAN"
+    },
+    {
+      "number": "5",
+      "title": "LESS IS"
+    },
+    {
+      "number": "3",
+      "title": "AND MULTIPLY IT ON THE RHS AND VICE"
+    },
+    {
+      "number": "1",
+      "title": "SOLVE FOR"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "MATCH THE FOLLOWING"
+    },
+    {
+      "number": "4",
+      "title": "FIND X AND P"
+    },
+    {
+      "number": "5",
+      "title": "FIND X"
+    },
+    {
+      "number": "6",
+      "title": "FIND X AND M"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE ORIGINAL FRACTION"
+    },
+    {
+      "number": "50",
+      "title": "HRSPEED"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "ONE NUMBER IS SEVEN TIMES ANOTHER"
+    },
+    {
+      "number": "4",
+      "title": "THE SUM OF THREE CONSECUTIVE ODD NUMBERS IS"
+    },
+    {
+      "number": "5",
+      "title": "THE LENGTH OF A RECTANGLE IS"
+    },
+    {
+      "number": "3",
+      "title": "OF ITS BREADTH"
+    },
+    {
+      "number": "6",
+      "title": "A TOTAL OF"
+    },
+    {
+      "number": "7",
+      "title": "AT PRESENT"
+    },
+    {
+      "number": "8",
+      "title": "A NUMBER CONSISTS OF TWO DIGITS WHOSE SUM IS"
+    },
+    {
+      "number": "9",
+      "title": "THE DENOMINATOR OF A FRACTION EXCEEDS ITS NUMERATOR BY"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE ORIGINAL FRACTION"
+    },
+    {
+      "number": "10",
+      "title": "IF A TRAIN RUNS AT"
+    },
+    {
+      "number": "85",
+      "title": "KMPH IT IS LATE BY ONLY"
+    },
+    {
+      "number": "11",
+      "title": "SUM OF A NUMBER AND ITS HALF IS"
+    },
+    {
+      "number": "12",
+      "title": "THE EXTERIOR ANGLE OF A TRIANGLE IS"
+    },
+    {
+      "number": "13",
+      "title": "WHAT SUM OF MONEY WILL EARN"
+    },
+    {
+      "number": "14",
+      "title": "THE PRODUCT OF LCM AND HCF OF TWO NUMBERS IS"
+    },
+    {
+      "number": "15",
+      "title": "THE LARGEST NUMBER OF THE THREE CONSECUTIVE NUMBERS IS X"
+    },
+    {
+      "number": "4",
+      "title": "IS CALLED THE X"
+    },
+    {
+      "number": "4",
+      "title": "UNITSABSCISSAORDINATE"
+    },
+    {
+      "number": "4",
+      "title": "UNITS ALONG OX"
+    },
+    {
+      "number": "5",
+      "title": "POINTS ALONG OX AND"
+    },
+    {
+      "number": "1",
+      "title": "COMPLETE THE TABLE GIVEN BELOW"
+    },
+    {
+      "number": "2",
+      "title": "WRITE THE COORDINATES OF THE POINTS MARKED IN THE FOLLOWING FIGURE"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE QUADRANTS WITHOUT PLOTTING THE POINTS ON A GRAPH SHEET"
+    },
+    {
+      "number": "4",
+      "title": "PLOT THE FOLLOWING POINTS IN A GRAPH SHEET"
+    },
+    {
+      "number": "5",
+      "title": "USE THE GRAPH TO DETERMINE THE"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "WILL A LINE PASS THROUGH"
+    },
+    {
+      "number": "4",
+      "title": "A LINE PASSING THROUGH"
+    },
+    {
+      "number": "5",
+      "title": "IF THE POINTS P"
+    },
+    {
+      "number": "6",
+      "title": "A LINE  PASSES THROUGH"
+    },
+    {
+      "number": "7",
+      "title": "FIND THE POINT OF INTERSECTION OF THE LINE JOINING POINTS"
+    },
+    {
+      "number": "8",
+      "title": "DRAW THE GRAPH OF THE FOLLOWING EQUATIONS"
+    },
+    {
+      "number": "9",
+      "title": "DRAW THE GRAPH OF"
+    },
+    {
+      "number": "10",
+      "title": "FIND THE VALUES"
+    },
+    {
+      "number": "1",
+      "title": "THE SUM OF THREE NUMBERS IS"
+    },
+    {
+      "number": "2",
+      "title": "IN TRIANGLE ABC"
+    },
+    {
+      "number": "3",
+      "title": "TWO EQUAL SIDES OF AN ISOSCELES TRIANGLE ARE"
+    },
+    {
+      "number": "4",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "5",
+      "title": "DRAW A GRAPH FOR THE FOLLOWING DATA"
+    },
+    {
+      "number": "6",
+      "title": "THREE CONSECUTIVE INTEGERS"
+    },
+    {
+      "number": "8",
+      "title": "A MOBILE VENDOR HAS"
+    },
+    {
+      "number": "9",
+      "title": "DRAW THE GRAPH OF THE LINES Y"
+    },
+    {
+      "number": "10",
+      "title": "CONSIDER THE NUMBER OF ANGLES OF A CONVEX POLYGON AND THE NUMBER OF SIDES OF THAT POLYGON"
+    },
+    {
+      "number": "2",
+      "title": "YEARS AND"
+    },
+    {
+      "number": "50",
+      "title": "THE CORRESPONDING LIKE FRACTIONS"
+    },
+    {
+      "number": "200",
+      "title": "RESPECTIVELY"
+    },
+    {
+      "number": "100",
+      "title": "IT IS VERY USEFUL IN COMPARING QUANTITIES EASILY"
+    },
+    {
+      "number": "1",
+      "title": "WHAT PERCENTAGE OF A DAY IS"
+    },
+    {
+      "number": "2",
+      "title": "DIVIDE"
+    },
+    {
+      "number": "200",
+      "title": "THIS YEAR SHOULD BE A"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "REWRITE EACH UNDERLINED PART USING PERCENTAGE LANGUAGE"
+    },
+    {
+      "number": "4",
+      "title": "WHAT IS"
+    },
+    {
+      "number": "5",
+      "title": "IF A CAR IS SOLD FOR"
+    },
+    {
+      "number": "6",
+      "title": "IF THE DIFFERENCE BETWEEN"
+    },
+    {
+      "number": "7",
+      "title": "A NUMBER WHEN INCREASED BY"
+    },
+    {
+      "number": "8",
+      "title": "A NUMBER WHEN DECREASED BY"
+    },
+    {
+      "number": "9",
+      "title": "A NUMBER IS INCREASED BY"
+    },
+    {
+      "number": "10",
+      "title": "THE RATIO OF BOYS AND GIRLS IN A CLASS IS"
+    },
+    {
+      "number": "12",
+      "title": "IF THREE CANDIDATES A"
+    },
+    {
+      "number": "1",
+      "title": "IF THE SELLING PRICE OF AN ARTICLE IS LESS THAN THE COST PRICE OF THE ARTICLE"
+    },
+    {
+      "number": "2",
+      "title": "AN ARTICLE COSTING"
+    },
+    {
+      "number": "3",
+      "title": "IF THE RATIO OF COST PRICE AND THE SELLING PRICE OF AN ARTICLE IS"
+    },
+    {
+      "number": "4",
+      "title": "OF ITS COST PRICE"
+    },
+    {
+      "number": "4",
+      "title": "OF ITS COST PRICE"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "IF SELLING AN ARTICLE FOR"
+    },
+    {
+      "number": "3",
+      "title": "IF THE PROFIT EARNED ON SELLING AN ARTICLE FOR"
+    },
+    {
+      "number": "4",
+      "title": "IF THE SELLING PRICE OF"
+    },
+    {
+      "number": "5",
+      "title": "SOME ARTICLES ARE BOUGHT AT"
+    },
+    {
+      "number": "6",
+      "title": "BY SELLING A SPEAKER FOR"
+    },
+    {
+      "number": "7",
+      "title": "FIND THE UNKNOWNS X"
+    },
+    {
+      "number": "8",
+      "title": "FIND THE TOTAL BILL AMOUNT FOR THE DATA GIVEN BELOW"
+    },
+    {
+      "number": "9",
+      "title": "A BRANDED AIR"
+    },
+    {
+      "number": "10",
+      "title": "IF A MATTRESS IS MARKED FOR"
+    },
+    {
+      "number": "11",
+      "title": "A FRUIT VENDOR SELLS FRUITS FOR"
+    },
+    {
+      "number": "12",
+      "title": "BY SELLING A FLOWER POT FOR"
+    },
+    {
+      "number": "13",
+      "title": "A MAN BUYS AN ARTICLE FOR"
+    },
+    {
+      "number": "14",
+      "title": "WHAT IS THE MARKED PRICE OF A HAT WHICH IS BOUGHT FOR"
+    },
+    {
+      "number": "15",
+      "title": "THE SINGLE DISCOUNT IN"
+    },
+    {
+      "number": "1",
+      "title": "THE FORMULA TO FIND THE SIMPLE INTEREST FOR A GIVEN PRINCIPAL IS"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE SIMPLE INTEREST ON"
+    },
+    {
+      "number": "3",
+      "title": "IN HOW MANY YEARS WILL"
+    },
+    {
+      "number": "2018",
+      "title": "FIND THE POPULATION IN THE YEAR"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "2",
+      "title": "YEARS IS"
+    },
+    {
+      "number": "3",
+      "title": "FIND THE COMPOUND INTEREST ON"
+    },
+    {
+      "number": "4",
+      "title": "FIND THE COMPOUND INTEREST FOR"
+    },
+    {
+      "number": "2",
+      "title": "YEARS ON"
+    },
+    {
+      "number": "5",
+      "title": "A PRINCIPAL BECOMES"
+    },
+    {
+      "number": "6",
+      "title": "IN HOW MANY YEARS WILL"
+    },
+    {
+      "number": "7",
+      "title": "FIND THE C"
+    },
+    {
+      "number": "8",
+      "title": "FIND THE DIFFERENCE BETWEEN C"
+    },
+    {
+      "number": "9",
+      "title": "FIND THE RATE OF INTEREST IF THE DIFFERENCE BETWEEN C"
+    },
+    {
+      "number": "10",
+      "title": "FIND THE PRINCIPAL IF THE DIFFERENCE BETWEEN C"
+    },
+    {
+      "number": "11",
+      "title": "THE NUMBER OF CONVERSION PERIODS IN A YEAR"
+    },
+    {
+      "number": "12",
+      "title": "THE TIME TAKEN FOR"
+    },
+    {
+      "number": "13",
+      "title": "THE COST OF A MACHINE IS"
+    },
+    {
+      "number": "2",
+      "title": "YEARS WILL BE"
+    },
+    {
+      "number": "14",
+      "title": "THE SUM WHICH AMOUNTS TO"
+    },
+    {
+      "number": "15",
+      "title": "THE DIFFERENCE BETWEEN COMPOUND AND SIMPLE INTEREST ON A CERTAIN SUM OF MONEY FOR"
+    },
+    {
+      "number": "2",
+      "title": "YEARS AT"
+    },
+    {
+      "number": "1",
+      "title": "DISTANCE"
+    },
+    {
+      "number": "2",
+      "title": "PURCHASE"
+    },
+    {
+      "number": "3",
+      "title": "WORKTIME"
+    },
+    {
+      "number": "2",
+      "title": "WORKERS"
+    },
+    {
+      "number": "1",
+      "title": "CLASSIFY THE GIVEN EXAMPLES AS DIRECT OR INVERSE PROPORTION"
+    },
+    {
+      "number": "2",
+      "title": "A STUDENT CAN TYPE"
+    },
+    {
+      "number": "5",
+      "title": "MINUTES TO FRY A VADAI"
+    },
+    {
+      "number": "5",
+      "title": "WORKERS FOR"
+    },
+    {
+      "number": "5",
+      "title": "EXTREMES"
+    },
+    {
+      "number": "15",
+      "title": "EXTREMES"
+    },
+    {
+      "number": "1",
+      "title": "IF XAND Y VARY DIRECTLY"
+    },
+    {
+      "number": "2",
+      "title": "IF X AND Y VARY INVERSELY"
+    },
+    {
+      "number": "28",
+      "title": "MEN WORKING"
+    },
+    {
+      "number": "4",
+      "title": "IN A CAMP THERE ARE"
+    },
+    {
+      "number": "20",
+      "title": "AND  Q"
+    },
+    {
+      "number": "1",
+      "title": "VIKRAM CAN DO ONE"
+    },
+    {
+      "number": "2",
+      "title": "IF M PERSONS CAN COMPLETE A WORK IN N DAYS"
+    },
+    {
+      "number": "4",
+      "title": "PERSONS CAN COMPLETE THE SAME WORK IN"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "3",
+      "title": "A CEMENT FACTORY MAKES"
+    },
+    {
+      "number": "4",
+      "title": "A SOAP FACTORY PRODUCES"
+    },
+    {
+      "number": "6",
+      "title": "A CAN DO A PIECE OF WORK IN"
+    },
+    {
+      "number": "7",
+      "title": "A AND B CAN DO A PIECE OF WORK IN"
+    },
+    {
+      "number": "8",
+      "title": "CARPENTER A TAKES"
+    },
+    {
+      "number": "9",
+      "title": "A CAN DO A WORK IN"
+    },
+    {
+      "number": "10",
+      "title": "A IS THRICE AS FAST AS B"
+    },
+    {
+      "number": "1",
+      "title": "A FRUIT VENDOR BOUGHT SOME MANGOES OF WHICH"
+    },
+    {
+      "number": "2",
+      "title": "A STUDENT GETS"
+    },
+    {
+      "number": "3",
+      "title": "SULTANA BOUGH T THE FOLLOWING THINGS FROM A GENERAL STORE"
+    },
+    {
+      "number": "5",
+      "title": "VAIDEGI SOLD TWO SAREES FOR"
+    },
+    {
+      "number": "7",
+      "title": "AMUTHA CAN WEAVE A SAREE IN"
+    },
+    {
+      "number": "8",
+      "title": "P AND Q CAN DO A PIECE OF WORK IN"
+    },
+    {
+      "number": "9",
+      "title": "IF THE NUMERATOR OF A FRACTION IS INCREASED BY"
+    },
+    {
+      "number": "5",
+      "title": "FIND THE ORIGINAL FRACTION"
+    },
+    {
+      "number": "10",
+      "title": "GOPI SOLD A LAPTOP AT"
+    },
+    {
+      "number": "11",
+      "title": "A SHOPKEEPER GIVES TWO SUCCESSIVE DISCOUNTS ON AN ARTICLE WHOSE MARKED PRICE IS"
+    },
+    {
+      "number": "12",
+      "title": "FIND THE RATE OF COMPOUND INTEREST AT WHICH A PRINCIPAL BECOMES"
+    },
+    {
+      "number": "13",
+      "title": "A SMALL"
+    },
+    {
+      "number": "14",
+      "title": "P ALONE CAN DO"
+    },
+    {
+      "number": "2",
+      "title": "OF A WORK IN"
+    },
+    {
+      "number": "3",
+      "title": "OF THE SAME WORK IN"
+    },
+    {
+      "number": "4",
+      "title": "OF THE WORK"
+    },
+    {
+      "number": "15",
+      "title": "X ALONE CAN DO A PIECE OF WORK IN"
+    },
+    {
+      "number": "1",
+      "title": "THE SUM OF THE THREE ANGLES OF A TRIANGLE IS"
+    },
+    {
+      "number": "2",
+      "title": "THE EXTERIOR ANGLE OF A TRIANGLE IS EQUAL TO THE SUM OF THE"
+    },
+    {
+      "number": "3",
+      "title": "IN A TRIANGLE"
+    },
+    {
+      "number": "4",
+      "title": "ANGLES OPPOSITE TO EQUAL SIDES ARE"
+    },
+    {
+      "number": "5",
+      "title": "WHAT IS"
+    },
+    {
+      "number": "3",
+      "title": "DDABCE DC"
+    },
+    {
+      "number": "2",
+      "title": "RA AU RU"
+    },
+    {
+      "number": "3",
+      "title": "RT TN RN"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS WITH THE CORRECT TERM FROM THE GIVEN LIST"
+    },
+    {
+      "number": "2",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "3",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "4",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "5",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "8",
+      "title": "IN THE GIVEN FIGURE YH TE"
+    },
+    {
+      "number": "9",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "10",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "11",
+      "title": "TWO SIMILAR TRIANGLES WILL ALWAYS HAVE"
+    },
+    {
+      "number": "12",
+      "title": "IF IN TRIANGLES PQR AND XYZ"
+    },
+    {
+      "number": "13",
+      "title": "A FLAG POLE"
+    },
+    {
+      "number": "14",
+      "title": "IF DDABCP QR"
+    },
+    {
+      "number": "15",
+      "title": "IN THE FIGURE"
+    },
+    {
+      "number": "4",
+      "title": "UNITS HAVE"
+    },
+    {
+      "number": "9",
+      "title": "SQUARES"
+    },
+    {
+      "number": "1",
+      "title": "WE CAN CONSTRUCT SETS OF PYTHAGOREAN TRIPLETS AS FOLLOWS"
+    },
+    {
+      "number": "2",
+      "title": "FIND ALL INTEGER"
+    },
+    {
+      "number": "1",
+      "title": "CONSIDER A PAPER CUT"
+    },
+    {
+      "number": "2",
+      "title": "FOLD THE PAPER ALONG THE LINE THAT PASSES"
+    },
+    {
+      "number": "3",
+      "title": "MARK THE MID POINT M OF BC"
+    },
+    {
+      "number": "4",
+      "title": "Y OU CAN NOW DRAW THE MEDIAN AM"
+    },
+    {
+      "number": "5",
+      "title": "IN THE SAME WAY"
+    },
+    {
+      "number": "6",
+      "title": "DO THE MEDIANS PASS THROUGH THE SAME"
+    },
+    {
+      "number": "3",
+      "title": "PARTS IS"
+    },
+    {
+      "number": "1",
+      "title": "IN ANY ACUTE ANGLED TRIANGLE"
+    },
+    {
+      "number": "2",
+      "title": "IN ANY RIGHT ANGLED TRIANGLE"
+    },
+    {
+      "number": "3",
+      "title": "IN ANY OBTUSE ANGLED TRIANGLE"
+    },
+    {
+      "number": "1",
+      "title": "CONSIDER A PAPER CUT"
+    },
+    {
+      "number": "1",
+      "title": "THE CIRCUMCENTRE OF AN ACUTE ANGLED TRIANGLE LIES IN THE INTERIOR OF THE TRIANGLE"
+    },
+    {
+      "number": "2",
+      "title": "THE CIRCUMCENTRE OF AN OBTUSE ANGLED TRIANGLE LIES IN THE EXTERIOR OF THE TRIANGLE"
+    },
+    {
+      "number": "3",
+      "title": "THE CIRCUMCENTRE OF A RIGHT TRIANGLE LIES AT THE MIDPOINT OF ITS HYPOTENUSE"
+    },
+    {
+      "number": "1",
+      "title": "CONSIDER A PAPER"
+    },
+    {
+      "number": "1",
+      "title": "BY PAPER FOLDING"
+    },
+    {
+      "number": "2",
+      "title": "BY PAPER FOLDING"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "CHECK WHETHER GIVEN SIDES ARE THE SIDES OF RIGHT"
+    },
+    {
+      "number": "4",
+      "title": "FIND THE UNKNOWN SIDE IN THE FOLLOWING TRIANGLES"
+    },
+    {
+      "number": "5",
+      "title": "AN ISOSCELES TRIANGLE HAS EQUAL SIDES EACH"
+    },
+    {
+      "number": "6",
+      "title": "FIND THE DISTANCE BETWEEN THE HELICOPTER AND THE SHIP"
+    },
+    {
+      "number": "7",
+      "title": "IN TRIANGLE ABC"
+    },
+    {
+      "number": "8",
+      "title": "IDENTIFY THE CENTR OID OF"
+    },
+    {
+      "number": "10",
+      "title": "IN THE GIVEN FIGURE"
+    },
+    {
+      "number": "12",
+      "title": "IF DGUT IS ISOSCELES AND RIGHT ANGLED"
+    },
+    {
+      "number": "13",
+      "title": "THE HYPOTENUSE OF A RIGHT ANGLED TRIANGLE  OF SIDES"
+    },
+    {
+      "number": "14",
+      "title": "THE AREA OF A RECTANGLE OF LENGTH"
+    },
+    {
+      "number": "15",
+      "title": "THE SIDES OF A RIGHT ANGLED TRIANGLE ARE IN THE RATIO"
+    },
+    {
+      "number": "1",
+      "title": "IN THE FIGURE"
+    },
+    {
+      "number": "3",
+      "title": "THE HEIGHT OF A TOWER IS MEASURED BY"
+    },
+    {
+      "number": "4",
+      "title": "FIND THE LENGTH OF THE SUPPORT CABLE"
+    },
+    {
+      "number": "5",
+      "title": "RITHIKA BUYS AN LED TV WHICH HAS A"
+    },
+    {
+      "number": "6",
+      "title": "IN THE FIGURE"
+    },
+    {
+      "number": "8",
+      "title": "THE DIAGONALS OF THE RHOMBUS IS"
+    },
+    {
+      "number": "9",
+      "title": "IN THE FIGURE"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT DE"
+    },
+    {
+      "number": "2",
+      "title": "WITH D AND E AS CENTRES"
+    },
+    {
+      "number": "3",
+      "title": "JOIN DA AND EA"
+    },
+    {
+      "number": "4",
+      "title": "WITH D AND A AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN DR AND AR"
+    },
+    {
+      "number": "6",
+      "title": "DEAR  IS THE REQUIRED QUADRILATERAL"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT NI"
+    },
+    {
+      "number": "2",
+      "title": "WITH N AND I AS CENTRES"
+    },
+    {
+      "number": "3",
+      "title": "JOIN NC AND IC"
+    },
+    {
+      "number": "4",
+      "title": "WITH N AND I AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN NE"
+    },
+    {
+      "number": "6",
+      "title": "NICE  IS THE REQUIRED QUADRILATERAL"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT MA"
+    },
+    {
+      "number": "3",
+      "title": "WITH A AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "WITH M AND T AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN MH AND TH"
+    },
+    {
+      "number": "6",
+      "title": "MATH IS THE REQUIRED QUADRILATERAL"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT AB"
+    },
+    {
+      "number": "2",
+      "title": "AT A ON AB"
+    },
+    {
+      "number": "3",
+      "title": "WITH A AND C AS CENTRES"
+    },
+    {
+      "number": "4",
+      "title": "JOIN AD AND CD"
+    },
+    {
+      "number": "5",
+      "title": "ABCD IS THE REQUIRED QUADRILATERAL"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT PQ"
+    },
+    {
+      "number": "2",
+      "title": "AT P ON PQ"
+    },
+    {
+      "number": "3",
+      "title": "WITH Q AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "AT R ON PR"
+    },
+    {
+      "number": "5",
+      "title": "PQRS   IS THE REQUIRED QUADRILATERAL"
+    },
+    {
+      "number": "1",
+      "title": "THREE SIDES AND ONE DIAGONAL"
+    },
+    {
+      "number": "3",
+      "title": "TWO SIDES AND TWO ANGLES"
+    },
+    {
+      "number": "2",
+      "title": "THE DISTANCE BETWEEN THE PARALLEL SIDES OF A TRAPEZIUM IS CALLED AS"
+    },
+    {
+      "number": "3",
+      "title": "IF THE HEIGHT AND PARALLEL SIDES OF A TRAPEZIUM ARE"
+    },
+    {
+      "number": "4",
+      "title": "IN AN ISOSCELES TRAPEZIUM"
+    },
+    {
+      "number": "5",
+      "title": "TO CONSTRUCT A TRAPEZIUM"
+    },
+    {
+      "number": "6",
+      "title": "IF THE AREA AND SUM OF THE PARALLEL SIDES ARE"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT BO"
+    },
+    {
+      "number": "2",
+      "title": "WITH B AND O AS CENTRES"
+    },
+    {
+      "number": "3",
+      "title": "JOIN BA AND OA"
+    },
+    {
+      "number": "4",
+      "title": "DRAW AX PARALLEL TO BO"
+    },
+    {
+      "number": "5",
+      "title": "WITH A AS CENTRE"
+    },
+    {
+      "number": "6",
+      "title": "JOIN BT"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT CA"
+    },
+    {
+      "number": "2",
+      "title": "CONSTRUCT AN ANGLE"
+    },
+    {
+      "number": "3",
+      "title": "WITH A AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "DRAW RY PARALLEL TO CA"
+    },
+    {
+      "number": "5",
+      "title": "WITH C AS CENTRE"
+    },
+    {
+      "number": "6",
+      "title": "JOIN CD"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT DE"
+    },
+    {
+      "number": "2",
+      "title": "CONSTRUCT AN ANGLE"
+    },
+    {
+      "number": "3",
+      "title": "WITH E AS CENTRE DRAW AN ARC OF RADIUS"
+    },
+    {
+      "number": "4",
+      "title": "DRAW AY PARALLEL TO DE"
+    },
+    {
+      "number": "5",
+      "title": "CONSTRUCT AN ANGLE"
+    },
+    {
+      "number": "6",
+      "title": "DEAN IS THE REQUIRED TRAPEZIUM"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT DE"
+    },
+    {
+      "number": "2",
+      "title": "MARK THE POINT A ON DE SUCH THAT DA"
+    },
+    {
+      "number": "3",
+      "title": "WITH A AND E AS CENTRES"
+    },
+    {
+      "number": "4",
+      "title": "WITH D AND S AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "DESK IS THE REQUIRED TRAPEZIUM"
+    },
+    {
+      "number": "1",
+      "title": "AIMS WITH AI"
+    },
+    {
+      "number": "2",
+      "title": "CUTE WITH CU"
+    },
+    {
+      "number": "3",
+      "title": "ARMY WITH AR"
+    },
+    {
+      "number": "4",
+      "title": "CITY WITH CI"
+    },
+    {
+      "number": "1",
+      "title": "PLACE A PAIR OF UNEQUAL  STICKS"
+    },
+    {
+      "number": "1",
+      "title": "A PAIR OF IDENTICAL"
+    },
+    {
+      "number": "2",
+      "title": "WE NEED A PAIR OF"
+    },
+    {
+      "number": "3",
+      "title": "REPEAT THE ABOVE ACTIVITY"
+    },
+    {
+      "number": "4",
+      "title": "WE AGAIN USE FOUR IDENTICAL"
+    },
+    {
+      "number": "1",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "2",
+      "title": "NAME THE QUADRILATERALS"
+    },
+    {
+      "number": "3",
+      "title": "TWO STICKS ARE PLACED ON A RULED SHEET AS SHOWN"
+    },
+    {
+      "number": "1",
+      "title": "TWO ADJACENT SIDES AND ONE ANGLE"
+    },
+    {
+      "number": "3",
+      "title": "TWO DIAGONALS AND ONE INCLUDED ANGLE"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT BI"
+    },
+    {
+      "number": "2",
+      "title": "MAKE AN ANGLE"
+    },
+    {
+      "number": "3",
+      "title": "WITH I AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "WITH B AND R AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN BD AND RD"
+    },
+    {
+      "number": "6",
+      "title": "BIRD  IS THE REQUIRED PARALLELOGRAM"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT CA"
+    },
+    {
+      "number": "2",
+      "title": "WITH C AND A AS CENTRES"
+    },
+    {
+      "number": "3",
+      "title": "JOIN CF AND AF"
+    },
+    {
+      "number": "4",
+      "title": "WITH A AND F AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN AL AND FL"
+    },
+    {
+      "number": "6",
+      "title": "CALF IS THE REQUIRED PARALLELOGRAM"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT DC"
+    },
+    {
+      "number": "2",
+      "title": "MARK O THE MIDPOINT OF DC"
+    },
+    {
+      "number": "3",
+      "title": "DRAW  A LINE XYSRUU THROUGH O WHICH MAKES"
+    },
+    {
+      "number": "4",
+      "title": "WITH O AS CENTRE AND"
+    },
+    {
+      "number": "5",
+      "title": "JOIN DUUCCK"
+    },
+    {
+      "number": "6",
+      "title": "DUCK IS THE REQUIRED PARALLELOGRAM"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT BE"
+    },
+    {
+      "number": "2",
+      "title": "MAKE AN ANGLE"
+    },
+    {
+      "number": "3",
+      "title": "WITH B AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "WITH B AS CENTRE"
+    },
+    {
+      "number": "5",
+      "title": "WITH A AS CENTRE"
+    },
+    {
+      "number": "6",
+      "title": "JOIN BR AND AR"
+    },
+    {
+      "number": "7",
+      "title": "BEAR  IS THE REQUIRED PARALLELOGRAM"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT RO"
+    },
+    {
+      "number": "2",
+      "title": "WITH R AND O AS CENTRES"
+    },
+    {
+      "number": "3",
+      "title": "JOIN RS AND OS"
+    },
+    {
+      "number": "5",
+      "title": "JOIN RE AND SE"
+    },
+    {
+      "number": "6",
+      "title": "ROSE IS THE REQUIRED RHOMBUS"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT LE"
+    },
+    {
+      "number": "2",
+      "title": "AT L ON LE"
+    },
+    {
+      "number": "3",
+      "title": "WITH L AS CENTRE DRAW AN ARC OF RADIUS"
+    },
+    {
+      "number": "4",
+      "title": "WITH E AND F AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN EA AND AF"
+    },
+    {
+      "number": "6",
+      "title": "LEAF IS THE REQUIRED RHOMBUS"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT NS"
+    },
+    {
+      "number": "2",
+      "title": "DRAW THE PERPENDICULAR BISECTOR XY TO NS"
+    },
+    {
+      "number": "3",
+      "title": "WITH O AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "JOIN NE"
+    },
+    {
+      "number": "5",
+      "title": "NEST IS THE REQUIRED RHOMBUS"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT FR"
+    },
+    {
+      "number": "4",
+      "title": "LET FX AND RP CUT AT M AND FY AND RQ CUT AT A"
+    },
+    {
+      "number": "5",
+      "title": "FARM IS THE REQUIRED RHOMBUS"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT BE"
+    },
+    {
+      "number": "3",
+      "title": "WITH B AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "WITH E AND N AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN EA AND NA"
+    },
+    {
+      "number": "6",
+      "title": "BEAN IS THE REQUIRED RECTANGLE"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT LI"
+    },
+    {
+      "number": "3",
+      "title": "WITH I AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "WITH I AS CENTRE AND LE AS RADIUS DRAW AN ARC"
+    },
+    {
+      "number": "5",
+      "title": "JOIN IM AND EM"
+    },
+    {
+      "number": "6",
+      "title": "LIME IS THE REQUIRED RECTANGLE"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT LA"
+    },
+    {
+      "number": "3",
+      "title": "WITH L AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "WITH A AND P AS CENTRES"
+    },
+    {
+      "number": "5",
+      "title": "JOIN AM AND PM"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A LINE SEGMENT RM"
+    },
+    {
+      "number": "2",
+      "title": "DRAW  THE PERPENDICULAR BISECTOR XY TO RM"
+    },
+    {
+      "number": "3",
+      "title": "WITH O AS CENTRE"
+    },
+    {
+      "number": "4",
+      "title": "JOIN RA"
+    },
+    {
+      "number": "5",
+      "title": "RAMP IS THE REQUIRED SQUARE"
+    },
+    {
+      "number": "50",
+      "title": "STUDENTS"
+    },
+    {
+      "number": "1",
+      "title": "ARRANGE THE GIVEN DATA IN ASCENDING AND DESCENDING ORDER"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE RANGE OF THE GIVEN DATA"
+    },
+    {
+      "number": "2",
+      "title": "THE NUMBER OF PLAYERS IN A GAME"
+    },
+    {
+      "number": "1",
+      "title": "COLLECT THE BLOOD GROUP OF YOUR CLASSMATES"
+    },
+    {
+      "number": "2",
+      "title": "OBSERVE THE LAST ALPHABET IN THE NAME OF YOUR CLASSMATES"
+    },
+    {
+      "number": "2",
+      "title": "IN WHICH LETTER DO THE NAMES END THE  LEAST"
+    },
+    {
+      "number": "3",
+      "title": "WHAT ARE THE LETTERS IN WHICH THE NAMES DO"
+    },
+    {
+      "number": "4",
+      "title": "GIRL NAMES MOSTLY END WITH"
+    },
+    {
+      "number": "5",
+      "title": "BOY NAMES MOSTLY END WITH"
+    },
+    {
+      "number": "2",
+      "title": "THE HEIGHT AND THE WEIGHT OF THE STUDENTS OF YOUR CLASS"
+    },
+    {
+      "number": "1",
+      "title": "PREPARE A FREQUENCY TABLE FOR THE DATA"
+    },
+    {
+      "number": "2",
+      "title": "PREPARE A GROUPED FREQUENCY TABLE FOR THE DATA"
+    },
+    {
+      "number": "2",
+      "title": "WHAT  PERCENTAGE OF MONEY WAS SPENT FOR SEEDS"
+    },
+    {
+      "number": "1",
+      "title": "MORE MONEY HAD BEEN SPENT  FOR WAGES"
+    },
+    {
+      "number": "1",
+      "title": "PIE CHARTS ARE WIDELY USED BY THE BUSINESS AND THE MEDIA PEOPLE"
+    },
+    {
+      "number": "2",
+      "title": "WITH THE HELP OF PIE CHARTS"
+    },
+    {
+      "number": "3",
+      "title": "RESEARCH PEOPLE USE THESE TYPE OF CHARTS TO SHOW THEIR RESULTS"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "SAY TRUE OR FALSE"
+    },
+    {
+      "number": "3",
+      "title": "REPRESENT THE FOLLOWING DATA IN UNGROUPED FREQUENCY TABLE WHICH GIVES THE NUMBER OF"
+    },
+    {
+      "number": "4",
+      "title": "FORM A CONTINUOUS FREQUENCY DISTRIBUTION TABLE FOR THE MARKS OBTAINED BY"
+    },
+    {
+      "number": "5",
+      "title": "A PAINT COMPANY ASKED A GROUP OF STUDENTS ABOUT THEIR FAVOURITE COLOURS AND MADE A PIE"
+    },
+    {
+      "number": "6",
+      "title": "A SURVEY GIVES THE FOLLOWING INFORMATION OF FOOD ITEMS"
+    },
+    {
+      "number": "7",
+      "title": "INCOME FROM VARIOUS SOURCES FOR GOVERNMENT  OF INDIA FROM A RUPEE IS GIVEN  BELOW"
+    },
+    {
+      "number": "8",
+      "title": "MONTHLY EXPENDITURE OF KUMARAN"
+    },
+    {
+      "number": "1",
+      "title": "FIND THE AMOUNT SPENT FOR EDUCATION IF KUMARAN SPENDS"
+    },
+    {
+      "number": "2",
+      "title": "WHAT IS THE TOTAL SALARY OF KUMARAN"
+    },
+    {
+      "number": "3",
+      "title": "HOW MUCH DID HE SPEND MORE FOR FOOD THAN EDUCATION"
+    },
+    {
+      "number": "50",
+      "title": "STUDENTS"
+    },
+    {
+      "number": "1",
+      "title": "REPRESENT THE DATA IN THE CONTINUOUS FORM"
+    },
+    {
+      "number": "2",
+      "title": "SELECT THE APPROPRIATE UNITS ALONG THE X"
+    },
+    {
+      "number": "3",
+      "title": "PLOT THE LOWER LIMITS OF ALL CLASS INTERVAL ON THE X"
+    },
+    {
+      "number": "4",
+      "title": "PLOT THE FREQUENCIES OF THE DISTRIBUTION ON THE Y"
+    },
+    {
+      "number": "5",
+      "title": "CONSTRUCT THE RECTANGLES WITH CLASS INTERVALS AS BASES AND CORRESPONDING FREQUENCIES"
+    },
+    {
+      "number": "1",
+      "title": "USED FOR UNGROUPED DATA USED FOR GROUPED DATA"
+    },
+    {
+      "number": "2",
+      "title": "GAP BETWEEN THE BARS NO GAP BETWEEN RECTANGLES"
+    },
+    {
+      "number": "3",
+      "title": "HEIGHT OF EACH BAR IS IMPORTANT AND"
+    },
+    {
+      "number": "1",
+      "title": "WHAT INFORMATION DOES THE HISTOGRAM REPRESENT"
+    },
+    {
+      "number": "2",
+      "title": "WHICH GROUP HAS MAXIMUM NUMBER OF"
+    },
+    {
+      "number": "3",
+      "title": "HOW MANY OF THEM ARE UNDER WEIGHT"
+    },
+    {
+      "number": "4",
+      "title": "HOW MANY STUDENTS ARE OBESE"
+    },
+    {
+      "number": "5",
+      "title": "HOW MANY STUDENTS ARE IN THE WEIGHT GROUP OF"
+    },
+    {
+      "number": "1",
+      "title": "THE HISTOGRAM REPRESENTS THE COLLECTION OF"
+    },
+    {
+      "number": "2",
+      "title": "THERE ARE MAXIMUM"
+    },
+    {
+      "number": "3",
+      "title": "THERE ARE"
+    },
+    {
+      "number": "4",
+      "title": "THERE ARE"
+    },
+    {
+      "number": "5",
+      "title": "THERE ARE"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A HISTOGRAM FROM THE GIVEN DATA"
+    },
+    {
+      "number": "2",
+      "title": "JOIN THE CONSECUTIVE MIDPOINTS OF THE UPPER SIDES OF THE ADJACENT RECTANGLES OF THE"
+    },
+    {
+      "number": "3",
+      "title": "IT IS ASSUMED THAT THE CLASS INTERVAL PRECEDING THE FIRST RECTANGLE AND THE CLASS"
+    },
+    {
+      "number": "4",
+      "title": "TO GET FREQUENCY POLYGON"
+    },
+    {
+      "number": "1",
+      "title": "WHICH OF THE FOLLOWING DATA CAN BE REPRESENTED IN A HISTOGRAM"
+    },
+    {
+      "number": "2",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "3",
+      "title": "IN A VILLAGE"
+    },
+    {
+      "number": "4",
+      "title": "DRAW A HISTOGRAM FOR THE FOLLOWING DATA"
+    },
+    {
+      "number": "5",
+      "title": "CONSTRUCT A HISTOGRAM FROM THE FOLLOWING DISTRIBUTION OF TOTAL MARKS OF"
+    },
+    {
+      "number": "6",
+      "title": "THE DISTRIBUTION OF HEIGHTS"
+    },
+    {
+      "number": "7",
+      "title": "IN A STUDY OF DENTAL PROBLEM"
+    },
+    {
+      "number": "8",
+      "title": "THE MARKS OBTAINED BY"
+    },
+    {
+      "number": "9",
+      "title": "DATA IS A COLLECTION OF"
+    },
+    {
+      "number": "10",
+      "title": "THE NUMBER OF TIMES AN OBSERVATION OCCURS IN THE GIVEN DATA IS CALLED"
+    },
+    {
+      "number": "11",
+      "title": "THE DIFFERENCE BETWEEN THE LARGEST VALUE AND THE SMALLEST VALUE OF THE GIVEN DATA IS"
+    },
+    {
+      "number": "12",
+      "title": "THE DATA THAT CAN TAKE VALUES BETWEEN A CERTAIN RANGE IS CALLED"
+    },
+    {
+      "number": "13",
+      "title": "INCLUSIVE SERIES IS A"
+    },
+    {
+      "number": "14",
+      "title": "IN A CLASS INTERVAL THE UPPER LIMIT OF ONE CLASS IS THE LOWER LIMIT OF THE OTHER CLASS"
+    },
+    {
+      "number": "15",
+      "title": "THE GRAPHICAL REPRESENTATION OF UNGROUPED DATA IS"
+    },
+    {
+      "number": "16",
+      "title": "HISTOGRAM IS A GRAPH OF A"
+    },
+    {
+      "number": "18",
+      "title": "THE GRAPHICAL REPRESENTATION OF GROUPED DATA IS"
+    },
+    {
+      "number": "1",
+      "title": "DRAW A PIE CHART FOR THE GIVEN TABLE"
+    },
+    {
+      "number": "2",
+      "title": "THE DATA ON MODES OF TRANSPORT USED BY THE STUDENTS  TO COME TO SCHOOL ARE GIVEN BELOW"
+    },
+    {
+      "number": "3",
+      "title": "DRAW A HISTOGRAM FOR THE GIVEN FREQUENCY DISTRIBUTION"
+    },
+    {
+      "number": "4",
+      "title": "DRAW A HISTOGRAM AND THE FREQUENCY POLYGON IN THE SAME DIAGRAM TO REPRESENT THE"
+    },
+    {
+      "number": "5",
+      "title": "FORM A CONTINUOUS FREQUENCY DISTRIBUTION TABLE AND DRAW HISTOGRAM FROM THE FOLLOWING DATA"
+    },
+    {
+      "number": "6",
+      "title": "A RUPEE SPENT IN A CLOTH MANUFACTURING COMPANY IS DISTRIBUTED AS FOLLOWS"
+    },
+    {
+      "number": "7",
+      "title": "DRAW A HISTOGRAM FOR THE FOLLOWING DATA"
+    },
+    {
+      "number": "1",
+      "title": "FIND THE NUMBER OF ALL POSSIBLE TRIANGLES THAT CAN BE FORMED FROM THE TRIANGLE GIVEN BELOW"
+    },
+    {
+      "number": "2",
+      "title": "USE THE  NUMBERS GIVEN IN THE FIGURE TO FORM A"
+    },
+    {
+      "number": "7",
+      "title": "INFORMATION"
+    },
+    {
+      "number": "3",
+      "title": "CONVERT THE TREE DIAGRAM INTO A NUMERIC EXPRESSION"
+    },
+    {
+      "number": "5",
+      "title": "CONNECT THE FIBONACCI SQUARES THROUGH DIAGONALS BY CURVE FROM CORNER TO CORNER"
+    },
+    {
+      "number": "6",
+      "title": "WHEN YOU PLAN TO BUY A SHIRT"
+    },
+    {
+      "number": "7",
+      "title": "AN AMUSEMENT PARK OFFERS A PACKAGE DEAL OF"
+    },
+    {
+      "number": "3",
+      "title": "PAIRS OF SHOES"
+    },
+    {
+      "number": "3",
+      "title": "SHIRTS"
+    },
+    {
+      "number": "1",
+      "title": "DETERMINE THE NUMBER OF TWO DIGIT NUMBERS THAT CAN BE FORMED USING THE DIGITS"
+    },
+    {
+      "number": "2",
+      "title": "FIND THE THREE DIGIT NUMBERS THAT CAN BE FORMED USING THE DIGITS"
+    },
+    {
+      "number": "3",
+      "title": "DIFFERENT COLOURS"
+    },
+    {
+      "number": "1",
+      "title": "FIND ANY FIVE SET S AMONG  THESE SET OF"
+    },
+    {
+      "number": "2",
+      "title": "THIS IS AN EXAMPLE FOR A"
+    },
+    {
+      "number": "2",
+      "title": "COLOUR S"
+    },
+    {
+      "number": "2",
+      "title": "COLOUR S"
+    },
+    {
+      "number": "1",
+      "title": "Y OU WANT TO HAVE AN ICE CREAM OR A CAKE"
+    },
+    {
+      "number": "2",
+      "title": "SHANTHI HAS"
+    },
+    {
+      "number": "3",
+      "title": "IN A HIGHER SECONDARY SCHOOL"
+    },
+    {
+      "number": "4",
+      "title": "IF YOU HAVE"
+    },
+    {
+      "number": "5",
+      "title": "ROLL NUMBERS ARE CREATED WITH A LETTER FOLLOWED BY"
+    },
+    {
+      "number": "6",
+      "title": "A SAFETY LOCKER IN A JEWEL SHOP REQUIRES A"
+    },
+    {
+      "number": "7",
+      "title": "AN EXAMINATION PAPER HAS"
+    },
+    {
+      "number": "8",
+      "title": "THE GIVEN SPINNER IS SPUN TWICE AND THE TWO NUMBERS GOT ARE USED"
+    },
+    {
+      "number": "9",
+      "title": "RAMYA WANTS TO PAINT A PATTERN IN HER"
+    },
+    {
+      "number": "2",
+      "title": "COLOURS BUT MAKE SURE THAT NO TWO"
+    },
+    {
+      "number": "10",
+      "title": "COLOUR THE REGIONS IN THE MAPS WITH FEW"
+    },
+    {
+      "number": "11",
+      "title": "IN A CLASS THERE ARE"
+    },
+    {
+      "number": "12",
+      "title": "HOW MANY OUTCOMES CAN YOU GET WHEN YOU TOSS THREE COINS ONCE"
+    },
+    {
+      "number": "13",
+      "title": "IN HOW MANY WAYS CAN YOU ANSWER"
+    },
+    {
+      "number": "14",
+      "title": "HOW MANY"
+    },
+    {
+      "number": "1",
+      "title": "THE MALE A HAS"
+    },
+    {
+      "number": "2",
+      "title": "THE MALE A HAS"
+    },
+    {
+      "number": "3",
+      "title": "THE MALE A HAS"
+    },
+    {
+      "number": "1",
+      "title": "WHERE ARE THE EVEN FIBONACCI NUMBERS"
+    },
+    {
+      "number": "2",
+      "title": "WHERE THERE ARE FIBONACCI NUMBERS WHICH ARE  MULTIPLE OF"
+    },
+    {
+      "number": "3",
+      "title": "WHAT ABOUT THE MULTIPLE OF"
+    },
+    {
+      "number": "4",
+      "title": "WHAT ABOUT THE  MULTIPLE OF"
+    },
+    {
+      "number": "1",
+      "title": "FACTORISATION METHOD"
+    },
+    {
+      "number": "2",
+      "title": "PRIME FACTORISATION METHOD"
+    },
+    {
+      "number": "3",
+      "title": "REPEATED DIVISION METHOD"
+    },
+    {
+      "number": "4",
+      "title": "REPEATED SUBTRACTION METHOD"
+    },
+    {
+      "number": "1",
+      "title": "USING REPEATED DIVISION METHOD"
+    },
+    {
+      "number": "2",
+      "title": "USING REPEATED SUBTRACTION METHOD"
+    },
+    {
+      "number": "3",
+      "title": "DO THE GIVEN PROBLEMS BY REPEATED SUBTRACTION METHOD AND VERIFY THE RESULT"
+    },
+    {
+      "number": "4",
+      "title": "KALAI WANTS TO CUT IDENTICAL SQUARES AS BIG AS SHE CAN"
+    },
+    {
+      "number": "5",
+      "title": "WHAT IS THE ELEVENTH FIBONACCI NUMBER"
+    },
+    {
+      "number": "9",
+      "title": "THE DIFFERENCE BETWEEN THE"
+    },
+    {
+      "number": "10",
+      "title": "COMMON PRIME FACTORS OF"
+    },
+    {
+      "number": "11",
+      "title": "COMMON PRIME FACTORS OF"
+    },
+    {
+      "number": "12",
+      "title": "TWO NUMBERS ARE SAID TO BE CO"
+    },
+    {
+      "number": "1",
+      "title": "SHIFTING CYPHER TEXT"
+    },
+    {
+      "number": "2",
+      "title": "SUBSTITUTING CYPHER TEXT"
+    },
+    {
+      "number": "1",
+      "title": "USE PIGPEN CIPHER CODE AND WRITE THE CODE FOR YOUR NAME"
+    },
+    {
+      "number": "2",
+      "title": "DECODE THE FOLLOWING SHIFTING AND SUBSTITUTING SECRET CODES GIVEN BELOW"
+    },
+    {
+      "number": "3",
+      "title": "WRITE A SHORT MESSAGE TO A FRIEND AND GET HIM TO DECIPHER IT"
+    },
+    {
+      "number": "1",
+      "title": "FILL IN THE BLANKS"
+    },
+    {
+      "number": "2",
+      "title": "MATCH THE FOLLOWING"
+    },
+    {
+      "number": "3",
+      "title": "FRAME ADDITIVE CIPHER TABLE"
+    },
+    {
+      "number": "4",
+      "title": "A MESSAGE LIKE"
+    },
+    {
+      "number": "5",
+      "title": "DECODE THE GIVEN PIGPEN CIPHER TEXT  AND COMPARE YOUR ANSWER TO GET THE ACTIVITY"
+    },
+    {
+      "number": "6",
+      "title": "PRAVEEN RECENTLY GOT THE REGISTRATION NUMBER FOR HIS NEW TWO"
+    },
+    {
+      "number": "7",
+      "title": "IN QUESTIONS"
+    },
+    {
+      "number": "8",
+      "title": "A GROUP OF LETTERS ARE GIVEN"
+    },
+    {
+      "number": "9",
+      "title": "QUESTIONS"
+    },
+    {
+      "number": "3",
+      "title": "STRAWBERRY"
+    },
+    {
+      "number": "4",
+      "title": "BANANA"
+    },
+    {
+      "number": "20",
+      "title": "KG  OF APPLES"
+    },
+    {
+      "number": "20",
+      "title": "KG  OF GUAVAS"
+    },
+    {
+      "number": "30",
+      "title": "BOXES OF STRAWBERRIES"
+    },
+    {
+      "number": "20",
+      "title": "DOZEN  OF BANANAS"
+    },
+    {
+      "number": "2",
+      "title": "TOOR DAL"
+    },
+    {
+      "number": "2",
+      "title": "TOOR DAL"
+    },
+    {
+      "number": "1",
+      "title": "IN HOW MANY WAYS CAN YOU BUY YOUR"
+    },
+    {
+      "number": "2",
+      "title": "WHICH ONE IS THE BEST PURCHASE PRICE"
+    },
+    {
+      "number": "1",
+      "title": "LITRE BOTTLES"
+    },
+    {
+      "number": "1",
+      "title": "L FREE"
+    },
+    {
+      "number": "1",
+      "title": "L PACK OF"
+    },
+    {
+      "number": "1251001",
+      "title": "L PACK OF"
+    },
+    {
+      "number": "1",
+      "title": "FIND THE BEST BUY OF THE FOLLOWING PURCHASES"
+    },
+    {
+      "number": "2",
+      "title": "USING THE GIVEN PICTURE FIND THE TOTAL SPECIAL OFFER PRICE OF FRESH SWEETS AND BAKERY PRODUCTS"
+    },
+    {
+      "number": "3",
+      "title": "USING THE GIVEN PICTURE PREPARE A PRICE LIST"
+    },
+    {
+      "number": "4",
+      "title": "Y OU WANT TO BUY SOME GROCERY ITEMS AS PER YOUR SHOPPING"
+    },
+    {
+      "number": "5",
+      "title": "ONLINE OR TELEVISION ADVERTISEMENTS INFLUENCE PEOPLE ON SPENDING DECISIONS BY"
+    },
+    {
+      "number": "6",
+      "title": "WHEN I GO SHOPPING"
+    },
+    {
+      "number": "7",
+      "title": "WHICH AMONG THE FOLLOWING IS THE BEST SHOPPING CHOICE"
+    },
+    {
+      "number": "1",
+      "title": "NUMBERS"
+    },
+    {
+      "number": "2",
+      "title": "MEASUREMENTS"
+    },
+    {
+      "number": "4",
+      "title": "LENGTH OF ARC"
+    },
+    {
+      "number": "5",
+      "title": "DOUBLE DOOR REQUIRES THE MINIMUM AREA"
+    },
+    {
+      "number": "3",
+      "title": "ALGEBRA"
+    },
+    {
+      "number": "4",
+      "title": "LIFE MATHEMATICS"
+    },
+    {
+      "number": "9",
+      "title": "DISCOUNT OF"
+    },
+    {
+      "number": "5",
+      "title": "GEOMETRY"
+    },
+    {
+      "number": "6",
+      "title": "STATISTICS"
+    },
+    {
+      "number": "7",
+      "title": "INFORMATION PROCESSING"
+    },
+    {
+      "number": "3",
+      "title": "PLAIN TEXT ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    {
+      "number": "4",
+      "title": "TO UNDERSTAND THAT MATHEMATICS CAN BE EXPERIENCED EVERYWHERE IN NATURE AND REAL LIFE"
+    }
+  ],
+  "topics": [
+    {
+      "number": "1.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "June1.2",
+      "title": "Rational Numbers"
+    },
+    {
+      "number": "1.3",
+      "title": "Basic Arithmetic Operations on Rational Numbers"
+    },
+    {
+      "number": "1.4",
+      "title": "Word Problems on the basic operations"
+    },
+    {
+      "number": "1.5",
+      "title": "Properties of Rational Numbers"
+    },
+    {
+      "number": "1.6",
+      "title": "Introduction to Square Numbers"
+    },
+    {
+      "number": "1.7",
+      "title": "Square Root"
+    },
+    {
+      "number": "1.8",
+      "title": "Cubes and Cube Roots"
+    },
+    {
+      "number": "1.9",
+      "title": "Exponents and Powers"
+    },
+    {
+      "number": "2.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "July2.2",
+      "title": "Parts of a Circle"
+    },
+    {
+      "number": "2.3",
+      "title": "Combined Shapes"
+    },
+    {
+      "number": "2.4",
+      "title": "Three Dimensional ("
+    },
+    {
+      "number": "3.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "3.2",
+      "title": "Multiplication of Algebraic Expressions"
+    },
+    {
+      "number": "3.3",
+      "title": "Division of Algebraic Expressions"
+    },
+    {
+      "number": "3.4",
+      "title": "Avoid some Common Errors"
+    },
+    {
+      "number": "3.5",
+      "title": "Identities"
+    },
+    {
+      "number": "3.6",
+      "title": "Cubic Identities"
+    },
+    {
+      "number": "3.7",
+      "title": "Factorisation"
+    },
+    {
+      "number": "3.8",
+      "title": "Linear Equation in One Variable"
+    },
+    {
+      "number": "3.9",
+      "title": "Graph"
+    },
+    {
+      "number": "3.10",
+      "title": "Linear Graph"
+    },
+    {
+      "number": "4.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "4.2",
+      "title": "Applications of Percentage in Word Problems"
+    },
+    {
+      "number": "4.3",
+      "title": "Profit"
+    },
+    {
+      "number": "4.4",
+      "title": "Compound Interest"
+    },
+    {
+      "number": "4.5",
+      "title": "Compound Variation"
+    },
+    {
+      "number": "4.6",
+      "title": "Time and Work"
+    },
+    {
+      "number": "5.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "5.2",
+      "title": "Congruent and Similar Shapes"
+    },
+    {
+      "number": "5.3",
+      "title": "The Pythagoras Theorem"
+    },
+    {
+      "number": "5.4",
+      "title": "Converse of Pythagoras Theorem"
+    },
+    {
+      "number": "5.5",
+      "title": "Point of Concurrency"
+    },
+    {
+      "number": "5.6",
+      "title": "Medians of a Triangle"
+    },
+    {
+      "number": "5.7",
+      "title": "Altitude of a Triangle"
+    },
+    {
+      "number": "5.8",
+      "title": "Perpendicular Bisectors of a Triangle"
+    },
+    {
+      "number": "5.9",
+      "title": "Angle Bisectors of a Triangle"
+    },
+    {
+      "number": "5.10",
+      "title": "Construction of Quadrilaterals"
+    },
+    {
+      "number": "5.11",
+      "title": "Construction of Trapeziums"
+    },
+    {
+      "number": "5.12",
+      "title": "Construction of Special Quadrilaterals"
+    },
+    {
+      "number": "5.13",
+      "title": "Construction of a Parallelogram"
+    },
+    {
+      "number": "5.14",
+      "title": "Construction of a Rhombus"
+    },
+    {
+      "number": "5.15",
+      "title": "Construction of a Rectangle"
+    },
+    {
+      "number": "5.16",
+      "title": "Construction of a Square"
+    },
+    {
+      "number": "6.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "6.2",
+      "title": "Frequency Distribution Table"
+    },
+    {
+      "number": "6.3",
+      "title": "Graphical Representation of the Frequency"
+    },
+    {
+      "number": "6.4",
+      "title": "Graphical Representation of the Frequency"
+    },
+    {
+      "number": "7.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "7.2",
+      "title": "Principles of Counting"
+    },
+    {
+      "number": "7.4",
+      "title": "Map Colouring"
+    },
+    {
+      "number": "7.5",
+      "title": "Fibonacci Numbers"
+    },
+    {
+      "number": "7.6",
+      "title": "Highest Common Factor"
+    },
+    {
+      "number": "7.7",
+      "title": "Cryptology"
+    },
+    {
+      "number": "7.8",
+      "title": "Shopping Comparison"
+    },
+    {
+      "number": "7.9",
+      "title": "Packing"
+    },
+    {
+      "number": "Numbers1.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "1.2",
+      "title": "Rational Numbers"
+    },
+    {
+      "number": "1.2.1",
+      "title": "Rational numbers on a number line"
+    },
+    {
+      "number": "1.2.2",
+      "title": "Decimal representation of a rational number"
+    },
+    {
+      "number": "1.2.3",
+      "title": "Positive and Negative rational numbers"
+    },
+    {
+      "number": "1.2.4",
+      "title": "Equivalent rational numbers"
+    },
+    {
+      "number": "1.2.5",
+      "title": "Rational numbers in Standard form"
+    },
+    {
+      "number": "1.2.6",
+      "title": "Comparison of rational numbers"
+    },
+    {
+      "number": "1.2.7",
+      "title": "Rational numbers between any two given rational numbers"
+    },
+    {
+      "number": "1.3",
+      "title": "Basic Arithmetic Operations on Rational Numbers"
+    },
+    {
+      "number": "1.3.1",
+      "title": "Addition"
+    },
+    {
+      "number": "1.3.2",
+      "title": "Additive Inverse"
+    },
+    {
+      "number": "1.3.3",
+      "title": "Subtraction"
+    },
+    {
+      "number": "1.3.4",
+      "title": "Multiplication"
+    },
+    {
+      "number": "1.3.5",
+      "title": "Multiplicative Inverse"
+    },
+    {
+      "number": "1.3.6",
+      "title": "Division"
+    },
+    {
+      "number": "1.4",
+      "title": "Word Problems on the basic operations"
+    },
+    {
+      "number": "1.5",
+      "title": "Properties of Rational Numbers"
+    },
+    {
+      "number": "1.5.1",
+      "title": "Closure property for the collection  of rational numbers"
+    },
+    {
+      "number": "1.5.2",
+      "title": "Commutative property for the collection  of rational numbers"
+    },
+    {
+      "number": "1.5.3",
+      "title": "Associative property for the collection  of rational numbers"
+    },
+    {
+      "number": "1.5.4",
+      "title": "Identity property for the collection  of rational numbers"
+    },
+    {
+      "number": "1.5.5",
+      "title": "Inverse property for the collection  of rational numbers"
+    },
+    {
+      "number": "1.5.6",
+      "title": "Distributive property for the collection  of rational numbers"
+    },
+    {
+      "number": "1.6",
+      "title": "Introduction to Square Numbers"
+    },
+    {
+      "number": "1.6.1",
+      "title": "Some more special properties of square numbers"
+    },
+    {
+      "number": "1.7",
+      "title": "Square Root"
+    },
+    {
+      "number": "1.7.1",
+      "title": "Square root through Prime Factorisation"
+    },
+    {
+      "number": "1.7.2",
+      "title": "Finding the square root of a number by Long Division Method"
+    },
+    {
+      "number": "1.7.3",
+      "title": "Number of digits in the square root of a perfect square number"
+    },
+    {
+      "number": "1.7.4",
+      "title": "Square root of decimal numbers"
+    },
+    {
+      "number": "1.7.5",
+      "title": "Square root of product and quotient of numbers"
+    },
+    {
+      "number": "1.7.6",
+      "title": "Approximating square roots"
+    },
+    {
+      "number": "1.8",
+      "title": "Cubes and Cube Roots"
+    },
+    {
+      "number": "1.8.1",
+      "title": "Properties of cubes of numbers"
+    },
+    {
+      "number": "1.8.2",
+      "title": "Cube root"
+    },
+    {
+      "number": "1.8.3",
+      "title": "Cube root of a given number by Prime Factorisation"
+    },
+    {
+      "number": "1.9",
+      "title": "Exponents and Powers"
+    },
+    {
+      "number": "1.9.1",
+      "title": "Powers with positive exponents"
+    },
+    {
+      "number": "1.9.2",
+      "title": "Powers with zero and negative exponents"
+    },
+    {
+      "number": "1.9.3",
+      "title": "Expanded form of numbers using exponents"
+    },
+    {
+      "number": "1.9.4",
+      "title": "Laws of Exponents"
+    },
+    {
+      "number": "1.9.5",
+      "title": "Standard Form and Scientific Notation"
+    },
+    {
+      "number": "2.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "2.2",
+      "title": "Parts of a Circle"
+    },
+    {
+      "number": "2.2.1",
+      "title": "Circular Arc and Circular Sector"
+    },
+    {
+      "number": "2.2.2",
+      "title": "Length of the arc and Area of the sector"
+    },
+    {
+      "number": "2.2.3",
+      "title": "Perimeter of a sector"
+    },
+    {
+      "number": "2.3",
+      "title": "Combined shapes"
+    },
+    {
+      "number": "2.3.1",
+      "title": "Perimeter of combined shapes"
+    },
+    {
+      "number": "2.3.2",
+      "title": "Area of combined shapes"
+    },
+    {
+      "number": "2.4",
+      "title": "Three dimensional ("
+    },
+    {
+      "number": "2.4.1",
+      "title": "Faces"
+    },
+    {
+      "number": "2.4.2",
+      "title": "Nets for building three dimensional"
+    },
+    {
+      "number": "2.4.3",
+      "title": "Drawing"
+    },
+    {
+      "number": "2.4.4",
+      "title": "Cross section of solid shapes"
+    },
+    {
+      "number": "3.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "3.2",
+      "title": "Multiplication of Algebraic Expressions"
+    },
+    {
+      "number": "3.2.1",
+      "title": "Multiplication of two or more monomials"
+    },
+    {
+      "number": "3.2.2",
+      "title": "Multiplication of a polynomial by a monomial"
+    },
+    {
+      "number": "3.2.3",
+      "title": "Multiplication of two binomials"
+    },
+    {
+      "number": "3.3",
+      "title": "Division of Algebraic Expressions"
+    },
+    {
+      "number": "3.3.1",
+      "title": "Division of a monomial by another monomial"
+    },
+    {
+      "number": "3.3.2",
+      "title": "Division of an algebraic expression"
+    },
+    {
+      "number": "3.4",
+      "title": "Avoid Some Common Errors"
+    },
+    {
+      "number": "3.5",
+      "title": "Identities"
+    },
+    {
+      "number": "3.5.1",
+      "title": "Application of Identities"
+    },
+    {
+      "number": "3.6",
+      "title": "Cubic Identities"
+    },
+    {
+      "number": "3.6.1",
+      "title": "Application of Cubic Identities"
+    },
+    {
+      "number": "3.7",
+      "title": "Factorisation"
+    },
+    {
+      "number": "3.7.1",
+      "title": "Factorisation using cubic identities"
+    },
+    {
+      "number": "3.8",
+      "title": "Linear Equation in One Variable"
+    },
+    {
+      "number": "3.8.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "3.8.2",
+      "title": "Forming algebraic expressions"
+    },
+    {
+      "number": "3.8.3",
+      "title": "Equations"
+    },
+    {
+      "number": "3.8.4",
+      "title": "Solution of a linear equation"
+    },
+    {
+      "number": "3.8.5",
+      "title": "Word problems that involve linear equations"
+    },
+    {
+      "number": "3.9",
+      "title": "Graph"
+    },
+    {
+      "number": "3.9.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "3.9.2",
+      "title": "Graph sheets"
+    },
+    {
+      "number": "3.9.3",
+      "title": "Signs in the graphs"
+    },
+    {
+      "number": "3.9.4",
+      "title": "Ordered pairs"
+    },
+    {
+      "number": "3.9.5",
+      "title": "Quadrants"
+    },
+    {
+      "number": "3.9.6",
+      "title": "Plotting the given points on a graph"
+    },
+    {
+      "number": "3.9.7",
+      "title": "To obtain a straight line"
+    },
+    {
+      "number": "3.9.8",
+      "title": "Line parallel to the coordinate axes"
+    },
+    {
+      "number": "3.9.9",
+      "title": "Scale in a graph"
+    },
+    {
+      "number": "3.10",
+      "title": "Linear Graph"
+    },
+    {
+      "number": "3.10.1",
+      "title": "Linear pattern"
+    },
+    {
+      "number": "3.10.2",
+      "title": "Graph of  a linear function in two variables"
+    },
+    {
+      "number": "4.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "4.2",
+      "title": "Applications of Percentage in Word Problems"
+    },
+    {
+      "number": "4.3",
+      "title": "Profit"
+    },
+    {
+      "number": "4.3.1",
+      "title": "Profit and Loss"
+    },
+    {
+      "number": "4.3.2",
+      "title": "Discount"
+    },
+    {
+      "number": "4.3.3",
+      "title": "Overhead Expenses"
+    },
+    {
+      "number": "4.3.4",
+      "title": "Goods and Services Tax"
+    },
+    {
+      "number": "4.4",
+      "title": "Compound Interest"
+    },
+    {
+      "number": "4.4.1",
+      "title": "Applications of Compound Interest Formula"
+    },
+    {
+      "number": "4.4.2",
+      "title": "Difference between C"
+    },
+    {
+      "number": "4.5",
+      "title": "Compound Variation"
+    },
+    {
+      "number": "4.5.1",
+      "title": "Proportion Method"
+    },
+    {
+      "number": "4.5.2",
+      "title": "Multiplicative Factor Method"
+    },
+    {
+      "number": "4.5.3",
+      "title": "Formula Method"
+    },
+    {
+      "number": "4.6",
+      "title": "Time and Work"
+    },
+    {
+      "number": "4.6.1",
+      "title": "Sharing of the money for work"
+    },
+    {
+      "number": "5.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "5.2",
+      "title": "Congruent and Similar Shapes"
+    },
+    {
+      "number": "5.2.1",
+      "title": "Congruent Triangles"
+    },
+    {
+      "number": "5.2.2",
+      "title": "Similar Triangles"
+    },
+    {
+      "number": "5.3",
+      "title": "The Pythagoras Theorem"
+    },
+    {
+      "number": "5.4",
+      "title": "Converse of Pythagoras Theorem"
+    },
+    {
+      "number": "5.5",
+      "title": "Point of Concurrency"
+    },
+    {
+      "number": "5.6",
+      "title": "Medians of a Triangle"
+    },
+    {
+      "number": "5.6.1",
+      "title": "Centroid"
+    },
+    {
+      "number": "5.7",
+      "title": "Altitude of a Triangle"
+    },
+    {
+      "number": "5.8",
+      "title": "Perpendicular Bisectors of a Triangle"
+    },
+    {
+      "number": "5.8.1",
+      "title": "Circumcentre"
+    },
+    {
+      "number": "5.9",
+      "title": "Angle Bisectors of a Triangle"
+    },
+    {
+      "number": "5.9.1",
+      "title": "Incentre"
+    },
+    {
+      "number": "5.10",
+      "title": "Construction of Quadrilaterals"
+    },
+    {
+      "number": "5.10.1",
+      "title": "Constructing a quadrilateral when its"
+    },
+    {
+      "number": "5.10.2",
+      "title": "Construct a quadrilateral when its"
+    },
+    {
+      "number": "5.10.3",
+      "title": "Construct a quadrilateral when its"
+    },
+    {
+      "number": "5.10.4",
+      "title": "Construct a quadrilateral when its"
+    },
+    {
+      "number": "5.10.5",
+      "title": "Construct a quadrilateral when its"
+    },
+    {
+      "number": "5.11",
+      "title": "Construction of Trapeziums"
+    },
+    {
+      "number": "5.11.1",
+      "title": "Constructing a trapezium when its three sides and one diagonal are given"
+    },
+    {
+      "number": "5.11.2",
+      "title": "Constructing a trapezium when its three sides and one angle are given"
+    },
+    {
+      "number": "5.11.3",
+      "title": "Constructing a trapezium when its two sides and two angles are given"
+    },
+    {
+      "number": "5.11.4",
+      "title": "Constructing a trapezium when its four sides are given"
+    },
+    {
+      "number": "5.12",
+      "title": "Construction of Special Quadrilaterals"
+    },
+    {
+      "number": "5.13",
+      "title": "Construction of a Parallelogram"
+    },
+    {
+      "number": "5.13.1",
+      "title": "Constructing a parallelogram when its two adjacent sides and one angle are"
+    },
+    {
+      "number": "5.13.2",
+      "title": "Constructing a parallelogram when its two adjacent sides and one diagonal are"
+    },
+    {
+      "number": "5.13.3",
+      "title": "Constructing a parallelogram when its two diagonals and one included angle"
+    },
+    {
+      "number": "5.13.4",
+      "title": "Constructing a parallelogram when its one side"
+    },
+    {
+      "number": "5.14",
+      "title": "Construction of a Rhombus"
+    },
+    {
+      "number": "5.14.1",
+      "title": "Construction of a rhombus when one side and one diagonal are given"
+    },
+    {
+      "number": "5.14.2",
+      "title": "Construction of a rhombus when one side and one angle are given"
+    },
+    {
+      "number": "5.14.3",
+      "title": "Construction of a rhombus when two diagonals are given"
+    },
+    {
+      "number": "5.14.4",
+      "title": "Construction of a rhombus when one diagonal and one angle are given"
+    },
+    {
+      "number": "5.15",
+      "title": "Construction of a Rectangle"
+    },
+    {
+      "number": "5.15.1",
+      "title": "Construction of a rectangle when its length and breadth are given"
+    },
+    {
+      "number": "5.15.2",
+      "title": "Construction of a rectangle when a side and a diagonal are given"
+    },
+    {
+      "number": "5.16",
+      "title": "Construction of a Square"
+    },
+    {
+      "number": "5.16.1",
+      "title": "Construction of a square when its side is given"
+    },
+    {
+      "number": "5.16.2",
+      "title": "Construction of a square when its diagonal is given"
+    },
+    {
+      "number": "6.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "6.1.1",
+      "title": "Data"
+    },
+    {
+      "number": "6.2",
+      "title": "Frequency Distribution Table"
+    },
+    {
+      "number": "6.2.1",
+      "title": "Construction of frequency distribution table for ungrouped data"
+    },
+    {
+      "number": "6.2.2",
+      "title": "Construction of frequency distribution table for grouped data"
+    },
+    {
+      "number": "6.3",
+      "title": "Graphical Representation of the Frequency Distribution for Ungrouped Data"
+    },
+    {
+      "number": "6.3.1",
+      "title": "Pie chart"
+    },
+    {
+      "number": "6.3.2",
+      "title": "Method of constructing a pie chart"
+    },
+    {
+      "number": "6.4",
+      "title": "Graphical Representation of the Frequency Distribution for Grouped Data"
+    },
+    {
+      "number": "6.4.1",
+      "title": "Histogram"
+    },
+    {
+      "number": "6.4.2",
+      "title": "Frequency Polygon"
+    },
+    {
+      "number": "7.1",
+      "title": "Introduction"
+    },
+    {
+      "number": "7.2",
+      "title": "Principles of Counting"
+    },
+    {
+      "number": "7.2.1",
+      "title": "Addition principle"
+    },
+    {
+      "number": "7.2.2",
+      "title": "Multiplication principle"
+    },
+    {
+      "number": "7.4",
+      "title": "Map Colouring"
+    },
+    {
+      "number": "7.5",
+      "title": "Fibonacci Numbers"
+    },
+    {
+      "number": "7.6",
+      "title": "Highest Common Factor"
+    },
+    {
+      "number": "7.6.1",
+      "title": "Methods to find HCF"
+    },
+    {
+      "number": "7.7",
+      "title": "Cryptology"
+    },
+    {
+      "number": "7.7.1",
+      "title": "Cryptology"
+    },
+    {
+      "number": "7.7.2",
+      "title": "Examples of Cipher Code"
+    },
+    {
+      "number": "7.8",
+      "title": "Shopping Comparison"
+    },
+    {
+      "number": "7.8.1",
+      "title": "Comparing containers of different size"
+    },
+    {
+      "number": "7.9",
+      "title": "Packing"
+    },
+    {
+      "number": "7.9.1",
+      "title": "Packing Approaches"
+    }
+  ],
+  "total_content_length": 466173,
+  "content_preview": "GOVERNMENT OF TAMIL NADU\nMATHEMATICS\nA publication under Free Textbook Programme of  Government of  Tamil Nadu\nDepartment of School EducationSTANDARD EIGHT\nUntouchability is Inhuman and a Crime\n8th_Maths_English Medium_Front Matter.indd   18th_Maths_English Medium_Front Matter.indd   1 12/5/2024   10:09:59 AM12/5/2024   10:09:59 AMwww.tntextbooks.in\n\nii\nGovernment of Tamil Nadu\nFirst Edition - 2019  \nRevised Edition -  2020, 2022,  \n2023, 2025\nReprint - 2021, 2024\n(Published under New Syllabus)\n..."
+}

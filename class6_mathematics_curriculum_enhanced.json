@@ -1,0 +1,2121 @@
+{
+  "class": "6",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "Numbers",
+      "modules": [
+        {
+          "module_id": "6.1.1",
+          "topic_name": "Prime and Composite Numbers",
+          "explanation": "Numbers are like building blocks! Prime numbers are special numbers that can only be divided by 1 and themselves (like 2, 3, 5, 7). Composite numbers have more factors (like 4, 6, 8, 9). Think of prime numbers as 'lonely' numbers that only like themselves and 1 as friends! Understanding these helps in factorization and finding the greatest common divisor.",
+          "difficulty": "easy",
+          "total_timer_minutes": 6,
+          "questions": [
+            {
+              "question_id": "6_1_1_1",
+              "question_text": "Which of these is a prime number?",
+              "options": [
+                "4",
+                "6",
+                "7",
+                "9"
+              ],
+              "correct_answer": "7",
+              "explanation": "7 is prime because it can only be divided by 1 and 7. The others can be divided by other numbers too.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_2",
+              "question_text": "What makes a number composite?",
+              "options": [
+                "Only divisible by 1 and itself",
+                "Has more than two factors",
+                "Is an odd number",
+                "Is greater than 10"
+              ],
+              "correct_answer": "Has more than two factors",
+              "explanation": "Composite numbers have more than two factors, unlike prime numbers which only have two factors (1 and itself).",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_3",
+              "question_text": "Which number is NOT prime?",
+              "options": [
+                "11",
+                "13",
+                "15",
+                "17"
+              ],
+              "correct_answer": "15",
+              "explanation": "15 is not prime because it can be divided by 1, 3, 5, and 15. It has more than two factors.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_4",
+              "question_text": "How many prime numbers are there between 1 and 10?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "4",
+              "explanation": "The prime numbers between 1 and 10 are 2, 3, 5, and 7. That's 4 prime numbers!",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_5",
+              "question_text": "What is the smallest prime number?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "correct_answer": "2",
+              "explanation": "2 is the smallest prime number. It's also the only even prime number!",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_6",
+              "question_text": "Which of these is a composite number?",
+              "options": [
+                "2",
+                "3",
+                "5",
+                "8"
+              ],
+              "correct_answer": "8",
+              "explanation": "8 is composite because it can be divided by 1, 2, 4, and 8. It has more than two factors.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_7",
+              "question_text": "What is the largest prime number less than 20?",
+              "options": [
+                "17",
+                "18",
+                "19",
+                "20"
+              ],
+              "correct_answer": "19",
+              "explanation": "19 is the largest prime number less than 20. 18 and 20 are even, 17 is also prime but smaller.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_8",
+              "question_text": "How many factors does the number 12 have?",
+              "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+              ],
+              "correct_answer": "6",
+              "explanation": "The factors of 12 are 1, 2, 3, 4, 6, and 12. That's 6 factors total.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_9",
+              "question_text": "Which number is neither prime nor composite?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "correct_answer": "1",
+              "explanation": "1 is neither prime nor composite because it only has one factor (itself). Prime numbers have exactly 2 factors.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_1_1_10",
+              "question_text": "If a number has exactly 3 factors, what must it be?",
+              "options": [
+                "Prime",
+                "Composite",
+                "Square of a prime",
+                "Cube of a prime"
+              ],
+              "correct_answer": "Square of a prime",
+              "explanation": "Numbers that are squares of primes (like 4 = 2², 9 = 3², 25 = 5²) have exactly 3 factors: 1, the prime, and the square itself.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": "6.1.2",
+          "topic_name": "Rules for Test of Divisibility",
+          "explanation": "Divisibility rules are like magic tricks to quickly check if a number can be divided by another! For 2: last digit must be even (0,2,4,6,8). For 3: sum of digits must be divisible by 3. For 5: last digit must be 0 or 5. For 10: last digit must be 0. For 4: last two digits must be divisible by 4. These rules save time in math and help with mental calculations!",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_1_2_1",
+              "question_text": "Which number is divisible by 2?",
+              "options": [
+                "123",
+                "247",
+                "456",
+                "789"
+              ],
+              "correct_answer": "456",
+              "explanation": "456 is divisible by 2 because its last digit (6) is even. Even numbers end in 0,2,4,6,8.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_2",
+              "question_text": "Is 123 divisible by 3?",
+              "options": [
+                "Yes, because 1+2+3=6",
+                "No, because it's odd",
+                "Yes, because it ends with 3",
+                "No, because 1+2+3=6"
+              ],
+              "correct_answer": "Yes, because 1+2+3=6",
+              "explanation": "123 is divisible by 3 because the sum of its digits (1+2+3=6) is divisible by 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_3",
+              "question_text": "Which number is divisible by both 2 and 5?",
+              "options": [
+                "25",
+                "30",
+                "35",
+                "40"
+              ],
+              "correct_answer": "30",
+              "explanation": "30 is divisible by both 2 (ends with 0) and 5 (ends with 0). Numbers divisible by both 2 and 5 must end with 0.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_4",
+              "question_text": "What is the divisibility rule for 9?",
+              "options": [
+                "Last digit must be 9",
+                "Sum of digits must be divisible by 9",
+                "Number must be odd",
+                "First digit must be 9"
+              ],
+              "correct_answer": "Sum of digits must be divisible by 9",
+              "explanation": "A number is divisible by 9 if the sum of its digits is divisible by 9. For example, 189: 1+8+9=18, and 18 is divisible by 9.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_5",
+              "question_text": "Which number is NOT divisible by 4?",
+              "options": [
+                "124",
+                "236",
+                "348",
+                "459"
+              ],
+              "correct_answer": "459",
+              "explanation": "459 is not divisible by 4 because its last two digits (59) are not divisible by 4. The rule for 4: last two digits must be divisible by 4.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_6",
+              "question_text": "Is 1000 divisible by 8?",
+              "options": [
+                "Yes, last 3 digits are 000",
+                "No, it's too big",
+                "Yes, it ends with 0",
+                "No, sum is 1"
+              ],
+              "correct_answer": "Yes, last 3 digits are 000",
+              "explanation": "1000 is divisible by 8 because its last three digits (000) are divisible by 8. The rule for 8: last three digits must be divisible by 8.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_7",
+              "question_text": "Which number is divisible by 6?",
+              "options": [
+                "122",
+                "124",
+                "126",
+                "128"
+              ],
+              "correct_answer": "126",
+              "explanation": "126 is divisible by 6 because it's divisible by both 2 (even) and 3 (1+2+6=9, divisible by 3).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_8",
+              "question_text": "What is the smallest number divisible by both 3 and 4?",
+              "options": [
+                "6",
+                "8",
+                "12",
+                "24"
+              ],
+              "correct_answer": "12",
+              "explanation": "12 is the smallest number divisible by both 3 and 4. 12 ÷ 3 = 4 and 12 ÷ 4 = 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_9",
+              "question_text": "If a number is divisible by 9, is it always divisible by 3?",
+              "options": [
+                "Yes",
+                "No",
+                "Sometimes",
+                "Cannot tell"
+              ],
+              "correct_answer": "Yes",
+              "explanation": "If a number is divisible by 9, it's always divisible by 3 because 9 is a multiple of 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_2_10",
+              "question_text": "Which of these numbers is divisible by 11?",
+              "options": [
+                "121",
+                "122",
+                "123",
+                "124"
+              ],
+              "correct_answer": "121",
+              "explanation": "121 is divisible by 11 (121 ÷ 11 = 11). The rule for 11: difference between sum of digits in odd and even positions should be divisible by 11.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "6.1.3",
+          "topic_name": "Prime Factorisation",
+          "explanation": "Prime factorisation is like breaking down a number into its smallest prime building blocks! It's like finding the DNA of a number. For example, 12 = 2 × 2 × 3. We use factor trees or division method to find these prime factors. Every number has a unique prime factorisation! This helps in finding HCF, LCM, and simplifying fractions.",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_1_3_1",
+              "question_text": "What is the prime factorisation of 12?",
+              "options": [
+                "2 × 6",
+                "3 × 4",
+                "2 × 2 × 3",
+                "1 × 12"
+              ],
+              "correct_answer": "2 × 2 × 3",
+              "explanation": "The prime factorisation of 12 is 2 × 2 × 3. We break it down until all factors are prime numbers.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_2",
+              "question_text": "Which of these is the prime factorisation of 18?",
+              "options": [
+                "2 × 9",
+                "3 × 6",
+                "2 × 3 × 3",
+                "1 × 18"
+              ],
+              "correct_answer": "2 × 3 × 3",
+              "explanation": "18 = 2 × 3 × 3. We break it down: 18 = 2 × 9, then 9 = 3 × 3, so 18 = 2 × 3 × 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_3",
+              "question_text": "How many prime factors does 30 have?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "3",
+              "explanation": "30 = 2 × 3 × 5, so it has 3 prime factors: 2, 3, and 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_4",
+              "question_text": "What is the prime factorisation of 100?",
+              "options": [
+                "2 × 2 × 5 × 5",
+                "10 × 10",
+                "4 × 25",
+                "2 × 50"
+              ],
+              "correct_answer": "2 × 2 × 5 × 5",
+              "explanation": "100 = 2 × 2 × 5 × 5. We break it down: 100 = 10 × 10 = (2 × 5) × (2 × 5) = 2 × 2 × 5 × 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_5",
+              "question_text": "Which number has prime factorisation 2 × 2 × 2?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "12"
+              ],
+              "correct_answer": "8",
+              "explanation": "8 = 2 × 2 × 2. When we multiply 2 × 2 × 2, we get 8.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_6",
+              "question_text": "What is the prime factorisation of 45?",
+              "options": [
+                "3 × 15",
+                "5 × 9",
+                "3 × 3 × 5",
+                "1 × 45"
+              ],
+              "correct_answer": "3 × 3 × 5",
+              "explanation": "45 = 3 × 3 × 5. We break it down: 45 = 5 × 9 = 5 × 3 × 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_7",
+              "question_text": "How many times does 2 appear in the prime factorisation of 64?",
+              "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+              ],
+              "correct_answer": "6",
+              "explanation": "64 = 2 × 2 × 2 × 2 × 2 × 2 = 2⁶. So 2 appears 6 times.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_8",
+              "question_text": "What is the prime factorisation of 72?",
+              "options": [
+                "2 × 2 × 2 × 3 × 3",
+                "8 × 9",
+                "6 × 12",
+                "2 × 36"
+              ],
+              "correct_answer": "2 × 2 × 2 × 3 × 3",
+              "explanation": "72 = 2 × 2 × 2 × 3 × 3 = 2³ × 3². We break it down to prime factors only.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_9",
+              "question_text": "If a number's prime factorisation is 2² × 3³, what is the number?",
+              "options": [
+                "36",
+                "72",
+                "108",
+                "216"
+              ],
+              "correct_answer": "108",
+              "explanation": "2² × 3³ = 4 × 27 = 108.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_1_3_10",
+              "question_text": "Which number has only one prime factor?",
+              "options": [
+                "6",
+                "8",
+                "9",
+                "10"
+              ],
+              "correct_answer": "9",
+              "explanation": "9 = 3 × 3 = 3². It has only one prime factor (3), though it appears twice.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "6.1.4",
+          "topic_name": "HCF and LCM",
+          "explanation": "HCF (Highest Common Factor) is the biggest number that divides two or more numbers. LCM (Least Common Multiple) is the smallest number that two or more numbers divide into. Think of HCF as the 'greatest common divisor' and LCM as the 'smallest common multiple'. Use prime factorisation to find both! These help in simplifying fractions and solving time-work problems.",
+          "difficulty": "hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": "6_1_4_1",
+              "question_text": "What is the HCF of 12 and 18?",
+              "options": [
+                "2",
+                "3",
+                "6",
+                "12"
+              ],
+              "correct_answer": "6",
+              "explanation": "The HCF of 12 and 18 is 6. Factors of 12: 1,2,3,4,6,12. Factors of 18: 1,2,3,6,9,18. The highest common factor is 6.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_2",
+              "question_text": "What is the LCM of 4 and 6?",
+              "options": [
+                "12",
+                "24",
+                "8",
+                "10"
+              ],
+              "correct_answer": "12",
+              "explanation": "The LCM of 4 and 6 is 12. Multiples of 4: 4,8,12,16... Multiples of 6: 6,12,18... The least common multiple is 12.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_3",
+              "question_text": "If HCF of two numbers is 4 and LCM is 24, what could the numbers be?",
+              "options": [
+                "4 and 24",
+                "8 and 12",
+                "6 and 16",
+                "2 and 48"
+              ],
+              "correct_answer": "8 and 12",
+              "explanation": "8 and 12 have HCF = 4 and LCM = 24. Check: factors of 8: 1,2,4,8; factors of 12: 1,2,3,4,6,12. HCF = 4. Multiples of 8: 8,16,24... Multiples of 12: 12,24... LCM = 24.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_4",
+              "question_text": "What is the HCF of 15, 25, and 35?",
+              "options": [
+                "1",
+                "5",
+                "15",
+                "25"
+              ],
+              "correct_answer": "5",
+              "explanation": "The HCF of 15, 25, and 35 is 5. All three numbers are divisible by 5, and 5 is the highest number that divides all three.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_5",
+              "question_text": "Two bells ring every 15 and 20 minutes. When will they ring together?",
+              "options": [
+                "Every 5 minutes",
+                "Every 60 minutes",
+                "Every 35 minutes",
+                "Every 300 minutes"
+              ],
+              "correct_answer": "Every 60 minutes",
+              "explanation": "They will ring together every LCM(15,20) = 60 minutes. 15 = 3×5, 20 = 2²×5, so LCM = 2²×3×5 = 60.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_6",
+              "question_text": "What is the LCM of 8 and 9?",
+              "options": [
+                "17",
+                "72",
+                "36",
+                "1"
+              ],
+              "correct_answer": "72",
+              "explanation": "Since 8 and 9 are co-prime (HCF = 1), LCM = 8 × 9 = 72.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_7",
+              "question_text": "If two numbers have HCF = 1, they are called:",
+              "options": [
+                "Equal numbers",
+                "Co-prime numbers",
+                "Prime numbers",
+                "Composite numbers"
+              ],
+              "correct_answer": "Co-prime numbers",
+              "explanation": "Numbers with HCF = 1 are called co-prime numbers. They have no common factors other than 1.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_8",
+              "question_text": "What is the HCF of 36 and 48?",
+              "options": [
+                "6",
+                "12",
+                "18",
+                "24"
+              ],
+              "correct_answer": "12",
+              "explanation": "36 = 2² × 3², 48 = 2⁴ × 3. HCF = 2² × 3 = 4 × 3 = 12.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_9",
+              "question_text": "The product of two numbers is 180 and their HCF is 6. What is their LCM?",
+              "options": [
+                "15",
+                "30",
+                "36",
+                "90"
+              ],
+              "correct_answer": "30",
+              "explanation": "Product = HCF × LCM. So 180 = 6 × LCM. LCM = 180 ÷ 6 = 30.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_1_4_10",
+              "question_text": "What is the LCM of 12, 15, and 20?",
+              "options": [
+                "60",
+                "120",
+                "180",
+                "240"
+              ],
+              "correct_answer": "60",
+              "explanation": "12 = 2² × 3, 15 = 3 × 5, 20 = 2² × 5. LCM = 2² × 3 × 5 = 4 × 3 × 5 = 60.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Measurements",
+      "modules": [
+        {
+          "module_id": "6.2.1",
+          "topic_name": "Metric System Conversions",
+          "explanation": "The metric system is like a family of measurements that work together! Length: km→hm→dam→m→dm→cm→mm (each step is ×10 or ÷10). Weight: t→q→kg→hg→dag→g→dg→cg→mg. Capacity: kl→hl→dal→l→dl→cl→ml. Remember: King Henry Died By Drinking Chocolate Milk! This helps in everyday measurements and science.",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_2_1_1",
+              "question_text": "How many meters are in 3 kilometers?",
+              "options": [
+                "30",
+                "300",
+                "3000",
+                "0.3"
+              ],
+              "correct_answer": "3000",
+              "explanation": "1 km = 1000 m, so 3 km = 3000 m. To convert km to m, multiply by 1000.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_2",
+              "question_text": "Convert 2500 grams to kilograms",
+              "options": [
+                "0.25 kg",
+                "2.5 kg",
+                "25 kg",
+                "250 kg"
+              ],
+              "correct_answer": "2.5 kg",
+              "explanation": "1000 g = 1 kg, so 2500 g = 2.5 kg. To convert grams to kilograms, divide by 1000.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_3",
+              "question_text": "How many centimeters are in 2.5 meters?",
+              "options": [
+                "25",
+                "250",
+                "0.25",
+                "2500"
+              ],
+              "correct_answer": "250",
+              "explanation": "1 m = 100 cm, so 2.5 m = 250 cm. To convert meters to centimeters, multiply by 100.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_4",
+              "question_text": "Convert 3.75 liters to milliliters",
+              "options": [
+                "375 ml",
+                "3750 ml",
+                "37.5 ml",
+                "0.375 ml"
+              ],
+              "correct_answer": "3750 ml",
+              "explanation": "1 L = 1000 ml, so 3.75 L = 3750 ml. To convert liters to milliliters, multiply by 1000.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_5",
+              "question_text": "Which is heavier: 2 kg or 2000 g?",
+              "options": [
+                "2 kg",
+                "2000 g",
+                "They are equal",
+                "Cannot determine"
+              ],
+              "correct_answer": "They are equal",
+              "explanation": "2 kg = 2000 g. They are exactly the same weight, just expressed in different units.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_6",
+              "question_text": "How many milligrams are in 5 grams?",
+              "options": [
+                "50",
+                "500",
+                "5000",
+                "0.5"
+              ],
+              "correct_answer": "5000",
+              "explanation": "1 g = 1000 mg, so 5 g = 5000 mg.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_7",
+              "question_text": "Convert 4500 meters to kilometers",
+              "options": [
+                "4.5 km",
+                "45 km",
+                "0.45 km",
+                "450 km"
+              ],
+              "correct_answer": "4.5 km",
+              "explanation": "1000 m = 1 km, so 4500 m = 4.5 km.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_8",
+              "question_text": "How many centimeters are in 0.75 meters?",
+              "options": [
+                "7.5 cm",
+                "75 cm",
+                "750 cm",
+                "0.075 cm"
+              ],
+              "correct_answer": "75 cm",
+              "explanation": "1 m = 100 cm, so 0.75 m = 75 cm.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_9",
+              "question_text": "Convert 2.5 kilograms to grams",
+              "options": [
+                "25 g",
+                "250 g",
+                "2500 g",
+                "0.25 g"
+              ],
+              "correct_answer": "2500 g",
+              "explanation": "1 kg = 1000 g, so 2.5 kg = 2500 g.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_2_1_10",
+              "question_text": "How many liters are in 7500 milliliters?",
+              "options": [
+                "7.5 L",
+                "75 L",
+                "0.75 L",
+                "750 L"
+              ],
+              "correct_answer": "7.5 L",
+              "explanation": "1000 ml = 1 L, so 7500 ml = 7.5 L.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "6.2.2",
+          "topic_name": "Measures of Time",
+          "explanation": "Time measurement helps us organize our day! 60 seconds = 1 minute, 60 minutes = 1 hour, 24 hours = 1 day. For larger units: 7 days = 1 week, about 30 days = 1 month, 12 months = 1 year, 365 days = 1 year (366 in leap year). Time conversion helps in planning schedules, calculating durations, and understanding historical timelines!",
+          "difficulty": "easy",
+          "total_timer_minutes": 6,
+          "questions": [
+            {
+              "question_id": "6_2_2_1",
+              "question_text": "How many minutes are in 3 hours?",
+              "options": [
+                "60",
+                "120",
+                "180",
+                "240"
+              ],
+              "correct_answer": "180",
+              "explanation": "1 hour = 60 minutes, so 3 hours = 3 × 60 = 180 minutes.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_2",
+              "question_text": "Convert 150 seconds to minutes",
+              "options": [
+                "1.5 minutes",
+                "2 minutes",
+                "2.5 minutes",
+                "3 minutes"
+              ],
+              "correct_answer": "2.5 minutes",
+              "explanation": "60 seconds = 1 minute, so 150 seconds = 150 ÷ 60 = 2.5 minutes.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_3",
+              "question_text": "How many days are in 2 weeks?",
+              "options": [
+                "7",
+                "14",
+                "21",
+                "28"
+              ],
+              "correct_answer": "14",
+              "explanation": "1 week = 7 days, so 2 weeks = 2 × 7 = 14 days.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_4",
+              "question_text": "If a movie starts at 2:30 PM and lasts 2 hours 15 minutes, when does it end?",
+              "options": [
+                "4:15 PM",
+                "4:30 PM",
+                "4:45 PM",
+                "5:00 PM"
+              ],
+              "correct_answer": "4:45 PM",
+              "explanation": "2:30 PM + 2 hours 15 minutes = 4:45 PM. Add 2 hours to get 4:30 PM, then add 15 more minutes.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_5",
+              "question_text": "How many hours are in a day?",
+              "options": [
+                "12",
+                "24",
+                "36",
+                "48"
+              ],
+              "correct_answer": "24",
+              "explanation": "There are 24 hours in one day. This is divided into day and night periods.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_6",
+              "question_text": "Convert 3 hours 20 minutes to minutes",
+              "options": [
+                "200 minutes",
+                "180 minutes",
+                "320 minutes",
+                "140 minutes"
+              ],
+              "correct_answer": "200 minutes",
+              "explanation": "3 hours = 180 minutes. 180 + 20 = 200 minutes.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_7",
+              "question_text": "How many seconds are in 5 minutes?",
+              "options": [
+                "60",
+                "120",
+                "300",
+                "500"
+              ],
+              "correct_answer": "300",
+              "explanation": "1 minute = 60 seconds, so 5 minutes = 5 × 60 = 300 seconds.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_8",
+              "question_text": "If a train journey takes 2 hours 45 minutes, how many minutes is this?",
+              "options": [
+                "145 minutes",
+                "165 minutes",
+                "175 minutes",
+                "245 minutes"
+              ],
+              "correct_answer": "165 minutes",
+              "explanation": "2 hours = 120 minutes. 120 + 45 = 165 minutes.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_9",
+              "question_text": "How many months are in 3 years?",
+              "options": [
+                "24",
+                "30",
+                "36",
+                "48"
+              ],
+              "correct_answer": "36",
+              "explanation": "1 year = 12 months, so 3 years = 3 × 12 = 36 months.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_2_2_10",
+              "question_text": "Convert 180 seconds to minutes",
+              "options": [
+                "2 minutes",
+                "3 minutes",
+                "4 minutes",
+                "5 minutes"
+              ],
+              "correct_answer": "3 minutes",
+              "explanation": "60 seconds = 1 minute, so 180 seconds = 180 ÷ 60 = 3 minutes.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Life Mathematics",
+      "modules": [
+        {
+          "module_id": "6.3.1",
+          "topic_name": "Bill and Shopping",
+          "explanation": "Shopping bills are like treasure maps that show what you bought and how much you paid! A bill includes: date, items purchased, quantity, price per item, total cost, and sometimes tax. Understanding bills helps you manage money wisely and check if you're charged correctly. Always check your bill before paying and calculate change properly!",
+          "difficulty": "easy",
+          "total_timer_minutes": 6,
+          "questions": [
+            {
+              "question_id": "6_3_1_1",
+              "question_text": "If you buy 3 notebooks at ₹20 each, what is the total cost?",
+              "options": [
+                "₹20",
+                "₹40",
+                "₹60",
+                "₹80"
+              ],
+              "correct_answer": "₹60",
+              "explanation": "3 × ₹20 = ₹60. Multiply the quantity by the price per item to get the total cost.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_2",
+              "question_text": "A bill shows 5 pencils at ₹8 each and 2 erasers at ₹5 each. What is the total?",
+              "options": [
+                "₹40",
+                "₹50",
+                "₹60",
+                "₹70"
+              ],
+              "correct_answer": "₹50",
+              "explanation": "Pencils: 5 × ₹8 = ₹40. Erasers: 2 × ₹5 = ₹10. Total = ₹40 + ₹10 = ₹50.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_3",
+              "question_text": "If you pay ₹100 for items costing ₹85, how much change should you get?",
+              "options": [
+                "₹5",
+                "₹10",
+                "₹15",
+                "₹20"
+              ],
+              "correct_answer": "₹15",
+              "explanation": "Change = Amount paid - Cost = ₹100 - ₹85 = ₹15.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_4",
+              "question_text": "What information is NOT usually found on a shopping bill?",
+              "options": [
+                "Date of purchase",
+                "Your age",
+                "Item names",
+                "Total amount"
+              ],
+              "correct_answer": "Your age",
+              "explanation": "Shopping bills typically don't include personal information like age. They show purchase details, items, and costs.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_5",
+              "question_text": "If 2 kg of apples cost ₹120, what is the price per kg?",
+              "options": [
+                "₹40",
+                "₹50",
+                "₹60",
+                "₹70"
+              ],
+              "correct_answer": "₹60",
+              "explanation": "Price per kg = Total cost ÷ Quantity = ₹120 ÷ 2 = ₹60 per kg.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_6",
+              "question_text": "A shop offers a 10% discount on an item marked ₹200. What is the selling price?",
+              "options": [
+                "₹180",
+                "₹190",
+                "₹200",
+                "₹210"
+              ],
+              "correct_answer": "₹180",
+              "explanation": "Discount = 10% of ₹200 = ₹20. Selling price = ₹200 - ₹20 = ₹180.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_7",
+              "question_text": "If you buy 4 items at ₹15 each and pay with a ₹100 note, what change do you get?",
+              "options": [
+                "₹20",
+                "₹30",
+                "₹40",
+                "₹50"
+              ],
+              "correct_answer": "₹40",
+              "explanation": "Total cost = 4 × ₹15 = ₹60. Change = ₹100 - ₹60 = ₹40.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_8",
+              "question_text": "A bill shows 3 items: ₹25, ₹35, and ₹40. What is 5% tax on the total?",
+              "options": [
+                "₹5",
+                "₹10",
+                "₹15",
+                "₹20"
+              ],
+              "correct_answer": "₹5",
+              "explanation": "Total = ₹25 + ₹35 + ₹40 = ₹100. Tax = 5% of ₹100 = ₹5.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_9",
+              "question_text": "If 6 pens cost ₹90, what is the cost of 4 pens?",
+              "options": [
+                "₹60",
+                "₹70",
+                "₹80",
+                "₹90"
+              ],
+              "correct_answer": "₹60",
+              "explanation": "Price per pen = ₹90 ÷ 6 = ₹15. Cost of 4 pens = 4 × ₹15 = ₹60.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_3_1_10",
+              "question_text": "What is the total amount for 2 books at ₹45 each and 1 notebook at ₹20?",
+              "options": [
+                "₹90",
+                "₹110",
+                "₹130",
+                "₹150"
+              ],
+              "correct_answer": "₹110",
+              "explanation": "Books: 2 × ₹45 = ₹90. Notebook: ₹20. Total = ₹90 + ₹20 = ₹110.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": "6.3.2",
+          "topic_name": "Profit and Loss",
+          "explanation": "Profit and loss are like a game of buying and selling! Profit = Selling Price - Cost Price (when SP > CP). Loss = Cost Price - Selling Price (when CP > SP). Think of profit as 'earning extra money' and loss as 'losing some money'. Business people use this to make smart decisions and calculate their earnings!",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_3_2_1",
+              "question_text": "If a shopkeeper buys a pen for ₹15 and sells it for ₹20, what is the profit?",
+              "options": [
+                "₹5",
+                "₹10",
+                "₹15",
+                "₹20"
+              ],
+              "correct_answer": "₹5",
+              "explanation": "Profit = Selling Price - Cost Price = ₹20 - ₹15 = ₹5. The shopkeeper earned ₹5 extra.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_2",
+              "question_text": "A book is bought for ₹80 and sold for ₹65. What is the loss?",
+              "options": [
+                "₹10",
+                "₹15",
+                "₹20",
+                "₹25"
+              ],
+              "correct_answer": "₹15",
+              "explanation": "Loss = Cost Price - Selling Price = ₹80 - ₹65 = ₹15. The seller lost ₹15.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_3",
+              "question_text": "If profit is ₹25 and selling price is ₹100, what was the cost price?",
+              "options": [
+                "₹50",
+                "₹75",
+                "₹125",
+                "₹150"
+              ],
+              "correct_answer": "₹75",
+              "explanation": "Cost Price = Selling Price - Profit = ₹100 - ₹25 = ₹75.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_4",
+              "question_text": "A toy is sold at a loss of ₹12. If the cost price was ₹48, what is the selling price?",
+              "options": [
+                "₹30",
+                "₹36",
+                "₹40",
+                "₹60"
+              ],
+              "correct_answer": "₹36",
+              "explanation": "Selling Price = Cost Price - Loss = ₹48 - ₹12 = ₹36.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_5",
+              "question_text": "If there is no profit and no loss, what can we say about the selling price?",
+              "options": [
+                "SP = CP",
+                "SP > CP",
+                "SP < CP",
+                "Cannot determine"
+              ],
+              "correct_answer": "SP = CP",
+              "explanation": "When there is no profit and no loss, the selling price equals the cost price.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_6",
+              "question_text": "What is the profit percentage if CP = ₹50 and SP = ₹60?",
+              "options": [
+                "10%",
+                "15%",
+                "20%",
+                "25%"
+              ],
+              "correct_answer": "20%",
+              "explanation": "Profit = ₹60 - ₹50 = ₹10. Profit % = (₹10/₹50) × 100 = 20%.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_7",
+              "question_text": "If loss is 20% and cost price is ₹100, what is the selling price?",
+              "options": [
+                "₹80",
+                "₹90",
+                "₹110",
+                "₹120"
+              ],
+              "correct_answer": "₹80",
+              "explanation": "Loss = 20% of ₹100 = ₹20. SP = CP - Loss = ₹100 - ₹20 = ₹80.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_8",
+              "question_text": "A shopkeeper sells 10 items at a profit of ₹5 each. What is the total profit?",
+              "options": [
+                "₹25",
+                "₹50",
+                "₹75",
+                "₹100"
+              ],
+              "correct_answer": "₹50",
+              "explanation": "Total profit = 10 × ₹5 = ₹50.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_9",
+              "question_text": "If selling price is ₹120 and profit percentage is 25%, what is the cost price?",
+              "options": [
+                "₹90",
+                "₹96",
+                "₹100",
+                "₹150"
+              ],
+              "correct_answer": "₹96",
+              "explanation": "SP = CP(1 + profit%). ₹120 = CP(1.25). CP = ₹120/1.25 = ₹96.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_3_2_10",
+              "question_text": "What happens if selling price equals cost price?",
+              "options": [
+                "Profit",
+                "Loss",
+                "No profit no loss",
+                "Cannot determine"
+              ],
+              "correct_answer": "No profit no loss",
+              "explanation": "When SP = CP, there is neither profit nor loss - it's a break-even situation.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Geometry",
+      "modules": [
+        {
+          "module_id": "6.4.1",
+          "topic_name": "Basic Elements of a Triangle",
+          "explanation": "Triangles are the strongest shapes in nature! A triangle has 3 sides, 3 angles, and 3 vertices (corners). The sum of all angles in any triangle is always 180°. Triangles are used in bridges, roofs, and even in nature (like mountain peaks). They're everywhere and provide stability in structures!",
+          "difficulty": "easy",
+          "total_timer_minutes": 6,
+          "questions": [
+            {
+              "question_id": "6_4_1_1",
+              "question_text": "How many sides does a triangle have?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "3",
+              "explanation": "A triangle has exactly 3 sides. The word 'tri' means three!",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_2",
+              "question_text": "What is the sum of angles in any triangle?",
+              "options": [
+                "90°",
+                "120°",
+                "180°",
+                "360°"
+              ],
+              "correct_answer": "180°",
+              "explanation": "The sum of all three angles in any triangle is always 180 degrees, no matter what type of triangle it is.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_3",
+              "question_text": "What are the corners of a triangle called?",
+              "options": [
+                "Edges",
+                "Vertices",
+                "Faces",
+                "Sides"
+              ],
+              "correct_answer": "Vertices",
+              "explanation": "The corners of a triangle are called vertices. A triangle has 3 vertices.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_4",
+              "question_text": "If two angles of a triangle are 60° and 70°, what is the third angle?",
+              "options": [
+                "40°",
+                "50°",
+                "60°",
+                "70°"
+              ],
+              "correct_answer": "50°",
+              "explanation": "Third angle = 180° - (60° + 70°) = 180° - 130° = 50°. The sum must be 180°.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_5",
+              "question_text": "Which of these is NOT a property of triangles?",
+              "options": [
+                "Has 3 sides",
+                "Sum of angles is 180°",
+                "Has 4 vertices",
+                "Has 3 angles"
+              ],
+              "correct_answer": "Has 4 vertices",
+              "explanation": "Triangles have 3 vertices, not 4. They have 3 sides, 3 angles, and 3 vertices.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_6",
+              "question_text": "How many angles does a triangle have?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "3",
+              "explanation": "A triangle has exactly 3 angles, one at each vertex.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_7",
+              "question_text": "If one angle of a triangle is 90°, what type of triangle is it?",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Equilateral"
+              ],
+              "correct_answer": "Right",
+              "explanation": "A triangle with one 90° angle is called a right triangle.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_8",
+              "question_text": "What is the perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm?",
+              "options": [
+                "12 cm",
+                "15 cm",
+                "20 cm",
+                "60 cm"
+              ],
+              "correct_answer": "12 cm",
+              "explanation": "Perimeter = sum of all sides = 3 + 4 + 5 = 12 cm.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_9",
+              "question_text": "If all angles of a triangle are equal, what is each angle?",
+              "options": [
+                "45°",
+                "60°",
+                "90°",
+                "120°"
+              ],
+              "correct_answer": "60°",
+              "explanation": "If all angles are equal, each angle = 180° ÷ 3 = 60°.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_4_1_10",
+              "question_text": "Which shape is made by connecting three non-collinear points?",
+              "options": [
+                "Line",
+                "Triangle",
+                "Square",
+                "Circle"
+              ],
+              "correct_answer": "Triangle",
+              "explanation": "Three non-collinear points (points not in a straight line) form a triangle when connected.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": "6.4.2",
+          "topic_name": "Types and Properties of Triangles",
+          "explanation": "Triangles come in different flavors! By sides: Equilateral (all sides equal), Isosceles (2 sides equal), Scalene (no sides equal). By angles: Acute (all angles < 90°), Right (one angle = 90°), Obtuse (one angle > 90°). Each type has special properties that make them unique and useful in different situations!",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_4_2_1",
+              "question_text": "In an equilateral triangle, what is the measure of each angle?",
+              "options": [
+                "45°",
+                "60°",
+                "90°",
+                "120°"
+              ],
+              "correct_answer": "60°",
+              "explanation": "In an equilateral triangle, all angles are equal. Since the sum is 180°, each angle = 180° ÷ 3 = 60°.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_2",
+              "question_text": "Which triangle has exactly two equal sides?",
+              "options": [
+                "Equilateral",
+                "Isosceles",
+                "Scalene",
+                "Right"
+              ],
+              "correct_answer": "Isosceles",
+              "explanation": "An isosceles triangle has exactly two equal sides and two equal angles.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_3",
+              "question_text": "What makes a triangle a right triangle?",
+              "options": [
+                "All angles are 90°",
+                "One angle is 90°",
+                "All sides are equal",
+                "No angles are 90°"
+              ],
+              "correct_answer": "One angle is 90°",
+              "explanation": "A right triangle has exactly one angle that measures 90 degrees (a right angle).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_4",
+              "question_text": "In a scalene triangle, what can we say about the sides and angles?",
+              "options": [
+                "All sides equal",
+                "Two sides equal",
+                "No sides equal",
+                "One side equal"
+              ],
+              "correct_answer": "No sides equal",
+              "explanation": "In a scalene triangle, all three sides have different lengths, and all three angles have different measures.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_5",
+              "question_text": "If a triangle has angles 30°, 60°, and 90°, what type is it?",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Equilateral"
+              ],
+              "correct_answer": "Right",
+              "explanation": "This is a right triangle because it has one 90° angle. It's also a scalene triangle since all angles are different.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_6",
+              "question_text": "Which triangle has all angles less than 90°?",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Right-angled"
+              ],
+              "correct_answer": "Acute",
+              "explanation": "An acute triangle has all three angles less than 90 degrees.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_7",
+              "question_text": "What type of triangle has sides 5 cm, 5 cm, and 8 cm?",
+              "options": [
+                "Equilateral",
+                "Isosceles",
+                "Scalene",
+                "Right"
+              ],
+              "correct_answer": "Isosceles",
+              "explanation": "This triangle has two equal sides (5 cm and 5 cm), so it's isosceles.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_8",
+              "question_text": "If a triangle has one angle greater than 90°, it is called:",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Equilateral"
+              ],
+              "correct_answer": "Obtuse",
+              "explanation": "An obtuse triangle has one angle greater than 90 degrees.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_9",
+              "question_text": "How many lines of symmetry does an equilateral triangle have?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "correct_answer": "3",
+              "explanation": "An equilateral triangle has 3 lines of symmetry, one from each vertex to the midpoint of the opposite side.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_4_2_10",
+              "question_text": "Which triangle has exactly one line of symmetry?",
+              "options": [
+                "Equilateral",
+                "Isosceles",
+                "Scalene",
+                "Right"
+              ],
+              "correct_answer": "Isosceles",
+              "explanation": "An isosceles triangle has exactly one line of symmetry that passes through the vertex angle and the midpoint of the base.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": "6.4.3",
+          "topic_name": "Construction of Perpendicular and Parallel Lines",
+          "explanation": "Geometric construction is like drawing with rules! Perpendicular lines meet at 90° (like the letter T). Parallel lines never meet (like railway tracks). We use compass and ruler to construct these perfectly. These constructions help in architecture, engineering, and art. Remember: perpendicular = right angle, parallel = same distance apart forever!",
+          "difficulty": "hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": "6_4_3_1",
+              "question_text": "What angle do perpendicular lines make when they intersect?",
+              "options": [
+                "45°",
+                "60°",
+                "90°",
+                "180°"
+              ],
+              "correct_answer": "90°",
+              "explanation": "Perpendicular lines always intersect at a right angle, which measures exactly 90 degrees.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_2",
+              "question_text": "Which statement is true about parallel lines?",
+              "options": [
+                "They intersect at one point",
+                "They never intersect",
+                "They intersect at many points",
+                "They are perpendicular"
+              ],
+              "correct_answer": "They never intersect",
+              "explanation": "Parallel lines are always the same distance apart and never intersect, no matter how far they extend.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_3",
+              "question_text": "What tool is essential for constructing perpendicular lines?",
+              "options": [
+                "Only ruler",
+                "Only compass",
+                "Compass and ruler",
+                "Only protractor"
+              ],
+              "correct_answer": "Compass and ruler",
+              "explanation": "Both compass and ruler are needed for precise geometric constructions of perpendicular lines.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_4",
+              "question_text": "If line A is perpendicular to line B, and line B is perpendicular to line C, what is the relationship between A and C?",
+              "options": [
+                "Perpendicular",
+                "Parallel",
+                "They intersect at 45°",
+                "Cannot determine"
+              ],
+              "correct_answer": "Parallel",
+              "explanation": "If A ⊥ B and B ⊥ C, then A ∥ C. Lines perpendicular to the same line are parallel to each other.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_5",
+              "question_text": "How many right angles are formed when two perpendicular lines intersect?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "4",
+              "explanation": "When two perpendicular lines intersect, they form 4 right angles (each 90°) around the intersection point.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_6",
+              "question_text": "Which of these tools can measure angles?",
+              "options": [
+                "Ruler",
+                "Compass",
+                "Protractor",
+                "Set square"
+              ],
+              "correct_answer": "Protractor",
+              "explanation": "A protractor is specifically designed to measure angles in degrees.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_7",
+              "question_text": "What is the first step in constructing a perpendicular line through a point?",
+              "options": [
+                "Draw a circle",
+                "Draw a straight line",
+                "Mark the point",
+                "Use a protractor"
+              ],
+              "correct_answer": "Mark the point",
+              "explanation": "The first step is always to mark the given point through which we need to draw the perpendicular line.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_8",
+              "question_text": "If two lines are parallel and one is perpendicular to a third line, what about the other line?",
+              "options": [
+                "Also perpendicular",
+                "Parallel to third",
+                "At 45°",
+                "Cannot determine"
+              ],
+              "correct_answer": "Also perpendicular",
+              "explanation": "If two lines are parallel and one is perpendicular to a third line, the other must also be perpendicular to that third line.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_9",
+              "question_text": "What geometric shape has all sides parallel to their opposite sides?",
+              "options": [
+                "Triangle",
+                "Square",
+                "Circle",
+                "Pentagon"
+              ],
+              "correct_answer": "Square",
+              "explanation": "In a square (and all parallelograms), opposite sides are parallel to each other.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": "6_4_3_10",
+              "question_text": "How many degrees are in a straight angle?",
+              "options": [
+                "90°",
+                "180°",
+                "270°",
+                "360°"
+              ],
+              "correct_answer": "180°",
+              "explanation": "A straight angle measures 180 degrees. It forms a straight line.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Algebra",
+      "modules": [
+        {
+          "module_id": "6.5.1",
+          "topic_name": "Introduction to Algebra",
+          "explanation": "Algebra is like a secret code where letters represent numbers! Variables (like x, y, a, b) stand for unknown values. We use expressions like 2x + 3 to describe relationships. Algebra helps us solve puzzles and real-world problems where exact numbers aren't known yet. It's like being a detective finding missing numbers using clues!",
+          "difficulty": "easy",
+          "total_timer_minutes": 6,
+          "questions": [
+            {
+              "question_id": "6_5_1_1",
+              "question_text": "In the expression 3x + 5, what is the variable?",
+              "options": [
+                "3",
+                "x",
+                "5",
+                "+"
+              ],
+              "correct_answer": "x",
+              "explanation": "x is the variable - it represents an unknown value that can change. 3 and 5 are constants.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_2",
+              "question_text": "If x = 4, what is the value of 2x + 1?",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+              ],
+              "correct_answer": "9",
+              "explanation": "2x + 1 = 2(4) + 1 = 8 + 1 = 9. Replace x with 4 and calculate.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_3",
+              "question_text": "Which of these is an algebraic expression?",
+              "options": [
+                "5 + 3 = 8",
+                "2x - 4",
+                "7 > 3",
+                "Square of 4"
+              ],
+              "correct_answer": "2x - 4",
+              "explanation": "2x - 4 is an algebraic expression because it contains a variable (x). The others are numerical statements or descriptions.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_4",
+              "question_text": "What does the expression 'a + b' represent?",
+              "options": [
+                "Two numbers added together",
+                "A multiplied by b",
+                "A divided by b",
+                "A minus b"
+              ],
+              "correct_answer": "Two numbers added together",
+              "explanation": "a + b represents the sum of two numbers, where a and b can be any values.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_5",
+              "question_text": "If y = 10, what is 3y?",
+              "options": [
+                "13",
+                "30",
+                "103",
+                "1000"
+              ],
+              "correct_answer": "30",
+              "explanation": "3y = 3 × y = 3 × 10 = 30. The expression means 3 times the value of y.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_6",
+              "question_text": "What is the value of 'a' in the expression 5a if the value is 25?",
+              "options": [
+                "5",
+                "10",
+                "20",
+                "25"
+              ],
+              "correct_answer": "5",
+              "explanation": "5a = 25, so a = 25 ÷ 5 = 5.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_7",
+              "question_text": "Which letter is commonly used as a variable?",
+              "options": [
+                "A, B, C",
+                "X, Y, Z",
+                "1, 2, 3",
+                "+, -, ×"
+              ],
+              "correct_answer": "X, Y, Z",
+              "explanation": "X, Y, Z are commonly used as variables in algebra to represent unknown values.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_8",
+              "question_text": "What is the coefficient in 7x?",
+              "options": [
+                "7",
+                "x",
+                "7x",
+                "1"
+              ],
+              "correct_answer": "7",
+              "explanation": "The coefficient is the number multiplied by the variable. In 7x, 7 is the coefficient.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_9",
+              "question_text": "If x = 2 and y = 3, what is x + y?",
+              "options": [
+                "5",
+                "6",
+                "23",
+                "32"
+              ],
+              "correct_answer": "5",
+              "explanation": "x + y = 2 + 3 = 5. Substitute the values and add.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_5_1_10",
+              "question_text": "What does 'evaluate' mean in algebra?",
+              "options": [
+                "Find the value",
+                "Make a guess",
+                "Draw a picture",
+                "Write a story"
+              ],
+              "correct_answer": "Find the value",
+              "explanation": "To evaluate an expression means to find its numerical value by substituting values for variables.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": "6.5.2",
+          "topic_name": "Tree Diagrams and Algebraic Expressions",
+          "explanation": "Tree diagrams are visual maps that show how algebraic expressions are built! They break down expressions into parts like branches on a tree. For 2x + 3, the tree shows addition at the top, with branches for 2x and 3. This helps understand the structure and order of operations in algebra. It's like seeing the skeleton of math expressions!",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_5_2_1",
+              "question_text": "In the expression 4x + 2y, what operation is at the top of the tree diagram?",
+              "options": [
+                "Multiplication",
+                "Addition",
+                "Subtraction",
+                "Division"
+              ],
+              "correct_answer": "Addition",
+              "explanation": "The main operation in 4x + 2y is addition, so it appears at the top of the tree diagram with branches for 4x and 2y.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_2",
+              "question_text": "What would be the branches for the expression 3(x + 2)?",
+              "options": [
+                "3 and (x + 2)",
+                "x and 2",
+                "3x and 6",
+                "3 and x and 2"
+              ],
+              "correct_answer": "3 and (x + 2)",
+              "explanation": "In 3(x + 2), multiplication is the main operation, so the tree has branches for 3 and (x + 2).",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_3",
+              "question_text": "If a tree diagram shows subtraction at the top with branches 5x and 3, what is the expression?",
+              "options": [
+                "5x + 3",
+                "5x - 3",
+                "3 - 5x",
+                "5x × 3"
+              ],
+              "correct_answer": "5x - 3",
+              "explanation": "Subtraction at the top with branches 5x and 3 represents the expression 5x - 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_4",
+              "question_text": "How many main branches does the expression a + b + c have in its tree diagram?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "2",
+              "explanation": "a + b + c has a tree with addition at the top and two main branches: one for 'a' and another for 'b + c'.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_5",
+              "question_text": "What does a tree diagram help us understand about algebraic expressions?",
+              "options": [
+                "Only the answer",
+                "The structure and order",
+                "Just the variables",
+                "Only the numbers"
+              ],
+              "correct_answer": "The structure and order",
+              "explanation": "Tree diagrams help visualize the structure of expressions and understand the order in which operations should be performed.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_6",
+              "question_text": "In the tree diagram for 2x - 4, what are the two main branches?",
+              "options": [
+                "2x and -4",
+                "2 and x",
+                "2 and 4",
+                "x and 4"
+              ],
+              "correct_answer": "2x and -4",
+              "explanation": "The expression 2x - 4 has two main branches: 2x and -4, connected by subtraction.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_7",
+              "question_text": "What operation connects the branches in a tree diagram for xy + z?",
+              "options": [
+                "Addition",
+                "Multiplication",
+                "Division",
+                "Subtraction"
+              ],
+              "correct_answer": "Addition",
+              "explanation": "In xy + z, addition is the main operation connecting the branches xy and z.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_8",
+              "question_text": "If a tree diagram has division at the top with branches 12 and 3, what expression does it represent?",
+              "options": [
+                "12 ÷ 3",
+                "12 + 3",
+                "12 - 3",
+                "12 × 3"
+              ],
+              "correct_answer": "12 ÷ 3",
+              "explanation": "Division at the top with branches 12 and 3 represents 12 ÷ 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_9",
+              "question_text": "How many levels does the tree diagram for (x + y) × z have?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct_answer": "2",
+              "explanation": "(x + y) × z has 2 levels: top level shows multiplication, second level shows x + y.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_5_2_10",
+              "question_text": "What is the benefit of using tree diagrams in algebra?",
+              "options": [
+                "They make calculations faster",
+                "They show the structure clearly",
+                "They are required in exams",
+                "They only work for simple expressions"
+              ],
+              "correct_answer": "They show the structure clearly",
+              "explanation": "Tree diagrams clearly show how expressions are built and the order of operations, making them easier to understand.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Statistics",
+      "modules": [
+        {
+          "module_id": "6.6.1",
+          "topic_name": "Data Collection and Organization",
+          "explanation": "Statistics is like being a data detective! We collect information (data), organize it in tables, and find patterns. Data can be numbers, measurements, or counts. Organizing data helps us understand it better and make smart decisions. It's used in sports, weather, business, and science to make sense of the world around us!",
+          "difficulty": "easy",
+          "total_timer_minutes": 6,
+          "questions": [
+            {
+              "question_id": "6_6_1_1",
+              "question_text": "What is the first step in statistical work?",
+              "options": [
+                "Drawing graphs",
+                "Collecting data",
+                "Calculating averages",
+                "Making conclusions"
+              ],
+              "correct_answer": "Collecting data",
+              "explanation": "The first step in statistics is collecting data. Without data, we can't do any analysis.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_2",
+              "question_text": "Which of these is an example of data?",
+              "options": [
+                "5 students",
+                "Height of students",
+                "Tall",
+                "Numbers are boring"
+              ],
+              "correct_answer": "Height of students",
+              "explanation": "Data is collected information. 'Height of students' represents measurable information we can collect and analyze.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_3",
+              "question_text": "Why do we organize data in tables?",
+              "options": [
+                "To make it confusing",
+                "To see patterns easily",
+                "To waste time",
+                "To make it look nice"
+              ],
+              "correct_answer": "To see patterns easily",
+              "explanation": "Organizing data in tables helps us see patterns, compare values, and understand the information better.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_4",
+              "question_text": "What is raw data?",
+              "options": [
+                "Cooked data",
+                "Unorganized collected information",
+                "Only numbers",
+                "Graphed information"
+              ],
+              "correct_answer": "Unorganized collected information",
+              "explanation": "Raw data is information that has been collected but not yet organized or processed.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_5",
+              "question_text": "Which field uses statistics the most?",
+              "options": [
+                "Only mathematics",
+                "Only science",
+                "Many fields",
+                "Only business"
+              ],
+              "correct_answer": "Many fields",
+              "explanation": "Statistics is used in many fields including sports, weather forecasting, business, medicine, and social sciences.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_6",
+              "question_text": "What do we call a collection of data?",
+              "options": [
+                "A story",
+                "A dataset",
+                "A game",
+                "A picture"
+              ],
+              "correct_answer": "A dataset",
+              "explanation": "A collection of related data is called a dataset.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_7",
+              "question_text": "Which of these is qualitative data?",
+              "options": [
+                "Height",
+                "Weight",
+                "Color",
+                "Age"
+              ],
+              "correct_answer": "Color",
+              "explanation": "Qualitative data describes qualities like color, while quantitative data involves numbers like height, weight, and age.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_8",
+              "question_text": "What is the purpose of data collection?",
+              "options": [
+                "To confuse people",
+                "To gather information for analysis",
+                "To waste paper",
+                "To make things complicated"
+              ],
+              "correct_answer": "To gather information for analysis",
+              "explanation": "Data collection helps gather information that can be analyzed to find patterns and make decisions.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_9",
+              "question_text": "Which is NOT a method of data collection?",
+              "options": [
+                "Survey",
+                "Observation",
+                "Measurement",
+                "Guessing"
+              ],
+              "correct_answer": "Guessing",
+              "explanation": "Survey, observation, and measurement are proper data collection methods. Guessing is not reliable for data collection.",
+              "timer_per_question_seconds": 30
+            },
+            {
+              "question_id": "6_6_1_10",
+              "question_text": "What do we call data that has been organized?",
+              "options": [
+                "Raw data",
+                "Organized data",
+                "Messy data",
+                "Wrong data"
+              ],
+              "correct_answer": "Organized data",
+              "explanation": "When data is arranged systematically in tables or charts, it's called organized data.",
+              "timer_per_question_seconds": 30
+            }
+          ]
+        },
+        {
+          "module_id": "6.6.2",
+          "topic_name": "Pictographs and Bar Graphs",
+          "explanation": "Graphs turn boring numbers into exciting pictures! Pictographs use icons or pictures to represent data (each picture = certain quantity). Bar graphs use bars of different heights to show comparisons. Both make it easy to see patterns and compare data at a glance. A picture is worth a thousand numbers, and a bar graph is worth a thousand calculations!",
+          "difficulty": "medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": "6_6_2_1",
+              "question_text": "In a pictograph, if each 🍎 represents 5 apples, how many apples do 3 🍎 represent?",
+              "options": [
+                "3 apples",
+                "5 apples",
+                "15 apples",
+                "8 apples"
+              ],
+              "correct_answer": "15 apples",
+              "explanation": "3 🍎 × 5 apples per 🍎 = 15 apples. Multiply the number of symbols by the value each represents.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_2",
+              "question_text": "What do bar graphs use to show data?",
+              "options": [
+                "Pictures",
+                "Bars of different heights",
+                "Numbers only",
+                "Colors"
+              ],
+              "correct_answer": "Bars of different heights",
+              "explanation": "Bar graphs use bars of different heights (or lengths) to represent and compare different quantities.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_3",
+              "question_text": "If a bar graph shows a bar reaching 8 on the scale, and each unit represents 10 students, how many students does it represent?",
+              "options": [
+                "8 students",
+                "10 students",
+                "18 students",
+                "80 students"
+              ],
+              "correct_answer": "80 students",
+              "explanation": "8 units × 10 students per unit = 80 students. Multiply the bar height by the scale value.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_4",
+              "question_text": "What is the advantage of pictographs over tables?",
+              "options": [
+                "More accurate",
+                "Visually appealing",
+                "Use less space",
+                "Faster to make"
+              ],
+              "correct_answer": "Visually appealing",
+              "explanation": "Pictographs are more visually appealing and easier to understand at a glance compared to tables of numbers.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_5",
+              "question_text": "When would you use a bar graph instead of a pictograph?",
+              "options": [
+                "For exact numbers",
+                "For visual appeal",
+                "For large quantities",
+                "For small children"
+              ],
+              "correct_answer": "For exact numbers",
+              "explanation": "Bar graphs are better for showing exact numerical values, while pictographs are better for visual appeal and general comparisons.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_6",
+              "question_text": "What should be included in a pictograph key?",
+              "options": [
+                "Only colors",
+                "What each symbol represents",
+                "Only numbers",
+                "The title only"
+              ],
+              "correct_answer": "What each symbol represents",
+              "explanation": "The key in a pictograph explains what each symbol or picture represents in terms of quantity.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_7",
+              "question_text": "If each 🌳 represents 10 trees and there are 7 🌳 in a pictograph, how many trees are there?",
+              "options": [
+                "17",
+                "70",
+                "7",
+                "100"
+              ],
+              "correct_answer": "70",
+              "explanation": "7 🌳 × 10 trees per 🌳 = 70 trees.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_8",
+              "question_text": "What do we call the numbers along the side of a bar graph?",
+              "options": [
+                "Labels",
+                "Scale",
+                "Title",
+                "Legend"
+              ],
+              "correct_answer": "Scale",
+              "explanation": "The numbers along the side of a bar graph form the scale, which helps read the values.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_9",
+              "question_text": "Which graph type is best for comparing quantities across categories?",
+              "options": [
+                "Pictograph",
+                "Bar graph",
+                "Both are equal",
+                "Neither works well"
+              ],
+              "correct_answer": "Bar graph",
+              "explanation": "Bar graphs are generally better for comparing exact quantities across different categories.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": "6_6_2_10",
+              "question_text": "What is the main disadvantage of pictographs?",
+              "options": [
+                "Not colorful",
+                "Hard to read exact values",
+                "Take too much space",
+                "Only work for small numbers"
+              ],
+              "correct_answer": "Hard to read exact values",
+              "explanation": "Pictographs can make it difficult to read exact values, especially when dealing with partial symbols.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
