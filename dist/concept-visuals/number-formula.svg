@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-label="Number formula visual model">
+  <rect width="720" height="260" rx="28" fill="#eef2ff"/>
+  <rect x="44" y="48" width="128" height="128" rx="24" fill="#4f46e5"/>
+  <rect x="212" y="48" width="128" height="128" rx="24" fill="#10b981"/>
+  <rect x="548" y="48" width="128" height="128" rx="24" fill="#f59e0b"/>
+  <text x="108" y="126" font-family="Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" fill="#fff">a</text>
+  <text x="276" y="126" font-family="Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" fill="#fff">b</text>
+  <text x="612" y="126" font-family="Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" fill="#fff">c</text>
+  <text x="191" y="126" font-family="Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" fill="#1e293b">+</text>
+  <text x="444" y="126" font-family="Arial, sans-serif" font-size="44" font-weight="800" text-anchor="middle" fill="#1e293b">=</text>
+  <text x="360" y="218" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#475569">Put values into the formula, solve one operation, then check the answer.</text>
+</svg>

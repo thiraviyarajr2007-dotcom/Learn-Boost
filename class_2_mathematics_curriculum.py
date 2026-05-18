@@ -1,0 +1,2209 @@
+# /// script
+# requires-python = ">=3.8"
+# ///
+
+import json
+
+def create_curriculum_structure():
+    """Create the complete curriculum structure for Class 2 Mathematics"""
+    
+    curriculum = {
+        "class": "2",
+        "subject": "Mathematics",
+        "board": "TN State Board",
+        "terms": [
+            {
+                "term_name": "Term 1",
+                "chapters": [
+                    {
+                        "chapter_name": "Geometry",
+                        "modules": [
+                            {
+                                "module_id": 1,
+                                "topic_name": "Introduction to 3D shapes",
+                                "explanation": "Imagine you're building with blocks! 3D shapes are objects you can touch from all sides - like a dice (cube), a box (cuboid), a can (cylinder), an ice cream cone (cone), and a ball (sphere). These shapes have length, width, and height, making them solid and real!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 8,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What shape is a dice?",
+                                        "options": ["Cube", "Sphere", "Cone", "Cylinder"],
+                                        "correct_answer": "Cube",
+                                        "rationale": "A dice has 6 equal square faces, just like a cube.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which shape rolls like a ball?",
+                                        "options": ["Cube", "Cuboid", "Sphere", "Cone"],
+                                        "correct_answer": "Sphere",
+                                        "rationale": "A sphere is round all over and rolls smoothly like a ball.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What shape is a cold drink can?",
+                                        "options": ["Cube", "Cylinder", "Cone", "Sphere"],
+                                        "correct_answer": "Cylinder",
+                                        "rationale": "A can has circular top and bottom with straight sides, making it a cylinder.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Which shape has a point at the top?",
+                                        "options": ["Cube", "Sphere", "Cone", "Cuboid"],
+                                        "correct_answer": "Cone",
+                                        "rationale": "A cone has a pointed top and circular base, like an ice cream cone.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What shape is a shoe box?",
+                                        "options": ["Sphere", "Cone", "Cylinder", "Cuboid"],
+                                        "correct_answer": "Cuboid",
+                                        "rationale": "A shoe box has 6 rectangular faces, making it a cuboid.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 2,
+                                "topic_name": "Identification of 2D shapes and 3D objects",
+                                "explanation": "When you press a 3D shape onto paper, you see its 2D shadow! A cube pressed down makes a square, a cylinder makes a circle, and a cone makes a triangle with a curved bottom. 2D shapes are flat like drawings, while 3D objects are solid like toys!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What 2D shape do you see when you press a cube on paper?",
+                                        "options": ["Circle", "Triangle", "Square", "Rectangle"],
+                                        "correct_answer": "Square",
+                                        "rationale": "The face of a cube is a square, so pressing it creates a square impression.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which 3D object creates a circle when pressed?",
+                                        "options": ["Cube", "Cylinder", "Cone", "Cuboid"],
+                                        "correct_answer": "Cylinder",
+                                        "rationale": "A cylinder has circular top and bottom faces.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "A dice is a 3D object. What is its 2D shape?",
+                                        "options": ["Circle", "Square", "Triangle", "Rectangle"],
+                                        "correct_answer": "Square",
+                                        "rationale": "Each face of a dice (cube) is a square.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What shape do you get from tracing a coin?",
+                                        "options": ["Square", "Triangle", "Circle", "Rectangle"],
+                                        "correct_answer": "Circle",
+                                        "rationale": "A coin is circular, so tracing it creates a circle.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "A book is 3D. What 2D shape is its cover?",
+                                        "options": ["Circle", "Square", "Triangle", "Rectangle"],
+                                        "correct_answer": "Rectangle",
+                                        "rationale": "Book covers are rectangular in shape.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "Which of these is a 2D shape?",
+                                        "options": ["Ball", "Box", "Circle", "Bottle"],
+                                        "correct_answer": "Circle",
+                                        "rationale": "Circle is flat (2D), while others are solid objects (3D).",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Numbers",
+                        "modules": [
+                            {
+                                "module_id": 3,
+                                "topic_name": "Predecessor, Successor and in between numbers",
+                                "explanation": "Numbers are like friends standing in a line! The number before is called 'predecessor', the number after is 'successor', and numbers between two friends are 'in between'. For example, in 2, 3, 4 - 2 is predecessor of 3, 4 is successor of 3, and 3 is between 2 and 4!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 8,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What comes before 25?",
+                                        "options": ["23", "24", "26", "27"],
+                                        "correct_answer": "24",
+                                        "rationale": "The predecessor of 25 is 24 (one less than 25).",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What comes after 48?",
+                                        "options": ["46", "47", "49", "50"],
+                                        "correct_answer": "49",
+                                        "rationale": "The successor of 48 is 49 (one more than 48).",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "Which number is between 12 and 14?",
+                                        "options": ["11", "12", "13", "15"],
+                                        "correct_answer": "13",
+                                        "rationale": "13 comes after 12 and before 14.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is the predecessor of 50?",
+                                        "options": ["48", "49", "51", "52"],
+                                        "correct_answer": "49",
+                                        "rationale": "49 comes just before 50.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the successor of 99?",
+                                        "options": ["98", "99", "100", "101"],
+                                        "correct_answer": "100",
+                                        "rationale": "100 comes just after 99.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "Which number is between 35 and 37?",
+                                        "options": ["34", "35", "36", "38"],
+                                        "correct_answer": "36",
+                                        "rationale": "36 comes after 35 and before 37.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 4,
+                                "topic_name": "Grouping",
+                                "explanation": "Grouping is like organizing your toys! When you have many small things, you can put them together in groups. Just like 10 pencils make one group, 20 pencils make two groups. This helps us count faster and keep things organized!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 7,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many groups of 10 are there in 30?",
+                                        "options": ["1", "2", "3", "4"],
+                                        "correct_answer": "3",
+                                        "rationale": "30 ÷ 10 = 3 groups.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If you have 25 pencils, how many groups of 5 can you make?",
+                                        "options": ["3", "4", "5", "6"],
+                                        "correct_answer": "5",
+                                        "rationale": "25 ÷ 5 = 5 groups.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "How many items are in 4 groups of 10?",
+                                        "options": ["20", "30", "40", "50"],
+                                        "correct_answer": "40",
+                                        "rationale": "4 × 10 = 40 items.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "If you group 18 apples in groups of 3, how many groups?",
+                                        "options": ["5", "6", "7", "8"],
+                                        "correct_answer": "6",
+                                        "rationale": "18 ÷ 3 = 6 groups.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 3 groups of 4?",
+                                        "options": ["7", "10", "12", "15"],
+                                        "correct_answer": "12",
+                                        "rationale": "3 × 4 = 12.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 5,
+                                "topic_name": "Place value",
+                                "explanation": "Every digit has a special home! In the number 32, the 3 lives in the 'tens' house (worth 30) and the 2 lives in the 'ones' house (worth 2). Together they make 32! The place tells us how much the digit is worth.",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "In the number 45, what is the value of 4?",
+                                        "options": ["4", "40", "400", "5"],
+                                        "correct_answer": "40",
+                                        "rationale": "4 is in the tens place, so it's worth 4 × 10 = 40.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What digit is in the ones place in 67?",
+                                        "options": ["6", "7", "60", "70"],
+                                        "correct_answer": "7",
+                                        "rationale": "The ones place is the rightmost digit, which is 7.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is the value of 8 in 82?",
+                                        "options": ["8", "80", "2", "20"],
+                                        "correct_answer": "80",
+                                        "rationale": "8 is in the tens place, so it's worth 8 × 10 = 80.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Which number has 3 in the tens place?",
+                                        "options": ["13", "23", "31", "35"],
+                                        "correct_answer": "35",
+                                        "rationale": "In 35, the 3 is in the tens place.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 50 + 3?",
+                                        "options": ["35", "53", "83", "503"],
+                                        "correct_answer": "53",
+                                        "rationale": "50 (5 tens) + 3 (3 ones) = 53.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "In 29, what digit is in the tens place?",
+                                        "options": ["2", "9", "20", "90"],
+                                        "correct_answer": "2",
+                                        "rationale": "The tens place is the leftmost digit in a two-digit number.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is the value of 1 in 14?",
+                                        "options": ["1", "10", "4", "14"],
+                                        "correct_answer": "10",
+                                        "rationale": "1 is in the tens place, so it's worth 1 × 10 = 10.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 6,
+                                "topic_name": "Comparing Numbers",
+                                "explanation": "Comparing numbers is like seeing who is taller! We use > (greater than) for bigger numbers, < (less than) for smaller numbers, and = (equal) when they're the same. Remember: the alligator mouth always eats the bigger number!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "Which is bigger: 45 or 54?",
+                                        "options": ["45", "54", "They are equal", "Cannot say"],
+                                        "correct_answer": "54",
+                                        "rationale": "54 is greater than 45 because 5 > 4 in the tens place.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What symbol goes between 23 and 32?",
+                                        "options": ["<", ">", "=", "+"],
+                                        "correct_answer": "<",
+                                        "rationale": "23 is less than 32, so we use <.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "Which number is smallest: 67, 76, 57?",
+                                        "options": ["67", "76", "57", "All are equal"],
+                                        "correct_answer": "57",
+                                        "rationale": "57 has the smallest tens digit (5).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 45 compared to 45?",
+                                        "options": ["45 > 45", "45 < 45", "45 = 45", "45 ≠ 45"],
+                                        "correct_answer": "45 = 45",
+                                        "rationale": "The same numbers are equal to each other.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Which is correct: 78 > 87?",
+                                        "options": ["True", "False", "Sometimes", "Cannot say"],
+                                        "correct_answer": "False",
+                                        "rationale": "78 is less than 87, so 78 > 87 is false.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "Arrange from smallest to largest: 23, 32, 13",
+                                        "options": ["13, 23, 32", "32, 23, 13", "23, 32, 13", "13, 32, 23"],
+                                        "correct_answer": "13, 23, 32",
+                                        "rationale": "13 is smallest, then 23, then 32 is largest.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What comes between 45 and 47?",
+                                        "options": ["44", "46", "48", "49"],
+                                        "correct_answer": "46",
+                                        "rationale": "46 is the number that comes after 45 and before 47.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 7,
+                                "topic_name": "Number Names",
+                                "explanation": "Every number has a name! Just like you have a name, numbers do too. 12 is called 'twelve', 25 is 'twenty-five', and 99 is 'ninety-nine'. Learning number names helps us read and say numbers correctly!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 8,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How do you write 15 in words?",
+                                        "options": ["Fifteen", "Fifty", "Five", "Fiveteen"],
+                                        "correct_answer": "Fifteen",
+                                        "rationale": "15 is written as 'fifteen'.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What number is 'twenty-three'?",
+                                        "options": ["23", "32", "203", "230"],
+                                        "correct_answer": "23",
+                                        "rationale": "Twenty-three means 20 + 3 = 23.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "How do you write 40 in words?",
+                                        "options": ["Fourty", "Forty", "Four", "Fourteen"],
+                                        "correct_answer": "Forty",
+                                        "rationale": "40 is written as 'forty'.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What number is 'sixty-seven'?",
+                                        "options": ["67", "76", "607", "670"],
+                                        "correct_answer": "67",
+                                        "rationale": "Sixty-seven means 60 + 7 = 67.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "How do you write 81 in words?",
+                                        "options": ["Eighty-one", "Eighteen", "Eighty", "One-eighty"],
+                                        "correct_answer": "Eighty-one",
+                                        "rationale": "81 is written as 'eighty-one'.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What number is 'ninety-nine'?",
+                                        "options": ["99", "199", "909", "990"],
+                                        "correct_answer": "99",
+                                        "rationale": "Ninety-nine means 90 + 9 = 99.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 8,
+                                "topic_name": "Addition",
+                                "explanation": "Addition is like putting things together! When you have 3 apples and get 2 more, you have 5 apples total. We use + to show we're adding. The answer is called the 'sum'. Addition helps us count how many things we have altogether!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 7 + 5?",
+                                        "options": ["11", "12", "13", "14"],
+                                        "correct_answer": "12",
+                                        "rationale": "7 + 5 = 12.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 15 + 8?",
+                                        "options": ["22", "23", "24", "25"],
+                                        "correct_answer": "23",
+                                        "rationale": "15 + 8 = 23.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "If you have 25 rupees and get 10 more, how much do you have?",
+                                        "options": ["15", "25", "35", "45"],
+                                        "correct_answer": "35",
+                                        "rationale": "25 + 10 = 35 rupees.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 32 + 17?",
+                                        "options": ["48", "49", "50", "51"],
+                                        "correct_answer": "49",
+                                        "rationale": "32 + 17 = 49.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 45 + 0?",
+                                        "options": ["0", "45", "50", "55"],
+                                        "correct_answer": "45",
+                                        "rationale": "Adding 0 doesn't change the number: 45 + 0 = 45.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 18 + 18?",
+                                        "options": ["34", "35", "36", "37"],
+                                        "correct_answer": "36",
+                                        "rationale": "18 + 18 = 36.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "If 12 + 15 = 27, then 15 + 12 = ?",
+                                        "options": ["27", "37", "47", "57"],
+                                        "correct_answer": "27",
+                                        "rationale": "Addition is commutative: 12 + 15 = 15 + 12 = 27.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 23 + 34?",
+                                        "options": ["56", "57", "58", "59"],
+                                        "correct_answer": "57",
+                                        "rationale": "23 + 34 = 57.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 9,
+                                "topic_name": "Subtraction",
+                                "explanation": "Subtraction is taking away! If you have 10 cookies and eat 3, you have 7 left. We use - to show we're subtracting. The answer is called the 'difference'. Subtraction helps us find out how many things remain after some are taken away!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 15 - 7?",
+                                        "options": ["6", "7", "8", "9"],
+                                        "correct_answer": "8",
+                                        "rationale": "15 - 7 = 8.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If you have 20 rupees and spend 8, how much is left?",
+                                        "options": ["10", "11", "12", "13"],
+                                        "correct_answer": "12",
+                                        "rationale": "20 - 8 = 12 rupees.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 32 - 15?",
+                                        "options": ["15", "16", "17", "18"],
+                                        "correct_answer": "17",
+                                        "rationale": "32 - 15 = 17.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 25 - 0?",
+                                        "options": ["0", "20", "25", "30"],
+                                        "correct_answer": "25",
+                                        "rationale": "Subtracting 0 doesn't change the number: 25 - 0 = 25.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 40 - 12?",
+                                        "options": ["26", "27", "28", "29"],
+                                        "correct_answer": "28",
+                                        "rationale": "40 - 12 = 28.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "If 18 - 9 = 9, then 18 - 9 = ?",
+                                        "options": ["7", "8", "9", "10"],
+                                        "correct_answer": "9",
+                                        "rationale": "18 - 9 = 9.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 50 - 25?",
+                                        "options": ["15", "20", "25", "30"],
+                                        "correct_answer": "25",
+                                        "rationale": "50 - 25 = 25.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 33 - 17?",
+                                        "options": ["14", "15", "16", "17"],
+                                        "correct_answer": "16",
+                                        "rationale": "33 - 17 = 16.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Patterns",
+                        "modules": [
+                            {
+                                "module_id": 10,
+                                "topic_name": "Patterns in Sound",
+                                "explanation": "Sound patterns are like music rhythms! Clap-clap-stomp, clap-clap-stomp creates a pattern. You can make patterns with any sounds: bell-ring-bell-ring, or tap-tap-clap-tap-clap. Patterns repeat in a special order that you can predict!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 7,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What comes next: clap, clap, stomp, clap, clap, ?",
+                                        "options": ["clap", "stomp", "jump", "sit"],
+                                        "correct_answer": "stomp",
+                                        "rationale": "The pattern is clap, clap, stomp, so stomp comes next.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which is a sound pattern?",
+                                        "options": ["bell, bell, ring", "bell, ring, bell", "bell, ring, ring", "ring, bell, bell"],
+                                        "correct_answer": "bell, ring, bell",
+                                        "rationale": "bell, ring, bell repeats the bell-ring pattern.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What comes next: ding, dong, ding, dong, ?",
+                                        "options": ["ding", "dong", "bell", "ring"],
+                                        "correct_answer": "ding",
+                                        "rationale": "The pattern is ding, dong, so ding comes next.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "How many sounds are in this pattern: tap, tap, clap?",
+                                        "options": ["2", "3", "4", "5"],
+                                        "correct_answer": "3",
+                                        "rationale": "There are 3 sounds: tap, tap, and clap.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What pattern is this: snap, snap, snap, snap?",
+                                        "options": ["Repeating", "Growing", "Shrinking", "No pattern"],
+                                        "correct_answer": "Repeating",
+                                        "rationale": "The same sound (snap) repeats four times.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 11,
+                                "topic_name": "Patterns in body movements and sound",
+                                "explanation": "Your body can make patterns! Jump-jump-clap, jump-jump-clap combines movements with sounds. You can create patterns by marching, clapping, stomping, or dancing. Patterns help us remember sequences and make activities fun!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 9,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What comes next: jump, clap, jump, clap, ?",
+                                        "options": ["jump", "clap", "sit", "run"],
+                                        "correct_answer": "jump",
+                                        "rationale": "The pattern is jump, clap, so jump comes next.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which is a body movement pattern?",
+                                        "options": ["run, walk, run", "run, walk, sit", "run, sit, walk", "sit, walk, run"],
+                                        "correct_answer": "run, walk, run",
+                                        "rationale": "run, walk, run repeats the run-walk pattern.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What comes next: hop, hop, step, hop, hop, ?",
+                                        "options": ["hop", "step", "jump", "run"],
+                                        "correct_answer": "step",
+                                        "rationale": "The pattern is hop, hop, step, so step comes next.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "How many movements in: march, march, turn?",
+                                        "options": ["2", "3", "4", "5"],
+                                        "correct_answer": "3",
+                                        "rationale": "There are 3 movements: march, march, and turn.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What pattern combines sound and movement?",
+                                        "options": ["clap, jump, clap, jump", "clap, clap, jump, jump", "jump, jump, clap, clap", "jump, clap, jump, clap"],
+                                        "correct_answer": "clap, jump, clap, jump",
+                                        "rationale": "This pattern repeats clap-jump with both sound and movement.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What comes after: stomp, clap, stomp, clap, stomp?",
+                                        "options": ["stomp", "clap", "jump", "sit"],
+                                        "correct_answer": "clap",
+                                        "rationale": "The pattern is stomp, clap, so clap comes after stomp.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 12,
+                                "topic_name": "Patterns in colours",
+                                "explanation": "Color patterns are like rainbows! Red-blue-red-blue creates a pattern. You can make patterns with any colors: green-yellow-green-yellow, or red-red-blue-red-red-blue. Color patterns help us create beautiful designs and learn about sequences!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 7,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What comes next: red, blue, red, blue, ?",
+                                        "options": ["red", "blue", "green", "yellow"],
+                                        "correct_answer": "red",
+                                        "rationale": "The pattern is red, blue, so red comes next.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which is a color pattern?",
+                                        "options": ["red, red, blue", "red, blue, green", "red, blue, red", "blue, green, red"],
+                                        "correct_answer": "red, blue, red",
+                                        "rationale": "red, blue, red repeats the red-blue pattern.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What comes next: yellow, yellow, green, yellow, yellow, ?",
+                                        "options": ["yellow", "green", "red", "blue"],
+                                        "correct_answer": "green",
+                                        "rationale": "The pattern is yellow, yellow, green, so green comes next.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "How many colors in: red, blue, green?",
+                                        "options": ["2", "3", "4", "5"],
+                                        "correct_answer": "3",
+                                        "rationale": "There are 3 colors: red, blue, and green.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What pattern is this: orange, orange, orange, orange?",
+                                        "options": ["Repeating", "Growing", "Shrinking", "No pattern"],
+                                        "correct_answer": "Repeating",
+                                        "rationale": "The same color (orange) repeats four times.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Measurement",
+                        "modules": [
+                            {
+                                "module_id": 13,
+                                "topic_name": "Measuring length using uniform non-standard tools",
+                                "explanation": "Before rulers, people used hands, feet, or sticks to measure! You can measure your desk using handspans or pencils. These are 'non-standard' tools because they're not official rulers, but if you use the same tool each time, your measurements will be consistent!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "Which is a non-standard measuring tool?",
+                                        "options": ["Ruler", "Handspan", "Measuring tape", "Scale"],
+                                        "correct_answer": "Handspan",
+                                        "rationale": "Handspan is non-standard because it varies from person to person.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If a book is 3 pencils long, how many pencils is 2 books?",
+                                        "options": ["3 pencils", "5 pencils", "6 pencils", "9 pencils"],
+                                        "correct_answer": "6 pencils",
+                                        "rationale": "2 books × 3 pencils each = 6 pencils.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What should you use for consistent measurement?",
+                                        "options": ["Different tools", "Same tool", "Your eyes", "Your hands"],
+                                        "correct_answer": "Same tool",
+                                        "rationale": "Using the same tool ensures consistent measurements.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "If a table is 5 handspans long, how many handspans for half the table?",
+                                        "options": ["2 handspans", "2.5 handspans", "3 handspans", "4 handspans"],
+                                        "correct_answer": "2.5 handspans",
+                                        "rationale": "Half of 5 handspans is 2.5 handspans.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Which measurement is more reliable?",
+                                        "options": ["Using different pencils", "Using same pencil", "Using your foot", "Using your finger"],
+                                        "correct_answer": "Using same pencil",
+                                        "rationale": "Using the same pencil gives consistent results.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "If a rope is 10 sticks long and you cut it in half, how long is each piece?",
+                                        "options": ["3 sticks", "4 sticks", "5 sticks", "6 sticks"],
+                                        "correct_answer": "5 sticks",
+                                        "rationale": "Half of 10 sticks is 5 sticks.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 14,
+                                "topic_name": "Standard units of measuring length",
+                                "explanation": "Standard units are like a common language for measurement! Centimeters (cm) and meters (m) are used everywhere. A ruler shows centimeters, and a meter stick shows meters. When everyone uses the same units, we can understand each other's measurements!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What unit is used on a school ruler?",
+                                        "options": ["Meters", "Kilometers", "Centimeters", "Inches"],
+                                        "correct_answer": "Centimeters",
+                                        "rationale": "School rulers typically show centimeters.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "How many centimeters make 1 meter?",
+                                        "options": ["10", "50", "100", "1000"],
+                                        "correct_answer": "100",
+                                        "rationale": "100 centimeters = 1 meter.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "Which is longer: 50 cm or 1 meter?",
+                                        "options": ["50 cm", "1 meter", "They are equal", "Cannot say"],
+                                        "correct_answer": "1 meter",
+                                        "rationale": "1 meter = 100 cm, which is longer than 50 cm.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What would you use to measure a classroom?",
+                                        "options": ["Centimeters", "Meters", "Kilometers", "Millimeters"],
+                                        "correct_answer": "Meters",
+                                        "rationale": "Classrooms are large, so meters are appropriate.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What would you use to measure a pencil?",
+                                        "options": ["Kilometers", "Meters", "Centimeters", "Miles"],
+                                        "correct_answer": "Centimeters",
+                                        "rationale": "Pencils are small, so centimeters are appropriate.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "If a book is 20 cm long, how many meters is that?",
+                                        "options": ["0.2 meters", "2 meters", "20 meters", "200 meters"],
+                                        "correct_answer": "0.2 meters",
+                                        "rationale": "20 cm ÷ 100 = 0.2 meters.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Time",
+                        "modules": [
+                            {
+                                "module_id": 15,
+                                "topic_name": "Days of the week",
+                                "explanation": "There are 7 days in a week, like 7 friends in a line! Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. After Sunday comes Monday again - it's a cycle that repeats every week! Each day has its own special feeling and activities.",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 7,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many days are in a week?",
+                                        "options": ["5", "6", "7", "8"],
+                                        "correct_answer": "7",
+                                        "rationale": "There are 7 days in a week.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What day comes after Tuesday?",
+                                        "options": ["Monday", "Wednesday", "Thursday", "Friday"],
+                                        "correct_answer": "Wednesday",
+                                        "rationale": "Wednesday comes after Tuesday.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What day comes before Saturday?",
+                                        "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+                                        "correct_answer": "Friday",
+                                        "rationale": "Friday comes before Saturday.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Which day is between Wednesday and Friday?",
+                                        "options": ["Tuesday", "Wednesday", "Thursday", "Saturday"],
+                                        "correct_answer": "Thursday",
+                                        "rationale": "Thursday comes between Wednesday and Friday.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the first day of the week?",
+                                        "options": ["Sunday", "Monday", "Saturday", "Friday"],
+                                        "correct_answer": "Monday",
+                                        "rationale": "Monday is typically considered the first day of the week.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 16,
+                                "topic_name": "Months of the year",
+                                "explanation": "A year has 12 months, like 12 chapters in a book! January, February, March, April, May, June, July, August, September, October, November, December. Each month has different weather and special celebrations. After December comes January again!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many months are in a year?",
+                                        "options": ["10", "11", "12", "13"],
+                                        "correct_answer": "12",
+                                        "rationale": "There are 12 months in a year.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What month comes after March?",
+                                        "options": ["February", "April", "May", "June"],
+                                        "correct_answer": "April",
+                                        "rationale": "April comes after March.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What month comes before August?",
+                                        "options": ["June", "July", "August", "September"],
+                                        "correct_answer": "July",
+                                        "rationale": "July comes before August.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Which month is between June and August?",
+                                        "options": ["May", "June", "July", "September"],
+                                        "correct_answer": "July",
+                                        "rationale": "July comes between June and August.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the last month of the year?",
+                                        "options": ["November", "December", "January", "October"],
+                                        "correct_answer": "December",
+                                        "rationale": "December is the 12th and last month of the year.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What month has the fewest days?",
+                                        "options": ["January", "February", "March", "April"],
+                                        "correct_answer": "February",
+                                        "rationale": "February has 28 or 29 days, fewer than other months.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 17,
+                                "topic_name": "Seasons",
+                                "explanation": "Seasons are nature's changing clothes! In Tamil Nadu, we experience different seasons throughout the year. Summer is hot, monsoon brings rain, and winter is cooler. Each season affects what we wear, what we eat, and what activities we do!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 7,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "Which season is usually hottest?",
+                                        "options": ["Winter", "Summer", "Monsoon", "Spring"],
+                                        "correct_answer": "Summer",
+                                        "rationale": "Summer is the hottest season of the year.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which season brings the most rain?",
+                                        "options": ["Summer", "Winter", "Monsoon", "Spring"],
+                                        "correct_answer": "Monsoon",
+                                        "rationale": "Monsoon season brings heavy rainfall.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What do we usually wear in summer?",
+                                        "options": ["Warm clothes", "Light clothes", "Raincoat", "Heavy jacket"],
+                                        "correct_answer": "Light clothes",
+                                        "rationale": "We wear light clothes in summer to stay cool.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Which season is best for flying kites?",
+                                        "options": ["Rainy season", "Summer", "Winter", "Monsoon"],
+                                        "correct_answer": "Winter",
+                                        "rationale": "Winter has good wind for flying kites.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "How many main seasons are there?",
+                                        "options": ["2", "3", "4", "5"],
+                                        "correct_answer": "3",
+                                        "rationale": "There are 3 main seasons: summer, monsoon, and winter.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Information Processing",
+                        "modules": [
+                            {
+                                "module_id": 18,
+                                "topic_name": "Systematic listing",
+                                "explanation": "Systematic listing is like making an organized shopping list! Instead of writing things randomly, we list them in order - maybe by category or alphabetically. This helps us find things easily and make sure we don't forget anything important!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 9,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is systematic listing?",
+                                        "options": ["Random listing", "Organized listing", "No listing", "Quick listing"],
+                                        "correct_answer": "Organized listing",
+                                        "rationale": "Systematic listing means organizing items in a proper order.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "Which is better organized: apple, banana, cherry OR banana, apple, cherry?",
+                                        "options": ["First one", "Second one", "Both are same", "Neither is good"],
+                                        "correct_answer": "First one",
+                                        "rationale": "apple, banana, cherry is in alphabetical order.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "How would you list fruits systematically?",
+                                        "options": ["Random order", "Alphabetical order", "Mixed order", "No order"],
+                                        "correct_answer": "Alphabetical order",
+                                        "rationale": "Alphabetical order is a systematic way to list items.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What comes next in systematic listing: cat, dog, ?",
+                                        "options": ["elephant", "bird", "ant", "zebra"],
+                                        "correct_answer": "elephant",
+                                        "rationale": "In alphabetical order: cat, dog, elephant.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Why do we use systematic listing?",
+                                        "options": ["To be messy", "To be organized", "To waste time", "To confuse"],
+                                        "correct_answer": "To be organized",
+                                        "rationale": "Systematic listing helps us stay organized.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "Which is systematic: 1, 3, 2, 4 OR 1, 2, 3, 4?",
+                                        "options": ["First one", "Second one", "Both are same", "Neither"],
+                                        "correct_answer": "Second one",
+                                        "rationale": "1, 2, 3, 4 is in numerical order.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 19,
+                                "topic_name": "Selection",
+                                "explanation": "Selection is like choosing your favorite toys! When you have many options, you need to pick the best one based on what you need. You might select the red crayon for drawing apples, or the biggest cookie when you're hungry. Selection helps us make good choices!",
+                                "difficulty": "Easy",
+                                "total_timer_minutes": 7,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is selection?",
+                                        "options": ["Choosing something", "Ignoring everything", "Making things", "Breaking things"],
+                                        "correct_answer": "Choosing something",
+                                        "rationale": "Selection means choosing or picking something.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If you need to draw the sky, what color would you select?",
+                                        "options": ["Red", "Blue", "Green", "Black"],
+                                        "correct_answer": "Blue",
+                                        "rationale": "Blue is the color of the sky.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What would you select to write on a board?",
+                                        "options": ["Pencil", "Pen", "Chalk", "Crayon"],
+                                        "correct_answer": "Chalk",
+                                        "rationale": "Chalk is used to write on blackboards.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "When you're thirsty, what would you select?",
+                                        "options": ["Food", "Water", "Book", "Toy"],
+                                        "correct_answer": "Water",
+                                        "rationale": "Water quenches thirst.",
+                                        "timer_per_question_seconds": 30
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Why do we need to select things carefully?",
+                                        "options": ["To waste time", "To make good choices", "To confuse ourselves", "To make mistakes"],
+                                        "correct_answer": "To make good choices",
+                                        "rationale": "Careful selection helps us make the right choices.",
+                                        "timer_per_question_seconds": 30
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 20,
+                                "topic_name": "Collection of data",
+                                "explanation": "Collecting data is like being a detective! You gather information to learn something. Counting how many students like cricket, or recording the weather each day - that's collecting data. Data helps us understand things better and make smart decisions!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 9,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is collecting data?",
+                                        "options": ["Playing games", "Gathering information", "Eating food", "Sleeping"],
+                                        "correct_answer": "Gathering information",
+                                        "rationale": "Data collection means gathering information or facts.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If you count how many boys and girls are in class, what are you doing?",
+                                        "options": ["Playing", "Collecting data", "Drawing", "Singing"],
+                                        "correct_answer": "Collecting data",
+                                        "rationale": "Counting students is collecting data about the class.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What data would you collect to know favorite fruits?",
+                                        "options": ["Student names", "Fruit preferences", "Ages", "Heights"],
+                                        "correct_answer": "Fruit preferences",
+                                        "rationale": "You need to collect data about which fruits students like.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "How can you record data about daily weather?",
+                                        "options": ["Write it down", "Remember it", "Ignore it", "Forget it"],
+                                        "correct_answer": "Write it down",
+                                        "rationale": "Writing helps keep accurate data records.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Why do we collect data?",
+                                        "options": ["To waste time", "To learn things", "To confuse people", "To make mistakes"],
+                                        "correct_answer": "To learn things",
+                                        "rationale": "Data helps us understand and learn about things.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is counting students' attendance?",
+                                        "options": ["Playing", "Data collection", "Art", "Music"],
+                                        "correct_answer": "Data collection",
+                                        "rationale": "Attendance records are data about who comes to school.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "term_name": "Term 2",
+                "chapters": [
+                    {
+                        "chapter_name": "Numbers",
+                        "modules": [
+                            {
+                                "module_id": 21,
+                                "topic_name": "Numbers up to 999",
+                                "explanation": "Now we're exploring bigger numbers! Numbers up to 999 have three places: hundreds, tens, and ones. In 456, 4 is hundreds (400), 5 is tens (50), and 6 is ones (6). These bigger numbers help us count more things!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is the value of 5 in 567?",
+                                        "options": ["5", "50", "500", "567"],
+                                        "correct_answer": "500",
+                                        "rationale": "5 is in the hundreds place, so it's worth 5 × 100 = 500.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What digit is in the tens place in 789?",
+                                        "options": ["7", "8", "9", "78"],
+                                        "correct_answer": "8",
+                                        "rationale": "The tens place is the middle digit in a three-digit number.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 300 + 40 + 7?",
+                                        "options": ["347", "374", "743", "473"],
+                                        "correct_answer": "347",
+                                        "rationale": "300 + 40 + 7 = 347.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Which number has 6 in the ones place?",
+                                        "options": ["123", "234", "345", "456"],
+                                        "correct_answer": "456",
+                                        "rationale": "In 456, the rightmost digit (ones place) is 6.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is the value of 9 in 912?",
+                                        "options": ["9", "90", "900", "912"],
+                                        "correct_answer": "900",
+                                        "rationale": "9 is in the hundreds place, so it's worth 9 × 100 = 900.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What comes after 899?",
+                                        "options": ["898", "900", "901", "999"],
+                                        "correct_answer": "900",
+                                        "rationale": "The successor of 899 is 900.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 456 + 100?",
+                                        "options": ["556", "457", "356", "656"],
+                                        "correct_answer": "556",
+                                        "rationale": "456 + 100 = 556.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "Which is biggest: 234, 432, 342?",
+                                        "options": ["234", "432", "342", "All equal"],
+                                        "correct_answer": "432",
+                                        "rationale": "432 has the largest hundreds digit (4).",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Addition",
+                        "modules": [
+                            {
+                                "module_id": 22,
+                                "topic_name": "Addition without carrying",
+                                "explanation": "Adding without carrying is like simple stacking! When you add 23 + 15, you add the ones (3 + 5 = 8) and tens (2 + 1 = 3) separately. No column needs more than 9, so you don't need to carry over to the next column!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 23 + 15?",
+                                        "options": ["36", "37", "38", "39"],
+                                        "correct_answer": "38",
+                                        "rationale": "23 + 15 = 38 (3+5=8 ones, 2+1=3 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 45 + 32?",
+                                        "options": ["67", "77", "78", "79"],
+                                        "correct_answer": "77",
+                                        "rationale": "45 + 32 = 77 (5+2=7 ones, 4+3=7 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 67 + 12?",
+                                        "options": ["79", "89", "69", "71"],
+                                        "correct_answer": "79",
+                                        "rationale": "67 + 12 = 79 (7+2=9 ones, 6+1=7 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 34 + 25?",
+                                        "options": ["57", "58", "59", "69"],
+                                        "correct_answer": "59",
+                                        "rationale": "34 + 25 = 59 (4+5=9 ones, 3+2=5 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 56 + 23?",
+                                        "options": ["78", "79", "89", "69"],
+                                        "correct_answer": "79",
+                                        "rationale": "56 + 23 = 79 (6+3=9 ones, 5+2=7 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 72 + 16?",
+                                        "options": ["78", "88", "86", "96"],
+                                        "correct_answer": "88",
+                                        "rationale": "72 + 16 = 88 (2+6=8 ones, 7+1=8 tens).",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 23,
+                                "topic_name": "Addition with carrying",
+                                "explanation": "Carrying is like when your ones column gets too full! When you add 27 + 35, the ones column (7 + 5 = 12) is more than 9, so you 'carry' the 1 to the tens column. Now you have 2 ones and add the carried 1 to the tens!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 27 + 35?",
+                                        "options": ["52", "62", "72", "82"],
+                                        "correct_answer": "62",
+                                        "rationale": "27 + 35 = 62 (7+5=12, carry 1; 2+3+1=6).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 48 + 37?",
+                                        "options": ["75", "85", "95", "105"],
+                                        "correct_answer": "85",
+                                        "rationale": "48 + 37 = 85 (8+7=15, carry 1; 4+3+1=8).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 56 + 28?",
+                                        "options": ["74", "84", "94", "104"],
+                                        "correct_answer": "84",
+                                        "rationale": "56 + 28 = 84 (6+8=14, carry 1; 5+2+1=8).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 67 + 45?",
+                                        "options": ["102", "112", "122", "132"],
+                                        "correct_answer": "112",
+                                        "rationale": "67 + 45 = 112 (7+5=12, carry 1; 6+4+1=11).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 38 + 54?",
+                                        "options": ["82", "92", "102", "112"],
+                                        "correct_answer": "92",
+                                        "rationale": "38 + 54 = 92 (8+4=12, carry 1; 3+5+1=9).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 79 + 46?",
+                                        "options": ["115", "125", "135", "145"],
+                                        "correct_answer": "125",
+                                        "rationale": "79 + 46 = 125 (9+6=15, carry 1; 7+4+1=12).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 88 + 67?",
+                                        "options": ["145", "155", "165", "175"],
+                                        "correct_answer": "155",
+                                        "rationale": "88 + 67 = 155 (8+7=15, carry 1; 8+6+1=15).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 95 + 58?",
+                                        "options": ["143", "153", "163", "173"],
+                                        "correct_answer": "153",
+                                        "rationale": "95 + 58 = 153 (5+8=13, carry 1; 9+5+1=15).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 9,
+                                        "question_text": "What is 123 + 456?",
+                                        "options": ["569", "579", "589", "599"],
+                                        "correct_answer": "579",
+                                        "rationale": "123 + 456 = 579 (3+6=9, 2+5=7, 1+4=5).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 10,
+                                        "question_text": "What is 234 + 567?",
+                                        "options": ["791", "801", "811", "821"],
+                                        "correct_answer": "801",
+                                        "rationale": "234 + 567 = 801 (4+7=11, carry 1; 3+6+1=10, carry 1; 2+5+1=8).",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Subtraction",
+                        "modules": [
+                            {
+                                "module_id": 24,
+                                "topic_name": "Subtraction without borrowing",
+                                "explanation": "Subtraction without borrowing is straightforward! When you subtract 45 - 23, you subtract ones (5 - 3 = 2) and tens (4 - 2 = 2) separately. Each column has enough, so you don't need to borrow from the next column!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 45 - 23?",
+                                        "options": ["12", "22", "32", "42"],
+                                        "correct_answer": "22",
+                                        "rationale": "45 - 23 = 22 (5-3=2 ones, 4-2=2 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 67 - 34?",
+                                        "options": ["23", "33", "43", "53"],
+                                        "correct_answer": "33",
+                                        "rationale": "67 - 34 = 33 (7-4=3 ones, 6-3=3 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 89 - 25?",
+                                        "options": ["54", "64", "74", "84"],
+                                        "correct_answer": "64",
+                                        "rationale": "89 - 25 = 64 (9-5=4 ones, 8-2=6 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 76 - 42?",
+                                        "options": ["24", "34", "44", "54"],
+                                        "correct_answer": "34",
+                                        "rationale": "76 - 42 = 34 (6-2=4 ones, 7-4=3 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 98 - 36?",
+                                        "options": ["52", "62", "72", "82"],
+                                        "correct_answer": "62",
+                                        "rationale": "98 - 36 = 62 (8-6=2 ones, 9-3=6 tens).",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 54 - 21?",
+                                        "options": ["23", "33", "43", "53"],
+                                        "correct_answer": "33",
+                                        "rationale": "54 - 21 = 33 (4-1=3 ones, 5-2=3 tens).",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 25,
+                                "topic_name": "Subtraction with borrowing",
+                                "explanation": "Borrowing is like asking your neighbor for help! When you subtract 52 - 27, you can't take 7 from 2, so you 'borrow' 1 from the tens place (making it 4) and give 10 to the ones place (making it 12). Now 12 - 7 = 5!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 52 - 27?",
+                                        "options": ["15", "25", "35", "45"],
+                                        "correct_answer": "25",
+                                        "rationale": "52 - 27 = 25 (borrow 1: 12-7=5, 4-2=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 63 - 38?",
+                                        "options": ["15", "25", "35", "45"],
+                                        "correct_answer": "25",
+                                        "rationale": "63 - 38 = 25 (borrow 1: 13-8=5, 5-3=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 74 - 46?",
+                                        "options": ["18", "28", "38", "48"],
+                                        "correct_answer": "28",
+                                        "rationale": "74 - 46 = 28 (borrow 1: 14-6=8, 6-4=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 85 - 57?",
+                                        "options": ["18", "28", "38", "48"],
+                                        "correct_answer": "28",
+                                        "rationale": "85 - 57 = 28 (borrow 1: 15-7=8, 7-5=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 96 - 68?",
+                                        "options": ["18", "28", "38", "48"],
+                                        "correct_answer": "28",
+                                        "rationale": "96 - 68 = 28 (borrow 1: 16-8=8, 8-6=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 41 - 23?",
+                                        "options": ["8", "18", "28", "38"],
+                                        "correct_answer": "18",
+                                        "rationale": "41 - 23 = 18 (borrow 1: 11-3=8, 3-2=1).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 32 - 15?",
+                                        "options": ["7", "17", "27", "37"],
+                                        "correct_answer": "17",
+                                        "rationale": "32 - 15 = 17 (borrow 1: 12-5=7, 2-1=1).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 504 - 236?",
+                                        "options": ["258", "268", "278", "288"],
+                                        "correct_answer": "268",
+                                        "rationale": "504 - 236 = 268 (borrow: 14-6=8, 9-3=6, 4-2=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 9,
+                                        "question_text": "What is 623 - 345?",
+                                        "options": ["268", "278", "288", "298"],
+                                        "correct_answer": "278",
+                                        "rationale": "623 - 345 = 278 (borrow: 13-5=8, 11-4=7, 5-3=2).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 10,
+                                        "question_text": "What is 712 - 534?",
+                                        "options": ["168", "178", "188", "198"],
+                                        "correct_answer": "178",
+                                        "rationale": "712 - 534 = 178 (borrow: 12-4=8, 10-3=7, 6-5=1).",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Multiplication",
+                        "modules": [
+                            {
+                                "module_id": 26,
+                                "topic_name": "Introduction to Multiplication",
+                                "explanation": "Multiplication is repeated addition! 3 × 4 means 3 + 3 + 3 + 3 = 12. It's like having 3 groups of 4 things each. The × symbol means 'groups of'. Multiplication helps us count faster when we have equal groups!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 2 × 3?",
+                                        "options": ["5", "6", "7", "8"],
+                                        "correct_answer": "6",
+                                        "rationale": "2 × 3 = 2 + 2 + 2 = 6.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 3 × 4?",
+                                        "options": ["11", "12", "13", "14"],
+                                        "correct_answer": "12",
+                                        "rationale": "3 × 4 = 3 + 3 + 3 + 3 = 12.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 4 × 5?",
+                                        "options": ["15", "20", "25", "30"],
+                                        "correct_answer": "20",
+                                        "rationale": "4 × 5 = 4 + 4 + 4 + 4 + 4 = 20.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 5 × 2?",
+                                        "options": ["7", "10", "12", "15"],
+                                        "correct_answer": "10",
+                                        "rationale": "5 × 2 = 5 + 5 = 10.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 6 × 3?",
+                                        "options": ["15", "16", "17", "18"],
+                                        "correct_answer": "18",
+                                        "rationale": "6 × 3 = 6 + 6 + 6 = 18.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 7 × 4?",
+                                        "options": ["24", "26", "28", "30"],
+                                        "correct_answer": "28",
+                                        "rationale": "7 × 4 = 7 + 7 + 7 + 7 = 28.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 8 × 2?",
+                                        "options": ["14", "15", "16", "18"],
+                                        "correct_answer": "16",
+                                        "rationale": "8 × 2 = 8 + 8 = 16.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 9 × 1?",
+                                        "options": ["0", "1", "9", "10"],
+                                        "correct_answer": "9",
+                                        "rationale": "9 × 1 = 9 (any number × 1 = itself).",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 27,
+                                "topic_name": "Multiplication Tables",
+                                "explanation": "Multiplication tables are like memory shortcuts! When you memorize 2 × 3 = 6, you don't need to add 2 + 2 + 2 every time. Tables help you solve problems faster. Practice makes perfect - the more you use them, the easier they become!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 3 × 7?",
+                                        "options": ["18", "19", "20", "21"],
+                                        "correct_answer": "21",
+                                        "rationale": "3 × 7 = 21.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 4 × 6?",
+                                        "options": ["22", "23", "24", "25"],
+                                        "correct_answer": "24",
+                                        "rationale": "4 × 6 = 24.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 5 × 8?",
+                                        "options": ["35", "40", "45", "50"],
+                                        "correct_answer": "40",
+                                        "rationale": "5 × 8 = 40.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 6 × 7?",
+                                        "options": ["40", "41", "42", "43"],
+                                        "correct_answer": "42",
+                                        "rationale": "6 × 7 = 42.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 7 × 9?",
+                                        "options": ["61", "62", "63", "64"],
+                                        "correct_answer": "63",
+                                        "rationale": "7 × 9 = 63.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 8 × 4?",
+                                        "options": ["30", "31", "32", "33"],
+                                        "correct_answer": "32",
+                                        "rationale": "8 × 4 = 32.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 9 × 6?",
+                                        "options": ["52", "53", "54", "55"],
+                                        "correct_answer": "54",
+                                        "rationale": "9 × 6 = 54.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 2 × 9?",
+                                        "options": ["16", "17", "18", "19"],
+                                        "correct_answer": "18",
+                                        "rationale": "2 × 9 = 18.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Division",
+                        "modules": [
+                            {
+                                "module_id": 28,
+                                "topic_name": "Introduction to Division",
+                                "explanation": "Division is sharing equally! If you have 12 cookies and 3 friends, each gets 4 cookies (12 ÷ 3 = 4). The ÷ symbol means 'share equally'. Division helps us find out how many each person gets when we share things fairly!",
+                                "difficulty": "Hard",
+                                "total_timer_minutes": 15,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is 10 ÷ 2?",
+                                        "options": ["4", "5", "6", "8"],
+                                        "correct_answer": "5",
+                                        "rationale": "10 ÷ 2 = 5 (10 items shared among 2 groups = 5 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is 12 ÷ 3?",
+                                        "options": ["3", "4", "5", "6"],
+                                        "correct_answer": "4",
+                                        "rationale": "12 ÷ 3 = 4 (12 items shared among 3 groups = 4 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is 15 ÷ 5?",
+                                        "options": ["2", "3", "4", "5"],
+                                        "correct_answer": "3",
+                                        "rationale": "15 ÷ 5 = 3 (15 items shared among 5 groups = 3 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 18 ÷ 3?",
+                                        "options": ["5", "6", "7", "8"],
+                                        "correct_answer": "6",
+                                        "rationale": "18 ÷ 3 = 6 (18 items shared among 3 groups = 6 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is 20 ÷ 4?",
+                                        "options": ["4", "5", "6", "7"],
+                                        "correct_answer": "5",
+                                        "rationale": "20 ÷ 4 = 5 (20 items shared among 4 groups = 5 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is 24 ÷ 6?",
+                                        "options": ["3", "4", "5", "6"],
+                                        "correct_answer": "4",
+                                        "rationale": "24 ÷ 6 = 4 (24 items shared among 6 groups = 4 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is 16 ÷ 4?",
+                                        "options": ["3", "4", "5", "6"],
+                                        "correct_answer": "4",
+                                        "rationale": "16 ÷ 4 = 4 (16 items shared among 4 groups = 4 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "What is 25 ÷ 5?",
+                                        "options": ["4", "5", "6", "7"],
+                                        "correct_answer": "5",
+                                        "rationale": "25 ÷ 5 = 5 (25 items shared among 5 groups = 5 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 9,
+                                        "question_text": "What is 30 ÷ 6?",
+                                        "options": ["4", "5", "6", "7"],
+                                        "correct_answer": "5",
+                                        "rationale": "30 ÷ 6 = 5 (30 items shared among 6 groups = 5 each).",
+                                        "timer_per_question_seconds": 60
+                                    },
+                                    {
+                                        "question_id": 10,
+                                        "question_text": "What is 14 ÷ 2?",
+                                        "options": ["6", "7", "8", "9"],
+                                        "correct_answer": "7",
+                                        "rationale": "14 ÷ 2 = 7 (14 items shared among 2 groups = 7 each).",
+                                        "timer_per_question_seconds": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Money",
+                        "modules": [
+                            {
+                                "module_id": 29,
+                                "topic_name": "Indian Currency",
+                                "explanation": "Money helps us buy things we need! In India, we use rupees (₹) and paise. 100 paise = 1 rupee. We have coins (1, 2, 5, 10 rupees) and notes (10, 20, 50, 100, 200, 500 rupees). Learning about money helps us shop and save!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "How many paise make 1 rupee?",
+                                        "options": ["10", "50", "100", "1000"],
+                                        "correct_answer": "100",
+                                        "rationale": "100 paise = 1 rupee.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What is the symbol for Indian rupee?",
+                                        "options": ["$", "€", "£", "₹"],
+                                        "correct_answer": "₹",
+                                        "rationale": "₹ is the symbol for Indian rupee.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "Which of these is an Indian coin?",
+                                        "options": ["₹1", "₹20", "₹50", "₹100"],
+                                        "correct_answer": "₹1",
+                                        "rationale": "₹1 is available as a coin; others are notes.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 50 paise in rupees?",
+                                        "options": ["₹0.50", "₹5", "₹50", "₹500"],
+                                        "correct_answer": "₹0.50",
+                                        "rationale": "50 paise = 50/100 = ₹0.50.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Which note has the highest value?",
+                                        "options": ["₹50", "₹100", "₹200", "₹500"],
+                                        "correct_answer": "₹500",
+                                        "rationale": "₹500 has the highest value among these options.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What is ₹2 + ₹3?",
+                                        "options": ["₹4", "₹5", "₹6", "₹7"],
+                                        "correct_answer": "₹5",
+                                        "rationale": "₹2 + ₹3 = ₹5.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 30,
+                                "topic_name": "Adding and Subtracting Money",
+                                "explanation": "Working with money is like regular math, but with rupees! When you buy things, you add prices to find the total cost. When you get change, you subtract to find what's left. Money math helps you shop smart!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 12,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is ₹25 + ₹15?",
+                                        "options": ["₹35", "₹40", "₹45", "₹50"],
+                                        "correct_answer": "₹40",
+                                        "rationale": "₹25 + ₹15 = ₹40.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If you have ₹50 and spend ₹20, how much is left?",
+                                        "options": ["₹20", "₹25", "₹30", "₹35"],
+                                        "correct_answer": "₹30",
+                                        "rationale": "₹50 - ₹20 = ₹30.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What is ₹75 + ₹25?",
+                                        "options": ["₹90", "₹95", "₹100", "₹105"],
+                                        "correct_answer": "₹100",
+                                        "rationale": "₹75 + ₹25 = ₹100.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "If a pencil costs ₹5 and an eraser costs ₹3, what's the total?",
+                                        "options": ["₹6", "₹7", "₹8", "₹9"],
+                                        "correct_answer": "₹8",
+                                        "rationale": "₹5 + ₹3 = ₹8.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "What is ₹100 - ₹45?",
+                                        "options": ["₹50", "₹55", "₹60", "₹65"],
+                                        "correct_answer": "₹55",
+                                        "rationale": "₹100 - ₹45 = ₹55.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "If you buy 3 items costing ₹10 each, what's the total?",
+                                        "options": ["₹20", "₹25", "₹30", "₹35"],
+                                        "correct_answer": "₹30",
+                                        "rationale": "3 × ₹10 = ₹30.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 7,
+                                        "question_text": "What is ₹60 - ₹35?",
+                                        "options": ["₹20", "₹25", "₹30", "₹35"],
+                                        "correct_answer": "₹25",
+                                        "rationale": "₹60 - ₹35 = ₹25.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 8,
+                                        "question_text": "If you have ₹200 and buy something for ₹150, how much change?",
+                                        "options": ["₹40", "₹45", "₹50", "₹55"],
+                                        "correct_answer": "₹50",
+                                        "rationale": "₹200 - ₹150 = ₹50.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "term_name": "Term 3",
+                "chapters": [
+                    {
+                        "chapter_name": "Geometry",
+                        "modules": [
+                            {
+                                "module_id": 31,
+                                "topic_name": "Lines and Shapes",
+                                "explanation": "Lines are the building blocks of shapes! A straight line goes in one direction, a curved line bends, and a closed line makes a shape. Circles, squares, and triangles are all made from different types of lines. Understanding lines helps us draw and recognize shapes!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What shape has 3 sides?",
+                                        "options": ["Circle", "Square", "Triangle", "Rectangle"],
+                                        "correct_answer": "Triangle",
+                                        "rationale": "A triangle has 3 sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "What shape has 4 equal sides?",
+                                        "options": ["Rectangle", "Square", "Triangle", "Circle"],
+                                        "correct_answer": "Square",
+                                        "rationale": "A square has 4 equal sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "Which shape has no corners?",
+                                        "options": ["Square", "Triangle", "Rectangle", "Circle"],
+                                        "correct_answer": "Circle",
+                                        "rationale": "A circle has no corners or sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What shape has 4 sides but not all equal?",
+                                        "options": ["Square", "Rectangle", "Triangle", "Circle"],
+                                        "correct_answer": "Rectangle",
+                                        "rationale": "A rectangle has 4 sides but opposite sides are equal.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "How many sides does a pentagon have?",
+                                        "options": ["3", "4", "5", "6"],
+                                        "correct_answer": "5",
+                                        "rationale": "A pentagon has 5 sides.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What do you call a line that never ends?",
+                                        "options": ["Line segment", "Ray", "Line", "Curve"],
+                                        "correct_answer": "Line",
+                                        "rationale": "A line extends infinitely in both directions.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Measurement",
+                        "modules": [
+                            {
+                                "module_id": 32,
+                                "topic_name": "Weight",
+                                "explanation": "Weight tells us how heavy things are! We use grams (g) for light things like pencils and kilograms (kg) for heavy things like watermelons. 1000 grams = 1 kilogram. Understanding weight helps us cook, shop, and carry things safely!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What unit do we use for heavy things?",
+                                        "options": ["grams", "kilograms", "meters", "liters"],
+                                        "correct_answer": "kilograms",
+                                        "rationale": "Kilograms are used for measuring heavy objects.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "How many grams make 1 kilogram?",
+                                        "options": ["10", "100", "1000", "10000"],
+                                        "correct_answer": "1000",
+                                        "rationale": "1000 grams = 1 kilogram.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What would you measure in grams?",
+                                        "options": ["Watermelon", "Book", "Person", "Table"],
+                                        "correct_answer": "Book",
+                                        "rationale": "Books are light, so we measure them in grams.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 500 grams in kilograms?",
+                                        "options": ["0.5 kg", "5 kg", "50 kg", "500 kg"],
+                                        "correct_answer": "0.5 kg",
+                                        "rationale": "500 grams ÷ 1000 = 0.5 kilograms.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Which is heavier: 2 kg or 1500 g?",
+                                        "options": ["2 kg", "1500 g", "They are equal", "Cannot say"],
+                                        "correct_answer": "2 kg",
+                                        "rationale": "2 kg = 2000 g, which is heavier than 1500 g.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What would you measure in kilograms?",
+                                        "options": ["Pencil", "Eraser", "School bag", "Paper clip"],
+                                        "correct_answer": "School bag",
+                                        "rationale": "School bags are heavy enough to be measured in kilograms.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            },
+                            {
+                                "module_id": 33,
+                                "topic_name": "Capacity",
+                                "explanation": "Capacity tells us how much liquid a container can hold! We use milliliters (ml) for small amounts like medicine and liters (l) for large amounts like water bottles. 1000 milliliters = 1 liter. Understanding capacity helps us measure drinks and cook properly!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What unit do we use for large amounts of liquid?",
+                                        "options": ["milliliters", "liters", "grams", "kilograms"],
+                                        "correct_answer": "liters",
+                                        "rationale": "Liters are used for measuring large volumes of liquid.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "How many milliliters make 1 liter?",
+                                        "options": ["10", "100", "1000", "10000"],
+                                        "correct_answer": "1000",
+                                        "rationale": "1000 milliliters = 1 liter.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "What would you measure in milliliters?",
+                                        "options": ["Water bottle", "Bucket", "Medicine", "Swimming pool"],
+                                        "correct_answer": "Medicine",
+                                        "rationale": "Medicine doses are small, measured in milliliters.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "What is 500 ml in liters?",
+                                        "options": ["0.5 l", "5 l", "50 l", "500 l"],
+                                        "correct_answer": "0.5 l",
+                                        "rationale": "500 ml ÷ 1000 = 0.5 liters.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "Which holds more: 2 liters or 1500 ml?",
+                                        "options": ["2 liters", "1500 ml", "They are equal", "Cannot say"],
+                                        "correct_answer": "2 liters",
+                                        "rationale": "2 liters = 2000 ml, which is more than 1500 ml.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What would you measure in liters?",
+                                        "options": ["Eye drops", "Perfume", "Water bottle", "Syringe"],
+                                        "correct_answer": "Water bottle",
+                                        "rationale": "Water bottles hold larger amounts, measured in liters.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "chapter_name": "Data Handling",
+                        "modules": [
+                            {
+                                "module_id": 34,
+                                "topic_name": "Pictographs",
+                                "explanation": "Pictographs are like picture stories! Instead of just numbers, we use pictures to show data. Each picture can represent one or more items. Pictographs make data fun and easy to understand at a glance!",
+                                "difficulty": "Medium",
+                                "total_timer_minutes": 10,
+                                "questions": [
+                                    {
+                                        "question_id": 1,
+                                        "question_text": "What is a pictograph?",
+                                        "options": ["Number chart", "Picture graph", "Letter chart", "Color chart"],
+                                        "correct_answer": "Picture graph",
+                                        "rationale": "A pictograph uses pictures to represent data.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 2,
+                                        "question_text": "If 🍎 = 5 apples, what do 🍎🍎 represent?",
+                                        "options": ["2 apples", "5 apples", "10 apples", "25 apples"],
+                                        "correct_answer": "10 apples",
+                                        "rationale": "2 pictures × 5 apples each = 10 apples.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 3,
+                                        "question_text": "In a pictograph, if ⚽ = 3 balls, how many balls is ⚽⚽⚽?",
+                                        "options": ["3", "6", "9", "12"],
+                                        "correct_answer": "9",
+                                        "rationale": "3 pictures × 3 balls each = 9 balls.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 4,
+                                        "question_text": "Why do we use pictographs?",
+                                        "options": ["To make data confusing", "To make data interesting", "To waste time", "To make mistakes"],
+                                        "correct_answer": "To make data interesting",
+                                        "rationale": "Pictographs make data visually appealing and easy to understand.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 5,
+                                        "question_text": "If 🚗 = 2 cars and you see 🚗🚗🚗🚗, how many cars?",
+                                        "options": ["4", "6", "8", "10"],
+                                        "correct_answer": "8",
+                                        "rationale": "4 pictures × 2 cars each = 8 cars.",
+                                        "timer_per_question_seconds": 45
+                                    },
+                                    {
+                                        "question_id": 6,
+                                        "question_text": "What should be the same in a pictograph?",
+                                        "options": ["Different pictures", "Same picture size", "Random colors", "No organization"],
+                                        "correct_answer": "Same picture size",
+                                        "rationale": "Pictures should be consistent in size for accurate representation.",
+                                        "timer_per_question_seconds": 45
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+    
+    return curriculum
+
+# Generate and save the curriculum
+curriculum = create_curriculum_structure()
+output_file = r"c:\Users\thira\OneDrive - Rathinam Group Of Institutions\Desktop\My carrier\projects\learn-edu\class_2_mathematics_curriculum.json"
+
+with open(output_file, 'w', encoding='utf-8') as f:
+    json.dump(curriculum, f, ensure_ascii=False, indent=2)
+
+print(f"Class 2 Mathematics curriculum saved to {output_file}")
+print(f"Total modules created: {sum(len(term['chapters']) for term in curriculum['terms'])}")
+print(f"Total questions generated: {sum(len(chapter['modules']) for term in curriculum['terms'] for chapter in term['chapters'])}")

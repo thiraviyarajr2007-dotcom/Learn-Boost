@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-label="Data formula visual model">
+  <rect width="720" height="260" rx="28" fill="#fff7ed"/>
+  <line x1="80" y1="196" x2="640" y2="196" stroke="#9a3412" stroke-width="6"/>
+  <rect x="120" y="102" width="70" height="94" rx="12" fill="#fb923c"/>
+  <rect x="244" y="66" width="70" height="130" rx="12" fill="#f97316"/>
+  <rect x="368" y="124" width="70" height="72" rx="12" fill="#fdba74"/>
+  <rect x="492" y="82" width="70" height="114" rx="12" fill="#ea580c"/>
+  <text x="360" y="46" font-family="Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle" fill="#9a3412">Organize values before using the formula.</text>
+  <text x="360" y="232" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#9a3412">Add, count, compare, then write the result clearly.</text>
+</svg>
