@@ -1,0 +1,2160 @@
+{
+  "class": "8",
+  "board": "CBSE",
+  "subject": "Mathematics",
+  "source_pdf": "ncert-books-for-class-8-maths.pdf",
+  "chapters": [
+    {
+      "chapter_name": "Rational Numbers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Properties of Rational Numbers",
+          "explanation": "Rational numbers are numbers that can be written as p/q, where q is not zero. They behave like a well-organised number family. Addition and multiplication are closed, commutative and associative for rational numbers. Zero is the additive identity and one is the multiplicative identity. Every rational number has a negative, and every non-zero rational number has a reciprocal.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Which number is rational?",
+              "options": [
+                "3/5",
+                "sqrt(2)",
+                "pi only",
+                "1/0"
+              ],
+              "correct_answer": "3/5",
+              "rationale": "3/5 is in the form p/q with q not zero.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "The additive identity for rational numbers is",
+              "options": [
+                "0",
+                "1",
+                "-1",
+                "10"
+              ],
+              "correct_answer": "0",
+              "rationale": "Adding zero does not change a rational number.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "The multiplicative identity is",
+              "options": [
+                "0",
+                "1",
+                "-1",
+                "100"
+              ],
+              "correct_answer": "1",
+              "rationale": "Multiplying by one leaves the number unchanged.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "The reciprocal of 2/3 is",
+              "options": [
+                "2/3",
+                "3/2",
+                "-2/3",
+                "5/3"
+              ],
+              "correct_answer": "3/2",
+              "rationale": "The reciprocal interchanges numerator and denominator.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which property is shown by a x (b + c) = a x b + a x c?",
+              "options": [
+                "Closure",
+                "Commutativity",
+                "Distributivity",
+                "Identity"
+              ],
+              "correct_answer": "Distributivity",
+              "rationale": "Multiplication is distributed over addition.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Number Line and Rational Numbers Between Two Numbers",
+          "explanation": "Rational numbers can be placed on a number line. Positive numbers lie to the right of zero and negative numbers to the left. Between any two rational numbers, there are many more rational numbers. This is different from whole numbers, where there may be no whole number between two neighbours like 4 and 5.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "On the number line, -3/4 lies",
+              "options": [
+                "right of zero",
+                "left of zero",
+                "at zero",
+                "above one"
+              ],
+              "correct_answer": "left of zero",
+              "rationale": "Negative rational numbers lie to the left of zero.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which is greater: -1/2 or 1/4?",
+              "options": [
+                "-1/2",
+                "1/4",
+                "Both equal",
+                "Cannot compare"
+              ],
+              "correct_answer": "1/4",
+              "rationale": "A positive rational number is greater than a negative one.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Between two rational numbers, there are",
+              "options": [
+                "no rational numbers",
+                "only one rational number",
+                "many rational numbers",
+                "only integers"
+              ],
+              "correct_answer": "many rational numbers",
+              "rationale": "Rational numbers are dense on the number line.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A rational number between 1/2 and 1 is",
+              "options": [
+                "1/4",
+                "3/4",
+                "2",
+                "-1"
+              ],
+              "correct_answer": "3/4",
+              "rationale": "3/4 lies between 1/2 and 1.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which is smaller: -5/6 or -1/6?",
+              "options": [
+                "-5/6",
+                "-1/6",
+                "Both equal",
+                "0"
+              ],
+              "correct_answer": "-5/6",
+              "rationale": "The farther-left negative number is smaller.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Linear Equations in One Variable",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Solving Linear Equations",
+          "explanation": "A linear equation in one variable has only one unknown, usually with power one. It is like a balance: whatever we do to one side, we must do to the other. We solve by simplifying expressions, collecting variable terms, and isolating the variable. Equations may have variables on one side or both sides.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Solve x + 5 = 12.",
+              "options": [
+                "5",
+                "7",
+                "12",
+                "17"
+              ],
+              "correct_answer": "7",
+              "rationale": "Subtract 5 from both sides.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Solve 3x = 21.",
+              "options": [
+                "3",
+                "7",
+                "18",
+                "24"
+              ],
+              "correct_answer": "7",
+              "rationale": "Divide both sides by 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Solve 2x + 3 = 11.",
+              "options": [
+                "3",
+                "4",
+                "7",
+                "8"
+              ],
+              "correct_answer": "4",
+              "rationale": "2x = 8, so x = 4.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Solve 5x - 2 = 3x + 6.",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "8"
+              ],
+              "correct_answer": "4",
+              "rationale": "Move terms to get 2x = 8.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "A linear equation in one variable has variable power",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "correct_answer": "1",
+              "rationale": "Linear equations use first power of the variable.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Applications and Reducible Equations",
+          "explanation": "Word problems become easier when we translate them into equations. First choose a variable for the unknown, then write the relationship given in the problem. Some equations contain brackets or fractions and must be reduced to simpler linear form before solving. This method turns everyday puzzles into clear mathematical steps.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Twice a number is 18. The equation is",
+              "options": [
+                "x + 2 = 18",
+                "2x = 18",
+                "x/2 = 18",
+                "18x = 2"
+              ],
+              "correct_answer": "2x = 18",
+              "rationale": "Twice means multiplied by 2.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "If x/3 = 5, then x is",
+              "options": [
+                "3",
+                "5",
+                "8",
+                "15"
+              ],
+              "correct_answer": "15",
+              "rationale": "Multiply both sides by 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "In 3(x + 2) = 15, first expand to get",
+              "options": [
+                "3x + 2 = 15",
+                "3x + 6 = 15",
+                "x + 6 = 15",
+                "3x + 5 = 15"
+              ],
+              "correct_answer": "3x + 6 = 15",
+              "rationale": "Multiply 3 by both terms inside brackets.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "If a number increased by 9 is 20, the number is",
+              "options": [
+                "9",
+                "11",
+                "20",
+                "29"
+              ],
+              "correct_answer": "11",
+              "rationale": "x + 9 = 20, so x = 11.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "To solve equations, equality is kept by doing",
+              "options": [
+                "same operation on both sides",
+                "operation on left only",
+                "operation on right only",
+                "only multiplication"
+              ],
+              "correct_answer": "same operation on both sides",
+              "rationale": "An equation works like a balance.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Understanding Quadrilaterals",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Polygons and Angle Sum",
+          "explanation": "A polygon is a closed figure made of line segments. Polygons can be classified by number of sides and by shape, such as convex or concave, regular or irregular. Diagonals join non-adjacent vertices. The angle sum of a polygon depends on its number of sides, and the exterior angles of any polygon add up to 360 degrees.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A polygon is made of",
+              "options": [
+                "curves",
+                "line segments",
+                "circles",
+                "arcs only"
+              ],
+              "correct_answer": "line segments",
+              "rationale": "A polygon is a closed figure made of line segments.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "A diagonal joins",
+              "options": [
+                "adjacent vertices",
+                "non-adjacent vertices",
+                "midpoints only",
+                "curved sides"
+              ],
+              "correct_answer": "non-adjacent vertices",
+              "rationale": "Diagonals connect vertices that are not next to each other.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Sum of exterior angles of a polygon is",
+              "options": [
+                "90 degrees",
+                "180 degrees",
+                "270 degrees",
+                "360 degrees"
+              ],
+              "correct_answer": "360 degrees",
+              "rationale": "The exterior angle sum is always 360 degrees.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "A regular polygon has",
+              "options": [
+                "equal sides and equal angles",
+                "only equal sides",
+                "only one side",
+                "no angles"
+              ],
+              "correct_answer": "equal sides and equal angles",
+              "rationale": "Regular means all sides and angles are equal.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "A quadrilateral has",
+              "options": [
+                "3 sides",
+                "4 sides",
+                "5 sides",
+                "6 sides"
+              ],
+              "correct_answer": "4 sides",
+              "rationale": "Quad means four.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Parallelograms and Special Quadrilaterals",
+          "explanation": "Quadrilaterals include trapeziums, kites, parallelograms, rhombuses, rectangles and squares. In a parallelogram, opposite sides are parallel and equal, opposite angles are equal, and diagonals bisect each other. A rectangle has right angles, a rhombus has equal sides, and a square combines both features.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In a parallelogram, opposite sides are",
+              "options": [
+                "equal and parallel",
+                "curved",
+                "always unequal",
+                "perpendicular only"
+              ],
+              "correct_answer": "equal and parallel",
+              "rationale": "This is a key property of parallelograms.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Diagonals of a parallelogram",
+              "options": [
+                "bisect each other",
+                "are always equal only",
+                "never meet",
+                "are sides"
+              ],
+              "correct_answer": "bisect each other",
+              "rationale": "Each diagonal cuts the other into two equal parts.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "A rectangle has all angles equal to",
+              "options": [
+                "45 degrees",
+                "60 degrees",
+                "90 degrees",
+                "180 degrees"
+              ],
+              "correct_answer": "90 degrees",
+              "rationale": "A rectangle has four right angles.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "A rhombus has",
+              "options": [
+                "all sides equal",
+                "no equal sides",
+                "only one right angle",
+                "three sides"
+              ],
+              "correct_answer": "all sides equal",
+              "rationale": "A rhombus is a parallelogram with equal sides.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "A square is both a",
+              "options": [
+                "rectangle and rhombus",
+                "triangle and circle",
+                "kite only",
+                "trapezium only"
+              ],
+              "correct_answer": "rectangle and rhombus",
+              "rationale": "It has right angles and all sides equal.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Practical Geometry",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Constructing Quadrilaterals",
+          "explanation": "Practical geometry uses ruler, compass and protractor to construct exact figures. A quadrilateral can be constructed when enough measurements are known, such as four sides and a diagonal, three sides and two diagonals, two adjacent sides and three angles, or three sides and two included angles. Construction is like following a precise drawing recipe.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A quadrilateral can be constructed if four sides and one ___ are given.",
+              "options": [
+                "radius",
+                "diagonal",
+                "median",
+                "height only"
+              ],
+              "correct_answer": "diagonal",
+              "rationale": "Four sides and a diagonal give enough structure in the textbook construction.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which tools are commonly used in practical geometry?",
+              "options": [
+                "Ruler, compass and protractor",
+                "Only calculator",
+                "Only graph paper",
+                "Only tally marks"
+              ],
+              "correct_answer": "Ruler, compass and protractor",
+              "rationale": "These tools support accurate construction.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "A diagonal of a quadrilateral joins",
+              "options": [
+                "opposite/non-adjacent vertices",
+                "midpoints only",
+                "curved sides",
+                "same vertex"
+              ],
+              "correct_answer": "opposite/non-adjacent vertices",
+              "rationale": "A diagonal joins non-adjacent vertices.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Construction should be done using",
+              "options": [
+                "random guesses",
+                "given measurements",
+                "only colour",
+                "only estimation"
+              ],
+              "correct_answer": "given measurements",
+              "rationale": "Accurate construction depends on the provided data.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "A special case of quadrilateral construction includes",
+              "options": [
+                "square or rhombus",
+                "bar graph",
+                "pie chart",
+                "cube root"
+              ],
+              "correct_answer": "square or rhombus",
+              "rationale": "The chapter includes special quadrilateral cases.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Handling",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Grouped Data, Bar Graphs and Pie Charts",
+          "explanation": "Data handling helps us collect, organise and understand information. Large data can be grouped into classes to make patterns easier to see. Bar graphs compare categories, while histograms show grouped numerical data. A pie chart represents a whole as a circle divided into sectors, where each sector shows a part of the total.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Grouped data is useful when data is",
+              "options": [
+                "very small only",
+                "large",
+                "always zero",
+                "not numerical"
+              ],
+              "correct_answer": "large",
+              "rationale": "Grouping makes large data easier to read.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A pie chart represents data using",
+              "options": [
+                "a circle",
+                "a ruler",
+                "a line segment only",
+                "a compass box"
+              ],
+              "correct_answer": "a circle",
+              "rationale": "A pie chart divides a circle into sectors.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A histogram is useful for",
+              "options": [
+                "grouped data",
+                "only angles",
+                "only equations",
+                "only factors"
+              ],
+              "correct_answer": "grouped data",
+              "rationale": "Histograms show frequency for class intervals.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "In a pie chart, the whole circle represents",
+              "options": [
+                "half the data",
+                "total data",
+                "one category only",
+                "zero"
+              ],
+              "correct_answer": "total data",
+              "rationale": "The full circle stands for the complete data set.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A bar graph compares",
+              "options": [
+                "categories",
+                "only fractions",
+                "only roots",
+                "only identities"
+              ],
+              "correct_answer": "categories",
+              "rationale": "Bars make category comparison clear.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Chance and Probability",
+          "explanation": "Probability measures chance. Some outcomes are certain, some impossible, and some equally likely. When outcomes are equally likely, probability of an event is the number of favourable outcomes divided by the total number of outcomes. Tossing a coin, rolling a die and drawing a card are simple probability situations.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "The probability of a certain event is",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "10"
+              ],
+              "correct_answer": "1",
+              "rationale": "A certain event always happens.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "The probability of an impossible event is",
+              "options": [
+                "0",
+                "1",
+                "1/2",
+                "2"
+              ],
+              "correct_answer": "0",
+              "rationale": "An impossible event cannot happen.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A coin has how many equally likely outcomes?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "6"
+              ],
+              "correct_answer": "2",
+              "rationale": "Head and tail are the two outcomes.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "On a die, probability of getting 3 is",
+              "options": [
+                "1/2",
+                "1/3",
+                "1/6",
+                "3/6"
+              ],
+              "correct_answer": "1/6",
+              "rationale": "There is one favourable outcome out of six.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Probability is linked to",
+              "options": [
+                "chance",
+                "only area",
+                "only perimeter",
+                "only construction"
+              ],
+              "correct_answer": "chance",
+              "rationale": "Probability measures likelihood.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Squares and Square Roots",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Square Numbers and Patterns",
+          "explanation": "A square number is made by multiplying a number by itself, like 5 x 5 = 25. Square numbers form patterns: 1, 4, 9, 16 and so on. The chapter also connects square numbers with Pythagorean triplets, where three numbers can form the sides of a right triangle. Patterns make squares easier to recognise.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "6 squared equals",
+              "options": [
+                "12",
+                "18",
+                "36",
+                "64"
+              ],
+              "correct_answer": "36",
+              "rationale": "6 x 6 = 36.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which is a perfect square?",
+              "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+              ],
+              "correct_answer": "25",
+              "rationale": "25 = 5 x 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "The square of an even number is",
+              "options": [
+                "always odd",
+                "always even",
+                "always prime",
+                "always zero"
+              ],
+              "correct_answer": "always even",
+              "rationale": "Even times even gives even.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "A Pythagorean triplet is related to",
+              "options": [
+                "right triangles",
+                "pie charts",
+                "discounts",
+                "bar graphs"
+              ],
+              "correct_answer": "right triangles",
+              "rationale": "Triplets satisfy the Pythagoras relation.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "1, 4, 9, 16 are examples of",
+              "options": [
+                "cube numbers",
+                "square numbers",
+                "prime numbers only",
+                "linear equations"
+              ],
+              "correct_answer": "square numbers",
+              "rationale": "They are n x n values.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Finding Square Roots",
+          "explanation": "A square root reverses squaring. If 9 is 3 squared, then the square root of 9 is 3. Square roots can be found by repeated subtraction, prime factorisation, division method, and estimation. Decimal square roots also follow place value carefully. Square roots help in measurement and geometry.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Square root of 49 is",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "correct_answer": "7",
+              "rationale": "7 x 7 = 49.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Square root is the reverse of",
+              "options": [
+                "addition",
+                "subtraction",
+                "squaring",
+                "division only"
+              ],
+              "correct_answer": "squaring",
+              "rationale": "It finds the number multiplied by itself.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Prime factorisation of 36 is",
+              "options": [
+                "2 x 2 x 3 x 3",
+                "6 x 6 only",
+                "4 x 9 only",
+                "1 x 36 only"
+              ],
+              "correct_answer": "2 x 2 x 3 x 3",
+              "rationale": "Prime factors are grouped in pairs for square root.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "The square root of 0.25 is",
+              "options": [
+                "0.05",
+                "0.5",
+                "5",
+                "25"
+              ],
+              "correct_answer": "0.5",
+              "rationale": "0.5 x 0.5 = 0.25.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "The square root of 100 lies exactly at",
+              "options": [
+                "5",
+                "10",
+                "20",
+                "50"
+              ],
+              "correct_answer": "10",
+              "rationale": "10 x 10 = 100.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Cubes and Cube Roots",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Cubes and Cube Roots",
+          "explanation": "A cube number is made by multiplying a number by itself three times, such as 4 x 4 x 4 = 64. A cube root reverses this process. In prime factorisation, a perfect cube has prime factors grouped in triples. Cubes help students understand volume and number patterns.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "3 cubed equals",
+              "options": [
+                "6",
+                "9",
+                "27",
+                "81"
+              ],
+              "correct_answer": "27",
+              "rationale": "3 x 3 x 3 = 27.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which is a perfect cube?",
+              "options": [
+                "16",
+                "25",
+                "27",
+                "50"
+              ],
+              "correct_answer": "27",
+              "rationale": "27 = 3 x 3 x 3.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Cube root of 64 is",
+              "options": [
+                "2",
+                "4",
+                "8",
+                "16"
+              ],
+              "correct_answer": "4",
+              "rationale": "4 x 4 x 4 = 64.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "In prime factorisation, perfect cubes form groups of",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "3",
+              "rationale": "Cube roots use triples of equal prime factors.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "The smallest perfect cube is",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "correct_answer": "1",
+              "rationale": "1 x 1 x 1 = 1.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Comparing Quantities",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Percentages, Discount, Profit and Loss",
+          "explanation": "Percent means out of 100. It helps compare increases, decreases, discounts, profit and loss. Discount reduces marked price. Profit happens when selling price is more than cost price, and loss happens when selling price is less. Percentages make shopping, marks and business calculations easier to compare.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "20% of 200 is",
+              "options": [
+                "20",
+                "40",
+                "100",
+                "400"
+              ],
+              "correct_answer": "40",
+              "rationale": "20/100 x 200 = 40.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Discount is calculated on",
+              "options": [
+                "marked price",
+                "selling price only",
+                "profit only",
+                "loss only"
+              ],
+              "correct_answer": "marked price",
+              "rationale": "Discount reduces the marked price.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "If CP = Rs 100 and SP = Rs 120, profit is",
+              "options": [
+                "Rs 10",
+                "Rs 20",
+                "Rs 100",
+                "Rs 220"
+              ],
+              "correct_answer": "Rs 20",
+              "rationale": "Profit = SP - CP.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "If SP is less than CP, there is",
+              "options": [
+                "profit",
+                "loss",
+                "discount only",
+                "tax only"
+              ],
+              "correct_answer": "loss",
+              "rationale": "Loss occurs when selling price is lower than cost price.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "A 10% decrease on 500 is",
+              "options": [
+                "5",
+                "10",
+                "50",
+                "100"
+              ],
+              "correct_answer": "50",
+              "rationale": "10/100 x 500 = 50.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Sales Tax, GST and Compound Interest",
+          "explanation": "Taxes such as sales tax, VAT or GST are added to the price of an item. Compound interest is interest calculated on the amount from the previous period, not just the original principal. This means money grows faster than in simple interest. The formula helps calculate repeated yearly or half-yearly growth.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "GST is usually added to the",
+              "options": [
+                "price of an item",
+                "angle of a triangle",
+                "area only",
+                "cube root"
+              ],
+              "correct_answer": "price of an item",
+              "rationale": "GST is a tax on goods and services.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "In compound interest, interest is calculated on",
+              "options": [
+                "only original principal forever",
+                "updated amount",
+                "zero",
+                "discount"
+              ],
+              "correct_answer": "updated amount",
+              "rationale": "Each period uses the new amount.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Amount means",
+              "options": [
+                "principal + interest",
+                "principal - interest",
+                "rate only",
+                "time only"
+              ],
+              "correct_answer": "principal + interest",
+              "rationale": "Amount is total money after interest.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "If interest is compounded annually, it is added",
+              "options": [
+                "every month",
+                "every year",
+                "every day only",
+                "never"
+              ],
+              "correct_answer": "every year",
+              "rationale": "Annually means once per year.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Compound interest is generally greater than simple interest for same rate and time because",
+              "options": [
+                "interest earns interest",
+                "principal becomes zero",
+                "rate disappears",
+                "time is ignored"
+              ],
+              "correct_answer": "interest earns interest",
+              "rationale": "Interest is added to amount and then earns more interest.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Algebraic Expressions and Identities",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Terms, Like Terms and Operations",
+          "explanation": "Algebraic expressions are made from variables, constants and operations. Terms are separated by plus or minus signs. Like terms have the same variables with the same powers, so they can be added or subtracted. Multiplication can involve monomials, binomials and polynomials. Careful grouping keeps algebra neat.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In 5x, the coefficient of x is",
+              "options": [
+                "x",
+                "5",
+                "0",
+                "1"
+              ],
+              "correct_answer": "5",
+              "rationale": "The numerical factor is the coefficient.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Which are like terms?",
+              "options": [
+                "3x and 7x",
+                "3x and 7y",
+                "x and x^2",
+                "2a and 2b"
+              ],
+              "correct_answer": "3x and 7x",
+              "rationale": "They have the same variable with same power.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "A monomial has",
+              "options": [
+                "one term",
+                "two terms",
+                "three terms",
+                "many equations"
+              ],
+              "correct_answer": "one term",
+              "rationale": "Mono means one.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "A binomial has",
+              "options": [
+                "one term",
+                "two terms",
+                "three terms",
+                "zero terms"
+              ],
+              "correct_answer": "two terms",
+              "rationale": "Bi means two.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Simplify 4x + 3x.",
+              "options": [
+                "7x",
+                "12x",
+                "7x^2",
+                "x"
+              ],
+              "correct_answer": "7x",
+              "rationale": "Add coefficients of like terms.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Standard Identities",
+          "explanation": "An identity is an equation true for all allowed values of its variables. Standard identities such as (a + b)^2, (a - b)^2 and (a + b)(a - b) make algebraic multiplication faster. They are like reliable shortcuts, but they must be applied carefully with the right terms.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "(a + b)^2 equals",
+              "options": [
+                "a^2 + b^2",
+                "a^2 + 2ab + b^2",
+                "a^2 - b^2",
+                "2a + 2b"
+              ],
+              "correct_answer": "a^2 + 2ab + b^2",
+              "rationale": "This is the standard square identity.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "(a - b)^2 equals",
+              "options": [
+                "a^2 - 2ab + b^2",
+                "a^2 + 2ab + b^2",
+                "a^2 - b^2",
+                "a - b^2"
+              ],
+              "correct_answer": "a^2 - 2ab + b^2",
+              "rationale": "The middle term is negative.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "(a + b)(a - b) equals",
+              "options": [
+                "a^2 + b^2",
+                "a^2 - b^2",
+                "a^2 + 2ab + b^2",
+                "b^2 - a^2"
+              ],
+              "correct_answer": "a^2 - b^2",
+              "rationale": "This is the difference of squares identity.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "An identity is true for",
+              "options": [
+                "only one value",
+                "all values of variables",
+                "no value",
+                "only zero"
+              ],
+              "correct_answer": "all values of variables",
+              "rationale": "Identities hold generally.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Using identities can make multiplication",
+              "options": [
+                "slower always",
+                "faster and systematic",
+                "impossible",
+                "unrelated"
+              ],
+              "correct_answer": "faster and systematic",
+              "rationale": "Identities are algebraic shortcuts.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Visualising Solid Shapes",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Views, Maps, Faces, Edges and Vertices",
+          "explanation": "Solid shapes are three-dimensional, but we often draw or view them on flat surfaces. A 3-D object can have different front, side and top views. Maps represent space using symbols and directions. Solids also have faces, edges and vertices. Euler's relation connects these parts for many polyhedra.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A cube is a",
+              "options": [
+                "2-D shape",
+                "3-D shape",
+                "line",
+                "ray"
+              ],
+              "correct_answer": "3-D shape",
+              "rationale": "A cube has length, breadth and height.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "Top view means looking",
+              "options": [
+                "from above",
+                "from below only",
+                "from inside",
+                "from a calculator"
+              ],
+              "correct_answer": "from above",
+              "rationale": "Top view is seen from above.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A face of a solid is",
+              "options": [
+                "a flat surface",
+                "a corner",
+                "a ratio",
+                "a tax"
+              ],
+              "correct_answer": "a flat surface",
+              "rationale": "Faces are surfaces of solids.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "An edge is where",
+              "options": [
+                "two faces meet",
+                "two taxes meet",
+                "two roots meet",
+                "two variables disappear"
+              ],
+              "correct_answer": "two faces meet",
+              "rationale": "Edges are line segments of solids.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A vertex is a",
+              "options": [
+                "corner",
+                "surface",
+                "graph scale",
+                "discount"
+              ],
+              "correct_answer": "corner",
+              "rationale": "Vertices are corner points.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Mensuration",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Area of Trapezium, Quadrilaterals and Polygons",
+          "explanation": "Mensuration measures area, surface area and volume. A trapezium has one pair of parallel sides, and its area uses the sum of parallel sides and height. General quadrilaterals and polygons can be split into triangles and familiar shapes. Breaking complex figures into simpler parts makes area calculation manageable.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Area of a trapezium is",
+              "options": [
+                "1/2 x sum of parallel sides x height",
+                "length x breadth",
+                "side x side",
+                "2 pi r"
+              ],
+              "correct_answer": "1/2 x sum of parallel sides x height",
+              "rationale": "This is the trapezium area formula.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "A trapezium has",
+              "options": [
+                "one pair of parallel sides",
+                "no sides",
+                "all sides curved",
+                "three sides"
+              ],
+              "correct_answer": "one pair of parallel sides",
+              "rationale": "This is the defining feature used in the chapter.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Complex polygons can be split into",
+              "options": [
+                "simpler shapes",
+                "taxes",
+                "roots only",
+                "commas"
+              ],
+              "correct_answer": "simpler shapes",
+              "rationale": "Area is easier after decomposition.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Area is measured in",
+              "options": [
+                "square units",
+                "linear units",
+                "cubic units",
+                "degrees"
+              ],
+              "correct_answer": "square units",
+              "rationale": "Area covers surface.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Height used in area formulas is usually",
+              "options": [
+                "perpendicular distance",
+                "slant side always",
+                "largest number",
+                "tax rate"
+              ],
+              "correct_answer": "perpendicular distance",
+              "rationale": "Area formulas use perpendicular height.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Surface Area and Volume of Solids",
+          "explanation": "Surface area measures the total outer covering of a solid, like wrapping paper around a box. Volume measures the space inside a solid, like water a container can hold. Cubes, cuboids and cylinders have formulas for surface area and volume. Capacity is closely related to volume and is often measured in litres.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Volume of a cuboid is",
+              "options": [
+                "l x b x h",
+                "2(l + b)",
+                "side x side",
+                "pi r^2"
+              ],
+              "correct_answer": "l x b x h",
+              "rationale": "Volume uses length, breadth and height.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Volume is measured in",
+              "options": [
+                "square units",
+                "cubic units",
+                "degrees",
+                "percent"
+              ],
+              "correct_answer": "cubic units",
+              "rationale": "Volume measures space inside a solid.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Surface area measures",
+              "options": [
+                "outer covering",
+                "only height",
+                "only tax",
+                "only probability"
+              ],
+              "correct_answer": "outer covering",
+              "rationale": "Surface area is total area of faces.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "A cylinder has circular",
+              "options": [
+                "bases",
+                "diagonals",
+                "taxes",
+                "variables"
+              ],
+              "correct_answer": "bases",
+              "rationale": "A cylinder has two circular bases.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Capacity is commonly measured in",
+              "options": [
+                "litres",
+                "degrees",
+                "square cm",
+                "percent only"
+              ],
+              "correct_answer": "litres",
+              "rationale": "Capacity describes how much a container can hold.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Exponents and Powers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Negative Exponents and Standard Form",
+          "explanation": "Exponents are shortcuts for repeated multiplication. Class 8 extends this idea to negative exponents: a negative exponent shows a reciprocal power. Powers of 10 help write very large and very small numbers in standard form. This is useful in science, measurements and comparing quantities of very different sizes.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "10^-2 equals",
+              "options": [
+                "100",
+                "10",
+                "1/10",
+                "1/100"
+              ],
+              "correct_answer": "1/100",
+              "rationale": "A negative exponent gives reciprocal power.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "2^-1 equals",
+              "options": [
+                "2",
+                "1/2",
+                "-2",
+                "0"
+              ],
+              "correct_answer": "1/2",
+              "rationale": "a^-1 = 1/a for non-zero a.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "0.000007 in standard form is",
+              "options": [
+                "7 x 10^-6",
+                "7 x 10^6",
+                "0.7 x 10^-5",
+                "70 x 10^-7"
+              ],
+              "correct_answer": "7 x 10^-6",
+              "rationale": "Move decimal six places to make 7.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "Standard form is useful for",
+              "options": [
+                "very large and very small numbers",
+                "only polygons",
+                "only bar graphs",
+                "only taxes"
+              ],
+              "correct_answer": "very large and very small numbers",
+              "rationale": "It expresses numbers compactly.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "10^3 equals",
+              "options": [
+                "30",
+                "100",
+                "1000",
+                "10000"
+              ],
+              "correct_answer": "1000",
+              "rationale": "10 x 10 x 10 = 1000.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Direct and Inverse Proportions",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Direct Proportion",
+          "explanation": "Two quantities are in direct proportion when they increase or decrease together in the same ratio. If more notebooks cost more money at a fixed price, cost and number of notebooks are directly proportional. The ratio between corresponding values remains constant, making unitary method and tables useful.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In direct proportion, quantities",
+              "options": [
+                "increase together in same ratio",
+                "always move opposite",
+                "never change",
+                "are always zero"
+              ],
+              "correct_answer": "increase together in same ratio",
+              "rationale": "Direct proportion keeps the same ratio.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "If 1 pen costs Rs 5, 4 pens cost",
+              "options": [
+                "Rs 5",
+                "Rs 9",
+                "Rs 20",
+                "Rs 45"
+              ],
+              "correct_answer": "Rs 20",
+              "rationale": "Cost increases directly with number of pens.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "Direct proportion has a constant",
+              "options": [
+                "sum",
+                "ratio",
+                "difference only",
+                "angle"
+              ],
+              "correct_answer": "ratio",
+              "rationale": "Corresponding ratios are equal.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "More distance at same speed needs",
+              "options": [
+                "more time",
+                "less time always",
+                "zero time",
+                "same time always"
+              ],
+              "correct_answer": "more time",
+              "rationale": "Distance and time are direct at constant speed.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which pair is usually direct?",
+              "options": [
+                "Number of items and total cost at fixed price",
+                "Workers and time for same work",
+                "Speed and time for same distance",
+                "Discount and marked price always"
+              ],
+              "correct_answer": "Number of items and total cost at fixed price",
+              "rationale": "More items cost more at a fixed rate.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Inverse Proportion",
+          "explanation": "Two quantities are in inverse proportion when one increases as the other decreases, while the product remains constant. For the same work, more workers take less time. For the same distance, higher speed takes less time. Inverse proportion helps solve practical problems involving work, speed, time and sharing.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "In inverse proportion, if one quantity increases, the other",
+              "options": [
+                "also increases",
+                "decreases",
+                "becomes equal",
+                "becomes zero always"
+              ],
+              "correct_answer": "decreases",
+              "rationale": "They move in opposite directions.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "For the same work, more workers need",
+              "options": [
+                "more time",
+                "less time",
+                "same time always",
+                "no time"
+              ],
+              "correct_answer": "less time",
+              "rationale": "Work is shared among more workers.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "In inverse proportion, the product is",
+              "options": [
+                "constant",
+                "always zero",
+                "always increasing",
+                "always decreasing"
+              ],
+              "correct_answer": "constant",
+              "rationale": "Corresponding products remain equal.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "For the same distance, higher speed means",
+              "options": [
+                "less time",
+                "more time",
+                "same time always",
+                "zero distance"
+              ],
+              "correct_answer": "less time",
+              "rationale": "Speed and time are inverse for fixed distance.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Which pair is usually inverse?",
+              "options": [
+                "Workers and time for same work",
+                "Items and cost at fixed price",
+                "Age and height always",
+                "Radius and diameter"
+              ],
+              "correct_answer": "Workers and time for same work",
+              "rationale": "More workers reduce time for same work.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Factorisation",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Factorisation Methods",
+          "explanation": "Factorisation means writing an expression as a product of its factors. Just as 12 can be written as 3 x 4, algebraic expressions can also be broken into factors. Common factors, regrouping, identities and forms like (x + a)(x + b) help factorise expressions. Factorisation is the reverse of multiplication.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "Factorisation is the reverse of",
+              "options": [
+                "addition",
+                "multiplication",
+                "subtraction only",
+                "division only"
+              ],
+              "correct_answer": "multiplication",
+              "rationale": "Multiplication expands; factorisation breaks into factors.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "Common factor of 6x and 9x is",
+              "options": [
+                "3x",
+                "6x",
+                "9",
+                "54x"
+              ],
+              "correct_answer": "3x",
+              "rationale": "3x divides both terms.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "x^2 - y^2 factorises as",
+              "options": [
+                "(x + y)(x - y)",
+                "(x + y)^2",
+                "(x - y)^2",
+                "x(x - y)"
+              ],
+              "correct_answer": "(x + y)(x - y)",
+              "rationale": "This uses the difference of squares identity.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "In factorisation by regrouping, we",
+              "options": [
+                "group suitable terms",
+                "draw pie charts",
+                "find cube roots",
+                "use tax rate"
+              ],
+              "correct_answer": "group suitable terms",
+              "rationale": "Regrouping reveals common factors.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Factors of algebraic expressions multiply to give the",
+              "options": [
+                "original expression",
+                "probability",
+                "graph only",
+                "angle"
+              ],
+              "correct_answer": "original expression",
+              "rationale": "Factors are product parts.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Division of Algebraic Expressions",
+          "explanation": "Division of algebraic expressions uses factors. A monomial can be divided by another monomial by dividing coefficients and subtracting powers of like variables. A polynomial divided by a monomial is handled term by term. Factorisation makes division simpler and also helps detect common errors.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "6x divided by 3x equals",
+              "options": [
+                "2",
+                "3",
+                "2x",
+                "18x"
+              ],
+              "correct_answer": "2",
+              "rationale": "Coefficients divide and x cancels.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "x^5 divided by x^2 equals",
+              "options": [
+                "x^3",
+                "x^7",
+                "x^10",
+                "x"
+              ],
+              "correct_answer": "x^3",
+              "rationale": "Subtract exponents for same base.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "(6x + 9) divided by 3 is",
+              "options": [
+                "2x + 3",
+                "6x + 3",
+                "2x + 9",
+                "18x + 27"
+              ],
+              "correct_answer": "2x + 3",
+              "rationale": "Divide each term by 3.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Polynomial divided by monomial is divided",
+              "options": [
+                "term by term",
+                "only first term",
+                "only last term",
+                "never"
+              ],
+              "correct_answer": "term by term",
+              "rationale": "Each term is divided by the monomial.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Factorisation helps division by showing",
+              "options": [
+                "common factors",
+                "pie sectors",
+                "random digits",
+                "views of solids"
+              ],
+              "correct_answer": "common factors",
+              "rationale": "Common factors can be cancelled.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Introduction to Graphs",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Types of Graphs and Coordinates",
+          "explanation": "Graphs show information visually. Bar graphs compare categories, pie graphs show parts of a whole, histograms show grouped data, and line graphs show change. Coordinates locate a point on a plane using an ordered pair (x, y). The x-coordinate tells horizontal movement and the y-coordinate tells vertical movement.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 9,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A line graph is useful to show",
+              "options": [
+                "change over time",
+                "only factors",
+                "only solid faces",
+                "only roots"
+              ],
+              "correct_answer": "change over time",
+              "rationale": "Line graphs show trends.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A point is located using",
+              "options": [
+                "coordinates",
+                "tax",
+                "discount",
+                "surface area only"
+              ],
+              "correct_answer": "coordinates",
+              "rationale": "Coordinates identify position.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "In (3, 5), the x-coordinate is",
+              "options": [
+                "3",
+                "5",
+                "8",
+                "2"
+              ],
+              "correct_answer": "3",
+              "rationale": "The first number is the x-coordinate.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "In (3, 5), the y-coordinate is",
+              "options": [
+                "3",
+                "5",
+                "8",
+                "2"
+              ],
+              "correct_answer": "5",
+              "rationale": "The second number is the y-coordinate.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A pie graph is also called a",
+              "options": [
+                "circle graph",
+                "line segment",
+                "cube graph",
+                "factor tree"
+              ],
+              "correct_answer": "circle graph",
+              "rationale": "Pie graphs divide a circle into sectors.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Linear Graphs and Applications",
+          "explanation": "A linear graph is a straight-line graph. It can show relationships such as cost versus number of items or distance versus time at a constant speed. To draw a graph, make a table of values, plot points using coordinates, and join them appropriately. Graphs turn number patterns into visible relationships.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A linear graph is usually a",
+              "options": [
+                "straight line",
+                "circle",
+                "cube",
+                "random curve only"
+              ],
+              "correct_answer": "straight line",
+              "rationale": "Linear relationships form straight-line graphs.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "To draw a graph, we first often make a",
+              "options": [
+                "table of values",
+                "tax receipt",
+                "solid net",
+                "factor only"
+              ],
+              "correct_answer": "table of values",
+              "rationale": "Tables give points to plot.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "The horizontal axis is commonly called the",
+              "options": [
+                "x-axis",
+                "y-axis",
+                "z-axis only",
+                "radius"
+              ],
+              "correct_answer": "x-axis",
+              "rationale": "The x-axis runs horizontally.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "The vertical axis is commonly called the",
+              "options": [
+                "x-axis",
+                "y-axis",
+                "diameter",
+                "base"
+              ],
+              "correct_answer": "y-axis",
+              "rationale": "The y-axis runs vertically.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "A graph of distance-time at constant speed is",
+              "options": [
+                "linear",
+                "always circular",
+                "impossible",
+                "a pie chart"
+              ],
+              "correct_answer": "linear",
+              "rationale": "Constant speed gives a straight-line relationship.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_name": "Playing with Numbers",
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Numbers in General Form and Digit Games",
+          "explanation": "Numbers can be written in general form using place value. A two-digit number with tens digit a and ones digit b is 10a + b. This helps explain digit games and patterns logically. Letters can stand for digits, but each letter must represent a valid digit and follow place-value rules.",
+          "difficulty": "Hard",
+          "total_timer_minutes": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A two-digit number with tens digit a and ones digit b is",
+              "options": [
+                "a + b",
+                "10a + b",
+                "ab only",
+                "10b + a"
+              ],
+              "correct_answer": "10a + b",
+              "rationale": "The tens digit has value 10a.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 2,
+              "question_text": "If a = 3 and b = 5, 10a + b equals",
+              "options": [
+                "8",
+                "35",
+                "53",
+                "350"
+              ],
+              "correct_answer": "35",
+              "rationale": "10 x 3 + 5 = 35.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 3,
+              "question_text": "Reversing digits of 10a + b gives",
+              "options": [
+                "10a + b",
+                "10b + a",
+                "a - b",
+                "ab + 10"
+              ],
+              "correct_answer": "10b + a",
+              "rationale": "The ones digit becomes tens digit.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 4,
+              "question_text": "Letters for digits must represent",
+              "options": [
+                "digits",
+                "angles",
+                "graphs",
+                "taxes"
+              ],
+              "correct_answer": "digits",
+              "rationale": "Each letter stands for a digit in such puzzles.",
+              "timer_per_question_seconds": 60
+            },
+            {
+              "question_id": 5,
+              "question_text": "Place value is important because digit position changes",
+              "options": [
+                "value",
+                "colour only",
+                "shape only",
+                "probability only"
+              ],
+              "correct_answer": "value",
+              "rationale": "A digit's value depends on its place.",
+              "timer_per_question_seconds": 60
+            }
+          ]
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Divisibility Tests",
+          "explanation": "Divisibility tests are quick rules for checking whether one number divides another exactly. A number ending in 0 is divisible by 10. A number ending in 0 or 5 is divisible by 5. A number ending in an even digit is divisible by 2. For 3 and 9, we use the sum of digits.",
+          "difficulty": "Medium",
+          "total_timer_minutes": 8,
+          "questions": [
+            {
+              "question_id": 1,
+              "question_text": "A number divisible by 10 ends in",
+              "options": [
+                "0",
+                "5",
+                "2",
+                "9"
+              ],
+              "correct_answer": "0",
+              "rationale": "The divisibility test for 10 checks the ones digit.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 2,
+              "question_text": "A number divisible by 5 ends in",
+              "options": [
+                "0 or 5",
+                "2 or 4",
+                "3 or 9",
+                "1 only"
+              ],
+              "correct_answer": "0 or 5",
+              "rationale": "This is the divisibility rule for 5.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 3,
+              "question_text": "A number divisible by 2 has ones digit",
+              "options": [
+                "odd",
+                "even",
+                "5",
+                "9"
+              ],
+              "correct_answer": "even",
+              "rationale": "Even endings are divisible by 2.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 4,
+              "question_text": "For divisibility by 9, check the",
+              "options": [
+                "sum of digits",
+                "first digit only",
+                "last two digits only",
+                "number of zeros"
+              ],
+              "correct_answer": "sum of digits",
+              "rationale": "If digit sum is divisible by 9, the number is divisible by 9.",
+              "timer_per_question_seconds": 45
+            },
+            {
+              "question_id": 5,
+              "question_text": "For divisibility by 3, digit sum should be divisible by",
+              "options": [
+                "2",
+                "3",
+                "5",
+                "10"
+              ],
+              "correct_answer": "3",
+              "rationale": "The rule for 3 uses digit sum.",
+              "timer_per_question_seconds": 45
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

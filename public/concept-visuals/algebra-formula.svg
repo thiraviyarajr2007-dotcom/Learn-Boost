@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-label="Algebra formula visual model">
+  <rect width="720" height="260" rx="28" fill="#f8fafc"/>
+  <rect x="70" y="70" width="130" height="90" rx="20" fill="#ede9fe" stroke="#7c3aed" stroke-width="6"/>
+  <rect x="294" y="70" width="130" height="90" rx="20" fill="#e0f2fe" stroke="#0284c7" stroke-width="6"/>
+  <rect x="518" y="70" width="130" height="90" rx="20" fill="#fef3c7" stroke="#d97706" stroke-width="6"/>
+  <text x="135" y="127" font-family="Arial, sans-serif" font-size="34" font-weight="800" text-anchor="middle" fill="#5b21b6">x</text>
+  <text x="248" y="127" font-family="Arial, sans-serif" font-size="34" font-weight="800" text-anchor="middle" fill="#334155">→</text>
+  <text x="359" y="127" font-family="Arial, sans-serif" font-size="30" font-weight="800" text-anchor="middle" fill="#075985">substitute</text>
+  <text x="472" y="127" font-family="Arial, sans-serif" font-size="34" font-weight="800" text-anchor="middle" fill="#334155">→</text>
+  <text x="583" y="127" font-family="Arial, sans-serif" font-size="30" font-weight="800" text-anchor="middle" fill="#92400e">answer</text>
+  <text x="360" y="218" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#475569">Find the unknown by substituting, simplifying, and checking both sides.</text>
+</svg>

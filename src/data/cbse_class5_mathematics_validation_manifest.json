@@ -1,0 +1,280 @@
+{
+  "source": "NCERT Maths Mela Grade 5 PDFs, reprint 2026-27",
+  "syllabus": "CBSE",
+  "class": "Class 5",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "We the Travellers - I",
+      "pdf": "eemm101.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m001_large_numbers_and_ten_thousands",
+          "topic_name": "Large Numbers and Ten Thousands",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m002_indian_place_value_reading",
+          "topic_name": "Indian Place Value Reading",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fractions",
+      "pdf": "eemm102.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m003_comparing_fractions_of_wholes",
+          "topic_name": "Comparing Fractions of Wholes",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m004_equivalent_fractions",
+          "topic_name": "Equivalent Fractions",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Angles as Turns",
+      "pdf": "eemm103.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m005_full_half_and_quarter_turns",
+          "topic_name": "Full, Half and Quarter Turns",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m006_turns_in_everyday_objects",
+          "topic_name": "Turns in Everyday Objects",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "We the Travellers - II",
+      "pdf": "eemm104.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m007_equal_sums_and_number_swaps",
+          "topic_name": "Equal Sums and Number Swaps",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m008_fuel_arithmetic",
+          "topic_name": "Fuel Arithmetic",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Far and Near",
+      "pdf": "eemm105.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m009_metres_and_centimetres",
+          "topic_name": "Metres and Centimetres",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m010_comparing_lengths",
+          "topic_name": "Comparing Lengths",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "The Dairy Farm",
+      "pdf": "eemm106.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m011_multiplication_facts_and_factors",
+          "topic_name": "Multiplication Facts and Factors",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m012_number_clues_and_operations",
+          "topic_name": "Number Clues and Operations",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Shapes and Patterns",
+      "pdf": "eemm107.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m013_weaving_patterns",
+          "topic_name": "Weaving Patterns",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m014_geometric_designs_with_strips",
+          "topic_name": "Geometric Designs with Strips",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Weight and Capacity",
+      "pdf": "eemm108.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m015_reading_weighing_scales",
+          "topic_name": "Reading Weighing Scales",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m016_capacity_and_unit_conversion",
+          "topic_name": "Capacity and Unit Conversion",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Coconut Farm",
+      "pdf": "eemm109.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m017_multiplication_and_division_facts",
+          "topic_name": "Multiplication and Division Facts",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m018_large_products_and_related_division",
+          "topic_name": "Large Products and Related Division",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Symmetrical Designs",
+      "pdf": "eemm110.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m019_alphabet_symmetry",
+          "topic_name": "Alphabet Symmetry",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m020_firkis_and_symmetric_designs",
+          "topic_name": "Firkis and Symmetric Designs",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Grandmother's Quilt",
+      "pdf": "eemm111.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m021_perimeter_of_shapes",
+          "topic_name": "Perimeter of Shapes",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m022_area_and_tiling",
+          "topic_name": "Area and Tiling",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Racing Seconds",
+      "pdf": "eemm112.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m023_elapsed_time",
+          "topic_name": "Elapsed Time",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m024_12_hour_and_24_hour_time",
+          "topic_name": "12-Hour and 24-Hour Time",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Animal Jumps",
+      "pdf": "eemm113.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m025_factors_and_multiples",
+          "topic_name": "Factors and Multiples",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m026_prime_numbers_and_common_multiples",
+          "topic_name": "Prime Numbers and Common Multiples",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Maps and Locations",
+      "pdf": "eemm114.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m027_cardinal_directions",
+          "topic_name": "Cardinal Directions",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m028_reading_locations_on_a_map",
+          "topic_name": "Reading Locations on a Map",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Through Pictures",
+      "pdf": "eemm115.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c5_m029_collecting_and_reading_data",
+          "topic_name": "Collecting and Reading Data",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c5_m030_pictographs_and_icons",
+          "topic_name": "Pictographs and Icons",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    }
+  ],
+  "module_total": 30,
+  "question_total": 150
+}

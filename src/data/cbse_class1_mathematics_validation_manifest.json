@@ -1,0 +1,250 @@
+{
+  "source": "NCERT Joyful Mathematics Class 1 PDF, first edition 2023",
+  "syllabus": "CBSE",
+  "class": "Class 1",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "Finding the Furry Cat! (Pre-number Concepts)",
+      "page": 1,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m001_inside_and_outside",
+          "topic_name": "Inside and Outside",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m002_above_below_on_and_under",
+          "topic_name": "Above, Below, On and Under",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m003_before_after_and_grouping",
+          "topic_name": "Before, After and Grouping",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "What is Long? What is Round? (Shapes)",
+      "page": 10,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m004_long_round_and_shape_words",
+          "topic_name": "Long, Round and Shape Words",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m005_rolling_and_sliding",
+          "topic_name": "Rolling and Sliding",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Mango Treat (Numbers 1 to 9)",
+      "page": 18,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m006_counting_1_to_9",
+          "topic_name": "Counting 1 to 9",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m007_number_names_and_quantity",
+          "topic_name": "Number Names and Quantity",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Making 10 (Numbers 10 to 20)",
+      "page": 33,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m008_making_a_group_of_10",
+          "topic_name": "Making a Group of 10",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m009_counting_10_to_20",
+          "topic_name": "Counting 10 to 20",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "How Many? (Addition and Subtraction of Single Digit Numbers)",
+      "page": 48,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m010_adding_single_digit_numbers",
+          "topic_name": "Adding Single Digit Numbers",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m011_subtracting_with_a_number_strip",
+          "topic_name": "Subtracting with a Number Strip",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Vegetable Farm (Addition and Subtraction up to 20)",
+      "page": 64,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m012_addition_up_to_20",
+          "topic_name": "Addition up to 20",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m013_subtraction_up_to_20",
+          "topic_name": "Subtraction up to 20",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Lina's Family (Measurement)",
+      "page": 72,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m014_longer_and_shorter",
+          "topic_name": "Longer and Shorter",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m015_capacity_and_carrying",
+          "topic_name": "Capacity and Carrying",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fun with Numbers (Numbers 21 to 99)",
+      "page": 84,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m016_counting_21_to_99",
+          "topic_name": "Counting 21 to 99",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m017_number_puzzles_and_arrangements",
+          "topic_name": "Number Puzzles and Arrangements",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Utsav (Patterns)",
+      "page": 98,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m018_patterns_around_us",
+          "topic_name": "Patterns Around Us",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m019_making_patterns",
+          "topic_name": "Making Patterns",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "How do I Spend my Day? (Time)",
+      "page": 105,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m020_daily_routine_and_time",
+          "topic_name": "Daily Routine and Time",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m021_seasons_and_activities",
+          "topic_name": "Seasons and Activities",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "How Many Times? (Multiplication)",
+      "page": 111,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m022_repeated_addition",
+          "topic_name": "Repeated Addition",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m023_equal_groups",
+          "topic_name": "Equal Groups",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "How Much Can We Spend? (Money)",
+      "page": 115,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m024_coins_notes_and_amounts",
+          "topic_name": "Coins, Notes and Amounts",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m025_saving_money",
+          "topic_name": "Saving Money",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "So Many Toys (Data Handling)",
+      "page": 120,
+      "modules": [
+        {
+          "module_id": "cbse_c1_m026_counting_and_comparing_toys",
+          "topic_name": "Counting and Comparing Toys",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c1_m027_colourful_flowers_data",
+          "topic_name": "Colourful Flowers Data",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    }
+  ],
+  "module_total": 27,
+  "question_total": 135
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Learn Boost logo">
+  <rect width="64" height="64" rx="16" fill="#2e5b82"/>
+  <circle cx="22" cy="24" r="7" fill="#f8fafc"/>
+  <circle cx="42" cy="24" r="7" fill="#f8fafc"/>
+  <circle cx="22" cy="24" r="3" fill="#0f172a"/>
+  <circle cx="42" cy="24" r="3" fill="#0f172a"/>
+  <path d="M22 43c5 5 15 5 20 0" fill="none" stroke="#facc15" stroke-width="5" stroke-linecap="round"/>
+  <path d="M10 12h10M15 7v10M44 13h10M49 8v10" stroke="#a7f3d0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M18 54h28" stroke="#f8fafc" stroke-width="4" stroke-linecap="round"/>
+</svg>

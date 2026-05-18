@@ -1,0 +1,2144 @@
+[
+  {
+    "chapter_name": "Shapes Around Us",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m001_models_prisms_and_pyramids",
+        "topic_name": "Models, Prisms and Pyramids",
+        "explanation": "Buildings can be understood by making models with blocks. In this chapter, children model India Gate and Qutub Minar using cubes, cuboids, cylinders, prisms, and pyramids. A good model keeps the important parts, like base, pillars, roof, and storeys, even if it is simpler than the real building.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which building model is made using wooden blocks in Chapter 1?",
+            "options": [
+              "Surajkund Fair",
+              "Transport Museum",
+              "India Gate",
+              "Mawlynnong"
+            ],
+            "correct_answer": "India Gate",
+            "rationale": "The opening activity says the child is trying to make India Gate with wooden blocks.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Qutub Minar has ____ storeys.",
+            "options": [
+              "3",
+              "379",
+              "5",
+              "10"
+            ],
+            "correct_answer": "5",
+            "rationale": "The PDF note states Qutub Minar has 5 storeys and 379 stairs.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Qutub Minar has ____ stairs.",
+            "options": [
+              "5",
+              "77",
+              "379",
+              "1000"
+            ],
+            "correct_answer": "379",
+            "rationale": "The chapter fact says it has 379 stairs.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A model of a building should show important ____.",
+            "options": [
+              "Dates",
+              "Responses",
+              "Parts",
+              "Prices"
+            ],
+            "correct_answer": "Parts",
+            "rationale": "The activity asks which parts of the building are shown in the model.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A cube is also discussed as a kind of ____.",
+            "options": [
+              "Calendar",
+              "Fraction",
+              "Prism",
+              "Data table"
+            ],
+            "correct_answer": "Prism",
+            "rationale": "The chapter asks, 'Is a cube also a prism?'",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m002_nets_of_solids",
+        "topic_name": "Nets of Solids",
+        "explanation": "A net is a flat pattern that can fold into a solid shape. The chapter asks children to use nets at the end of the book to make models. Nets help us see how flat faces join to make cubes, prisms, pyramids, and other 3D shapes.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A flat pattern that folds into a solid is called a ____.",
+            "options": [
+              "Leap year",
+              "Response",
+              "Net",
+              "Multiple"
+            ],
+            "correct_answer": "Net",
+            "rationale": "The chapter asks children to use nets to make models.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "A cube has ____ square faces.",
+            "options": [
+              "4",
+              "8",
+              "6",
+              "5"
+            ],
+            "correct_answer": "6",
+            "rationale": "A cube is made of six square faces.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A pyramid has a base and faces that meet at a ____.",
+            "options": [
+              "Calendar",
+              "Rupee",
+              "Point",
+              "Litre"
+            ],
+            "correct_answer": "Point",
+            "rationale": "Pyramid side faces meet at one top point.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Nets help connect flat shapes to ____ shapes.",
+            "options": [
+              "Time only",
+              "Data only",
+              "Solid",
+              "Money only"
+            ],
+            "correct_answer": "Solid",
+            "rationale": "Nets fold into 3D solids.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Removing one piece from a model may change its ____.",
+            "options": [
+              "Date",
+              "Weight unit",
+              "Shape",
+              "Price"
+            ],
+            "correct_answer": "Shape",
+            "rationale": "The chapter asks what happens if one piece is removed.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Hide and Seek",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m003_top_front_and_side_views",
+        "topic_name": "Top, Front and Side Views",
+        "explanation": "The same object can look different from different places. In Hide and Seek, children compare top view, front view, and side view. Mini, Bholu, and Rani draw the same brick differently because each child sees it from a different direction.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The chapter asks children to identify top, front and ____ views.",
+            "options": [
+              "Calendar",
+              "Weight",
+              "Side",
+              "Money"
+            ],
+            "correct_answer": "Side",
+            "rationale": "The teacher note names top view, side view, and front view.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Mini, Bholu and Rani draw the same ____.",
+            "options": [
+              "Calendar",
+              "Pumpkin",
+              "Brick",
+              "Mala"
+            ],
+            "correct_answer": "Brick",
+            "rationale": "The chapter asks why their drawings of the same brick differ.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A view from above is called the ____ view.",
+            "options": [
+              "Front",
+              "Bottom only",
+              "Top",
+              "Side"
+            ],
+            "correct_answer": "Top",
+            "rationale": "Top view means looking from above.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A picture clicked from the front shows the ____ view.",
+            "options": [
+              "Top",
+              "Leap",
+              "Front",
+              "Back only"
+            ],
+            "correct_answer": "Front",
+            "rationale": "The chapter mentions a tree picture from the front.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Different views happen because we look from different ____.",
+            "options": [
+              "Prices",
+              "Subjects",
+              "Directions",
+              "Months"
+            ],
+            "correct_answer": "Directions",
+            "rationale": "Direction changes the visible shape.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m004_visibility_and_position",
+        "topic_name": "Visibility and Position",
+        "explanation": "Hide and seek is a playful way to learn position and visibility. A child may or may not see others depending on where they stand and which way they face. This develops spatial thinking: front, back, near, far, left, right, and behind.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The children are playing ____.",
+            "options": [
+              "NIM",
+              "Calendar game",
+              "Hide and seek",
+              "Market shopping"
+            ],
+            "correct_answer": "Hide and seek",
+            "rationale": "The opening page asks which game the children are playing.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "If Rani faces the hut, she may see children near the ____.",
+            "options": [
+              "Calendar",
+              "Bottle",
+              "Hut",
+              "Scale"
+            ],
+            "correct_answer": "Hut",
+            "rationale": "The question asks if Rani can see who is hiding near the hut.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Seeing depends on where we ____.",
+            "options": [
+              "Spend",
+              "Weigh",
+              "Stand",
+              "Multiply only"
+            ],
+            "correct_answer": "Stand",
+            "rationale": "Position affects visibility.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Behind is a ____ word.",
+            "options": [
+              "Capacity",
+              "Leap",
+              "Position",
+              "Data"
+            ],
+            "correct_answer": "Position",
+            "rationale": "Behind describes location.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "A top view can reveal things hidden from a ____ view.",
+            "options": [
+              "Month",
+              "Kilogram",
+              "Front",
+              "Rupee"
+            ],
+            "correct_answer": "Front",
+            "rationale": "Different views reveal different information.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Pattern Around Us",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m005_counting_arrangements",
+        "topic_name": "Counting Arrangements",
+        "explanation": "Patterns help us count faster. Muniamma arranges cups, plates, laddoos, and pedas in trays. When rows, columns, or stacks repeat the same arrangement, we can count one group and multiply or add groups instead of counting every object one by one.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Muniamma makes plates and ____.",
+            "options": [
+              "Calendars",
+              "Airplanes",
+              "Cups",
+              "Bricks"
+            ],
+            "correct_answer": "Cups",
+            "rationale": "The PDF says Muniamma makes plates and cups.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Gundappa has tall ____ trees.",
+            "options": [
+              "Mango only",
+              "Banana only",
+              "Coconut",
+              "Pine"
+            ],
+            "correct_answer": "Coconut",
+            "rationale": "The chapter mentions tall coconut trees.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "If 5 coconuts are plucked from each of 4 trees, total coconuts are ____.",
+            "options": [
+              "9",
+              "10",
+              "20",
+              "45"
+            ],
+            "correct_answer": "20",
+            "rationale": "4 × 5 = 20.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Repeated equal trays can be counted using ____.",
+            "options": [
+              "Leap years",
+              "Symmetry only",
+              "Multiplication",
+              "Views"
+            ],
+            "correct_answer": "Multiplication",
+            "rationale": "Equal arrangements support multiplication.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A top view can help count stacked ____.",
+            "options": [
+              "Months",
+              "Litres",
+              "Trays",
+              "Subjects"
+            ],
+            "correct_answer": "Trays",
+            "rationale": "The page labels a top view of arranged trays.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m006_patterns_with_money",
+        "topic_name": "Patterns with Money",
+        "explanation": "Money can also make patterns. Shirley and Shiv arrange play money and coins to show amounts like ₹36, ₹125, and ₹183. When notes and coins are grouped carefully, we can read the total amount quickly.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The money activity asks children to arrange play money to show ₹36, ₹125 and ₹____.",
+            "options": [
+              "18",
+              "45",
+              "183",
+              "300"
+            ],
+            "correct_answer": "183",
+            "rationale": "The PDF lists ₹36, ₹125, and ₹183.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "A ₹10 note repeated 3 times gives ₹____.",
+            "options": [
+              "13",
+              "3",
+              "30",
+              "300"
+            ],
+            "correct_answer": "30",
+            "rationale": "3 tens make 30.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "₹100 + ₹20 + ₹5 = ₹____.",
+            "options": [
+              "152",
+              "105",
+              "125",
+              "25"
+            ],
+            "correct_answer": "125",
+            "rationale": "The amount is one hundred twenty-five.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Coins arranged in triangles make a ____.",
+            "options": [
+              "Calendar",
+              "Capacity",
+              "Pattern",
+              "View"
+            ],
+            "correct_answer": "Pattern",
+            "rationale": "The PDF asks for numbers of coins in triangular arrangements.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Counting money patterns helps find the total ____.",
+            "options": [
+              "Height",
+              "View",
+              "Amount",
+              "Date"
+            ],
+            "correct_answer": "Amount",
+            "rationale": "Money arrangements represent amounts.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Thousands Around Us",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m007_thousands_hundreds_tens_and_ones",
+        "topic_name": "Thousands, Hundreds, Tens and Ones",
+        "explanation": "The langar story introduces numbers around one thousand. Donations and lunch counts are written in different forms: ones, tens, hundreds, expressions, and words. HTO blocks help children see how many hundreds, tens, and ones a number has.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The langar expected around ____ people.",
+            "options": [
+              "100",
+              "508",
+              "1000",
+              "55"
+            ],
+            "correct_answer": "1000",
+            "rationale": "The PDF says around one thousand people are expected.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "Fifty-five people volunteered to ____.",
+            "options": [
+              "Measure",
+              "Hide",
+              "Serve",
+              "Fold"
+            ],
+            "correct_answer": "Serve",
+            "rationale": "The story says 55 people volunteer to serve.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "4 ones + 7 tens equals ____.",
+            "options": [
+              "47",
+              "407",
+              "74",
+              "11"
+            ],
+            "correct_answer": "74",
+            "rationale": "7 tens are 70 and 4 ones make 74.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "100 - 7 equals ____.",
+            "options": [
+              "107",
+              "73",
+              "93",
+              "97"
+            ],
+            "correct_answer": "93",
+            "rationale": "100 minus 7 is 93.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "HTO blocks stand for hundreds, tens and ____.",
+            "options": [
+              "Orders",
+              "Options",
+              "Ones",
+              "Objects"
+            ],
+            "correct_answer": "Ones",
+            "rationale": "HTO represents place value.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m008_comparing_and_forming_3_digit_numbers",
+        "topic_name": "Comparing and Forming 3-Digit Numbers",
+        "explanation": "Children make 3-digit numbers using digits and compare the smallest and largest. They also read lunch counts like 52, 145, 325, and 508. Place value decides which number is bigger: hundreds first, then tens, then ones.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which is largest: 333, 373, 737, 777?",
+            "options": [
+              "333",
+              "737",
+              "777",
+              "373"
+            ],
+            "correct_answer": "777",
+            "rationale": "777 has the greatest hundreds, tens, and ones among these.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which is smallest: 333, 337, 373, 733?",
+            "options": [
+              "337",
+              "733",
+              "333",
+              "373"
+            ],
+            "correct_answer": "333",
+            "rationale": "333 is the smallest of the listed numbers.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "508 has ____ hundreds.",
+            "options": [
+              "0",
+              "50",
+              "5",
+              "8"
+            ],
+            "correct_answer": "5",
+            "rationale": "508 has 5 hundreds.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "145 has ____ tens.",
+            "options": [
+              "1",
+              "14",
+              "4",
+              "5"
+            ],
+            "correct_answer": "4",
+            "rationale": "145 has 4 tens.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "To compare 3-digit numbers, check ____ first.",
+            "options": [
+              "Ones",
+              "Subjects",
+              "Hundreds",
+              "Days"
+            ],
+            "correct_answer": "Hundreds",
+            "rationale": "Hundreds place has the greatest value.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Sharing and Measuring",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m009_halves_and_quarters",
+        "topic_name": "Halves and Quarters",
+        "explanation": "Fractions are fair parts of a whole. Ikra asks whether half a paper or two quarters should be used. One half and two quarters can cover the same amount if the parts are equal. Fractions make sense only when the whole is divided equally.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "When an object is divided into two equal parts, each part is a ____.",
+            "options": [
+              "Quarter",
+              "Thousand",
+              "Half",
+              "Third"
+            ],
+            "correct_answer": "Half",
+            "rationale": "The PDF defines a half as one of two equal parts.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Half is written as ____.",
+            "options": [
+              "1/4",
+              "4/1",
+              "1/2",
+              "2/4 only"
+            ],
+            "correct_answer": "1/2",
+            "rationale": "The page writes half as 1/2.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "When an object is divided into four equal parts, each part is a ____.",
+            "options": [
+              "Half",
+              "View",
+              "Quarter",
+              "Hundred"
+            ],
+            "correct_answer": "Quarter",
+            "rationale": "The PDF defines a quarter.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Quarter is written as ____.",
+            "options": [
+              "1/2",
+              "2/1",
+              "1/4",
+              "4/4 only"
+            ],
+            "correct_answer": "1/4",
+            "rationale": "The page writes quarter as 1/4.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Two quarters are equal to ____ half.",
+            "options": [
+              "Zero",
+              "Four",
+              "One",
+              "Three"
+            ],
+            "correct_answer": "One",
+            "rationale": "2/4 equals 1/2.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m010_measuring_fractional_lengths",
+        "topic_name": "Measuring Fractional Lengths",
+        "explanation": "The chapter connects sharing with measuring. A strip, paper, or object may be split into halves and quarters to compare or measure parts. Equal folding is a simple test: if parts match exactly, the sharing is fair.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Fraction parts must be ____.",
+            "options": [
+              "Unequal",
+              "Longer always",
+              "Equal",
+              "Hidden"
+            ],
+            "correct_answer": "Equal",
+            "rationale": "The chapter asks how to know the paper is divided equally.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Folding paper can check whether two parts ____.",
+            "options": [
+              "Cost more",
+              "Become litres",
+              "Match",
+              "Show data"
+            ],
+            "correct_answer": "Match",
+            "rationale": "Folding helps compare equal parts.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Four quarters make ____ whole.",
+            "options": [
+              "2",
+              "0",
+              "1",
+              "4"
+            ],
+            "correct_answer": "1",
+            "rationale": "Four equal quarters complete one whole.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A shape divided into unequal parts does not show correct ____.",
+            "options": [
+              "Calendars",
+              "Views",
+              "Fractions",
+              "Weights"
+            ],
+            "correct_answer": "Fractions",
+            "rationale": "Fractional parts should be equal.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Samina chose two quarters because it sounded ____.",
+            "options": [
+              "Smaller",
+              "Symmetric",
+              "Bigger",
+              "Empty"
+            ],
+            "correct_answer": "Bigger",
+            "rationale": "The story says one half seemed smaller but two quarters sounded bigger.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Measuring Length",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m011_metres_and_half_metres",
+        "topic_name": "Metres and Half Metres",
+        "explanation": "Length tells how long, tall, wide, or deep something is. The chapter revises metre and half metre, then asks learners to walk, jump, and crawl on 1 m, 5 m, and 10 m lines. Using metre ropes builds a body-feel for length.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Lengths are measured in ____.",
+            "options": [
+              "Kilograms",
+              "Rupees",
+              "Metres",
+              "Litres"
+            ],
+            "correct_answer": "Metres",
+            "rationale": "The PDF recalls that lengths are measured in metres.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The classroom activity makes lines of 1 m, 5 m and ____ m.",
+            "options": [
+              "2",
+              "50",
+              "10",
+              "100"
+            ],
+            "correct_answer": "10",
+            "rationale": "The PDF says draw lines of 1 m, 5 m, and 10 m.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Half metre is written as ____ m.",
+            "options": [
+              "1/4",
+              "100",
+              "1/2",
+              "10"
+            ],
+            "correct_answer": "1/2",
+            "rationale": "The page recalls half metre as 1/2 m.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A metre rope helps measure ____.",
+            "options": [
+              "Weight",
+              "Data",
+              "Length",
+              "Temperature only"
+            ],
+            "correct_answer": "Length",
+            "rationale": "The activity uses metre rope for length.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Walking on a 5 m line helps estimate how long ____ m is.",
+            "options": [
+              "1/4",
+              "365",
+              "5",
+              "1000"
+            ],
+            "correct_answer": "5",
+            "rationale": "The note says this develops estimates of 5 m and 10 m.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m012_length_height_breadth_and_depth",
+        "topic_name": "Length, Height, Breadth and Depth",
+        "explanation": "Measurement words tell us what is being measured. Height is how tall, length is how long, breadth is how wide, and depth is how deep. The chapter asks children to tick what is being measured and identify tools for height.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Height tells how ____ something is.",
+            "options": [
+              "Heavy",
+              "Popular",
+              "Tall",
+              "Much it holds"
+            ],
+            "correct_answer": "Tall",
+            "rationale": "The teacher note mentions tall and height.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Breadth tells how ____ something is.",
+            "options": [
+              "Old",
+              "Symmetric",
+              "Wide",
+              "Costly"
+            ],
+            "correct_answer": "Wide",
+            "rationale": "Breadth is width.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Depth tells how ____ something is.",
+            "options": [
+              "Light",
+              "Liked",
+              "Deep",
+              "Many"
+            ],
+            "correct_answer": "Deep",
+            "rationale": "Depth measures deepness.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Temperature is not a measure of ____.",
+            "options": [
+              "Heat",
+              "Coldness",
+              "Length",
+              "Warmth"
+            ],
+            "correct_answer": "Length",
+            "rationale": "Temperature is listed separately from length measures.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The door height being less or more than a metre is a ____ check.",
+            "options": [
+              "Data",
+              "Money",
+              "Measurement",
+              "Pattern"
+            ],
+            "correct_answer": "Measurement",
+            "rationale": "The chapter asks learners to check classroom measurements.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "The Cleanest Village",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m013_trip_data_and_distances",
+        "topic_name": "Trip Data and Distances",
+        "explanation": "The school trip poster gives mathematical information: date, departure, arrival, cost, distance, families, people, and location. Reading posters carefully helps solve real-life maths problems about distance, time, money, and population.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The school trip is to ____.",
+            "options": [
+              "Qutub Minar",
+              "Transport Museum",
+              "Mawlynnong",
+              "Surajkund"
+            ],
+            "correct_answer": "Mawlynnong",
+            "rationale": "The poster is for Mawlynnong, Asia's Cleanest Village.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Mawlynnong is ____ km from Shillong.",
+            "options": [
+              "77",
+              "500",
+              "79",
+              "414"
+            ],
+            "correct_answer": "79",
+            "rationale": "The poster says NH206, 79 km from Shillong.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "The trip cost is ₹____ per child.",
+            "options": [
+              "79",
+              "77",
+              "500",
+              "414"
+            ],
+            "correct_answer": "500",
+            "rationale": "The poster says register now, ₹500 per child.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The village has 77 families and ____ people.",
+            "options": [
+              "500",
+              "206",
+              "414",
+              "79"
+            ],
+            "correct_answer": "414",
+            "rationale": "The poster lists 77 families, 414 people.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Departure from school is at ____.",
+            "options": [
+              "4 pm",
+              "12 noon",
+              "7 am",
+              "11 pm"
+            ],
+            "correct_answer": "7 am",
+            "rationale": "The poster says departure from school 7 am.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m014_price_lists_and_total_cost",
+        "topic_name": "Price Lists and Total Cost",
+        "explanation": "Sapan Dada's price list helps children calculate costs of fruits, vegetables, biscuits, bottles, and dry fruits. A price list is a table for shopping maths: choose items, multiply by quantity, add costs, and compare totals.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Custard apple costs ₹____.",
+            "options": [
+              "95",
+              "32",
+              "45",
+              "23"
+            ],
+            "correct_answer": "45",
+            "rationale": "The sampled price list says custard apple: ₹45.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Beans cost ₹____.",
+            "options": [
+              "45",
+              "37",
+              "95",
+              "23"
+            ],
+            "correct_answer": "95",
+            "rationale": "The price list says beans: ₹95.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Radish costs ₹____.",
+            "options": [
+              "32",
+              "95",
+              "23",
+              "37"
+            ],
+            "correct_answer": "23",
+            "rationale": "The price list says radish: ₹23.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Onion costs ₹____.",
+            "options": [
+              "23",
+              "95",
+              "32",
+              "45"
+            ],
+            "correct_answer": "32",
+            "rationale": "The price list says onion: ₹32.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Potato costs ₹____.",
+            "options": [
+              "32",
+              "45",
+              "37",
+              "23"
+            ],
+            "correct_answer": "37",
+            "rationale": "The price list says potato: ₹37.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Weigh it, Pour it",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m015_kilograms_and_grams",
+        "topic_name": "Kilograms and Grams",
+        "explanation": "Weight tells how heavy something is. The chapter uses fruits, vegetables, school bags, and packets to compare less than 1 kg or more than 1 kg. It also shows that 2 packets of 500 grams make 1000 grams, which is 1 kilogram.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "We often write kilogram as ____.",
+            "options": [
+              "g only",
+              "L",
+              "kg",
+              "m"
+            ],
+            "correct_answer": "kg",
+            "rationale": "The PDF says we often write kg for kilogram.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "We often write gram as ____.",
+            "options": [
+              "kg only",
+              "L",
+              "g",
+              "m"
+            ],
+            "correct_answer": "g",
+            "rationale": "The PDF says g for gram.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "2 packets of 500 grams make ____ grams.",
+            "options": [
+              "500",
+              "100",
+              "1000",
+              "1500"
+            ],
+            "correct_answer": "1000",
+            "rationale": "The page states 2 packets of 500 grams = 1000 g.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "1000 g equals ____ kg.",
+            "options": [
+              "10",
+              "2",
+              "1",
+              "100"
+            ],
+            "correct_answer": "1",
+            "rationale": "The PDF states 1000 g = 1 kg.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A weighing balance verifies ____.",
+            "options": [
+              "Calendar",
+              "Favourite subject",
+              "Weight",
+              "View"
+            ],
+            "correct_answer": "Weight",
+            "rationale": "The activity asks children to verify guesses using a weighing balance.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m016_capacity_and_litres",
+        "topic_name": "Capacity and Litres",
+        "explanation": "Capacity tells how much a container can hold. The chapter connects Grade 3 learning about a 1 litre bottle with more measurement practice. Pouring, filling, and comparing containers helps children understand litres and millilitres in daily life.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Capacity tells how much a container can ____.",
+            "options": [
+              "Weigh only",
+              "Reflect",
+              "Hold",
+              "Cost"
+            ],
+            "correct_answer": "Hold",
+            "rationale": "Capacity is about how much a container holds.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The chapter recalls a 1 ____ bottle.",
+            "options": [
+              "Kilogram",
+              "Rupee",
+              "Litre",
+              "Metre"
+            ],
+            "correct_answer": "Litre",
+            "rationale": "The opening text mentions a 1 litre bottle.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Pouring is connected with measuring ____.",
+            "options": [
+              "Symmetry",
+              "Multiples",
+              "Capacity",
+              "Views"
+            ],
+            "correct_answer": "Capacity",
+            "rationale": "The title says Weigh it, Pour it.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A bigger bottle usually holds ____ water.",
+            "options": [
+              "Less always",
+              "Equal always",
+              "More",
+              "No"
+            ],
+            "correct_answer": "More",
+            "rationale": "Larger capacity means more can be held.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A 1 litre bottle is a tool for understanding ____.",
+            "options": [
+              "Data responses",
+              "Fractions only",
+              "Capacity",
+              "Top view"
+            ],
+            "correct_answer": "Capacity",
+            "rationale": "Litres measure capacity.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Equal Groups",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m017_multiples_with_animal_jumps",
+        "topic_name": "Multiples with Animal Jumps",
+        "explanation": "Animal jumps make multiples visible. A frog jumping 3 steps touches multiples of 3, a squirrel jumping 4 steps touches multiples of 4, a rabbit jumping 6 steps touches multiples of 6, and a kangaroo jumping 8 steps touches multiples of 8.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The frog jumps ____ steps at a time.",
+            "options": [
+              "4",
+              "8",
+              "3",
+              "6"
+            ],
+            "correct_answer": "3",
+            "rationale": "The PDF states the frog jumps 3 steps at a time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The squirrel jumps ____ steps at a time.",
+            "options": [
+              "3",
+              "8",
+              "4",
+              "6"
+            ],
+            "correct_answer": "4",
+            "rationale": "The PDF states the squirrel jumps 4 steps at a time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "The rabbit jumps ____ steps at a time.",
+            "options": [
+              "3",
+              "8",
+              "6",
+              "4"
+            ],
+            "correct_answer": "6",
+            "rationale": "The PDF states the rabbit jumps 6 steps at a time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The kangaroo jumps ____ steps at a time.",
+            "options": [
+              "3",
+              "6",
+              "8",
+              "4"
+            ],
+            "correct_answer": "8",
+            "rationale": "The PDF states the kangaroo jumps 8 steps at a time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Numbers touched by jumps of 3 are multiples of ____.",
+            "options": [
+              "4",
+              "8",
+              "3",
+              "6"
+            ],
+            "correct_answer": "3",
+            "rationale": "The PDF says these numbers are multiples of 3.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m018_common_multiples",
+        "topic_name": "Common Multiples",
+        "explanation": "When two animals land on the same number, that number is a common multiple. For example, both frog jumps of 3 and squirrel jumps of 4 touch 12, 24, 36, and so on. Common multiples help compare repeated groups.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A common multiple of 3 and 4 is ____.",
+            "options": [
+              "7",
+              "14",
+              "12",
+              "10"
+            ],
+            "correct_answer": "12",
+            "rationale": "12 is divisible by both 3 and 4.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "To reach 48, the rabbit jumping 6 steps jumps ____ times.",
+            "options": [
+              "6",
+              "12",
+              "8",
+              "4"
+            ],
+            "correct_answer": "8",
+            "rationale": "48 ÷ 6 = 8.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "To reach 48, the kangaroo jumping 8 steps jumps ____ times.",
+            "options": [
+              "8",
+              "12",
+              "6",
+              "4"
+            ],
+            "correct_answer": "6",
+            "rationale": "48 ÷ 8 = 6.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "To reach 60, the frog jumping 3 steps jumps ____ times.",
+            "options": [
+              "10",
+              "18",
+              "20",
+              "15"
+            ],
+            "correct_answer": "20",
+            "rationale": "60 ÷ 3 = 20.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "A number touched by both jump patterns is a ____ multiple.",
+            "options": [
+              "Hidden",
+              "Symmetric",
+              "Common",
+              "Leap"
+            ],
+            "correct_answer": "Common",
+            "rationale": "Shared landing numbers are common multiples.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Elephants, Tigers, and Leopards",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m019_nim_game_strategy",
+        "topic_name": "NIM Game Strategy",
+        "explanation": "In the NIM game, players add either 1 or 2 to reach a target number such as 10. The game is not just luck; children look for winning totals. Thinking backward from the target helps decide whether choosing 1 or 2 is better.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "In the NIM game, players add either 1 or ____.",
+            "options": [
+              "3",
+              "10",
+              "2",
+              "5"
+            ],
+            "correct_answer": "2",
+            "rationale": "The PDF says choose either 1 or 2 each time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The first target number in the game is ____.",
+            "options": [
+              "12",
+              "100",
+              "10",
+              "24"
+            ],
+            "correct_answer": "10",
+            "rationale": "The rules say reach target number 10.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "The player who reaches 10 first is the ____.",
+            "options": [
+              "Teacher",
+              "View",
+              "Winner",
+              "Data"
+            ],
+            "correct_answer": "Winner",
+            "rationale": "The rule says the player who reaches 10 first wins.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "If the previous total is 8, adding 2 reaches ____.",
+            "options": [
+              "9",
+              "12",
+              "10",
+              "11"
+            ],
+            "correct_answer": "10",
+            "rationale": "8 + 2 = 10.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Thinking backward from the target helps find a ____ strategy.",
+            "options": [
+              "Weight",
+              "Capacity",
+              "Winning",
+              "Calendar"
+            ],
+            "correct_answer": "Winning",
+            "rationale": "The task asks if you can win from totals 6, 7, or 8.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m020_addition_chart_patterns",
+        "topic_name": "Addition Chart Patterns",
+        "explanation": "The addition chart shows sums in rows and columns. Children look for patterns, where 9 appears, which rows or columns are even or odd, and how small windows in the table behave. Tables reveal hidden regularity in addition.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The chapter includes an ____ chart.",
+            "options": [
+              "Calendar",
+              "Subject",
+              "Addition",
+              "Weight"
+            ],
+            "correct_answer": "Addition",
+            "rationale": "The sampled page is titled Addition Chart.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "In an addition chart, 4 + 5 = ____.",
+            "options": [
+              "1",
+              "45",
+              "9",
+              "20"
+            ],
+            "correct_answer": "9",
+            "rationale": "4 plus 5 equals 9.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Rows and columns in the chart contain ____.",
+            "options": [
+              "Weights only",
+              "Months only",
+              "Sums",
+              "Views only"
+            ],
+            "correct_answer": "Sums",
+            "rationale": "Each cell is an addition result.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Even plus even gives an ____ number.",
+            "options": [
+              "Odd",
+              "Leap",
+              "Even",
+              "Fraction"
+            ],
+            "correct_answer": "Even",
+            "rationale": "The sum of two even numbers is even.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Odd plus odd gives an ____ number.",
+            "options": [
+              "Odd",
+              "Kilogram",
+              "Even",
+              "View"
+            ],
+            "correct_answer": "Even",
+            "rationale": "The sum of two odd numbers is even.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Fun with Symmetry",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m021_lines_of_symmetry",
+        "topic_name": "Lines of Symmetry",
+        "explanation": "A line of symmetry divides a design into two matching halves. Ink designs, masks, rangolis, and folded paper show symmetry beautifully. If one side matches the other like a mirror, the design is symmetrical.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A line that divides a design into matching halves is a line of ____.",
+            "options": [
+              "Capacity",
+              "Weight",
+              "Symmetry",
+              "Data"
+            ],
+            "correct_answer": "Symmetry",
+            "rationale": "The PDF asks where to draw the line of symmetry.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The ink design begins by folding paper in ____.",
+            "options": [
+              "Quarters only",
+              "Unequal parts",
+              "Half",
+              "Ten parts"
+            ],
+            "correct_answer": "Half",
+            "rationale": "Step 1 says take a sheet and fold it in half.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Symmetry can be checked using a ____.",
+            "options": [
+              "Price list",
+              "Calendar only",
+              "Mirror",
+              "Scale only"
+            ],
+            "correct_answer": "Mirror",
+            "rationale": "The paper airplane task asks where to place a mirror.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A symmetrical design has two ____ halves.",
+            "options": [
+              "Unequal",
+              "Heavy",
+              "Equal",
+              "Hidden"
+            ],
+            "correct_answer": "Equal",
+            "rationale": "Symmetry means matching halves.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Rangolis and masks were explored for ____ in earlier grades.",
+            "options": [
+              "Capacity",
+              "Money",
+              "Symmetry",
+              "Weight"
+            ],
+            "correct_answer": "Symmetry",
+            "rationale": "The PDF mentions symmetry in rangolis and masks.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m022_symmetry_in_paper_airplanes",
+        "topic_name": "Symmetry in Paper Airplanes",
+        "explanation": "Paper airplanes use symmetry. If the two sides are balanced, the airplane is more likely to fly well. The chapter asks children to mark symmetry lines, try an asymmetrical plane, and compare which flies longer.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The chapter asks children to make a paper ____.",
+            "options": [
+              "Bottle",
+              "Price list",
+              "Airplane",
+              "Calendar"
+            ],
+            "correct_answer": "Airplane",
+            "rationale": "The PDF has a paper airplane activity.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "A balanced paper airplane usually has ____.",
+            "options": [
+              "Unequal sides",
+              "Only data",
+              "Symmetry",
+              "No folds"
+            ],
+            "correct_answer": "Symmetry",
+            "rationale": "A symmetric plane has matching sides.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "An asymmetrical plane has sides that do not ____.",
+            "options": [
+              "Fly",
+              "Cost",
+              "Match",
+              "Fold"
+            ],
+            "correct_answer": "Match",
+            "rationale": "Asymmetry means sides are not matching.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The activity asks which plane flies for a ____ time.",
+            "options": [
+              "Heavier",
+              "Earlier",
+              "Longer",
+              "Costlier"
+            ],
+            "correct_answer": "Longer",
+            "rationale": "The PDF asks children to compare flight time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Folding helps create a central ____.",
+            "options": [
+              "Price list",
+              "Response",
+              "Line of symmetry",
+              "Kilogram"
+            ],
+            "correct_answer": "Line of symmetry",
+            "rationale": "Paper folding can form symmetry lines.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Ticking Clocks and Turning Calendar",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m023_leap_years_and_february",
+        "topic_name": "Leap Years and February",
+        "explanation": "A leap year has one extra day and includes 29 February. Parv was born on 29 February 2016. The chapter compares February 2024 and February 2025 to show that leap years occur every four years.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Years having 29 February are called ____ years.",
+            "options": [
+              "Data",
+              "Market",
+              "Leap",
+              "Symmetry"
+            ],
+            "correct_answer": "Leap",
+            "rationale": "The PDF defines years with 29 February as leap years.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "February 2024 has ____ days.",
+            "options": [
+              "28",
+              "31",
+              "29",
+              "30"
+            ],
+            "correct_answer": "29",
+            "rationale": "The calendar shown for Feb 2024 includes 29.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "February 2025 has ____ days.",
+            "options": [
+              "29",
+              "31",
+              "28",
+              "30"
+            ],
+            "correct_answer": "28",
+            "rationale": "The calendar shown for Feb 2025 ends at 28.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A leap year has ____ days.",
+            "options": [
+              "365",
+              "360",
+              "366",
+              "364"
+            ],
+            "correct_answer": "366",
+            "rationale": "A leap year has one additional day.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Leap years occur every ____ years.",
+            "options": [
+              "2",
+              "10",
+              "4",
+              "5"
+            ],
+            "correct_answer": "4",
+            "rationale": "The PDF says they occur every four years.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m024_calendar_days_and_dates",
+        "topic_name": "Calendar Days and Dates",
+        "explanation": "Calendars help answer today, yesterday, tomorrow, festival months, and day-of-week questions. Children use calendars to move forward or backward in time and connect dates with real events.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The day before today is called ____.",
+            "options": [
+              "Tomorrow",
+              "Quarter",
+              "Yesterday",
+              "Leap year"
+            ],
+            "correct_answer": "Yesterday",
+            "rationale": "The chapter asks for today and yesterday.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The day after today is called ____.",
+            "options": [
+              "Yesterday",
+              "Data",
+              "Tomorrow",
+              "Last year"
+            ],
+            "correct_answer": "Tomorrow",
+            "rationale": "Tomorrow is the next day.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A calendar helps us find days of the ____.",
+            "options": [
+              "Kilogram",
+              "Price",
+              "Week",
+              "Shape only"
+            ],
+            "correct_answer": "Week",
+            "rationale": "Calendar questions use days of the week.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Festival names are matched with names of ____.",
+            "options": [
+              "Weights",
+              "Multiples",
+              "Months",
+              "Views"
+            ],
+            "correct_answer": "Months",
+            "rationale": "The activity asks for festival and month names.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "If today is Wednesday, yesterday was ____.",
+            "options": [
+              "Thursday",
+              "Monday only",
+              "Tuesday",
+              "Friday"
+            ],
+            "correct_answer": "Tuesday",
+            "rationale": "Tuesday comes before Wednesday.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "The Transport Museum",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m025_times_10_and_hundreds",
+        "topic_name": "Times-10 and Hundreds",
+        "explanation": "Multiplying by 10 makes tens. The chapter shows 2 × 10, 5 × 10, 8 × 10, and 10 × 10 using pictorial representations. Ten tens make one hundred, so times-10 is a bridge to larger numbers.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "2 × 10 = ____.",
+            "options": [
+              "12",
+              "200",
+              "20",
+              "2"
+            ],
+            "correct_answer": "20",
+            "rationale": "2 tens equal 20.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "5 × 10 = ____.",
+            "options": [
+              "15",
+              "500",
+              "50",
+              "5"
+            ],
+            "correct_answer": "50",
+            "rationale": "5 tens equal 50.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "8 × 10 = ____.",
+            "options": [
+              "18",
+              "800",
+              "80",
+              "8"
+            ],
+            "correct_answer": "80",
+            "rationale": "8 tens equal 80.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "10 × 10 = ____.",
+            "options": [
+              "10",
+              "1000",
+              "100",
+              "20"
+            ],
+            "correct_answer": "100",
+            "rationale": "10 tens make 100.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "10 tens equal 1 ____.",
+            "options": [
+              "One",
+              "Quarter",
+              "Hundred",
+              "Thousand"
+            ],
+            "correct_answer": "Hundred",
+            "rationale": "The PDF states 10 tens = 1 hundred = 100.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m026_constructing_tables_and_products",
+        "topic_name": "Constructing Tables and Products",
+        "explanation": "Arrays help build multiplication tables. A 5 × 15 arrangement can be split into 5 × 10 and 5 × 5. This makes hard products easier because we break them into friendly parts and add the results.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A 5 × 15 arrangement can be split into 5 × 10 and 5 × ____.",
+            "options": [
+              "10",
+              "20",
+              "5",
+              "15"
+            ],
+            "correct_answer": "5",
+            "rationale": "The PDF shows 5 × 15 = 5 × 10 and 5 × 5.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "5 × 10 = ____.",
+            "options": [
+              "15",
+              "100",
+              "50",
+              "5"
+            ],
+            "correct_answer": "50",
+            "rationale": "Five groups of ten make fifty.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "5 × 5 = ____.",
+            "options": [
+              "10",
+              "55",
+              "25",
+              "15"
+            ],
+            "correct_answer": "25",
+            "rationale": "Five groups of five make twenty-five.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "5 × 15 = ____.",
+            "options": [
+              "50",
+              "100",
+              "75",
+              "25"
+            ],
+            "correct_answer": "75",
+            "rationale": "50 + 25 = 75.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "Splitting an array helps find a ____.",
+            "options": [
+              "Calendar date",
+              "View",
+              "Product",
+              "Weight"
+            ],
+            "correct_answer": "Product",
+            "rationale": "Multiplication answers are products.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Data Handling",
+    "modules": [
+      {
+        "module_id": "cbse_c4_m027_asking_a_good_data_question",
+        "topic_name": "Asking a Good Data Question",
+        "explanation": "Data handling begins with a clear question. Rohan and Anjali want to find the most liked subject, so the question must collect subject choices clearly. A good data question gives useful options and helps everyone answer in the same way.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Rohan and Anjali want to find the most liked ____.",
+            "options": [
+              "Building",
+              "Leap year",
+              "Subject",
+              "Bottle"
+            ],
+            "correct_answer": "Subject",
+            "rationale": "The PDF asks for the most liked subject.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The subjects include Mathematics, Languages, Arts and ____.",
+            "options": [
+              "Only Transport",
+              "Only Fractions",
+              "The World Around Us",
+              "Only Weight"
+            ],
+            "correct_answer": "The World Around Us",
+            "rationale": "The PDF lists these subject options.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A good data question should be ____.",
+            "options": [
+              "Confusing",
+              "Unequal",
+              "Clear",
+              "Hidden"
+            ],
+            "correct_answer": "Clear",
+            "rationale": "Clear questions collect better responses.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Data handling starts by asking a ____.",
+            "options": [
+              "Weight",
+              "Leap",
+              "Question",
+              "Shape only"
+            ],
+            "correct_answer": "Question",
+            "rationale": "The chapter opens with choosing the most appropriate question.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Physical Education is recorded as ____.",
+            "options": [
+              "M",
+              "T",
+              "P.E.",
+              "L"
+            ],
+            "correct_answer": "P.E.",
+            "rationale": "The PDF says P.E. for Physical Education.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c4_m028_recording_and_reading_responses",
+        "topic_name": "Recording and Reading Responses",
+        "explanation": "Anjali and Rohan record 45 children's responses using short forms: M, L, T, A, and P.E. After recording, they count each response and compare which subject is most or least liked. Data becomes meaningful only after organising it.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "They recorded responses from ____ children.",
+            "options": [
+              "14",
+              "5",
+              "45",
+              "100"
+            ],
+            "correct_answer": "45",
+            "rationale": "The PDF says there are a total of 45 children in the grade.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "M stands for ____.",
+            "options": [
+              "Months",
+              "Metre",
+              "Mathematics",
+              "Market"
+            ],
+            "correct_answer": "Mathematics",
+            "rationale": "The PDF says M for Mathematics.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "L stands for ____.",
+            "options": [
+              "Length",
+              "Litre",
+              "Languages",
+              "Leap"
+            ],
+            "correct_answer": "Languages",
+            "rationale": "The PDF says L for Languages.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A stands for ____.",
+            "options": [
+              "Animals",
+              "Area only",
+              "Arts",
+              "Amount"
+            ],
+            "correct_answer": "Arts",
+            "rationale": "The PDF says A for Arts.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Counting responses helps find the ____ liked subject.",
+            "options": [
+              "Heaviest",
+              "Deepest",
+              "Most",
+              "Tallest"
+            ],
+            "correct_answer": "Most",
+            "rationale": "The purpose is to find the most liked subject.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  }
+]

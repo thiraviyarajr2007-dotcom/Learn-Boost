@@ -1,0 +1,2065 @@
+[
+  {
+    "chapter_name": "Finding the Furry Cat! (Pre-number Concepts)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m001_inside_and_outside",
+        "topic_name": "Inside and Outside",
+        "explanation": "Imagine your school bag is a tiny room. A pencil kept in the bag is inside, and a pencil kept on the table is outside. In the furry cat poem, the cat hides inside a backpack and outside the red rack. This module helps you use position words while looking carefully at pictures and real objects around you.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Where was the furry cat hiding in one line of the poem?",
+            "options": [
+              "On the moon",
+              "Behind the sun",
+              "Inside the backpack",
+              "Under the sea"
+            ],
+            "correct_answer": "Inside the backpack",
+            "rationale": "The poem asks, 'Are you inside the backpack?'",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "If a ball goes into a basket, children say ____.",
+            "options": [
+              "OUT",
+              "BEFORE",
+              "IN",
+              "TOP"
+            ],
+            "correct_answer": "IN",
+            "rationale": "The textbook ball game says children say IN when the ball goes inside.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Where should garbage be thrown?",
+            "options": [
+              "Outside the dustbin",
+              "Under the book",
+              "Inside the dustbin",
+              "On the bed"
+            ],
+            "correct_answer": "Inside the dustbin",
+            "rationale": "The activity asks children to choose inside the dustbin.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A thing kept outside the classroom is ____ the classroom.",
+            "options": [
+              "Inside",
+              "After",
+              "Outside",
+              "Between"
+            ],
+            "correct_answer": "Outside",
+            "rationale": "Outside means not in the room or object.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which word tells that something is in a box?",
+            "options": [
+              "Outside",
+              "Before",
+              "Inside",
+              "After"
+            ],
+            "correct_answer": "Inside",
+            "rationale": "Inside means within something.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m002_above_below_on_and_under",
+        "topic_name": "Above, Below, On and Under",
+        "explanation": "Position words are like clues in a treasure hunt. Above means higher, below means lower, on means touching the top, and under means beneath. In the chapter, children look for the furry cat under the bed, above the hat, below the mat, and on the car. These words help you describe where things are.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "In the poem, the cat is sleeping under ____.",
+            "options": [
+              "The sun",
+              "The tree top",
+              "My bed",
+              "The clock"
+            ],
+            "correct_answer": "My bed",
+            "rationale": "The poem asks, 'Are you sleeping under my bed?'",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The red ball is above, under, or on the bed?",
+            "options": [
+              "Inside the dustbin",
+              "Before the bed",
+              "On the bed",
+              "After the bed"
+            ],
+            "correct_answer": "On the bed",
+            "rationale": "The textbook picture activity uses the word on for objects placed on something.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Eyebrows are drawn ____ the eyes.",
+            "options": [
+              "Below",
+              "After",
+              "Above",
+              "Inside"
+            ],
+            "correct_answer": "Above",
+            "rationale": "The activity asks children to draw eyebrows above the eyes.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A smile is drawn ____ the nose.",
+            "options": [
+              "Above",
+              "Before",
+              "Below",
+              "Inside"
+            ],
+            "correct_answer": "Below",
+            "rationale": "The activity asks children to draw a smile below the nose.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Birds sitting on a tree are ____ the tree.",
+            "options": [
+              "Inside",
+              "Before",
+              "On",
+              "After"
+            ],
+            "correct_answer": "On",
+            "rationale": "The chapter asks children to choose words such as on or under for tree pictures.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m003_before_after_and_grouping",
+        "topic_name": "Before, After and Grouping",
+        "explanation": "A train game helps us learn before and after. If you stand in a line, one friend may be before you and another may be after you. The chapter also shows grouping: leaves in one group, pebbles in another, and chalk pieces in another. Grouping helps us sort things that are alike.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "In the train rhyme game, children tell who is ____ and after each child.",
+            "options": [
+              "Inside",
+              "Heavy",
+              "Before",
+              "Round"
+            ],
+            "correct_answer": "Before",
+            "rationale": "The textbook train game practises before and after.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Putting all leaves together is called making a ____.",
+            "options": [
+              "Clock",
+              "Season",
+              "Group",
+              "Coin"
+            ],
+            "correct_answer": "Group",
+            "rationale": "The chapter shows leaves placed in one group.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Pebbles kept together form one ____.",
+            "options": [
+              "Day",
+              "Number name",
+              "Group",
+              "Shape"
+            ],
+            "correct_answer": "Group",
+            "rationale": "The textbook asks children to sort objects like pebbles.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which pair of words tells order in a line?",
+            "options": [
+              "Inside and round",
+              "Tall and coin",
+              "Before and after",
+              "Heavy and money"
+            ],
+            "correct_answer": "Before and after",
+            "rationale": "Before and after describe order.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which objects does the chapter suggest for sorting?",
+            "options": [
+              "Stars and planets",
+              "Months only",
+              "Seeds and leaves",
+              "Cars and trains only"
+            ],
+            "correct_answer": "Seeds and leaves",
+            "rationale": "The teacher note mentions seeds, leaves, beads, and similar objects.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "What is Long? What is Round? (Shapes)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m004_long_round_and_shape_words",
+        "topic_name": "Long, Round and Shape Words",
+        "explanation": "Shapes are everywhere. Some things are long like a stick, some are round like a bangle, and some have corners like a box. This chapter invites children to look at objects, talk about what is long or round, and notice how things are shaped in the home, school, and playground.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which word can describe a stick?",
+            "options": [
+              "Today",
+              "Before",
+              "Long",
+              "Rupee"
+            ],
+            "correct_answer": "Long",
+            "rationale": "A stick is a common long object.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which word can describe a bangle?",
+            "options": [
+              "After",
+              "Evening",
+              "Round",
+              "Heavy"
+            ],
+            "correct_answer": "Round",
+            "rationale": "A bangle is round in shape.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "What do we observe in this chapter?",
+            "options": [
+              "Only festivals",
+              "Only seasons",
+              "Shapes of objects",
+              "Only money"
+            ],
+            "correct_answer": "Shapes of objects",
+            "rationale": "The chapter title is about long and round shapes.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A ball is usually ____.",
+            "options": [
+              "Flat only",
+              "After",
+              "Round",
+              "Before"
+            ],
+            "correct_answer": "Round",
+            "rationale": "Balls are used as round objects in early shape learning.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Looking at classroom things helps us learn ____.",
+            "options": [
+              "Months only",
+              "Stories only",
+              "Shapes",
+              "Coins only"
+            ],
+            "correct_answer": "Shapes",
+            "rationale": "Children identify shapes from nearby objects.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m005_rolling_and_sliding",
+        "topic_name": "Rolling and Sliding",
+        "explanation": "Some objects roll because they are round. Some objects slide because they have flat faces. A ball rolls easily, while a book can slide on a table. The textbook asks children to collect objects and check whether they roll, slide, or do both. Learning by trying makes shapes easy to remember.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The textbook asks children to write R for ____ objects.",
+            "options": [
+              "Reading",
+              "Red only",
+              "Rolling",
+              "Rupee"
+            ],
+            "correct_answer": "Rolling",
+            "rationale": "The activity says write R for rolling objects.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The textbook asks children to write S for ____ objects.",
+            "options": [
+              "Singing",
+              "Summer",
+              "Sliding",
+              "Saving"
+            ],
+            "correct_answer": "Sliding",
+            "rationale": "The activity says write S for sliding objects.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A striker in carrom usually ____ on the board.",
+            "options": [
+              "Drinks",
+              "Sleeps",
+              "Slides",
+              "Counts"
+            ],
+            "correct_answer": "Slides",
+            "rationale": "The chapter says a striker slides to reach the corner.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which object is more likely to roll?",
+            "options": [
+              "Book",
+              "Notebook",
+              "Ball",
+              "Mat"
+            ],
+            "correct_answer": "Ball",
+            "rationale": "Round objects like balls roll.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "What should children collect to test rolling and sliding?",
+            "options": [
+              "Only flowers",
+              "Only days",
+              "Different objects",
+              "Only numbers"
+            ],
+            "correct_answer": "Different objects",
+            "rationale": "The activity asks children to collect different objects from surroundings.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Mango Treat (Numbers 1 to 9)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m006_counting_1_to_9",
+        "topic_name": "Counting 1 to 9",
+        "explanation": "Counting tells us how many things we have. In Mango Treat, children count objects like mangoes, jamuns, sheep, and boxes. Start with one object, touch or point to each item once, and say the numbers in order. Counting slowly helps you avoid missing or counting the same thing twice.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which numbers are practised in Mango Treat?",
+            "options": [
+              "21 to 99",
+              "Only 0",
+              "1 to 9",
+              "Only 100"
+            ],
+            "correct_answer": "1 to 9",
+            "rationale": "The chapter title says Numbers 1 to 9.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "What should you do when counting objects?",
+            "options": [
+              "Skip objects",
+              "Close your eyes",
+              "Count each object once",
+              "Count only colours"
+            ],
+            "correct_answer": "Count each object once",
+            "rationale": "Counting works best when each item is counted once.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "The PDF asks children to count yellow ____.",
+            "options": [
+              "Rupees",
+              "Seasons",
+              "Boxes",
+              "Weeks"
+            ],
+            "correct_answer": "Boxes",
+            "rationale": "One activity asks how many yellow boxes are there.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "The PDF asks children to count ____ in a picture.",
+            "options": [
+              "Clocks",
+              "Shoes only",
+              "Jamuns",
+              "Coins"
+            ],
+            "correct_answer": "Jamuns",
+            "rationale": "One question asks how many jamuns are there.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "The PDF asks children to write the number of ____.",
+            "options": [
+              "Months",
+              "Notes",
+              "Sheep",
+              "Wheels only"
+            ],
+            "correct_answer": "Sheep",
+            "rationale": "The page asks for the number of sheep seen in the picture.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m007_number_names_and_quantity",
+        "topic_name": "Number Names and Quantity",
+        "explanation": "A number and a group are partners. The number 5 can match five mangoes, five fingers, or five dots. The chapter helps children see that a written number tells the size of a group. When you match a number to objects, you are reading quantity like a little mathematician.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "What does a number tell us?",
+            "options": [
+              "How cold",
+              "Which festival",
+              "How many",
+              "Which season"
+            ],
+            "correct_answer": "How many",
+            "rationale": "Numbers show quantity.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which group matches the number 4?",
+            "options": [
+              "One object",
+              "No objects",
+              "Four objects",
+              "Nine objects"
+            ],
+            "correct_answer": "Four objects",
+            "rationale": "The number 4 names a group of four.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which number comes just after 5?",
+            "options": [
+              "4",
+              "9",
+              "6",
+              "2"
+            ],
+            "correct_answer": "6",
+            "rationale": "Counting order goes 5, 6.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which number comes just before 8?",
+            "options": [
+              "9",
+              "5",
+              "7",
+              "1"
+            ],
+            "correct_answer": "7",
+            "rationale": "Counting order goes 7, 8.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "If there are 3 mangoes, the matching number is ____.",
+            "options": [
+              "7",
+              "1",
+              "3",
+              "9"
+            ],
+            "correct_answer": "3",
+            "rationale": "Three objects match the number 3.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Making 10 (Numbers 10 to 20)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m008_making_a_group_of_10",
+        "topic_name": "Making a Group of 10",
+        "explanation": "Ten is a friendly bundle. When we collect 10 things together, counting bigger numbers becomes easier. The textbook asks children to recognise a group of 10 while counting beyond 10 and to find things around them that come in groups of 10, like bindi cards.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The chapter asks children to recognise a group of ____.",
+            "options": [
+              "3",
+              "100",
+              "10",
+              "50"
+            ],
+            "correct_answer": "10",
+            "rationale": "The project work focuses on groups of 10.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "A bindi card can show bindis in groups of ____.",
+            "options": [
+              "2",
+              "99",
+              "10",
+              "7"
+            ],
+            "correct_answer": "10",
+            "rationale": "The PDF gives bindi cards as an example of groups of 10.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Making 10 helps when counting numbers beyond ____.",
+            "options": [
+              "1 only",
+              "5 only",
+              "10",
+              "2 only"
+            ],
+            "correct_answer": "10",
+            "rationale": "The teacher note says recognise a group of 10 while counting beyond 10.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which number comes after 10?",
+            "options": [
+              "9",
+              "1",
+              "11",
+              "20"
+            ],
+            "correct_answer": "11",
+            "rationale": "Counting order goes 10, 11.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which number comes before 20?",
+            "options": [
+              "21",
+              "9",
+              "19",
+              "10"
+            ],
+            "correct_answer": "19",
+            "rationale": "Counting order goes 19, 20.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m009_counting_10_to_20",
+        "topic_name": "Counting 10 to 20",
+        "explanation": "Numbers from 10 to 20 are like a small number train. We start from 10 and move one step at a time: 11, 12, 13, and so on. The textbook asks children to make number cards from 10 to 20 and join numbers from 1 to 20.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which number cards does the project ask children to make?",
+            "options": [
+              "1 to 5",
+              "Only 100",
+              "10 to 20",
+              "50 to 60"
+            ],
+            "correct_answer": "10 to 20",
+            "rationale": "The PDF says children can make number cards 10 to 20.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The join-the-numbers activity goes from 1 to ____.",
+            "options": [
+              "5",
+              "100",
+              "20",
+              "9"
+            ],
+            "correct_answer": "20",
+            "rationale": "The PDF asks children to join numbers from 1 to 20.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "What comes after 14?",
+            "options": [
+              "13",
+              "20",
+              "15",
+              "11"
+            ],
+            "correct_answer": "15",
+            "rationale": "Counting order goes 14, 15.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "What comes before 17?",
+            "options": [
+              "18",
+              "20",
+              "16",
+              "10"
+            ],
+            "correct_answer": "16",
+            "rationale": "Counting order goes 16, 17.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which number is in the group 10 to 20?",
+            "options": [
+              "8",
+              "99",
+              "18",
+              "28"
+            ],
+            "correct_answer": "18",
+            "rationale": "18 is between 10 and 20.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "How Many? (Addition and Subtraction of Single Digit Numbers)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m010_adding_single_digit_numbers",
+        "topic_name": "Adding Single Digit Numbers",
+        "explanation": "Addition means putting groups together. If you have 3 mangoes and get 2 more, you count all of them to get 5. In this chapter, children use pictures, number strips, and small objects to understand how many altogether.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "What does addition mean?",
+            "options": [
+              "Taking away",
+              "Sorting only",
+              "Putting together",
+              "Sleeping"
+            ],
+            "correct_answer": "Putting together",
+            "rationale": "Addition combines groups.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "3 + 2 = ____.",
+            "options": [
+              "4",
+              "1",
+              "5",
+              "6"
+            ],
+            "correct_answer": "5",
+            "rationale": "Three and two together make five.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "4 + 1 = ____.",
+            "options": [
+              "3",
+              "9",
+              "5",
+              "6"
+            ],
+            "correct_answer": "5",
+            "rationale": "Four and one more make five.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "When we add, the number usually becomes ____.",
+            "options": [
+              "Less",
+              "A coin",
+              "More",
+              "A season"
+            ],
+            "correct_answer": "More",
+            "rationale": "Adding more objects increases the count.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which sign is used for addition?",
+            "options": [
+              "-",
+              "x",
+              "+",
+              "="
+            ],
+            "correct_answer": "+",
+            "rationale": "The plus sign shows addition.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m011_subtracting_with_a_number_strip",
+        "topic_name": "Subtracting with a Number Strip",
+        "explanation": "Subtraction means taking away or moving back. The textbook shows hopping backwards on a number strip. If you jump 3 steps back from 9, you reach 6, so 9 - 3 = 6. A number strip makes subtraction feel like walking backwards.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Subtraction means ____.",
+            "options": [
+              "Putting together",
+              "Counting seasons",
+              "Taking away",
+              "Making patterns"
+            ],
+            "correct_answer": "Taking away",
+            "rationale": "Subtraction removes or moves back.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The textbook says jump 3 steps back from 9 gives ____.",
+            "options": [
+              "7",
+              "3",
+              "6",
+              "9"
+            ],
+            "correct_answer": "6",
+            "rationale": "The PDF shows 9 - 3 = 6.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "7 - 4 = ____.",
+            "options": [
+              "11",
+              "7",
+              "3",
+              "4"
+            ],
+            "correct_answer": "3",
+            "rationale": "Jumping four steps back from 7 reaches 3.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "8 - 2 = ____.",
+            "options": [
+              "10",
+              "2",
+              "6",
+              "5"
+            ],
+            "correct_answer": "6",
+            "rationale": "Taking away two from eight leaves six.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which sign is used for subtraction?",
+            "options": [
+              "+",
+              "R",
+              "-",
+              "="
+            ],
+            "correct_answer": "-",
+            "rationale": "The minus sign shows subtraction.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Vegetable Farm (Addition and Subtraction up to 20)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m012_addition_up_to_20",
+        "topic_name": "Addition up to 20",
+        "explanation": "Bigger addition still means putting groups together. In Vegetable Farm, children solve stories with buses, diyas, bananas, and other familiar objects. Read the story slowly, find what is added, and count the total carefully.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "In the bus story, 6 children sit first and 8 more board. What operation is used first?",
+            "options": [
+              "Subtraction only",
+              "Money",
+              "Addition",
+              "Pattern"
+            ],
+            "correct_answer": "Addition",
+            "rationale": "More children board the bus, so we add.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "6 + 8 = ____.",
+            "options": [
+              "12",
+              "20",
+              "14",
+              "6"
+            ],
+            "correct_answer": "14",
+            "rationale": "Six and eight together make fourteen.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "9 diyas and 7 more diyas make ____ diyas.",
+            "options": [
+              "2",
+              "20",
+              "16",
+              "14"
+            ],
+            "correct_answer": "16",
+            "rationale": "Nine plus seven equals sixteen.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "When more children board a bus, the number becomes ____.",
+            "options": [
+              "Less",
+              "A shape",
+              "More",
+              "Zero always"
+            ],
+            "correct_answer": "More",
+            "rationale": "Boarding adds children.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Addition stories ask us to find the ____.",
+            "options": [
+              "Colour",
+              "Coin name",
+              "Total",
+              "Season"
+            ],
+            "correct_answer": "Total",
+            "rationale": "Addition finds how many altogether.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m013_subtraction_up_to_20",
+        "topic_name": "Subtraction up to 20",
+        "explanation": "Subtraction stories tell us that something was used, sold, eaten, or shared. In the chapter, a potter sells diyas and children get down from a bus. Look for action words like sold, left, ate, and shared. These words help you decide to subtract.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "If a potter had 9 diyas and sold 5, which operation is used?",
+            "options": [
+              "Addition",
+              "Rolling",
+              "Subtraction",
+              "Pattern"
+            ],
+            "correct_answer": "Subtraction",
+            "rationale": "Selling diyas takes them away.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "18 seats and 9 children sitting leaves ____ seats.",
+            "options": [
+              "27",
+              "6",
+              "9",
+              "18"
+            ],
+            "correct_answer": "9",
+            "rationale": "18 - 9 = 9.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "12 bananas, 5 left. How many were eaten?",
+            "options": [
+              "17",
+              "12",
+              "7",
+              "5"
+            ],
+            "correct_answer": "7",
+            "rationale": "12 - 5 = 7.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which word often signals subtraction?",
+            "options": [
+              "Altogether",
+              "Pattern",
+              "Left",
+              "More board"
+            ],
+            "correct_answer": "Left",
+            "rationale": "Left tells what remains after taking away.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "When children get down from a bus, the number becomes ____.",
+            "options": [
+              "More",
+              "Before",
+              "Less",
+              "Round"
+            ],
+            "correct_answer": "Less",
+            "rationale": "Getting down removes children from the bus.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Lina's Family (Measurement)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m014_longer_and_shorter",
+        "topic_name": "Longer and Shorter",
+        "explanation": "Measurement begins with comparing. A ribbon can be longer than another ribbon, and a paper strip can be shorter than another strip. The textbook asks children to paste colourful strips and notice which portion is shorter and which is longer.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which word tells that a strip has more length?",
+            "options": [
+              "Shorter",
+              "After",
+              "Longer",
+              "Inside"
+            ],
+            "correct_answer": "Longer",
+            "rationale": "Longer means it has more length.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which word tells that a strip has less length?",
+            "options": [
+              "Longer",
+              "Before",
+              "Shorter",
+              "Round"
+            ],
+            "correct_answer": "Shorter",
+            "rationale": "Shorter means it has less length.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "The textbook asks children to paste colourful paper ____.",
+            "options": [
+              "Coins",
+              "Buses",
+              "Strips",
+              "Clocks"
+            ],
+            "correct_answer": "Strips",
+            "rationale": "The activity uses paper strips.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Comparing two pencils can tell which is ____.",
+            "options": [
+              "A month",
+              "A pattern only",
+              "Longer",
+              "A rupee"
+            ],
+            "correct_answer": "Longer",
+            "rationale": "Length comparison shows longer or shorter.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Measurement starts by ____ objects.",
+            "options": [
+              "Hiding",
+              "Sleeping",
+              "Comparing",
+              "Spending"
+            ],
+            "correct_answer": "Comparing",
+            "rationale": "Children compare size, length, and capacity.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m015_capacity_and_carrying",
+        "topic_name": "Capacity and Carrying",
+        "explanation": "Some containers hold more water and some hold less. The textbook asks children to use bottles, bowls, and glasses to see how many glasses fill a bottle. It also asks which things are easier or difficult to carry. Measurement helps us talk about size, weight, and capacity.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which container can be used to test water capacity?",
+            "options": [
+              "Calendar",
+              "Number card only",
+              "Bottle",
+              "Coin"
+            ],
+            "correct_answer": "Bottle",
+            "rationale": "The PDF mentions bottles, bowls, and glasses.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The textbook asks how many glasses or bowls can fill a ____.",
+            "options": [
+              "Tree",
+              "Clock",
+              "Bottle",
+              "Shoe"
+            ],
+            "correct_answer": "Bottle",
+            "rationale": "The activity fills a bottle with glasses or bowls.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A thing that holds more water has more ____.",
+            "options": [
+              "Pattern",
+              "After",
+              "Capacity",
+              "Before"
+            ],
+            "correct_answer": "Capacity",
+            "rationale": "Capacity is how much a container can hold.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "The chapter discusses things easier and difficult to ____.",
+            "options": [
+              "Read upside down",
+              "Hide",
+              "Carry",
+              "Spend only"
+            ],
+            "correct_answer": "Carry",
+            "rationale": "The PDF asks children to list things easier or difficult to carry.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Using a bucket for bathing can save ____.",
+            "options": [
+              "Time only",
+              "Patterns",
+              "Water",
+              "Coins only"
+            ],
+            "correct_answer": "Water",
+            "rationale": "The teacher note discusses avoiding water waste.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Fun with Numbers (Numbers 21 to 99)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m016_counting_21_to_99",
+        "topic_name": "Counting 21 to 99",
+        "explanation": "Numbers after 20 grow in families: twenties, thirties, forties, and more. When children count from 21 to 99, they practise saying numbers in order and seeing tens and ones. The chapter also includes number arrangements and drawings to make counting playful.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which number is just after 20?",
+            "options": [
+              "19",
+              "99",
+              "21",
+              "10"
+            ],
+            "correct_answer": "21",
+            "rationale": "Counting goes 20, 21.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which number is just before 40?",
+            "options": [
+              "41",
+              "14",
+              "39",
+              "30"
+            ],
+            "correct_answer": "39",
+            "rationale": "39 comes before 40.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which number is between 50 and 54 and has digit sum 7?",
+            "options": [
+              "51",
+              "54",
+              "52",
+              "53"
+            ],
+            "correct_answer": "52",
+            "rationale": "5 + 2 = 7, and 52 is between 50 and 54.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Numbers 21 to 99 include ____.",
+            "options": [
+              "Only one-digit numbers",
+              "Only seasons",
+              "Two-digit numbers",
+              "Only coins"
+            ],
+            "correct_answer": "Two-digit numbers",
+            "rationale": "21 to 99 are two-digit numbers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which number is after 35?",
+            "options": [
+              "34",
+              "53",
+              "36",
+              "30"
+            ],
+            "correct_answer": "36",
+            "rationale": "Counting order goes 35, 36.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m017_number_puzzles_and_arrangements",
+        "topic_name": "Number Puzzles and Arrangements",
+        "explanation": "Number puzzles train the eyes and mind. The textbook includes hidden number cards, missing pieces, shadow images, and questions like 'Who am I?' These activities help children recognise numbers, compare them, and think carefully before answering.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The puzzle asks children to find numbers from 1 to ____.",
+            "options": [
+              "5",
+              "99",
+              "10",
+              "20"
+            ],
+            "correct_answer": "10",
+            "rationale": "The word-search puzzle says find numbers from 1 to 10.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Gillu's favourite number is ____.",
+            "options": [
+              "5",
+              "25",
+              "8",
+              "10"
+            ],
+            "correct_answer": "8",
+            "rationale": "The PDF says Gillu's favourite number is 8.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "The puzzle asks what happens when 5 is added to a number to get ____.",
+            "options": [
+              "8",
+              "40",
+              "24",
+              "10"
+            ],
+            "correct_answer": "24",
+            "rationale": "One clue says add 5 to me and you will get 24.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which activity hides number cards with bowls?",
+            "options": [
+              "Spending money",
+              "Making seasons",
+              "Recognising numbers",
+              "Measuring water"
+            ],
+            "correct_answer": "Recognising numbers",
+            "rationale": "The puzzle asks children to recognise hidden numbers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Number puzzles help us ____.",
+            "options": [
+              "Ignore numbers",
+              "Only spend",
+              "Think carefully",
+              "Only sing"
+            ],
+            "correct_answer": "Think carefully",
+            "rationale": "Puzzles build number sense and reasoning.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Utsav (Patterns)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m018_patterns_around_us",
+        "topic_name": "Patterns Around Us",
+        "explanation": "A pattern is something that repeats in a special way. The Utsav chapter asks children to observe patterns in leaves, butterflies, animal skins, curtains, sarees, tiles, and beehives. Once you notice the repeat, you can guess what comes next.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "What is a pattern?",
+            "options": [
+              "Something that disappears",
+              "Only a clock",
+              "Something that repeats",
+              "Only a coin"
+            ],
+            "correct_answer": "Something that repeats",
+            "rationale": "Patterns repeat in an order.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which natural object can show a pattern?",
+            "options": [
+              "Rupee note only",
+              "Dustbin only",
+              "Leaves",
+              "Bus stop only"
+            ],
+            "correct_answer": "Leaves",
+            "rationale": "The PDF mentions leaves and butterflies.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "The textbook mentions patterns on animal skins like ____.",
+            "options": [
+              "Cup",
+              "Bottle",
+              "Zebra",
+              "Clock"
+            ],
+            "correct_answer": "Zebra",
+            "rationale": "The PDF lists cat, dog, zebra, and tiger skins.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "What can we do after seeing a pattern?",
+            "options": [
+              "Forget the order",
+              "Drink water",
+              "Guess what comes next",
+              "Spend money"
+            ],
+            "correct_answer": "Guess what comes next",
+            "rationale": "Recognising repetition helps predict the next item.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which home item may have patterns?",
+            "options": [
+              "Only water",
+              "Only subtraction",
+              "Curtains",
+              "Only time"
+            ],
+            "correct_answer": "Curtains",
+            "rationale": "The PDF mentions curtains, sarees, dupattas, and tiles.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m019_making_patterns",
+        "topic_name": "Making Patterns",
+        "explanation": "Patterns can be made with objects and actions. The textbook asks children to arrange pebbles, flowers, leaves, glasses, bowls, sticks, bangles, coins, and caps. It also suggests clapping, snapping fingers, and stamping feet. Patterns can be seen, heard, and acted.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which object can be arranged into a pattern?",
+            "options": [
+              "Only clouds",
+              "Only buses",
+              "Pebbles",
+              "Only calendars"
+            ],
+            "correct_answer": "Pebbles",
+            "rationale": "The PDF suggests pebbles, flowers, leaves, and more.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which action can make a pattern?",
+            "options": [
+              "Sleeping",
+              "Erasing only",
+              "Clapping",
+              "Losing"
+            ],
+            "correct_answer": "Clapping",
+            "rationale": "The PDF mentions clapping, snapping, and stamping.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Kolam or rangoli is used in this chapter for ____.",
+            "options": [
+              "Money",
+              "Capacity",
+              "Patterns",
+              "Subtraction only"
+            ],
+            "correct_answer": "Patterns",
+            "rationale": "The PDF shows completing a kolam/rangoli pattern.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A pattern made with sounds may use ____.",
+            "options": [
+              "Coins only",
+              "Dustbin only",
+              "Snapping fingers",
+              "Bottle only"
+            ],
+            "correct_answer": "Snapping fingers",
+            "rationale": "The PDF suggests snapping fingers.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "To continue a pattern, we look at the ____.",
+            "options": [
+              "Price",
+              "Page number only",
+              "Repeating order",
+              "Season name"
+            ],
+            "correct_answer": "Repeating order",
+            "rationale": "The repeat tells what comes next.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "How do I Spend my Day? (Time)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m020_daily_routine_and_time",
+        "topic_name": "Daily Routine and Time",
+        "explanation": "Time helps us talk about our day. We wake up, eat, study, play, and sleep at different times. This chapter asks children to think about how they spend the day. A routine is like a story in order: first morning activities, then daytime work, then evening and night.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "What does a daily routine show?",
+            "options": [
+              "Only money",
+              "Only toys",
+              "Order of activities in a day",
+              "Only shapes"
+            ],
+            "correct_answer": "Order of activities in a day",
+            "rationale": "The chapter asks how children spend the day.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which activity usually happens at night?",
+            "options": [
+              "Morning assembly",
+              "Buying vegetables only",
+              "Sleeping",
+              "Breakfast before waking"
+            ],
+            "correct_answer": "Sleeping",
+            "rationale": "Children usually sleep at night.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which comes first in a school day?",
+            "options": [
+              "Going to sleep",
+              "Dinner",
+              "Waking up",
+              "Evening play"
+            ],
+            "correct_answer": "Waking up",
+            "rationale": "A day usually starts with waking up.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Time helps us know ____.",
+            "options": [
+              "Only how much money",
+              "Only colour",
+              "When things happen",
+              "Only which toy"
+            ],
+            "correct_answer": "When things happen",
+            "rationale": "Time tells when activities happen.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "A routine should be in ____.",
+            "options": [
+              "Random hiding",
+              "Only coins",
+              "Order",
+              "Only circles"
+            ],
+            "correct_answer": "Order",
+            "rationale": "Daily events happen in sequence.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m021_seasons_and_activities",
+        "topic_name": "Seasons and Activities",
+        "explanation": "The time chapter also asks children to name seasons and match them with pictures. We eat, wear, and do different things in different seasons. For example, children may like cool foods in summer and warm clothes in winter. Seasons help us notice changes through the year.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The PDF asks children to write the name of the ____.",
+            "options": [
+              "Coins",
+              "Shapes only",
+              "Seasons",
+              "Buses"
+            ],
+            "correct_answer": "Seasons",
+            "rationale": "The page says write the name of the seasons.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The chapter asks what children like to eat in ____.",
+            "options": [
+              "Only Monday",
+              "Only subtraction",
+              "Summer",
+              "Only night"
+            ],
+            "correct_answer": "Summer",
+            "rationale": "The PDF asks what you like to eat in summer.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "The chapter asks what children like to wear in ____.",
+            "options": [
+              "Only morning",
+              "Only a basket",
+              "Winter",
+              "Only a bus"
+            ],
+            "correct_answer": "Winter",
+            "rationale": "The PDF asks what you like to wear in winter.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Summer and winter are examples of ____.",
+            "options": [
+              "Coins",
+              "Number signs",
+              "Seasons",
+              "Patterns only"
+            ],
+            "correct_answer": "Seasons",
+            "rationale": "Summer and winter are seasons.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Pictures can be matched with season ____.",
+            "options": [
+              "Prices only",
+              "Roll numbers only",
+              "Names",
+              "Answers only"
+            ],
+            "correct_answer": "Names",
+            "rationale": "The activity asks children to match seasons with pictures.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "How Many Times? (Multiplication)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m022_repeated_addition",
+        "topic_name": "Repeated Addition",
+        "explanation": "Multiplication begins as repeated addition. If there are 5 groups of 3 pencils, we can add 3 again and again. The textbook shows erasers, pencils, and apples in packs and asks children to find the total using 'times'.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Multiplication in this chapter begins as ____.",
+            "options": [
+              "Taking away only",
+              "Buying only",
+              "Repeated addition",
+              "Telling seasons"
+            ],
+            "correct_answer": "Repeated addition",
+            "rationale": "The page shows repeated addition with times.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "5 times 3 means adding ____ five times.",
+            "options": [
+              "5",
+              "2",
+              "3",
+              "8"
+            ],
+            "correct_answer": "3",
+            "rationale": "5 times 3 is 3 + 3 + 3 + 3 + 3.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "3 times 3 = ____.",
+            "options": [
+              "6",
+              "3",
+              "9",
+              "12"
+            ],
+            "correct_answer": "9",
+            "rationale": "3 + 3 + 3 = 9.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "4 times 2 = ____.",
+            "options": [
+              "6",
+              "2",
+              "8",
+              "10"
+            ],
+            "correct_answer": "8",
+            "rationale": "2 + 2 + 2 + 2 = 8.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The chapter uses packs of erasers, pencils and ____.",
+            "options": [
+              "Seasons",
+              "Dolls",
+              "Apples",
+              "Clocks"
+            ],
+            "correct_answer": "Apples",
+            "rationale": "The PDF mentions erasers, pencils, and apples.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m023_equal_groups",
+        "topic_name": "Equal Groups",
+        "explanation": "Equal groups make counting faster. If every cycle has 2 wheels, you can count wheels by twos. The project asks children to find how many cycles are at home and then find the total number of wheels. Equal groups are the first step toward multiplication.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A cycle has ____ wheels.",
+            "options": [
+              "1",
+              "5",
+              "2",
+              "3"
+            ],
+            "correct_answer": "2",
+            "rationale": "A usual cycle has two wheels.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The project asks children to find the total number of cycle ____.",
+            "options": [
+              "Flowers",
+              "Days",
+              "Wheels",
+              "Coins"
+            ],
+            "correct_answer": "Wheels",
+            "rationale": "The PDF cycle project asks for total wheels.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Equal groups help us count ____.",
+            "options": [
+              "Slower always",
+              "Only money",
+              "Faster",
+              "Only seasons"
+            ],
+            "correct_answer": "Faster",
+            "rationale": "Equal groups support repeated addition.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "If 2 cycles each have 2 wheels, total wheels are ____.",
+            "options": [
+              "2",
+              "8",
+              "4",
+              "6"
+            ],
+            "correct_answer": "4",
+            "rationale": "2 + 2 = 4.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Groups with the same number are called ____ groups.",
+            "options": [
+              "Different",
+              "Season",
+              "Equal",
+              "Hidden"
+            ],
+            "correct_answer": "Equal",
+            "rationale": "Equal groups have the same count.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "How Much Can We Spend? (Money)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m024_coins_notes_and_amounts",
+        "topic_name": "Coins, Notes and Amounts",
+        "explanation": "Money helps us buy things and compare amounts. In this chapter, children use play money and match the same amount. A coin or note has a value. When values are put together, they make an amount we can spend or save.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "This chapter is about ____.",
+            "options": [
+              "Patterns only",
+              "Rolling only",
+              "Money",
+              "Seasons only"
+            ],
+            "correct_answer": "Money",
+            "rationale": "The chapter title asks how much can we spend.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The PDF asks children to use play ____.",
+            "options": [
+              "Water",
+              "Wheels",
+              "Money",
+              "Leaves"
+            ],
+            "correct_answer": "Money",
+            "rationale": "The teacher note says use play money.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A coin or note has a ____.",
+            "options": [
+              "Season",
+              "Bed",
+              "Value",
+              "Shadow"
+            ],
+            "correct_answer": "Value",
+            "rationale": "Money pieces have values.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The activity asks children to match the same ____.",
+            "options": [
+              "Animal",
+              "Shape only",
+              "Amount",
+              "Season"
+            ],
+            "correct_answer": "Amount",
+            "rationale": "The page says match the same amount.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Money can be used to ____ things.",
+            "options": [
+              "Only sleep",
+              "Only clap",
+              "Buy",
+              "Only roll"
+            ],
+            "correct_answer": "Buy",
+            "rationale": "Spending money is used for buying.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m025_saving_money",
+        "topic_name": "Saving Money",
+        "explanation": "Saving means keeping money for later. The textbook says saving money is a good habit and asks children to make a gullak with a spare box. A gullak is like a small home for saved coins and notes. Saving teaches care and planning.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The PDF says saving money is a good ____.",
+            "options": [
+              "Mistake",
+              "Subtraction sign",
+              "Habit",
+              "Shape"
+            ],
+            "correct_answer": "Habit",
+            "rationale": "The page says saving money is a good habit.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Children are asked to make a ____.",
+            "options": [
+              "Clock",
+              "Bottle only",
+              "Gullak",
+              "Train"
+            ],
+            "correct_answer": "Gullak",
+            "rationale": "The project asks children to make a gullak.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A gullak can be made with a spare ____.",
+            "options": [
+              "River",
+              "Bus",
+              "Box",
+              "Tree"
+            ],
+            "correct_answer": "Box",
+            "rationale": "The PDF says use a spare box at home.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Saving means keeping money for ____.",
+            "options": [
+              "Throwing away",
+              "Only drawing",
+              "Later",
+              "Forgetting"
+            ],
+            "correct_answer": "Later",
+            "rationale": "Saving keeps money for future use.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Who may help children make a gullak?",
+            "options": [
+              "Only strangers",
+              "Only clouds",
+              "Siblings or elders",
+              "Only shopkeepers"
+            ],
+            "correct_answer": "Siblings or elders",
+            "rationale": "The PDF says with help of siblings or elders.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "So Many Toys (Data Handling)",
+    "modules": [
+      {
+        "module_id": "cbse_c1_m026_counting_and_comparing_toys",
+        "topic_name": "Counting and Comparing Toys",
+        "explanation": "Data handling starts with counting and comparing. In So Many Toys, children count dolls, cars, elephants, and teddy bears. Then they use words like more than, less than, and equal to. Data becomes easy when we count carefully and compare one group with another.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Which chapter is about data handling?",
+            "options": [
+              "Mango Treat",
+              "Utsav",
+              "So Many Toys",
+              "Making 10"
+            ],
+            "correct_answer": "So Many Toys",
+            "rationale": "The contents page lists So Many Toys as Data Handling.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The toy picture includes dolls and ____.",
+            "options": [
+              "Seasons",
+              "Bottles",
+              "Cars",
+              "Notes"
+            ],
+            "correct_answer": "Cars",
+            "rationale": "The PDF asks children to compare dolls and cars.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which phrase compares bigger groups?",
+            "options": [
+              "Inside",
+              "Round",
+              "More than",
+              "Before"
+            ],
+            "correct_answer": "More than",
+            "rationale": "The activity uses more than, less than, and equal to.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which phrase compares smaller groups?",
+            "options": [
+              "Above",
+              "Rolling",
+              "Less than",
+              "After"
+            ],
+            "correct_answer": "Less than",
+            "rationale": "Less than tells a group has fewer items.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "If two groups have the same number, they are ____.",
+            "options": [
+              "More than",
+              "Under",
+              "Equal to",
+              "Less than"
+            ],
+            "correct_answer": "Equal to",
+            "rationale": "Equal to means the counts are the same.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c1_m027_colourful_flowers_data",
+        "topic_name": "Colourful Flowers Data",
+        "explanation": "The colourful flowers activity asks children to count flowers by colour and tell which colour is most or least. This is data handling with pictures. When we count red, blue, orange, and purple flowers, we can answer questions using numbers instead of guessing.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The flower activity asks children to write the number of ____.",
+            "options": [
+              "Coins",
+              "Days",
+              "Flowers",
+              "Buses"
+            ],
+            "correct_answer": "Flowers",
+            "rationale": "The PDF says write the number of flowers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which word means greatest in number?",
+            "options": [
+              "Least",
+              "Before",
+              "Most",
+              "Under"
+            ],
+            "correct_answer": "Most",
+            "rationale": "Most means the largest count.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which word means smallest in number?",
+            "options": [
+              "Most",
+              "On",
+              "Least",
+              "More than"
+            ],
+            "correct_answer": "Least",
+            "rationale": "Least means the smallest count.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The flowers are grouped by ____.",
+            "options": [
+              "Weight only",
+              "Money only",
+              "Colour",
+              "Time only"
+            ],
+            "correct_answer": "Colour",
+            "rationale": "The activity names colours of flowers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The PDF uses true or false statements to compare flower ____.",
+            "options": [
+              "Stories",
+              "Cars only",
+              "Numbers",
+              "Seasons"
+            ],
+            "correct_answer": "Numbers",
+            "rationale": "The page compares counts of red, blue, orange, and purple flowers.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  }
+]

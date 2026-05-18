@@ -1,0 +1,262 @@
+{
+  "source": "NCERT Maths Mela Class 3 PDFs, reprint 2026-27",
+  "syllabus": "CBSE",
+  "class": "Class 3",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "What's in a Name?",
+      "pdf": "cemm101.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m001_counting_with_marks_and_tallies",
+          "topic_name": "Counting with Marks and Tallies",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m002_tracking_groups_of_animals",
+          "topic_name": "Tracking Groups of Animals",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Toy Joy",
+      "pdf": "cemm102.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m003_3d_shapes_in_toys",
+          "topic_name": "3D Shapes in Toys",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m004_position_and_arrangement_of_solids",
+          "topic_name": "Position and Arrangement of Solids",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Double Century",
+      "pdf": "cemm103.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m005_numbers_up_to_200",
+          "topic_name": "Numbers up to 200",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m006_number_board_and_place_value",
+          "topic_name": "Number Board and Place Value",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Vacation with My Nani Maa",
+      "pdf": "cemm104.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m007_hidden_seeds_and_complements",
+          "topic_name": "Hidden Seeds and Complements",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m008_addition_and_subtraction_stories",
+          "topic_name": "Addition and Subtraction Stories",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fun with Shapes",
+      "pdf": "cemm105.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m009_rangoli_with_dots_and_shapes",
+          "topic_name": "Rangoli with Dots and Shapes",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m010_folding_nets_and_shape_cutouts",
+          "topic_name": "Folding, Nets and Shape Cutouts",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "House of Hundreds - I",
+      "pdf": "cemm106.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m011_counting_beyond_200",
+          "topic_name": "Counting Beyond 200",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m012_comparing_numbers_near_300",
+          "topic_name": "Comparing Numbers Near 300",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Raksha Bandhan",
+      "pdf": "cemm107.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m013_equal_groups_in_rakhis",
+          "topic_name": "Equal Groups in Rakhis",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m014_arrays_and_repeated_addition",
+          "topic_name": "Arrays and Repeated Addition",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fair Share",
+      "pdf": "cemm108.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m015_equal_sharing_and_halves",
+          "topic_name": "Equal Sharing and Halves",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m016_whole_half_and_equal_parts",
+          "topic_name": "Whole, Half and Equal Parts",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "House of Hundreds - II",
+      "pdf": "cemm109.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m017_numbers_from_500_to_1000",
+          "topic_name": "Numbers from 500 to 1000",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m018_number_lines_beyond_500",
+          "topic_name": "Number Lines Beyond 500",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fun at Class Party!",
+      "pdf": "cemm110.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m019_informal_length_measurement",
+          "topic_name": "Informal Length Measurement",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m020_comparing_longest_and_shortest",
+          "topic_name": "Comparing Longest and Shortest",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Filling and Lifting",
+      "pdf": "cemm111.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m021_capacity_with_glasses",
+          "topic_name": "Capacity with Glasses",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m022_weight_and_lifting",
+          "topic_name": "Weight and Lifting",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Give and Take",
+      "pdf": "cemm112.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m023_three_digit_addition",
+          "topic_name": "Three-Digit Addition",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m024_add_and_subtract_number_paths",
+          "topic_name": "Add and Subtract Number Paths",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Time Goes On",
+      "pdf": "cemm113.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m025_calendar_months_and_days",
+          "topic_name": "Calendar Months and Days",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m026_years_weeks_and_festivals",
+          "topic_name": "Years, Weeks and Festivals",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "The Surajkund Fair",
+      "pdf": "cemm114.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c3_m027_symmetry_at_the_fair",
+          "topic_name": "Symmetry at the Fair",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        },
+        {
+          "module_id": "cbse_c3_m028_malas_patterns_and_beads",
+          "topic_name": "Malas, Patterns and Beads",
+          "question_count": 5,
+          "source_basis": "PDF chapter title, sampled activity text, and textbook problem context"
+        }
+      ]
+    }
+  ],
+  "module_total": 28,
+  "question_total": 140
+}

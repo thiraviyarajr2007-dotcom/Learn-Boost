@@ -1,0 +1,2297 @@
+[
+  {
+    "chapter_name": "We the Travellers - I",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m001_large_numbers_and_ten_thousands",
+        "topic_name": "Large Numbers and Ten Thousands",
+        "explanation": "Large numbers are built by grouping tens. Ten ones make a ten, ten tens make a hundred, ten hundreds make a thousand, and ten thousands make 10,000. The chapter adds a TTh column for ten thousand and uses commas to make large numbers easier to read.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "10 thousands make ____.",
+            "options": [
+              "One thousand",
+              "One lakh",
+              "Ten thousand",
+              "One hundred"
+            ],
+            "correct_answer": "Ten thousand",
+            "rationale": "The PDF says 10 Thousands = Ten Thousand = 10,000.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Ten thousand is written as ____.",
+            "options": [
+              "1,000",
+              "9,000",
+              "10,000",
+              "100"
+            ],
+            "correct_answer": "10,000",
+            "rationale": "The chapter asks how to write ten thousand.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "TTh stands for ____.",
+            "options": [
+              "Thousand",
+              "Hundred",
+              "Ten Thousand",
+              "Ten"
+            ],
+            "correct_answer": "Ten Thousand",
+            "rationale": "The place value chart adds a TTh column.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "We use a comma to read large numbers ____.",
+            "options": [
+              "As fractions",
+              "As weights",
+              "Easily",
+              "As angles"
+            ],
+            "correct_answer": "Easily",
+            "rationale": "The PDF states commas help us read large numbers easily.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Adding 1,000 to 9,000 gives ____.",
+            "options": [
+              "9,100",
+              "1,000",
+              "10,000",
+              "8,000"
+            ],
+            "correct_answer": "10,000",
+            "rationale": "9,000 + 1,000 = 10,000.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m002_indian_place_value_reading",
+        "topic_name": "Indian Place Value Reading",
+        "explanation": "The Indian place value system uses the same digits 0-9 in different places. A number like 1,380 is 1 thousand, 3 hundreds, 8 tens, and 0 ones. Place value is like an address: a digit's value depends on where it stands.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "1,380 has ____ thousand.",
+            "options": [
+              "3",
+              "0",
+              "1",
+              "8"
+            ],
+            "correct_answer": "1",
+            "rationale": "The PDF writes 1,380 as 1 Thousand + 3 Hundreds + 8 Tens + 0 Ones.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "1,380 has ____ hundreds.",
+            "options": [
+              "1",
+              "0",
+              "3",
+              "8"
+            ],
+            "correct_answer": "3",
+            "rationale": "The hundreds digit in 1,380 is 3.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "9,123 has ____ thousands.",
+            "options": [
+              "1",
+              "3",
+              "9",
+              "2"
+            ],
+            "correct_answer": "9",
+            "rationale": "The PDF writes 9,123 as 9 Thousands + 1 Hundred + 2 Tens + 3 Ones.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "9,123 has ____ tens.",
+            "options": [
+              "9",
+              "3",
+              "2",
+              "1"
+            ],
+            "correct_answer": "2",
+            "rationale": "The tens digit is 2.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A digit's value depends on its ____.",
+            "options": [
+              "Colour",
+              "Weight",
+              "Place",
+              "Shape"
+            ],
+            "correct_answer": "Place",
+            "rationale": "Place value gives meaning to each digit.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Fractions",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m003_comparing_fractions_of_wholes",
+        "topic_name": "Comparing Fractions of Wholes",
+        "explanation": "A fraction is a part of a whole, but the whole matters. Tamanna compares parts of two different chocolates. One-third of a large chocolate can be bigger than one-half of a small chocolate. Fractions are fairly compared when the wholes are the same size.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "To compare fractions of two wholes, the wholes should be ____.",
+            "options": [
+              "Different",
+              "Unequal always",
+              "Same",
+              "Hidden"
+            ],
+            "correct_answer": "Same",
+            "rationale": "The PDF says the wholes must be the same.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Tamanna has two chocolates of different ____.",
+            "options": [
+              "Colours only",
+              "Weights only",
+              "Sizes",
+              "Dates"
+            ],
+            "correct_answer": "Sizes",
+            "rationale": "The chapter says the chocolates are of different sizes.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "1/2 of a small whole can be ____ than 1/3 of a big whole.",
+            "options": [
+              "Always bigger",
+              "Not a fraction",
+              "Smaller",
+              "Always equal"
+            ],
+            "correct_answer": "Smaller",
+            "rationale": "The whole size affects the part size.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "In Grid A, children shade ____ in red.",
+            "options": [
+              "1/6",
+              "1/2",
+              "1/8",
+              "1/12"
+            ],
+            "correct_answer": "1/8",
+            "rationale": "The PDF says shade 1/8 of Grid A in red.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "In Grid B, children shade ____ in blue.",
+            "options": [
+              "1/8",
+              "1/3",
+              "1/6",
+              "1/12"
+            ],
+            "correct_answer": "1/6",
+            "rationale": "The PDF says shade 1/6 of Grid B in blue.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m004_equivalent_fractions",
+        "topic_name": "Equivalent Fractions",
+        "explanation": "Equivalent fractions name the same amount in different ways. In the fraction kit, one half can be made by two one-fourth pieces, so 1/2 = 2/4. The chapter also shows 1/3 = 2/6. Equivalent fractions are like different names for the same part.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Two pieces of 1/4 are equal to ____.",
+            "options": [
+              "1/3",
+              "1/8",
+              "1/2",
+              "1/5"
+            ],
+            "correct_answer": "1/2",
+            "rationale": "The PDF states 2 pieces of 1/4 are equal to 1/2.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "1/2 is equivalent to ____.",
+            "options": [
+              "1/4",
+              "2/3",
+              "2/4",
+              "3/4"
+            ],
+            "correct_answer": "2/4",
+            "rationale": "The chapter writes 1/2 = 2/4.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "1/3 is equivalent to ____.",
+            "options": [
+              "1/6",
+              "2/3",
+              "2/6",
+              "3/6"
+            ],
+            "correct_answer": "2/6",
+            "rationale": "The PDF says 1/3 = 2/6.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "How many 1/5 pieces make a whole?",
+            "options": [
+              "2",
+              "10",
+              "5",
+              "4"
+            ],
+            "correct_answer": "5",
+            "rationale": "Five fifths make one whole.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Equivalent fractions show the ____ amount.",
+            "options": [
+              "Double always",
+              "Hidden",
+              "Same",
+              "Smaller always"
+            ],
+            "correct_answer": "Same",
+            "rationale": "Equivalent means equal in value.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Angles as Turns",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m005_full_half_and_quarter_turns",
+        "topic_name": "Full, Half and Quarter Turns",
+        "explanation": "Angles can be understood as turns. A full turn brings you back to the starting position, a half turn faces the opposite way, and a quarter turn is one-fourth of a full turn. The Statue game and giant wheel help children see turns in movement.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A full turn brings you back to the ____ position.",
+            "options": [
+              "Opposite",
+              "Quarter",
+              "Starting",
+              "Hidden"
+            ],
+            "correct_answer": "Starting",
+            "rationale": "The chapter says a full turn comes back to the initial position.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Two half turns in the same direction make a ____ turn.",
+            "options": [
+              "Quarter",
+              "One-eighth",
+              "Full",
+              "No"
+            ],
+            "correct_answer": "Full",
+            "rationale": "Two halves make one full turn.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Two quarter turns make a ____ turn.",
+            "options": [
+              "Full",
+              "No",
+              "Half",
+              "Three-quarter"
+            ],
+            "correct_answer": "Half",
+            "rationale": "2 quarters = 1 half.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Four quarter turns make a ____ turn.",
+            "options": [
+              "Half",
+              "No",
+              "Full",
+              "Quarter"
+            ],
+            "correct_answer": "Full",
+            "rationale": "4 quarters = 1 full turn.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The minute hand makes a full turn when it returns to its ____ position.",
+            "options": [
+              "Quarter",
+              "Hidden",
+              "Initial",
+              "Different"
+            ],
+            "correct_answer": "Initial",
+            "rationale": "The PDF mentions the minute hand returning to its initial position.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m006_turns_in_everyday_objects",
+        "topic_name": "Turns in Everyday Objects",
+        "explanation": "Many objects turn: taps, doors, tongs, scissors, clothes clips, and file covers. Some turn less than a quarter, some a quarter, and some more. Noticing turns helps children connect angles to actions they already know.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A door with a hinge shows a ____.",
+            "options": [
+              "Fraction only",
+              "Comma",
+              "Turn",
+              "Weight"
+            ],
+            "correct_answer": "Turn",
+            "rationale": "The PDF lists door with hinge in the turn table.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The chapter asks whether objects make a ____ turn.",
+            "options": [
+              "Lakh",
+              "Pictograph",
+              "Half",
+              "Gram"
+            ],
+            "correct_answer": "Half",
+            "rationale": "The table asks which objects make a half turn.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A giant wheel makes a full turn when it returns to point ____.",
+            "options": [
+              "A",
+              "C",
+              "E",
+              "B"
+            ],
+            "correct_answer": "E",
+            "rationale": "The sampled page says starting position E.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A quarter turn is ____ of a full turn.",
+            "options": [
+              "1/2",
+              "2/4",
+              "1/4",
+              "1/3"
+            ],
+            "correct_answer": "1/4",
+            "rationale": "Quarter means one-fourth.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Angles as turns are seen through ____.",
+            "options": [
+              "Only money",
+              "Only weight",
+              "Movement",
+              "Only data"
+            ],
+            "correct_answer": "Movement",
+            "rationale": "The chapter teaches angles through turning movement.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "We the Travellers - II",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m007_equal_sums_and_number_swaps",
+        "topic_name": "Equal Sums and Number Swaps",
+        "explanation": "This chapter begins with groups of numbers and asks what happens when numbers are interchanged. Swapping numbers can balance sums. It is like adjusting weights on two sides: if both totals become equal, the swap worked.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Interchanging numbers can make two sums ____.",
+            "options": [
+              "Always larger",
+              "Fractions",
+              "Equal",
+              "Always smaller"
+            ],
+            "correct_answer": "Equal",
+            "rationale": "The PDF asks learners to interchange pairs to make sums equal.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Balancing sums means both totals are the ____.",
+            "options": [
+              "Different",
+              "Rounded",
+              "Same",
+              "Hidden"
+            ],
+            "correct_answer": "Same",
+            "rationale": "Equal sums have the same total.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "If 2 and 5 are interchanged, the ____ may change.",
+            "options": [
+              "Fuel type",
+              "Weight",
+              "Sums",
+              "Angle"
+            ],
+            "correct_answer": "Sums",
+            "rationale": "The opening task asks what happens to sums after interchanging.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A number swap is useful when comparing ____ groups.",
+            "options": [
+              "Only one",
+              "Ten thousand",
+              "Two",
+              "No"
+            ],
+            "correct_answer": "Two",
+            "rationale": "The task shows two groups of numbers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Checking equality needs calculating each ____.",
+            "options": [
+              "Turn",
+              "Icon",
+              "Total",
+              "Litre"
+            ],
+            "correct_answer": "Total",
+            "rationale": "Equal sums require total comparison.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m008_fuel_arithmetic",
+        "topic_name": "Fuel Arithmetic",
+        "explanation": "Fuel arithmetic uses addition and subtraction with litres. A lorry with 28 litres gets 75 more litres, so the total is 28 l + 75 l. The chapter also reminds us to save fuel because it is limited and reducing fuel use lowers pollution.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A lorry has 28 litres and 75 litres more is filled. Total fuel is ____ litres.",
+            "options": [
+              "93",
+              "28",
+              "103",
+              "75"
+            ],
+            "correct_answer": "103",
+            "rationale": "28 + 75 = 103.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Fuel quantity is measured in ____.",
+            "options": [
+              "Metres",
+              "Turns",
+              "Litres",
+              "Grams"
+            ],
+            "correct_answer": "Litres",
+            "rationale": "The chapter uses litres for fuel.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Motorbikes may need about 5 to ____ litres of fuel.",
+            "options": [
+              "50",
+              "5000",
+              "15",
+              "500"
+            ],
+            "correct_answer": "15",
+            "rationale": "The PDF says motorbikes vary from 5 to 15 litres.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A train may need about ____ litres of fuel.",
+            "options": [
+              "50",
+              "15",
+              "5000",
+              "500"
+            ],
+            "correct_answer": "5000",
+            "rationale": "The PDF says 5,000 litres in the case of a train.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Saving fuel helps reduce ____.",
+            "options": [
+              "Fractions",
+              "Perimeter",
+              "Pollution",
+              "Symmetry"
+            ],
+            "correct_answer": "Pollution",
+            "rationale": "The PDF links saving fuel with cutting down pollution.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Far and Near",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m009_metres_and_centimetres",
+        "topic_name": "Metres and Centimetres",
+        "explanation": "Distance and length can be measured in metres or centimetres. One metre equals 100 centimetres, so 2 m equals 200 cm and 500 cm equals 5 m. Choosing the right unit makes measurements easier to read.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "1 metre equals ____ centimetres.",
+            "options": [
+              "10",
+              "50",
+              "100",
+              "1000"
+            ],
+            "correct_answer": "100",
+            "rationale": "The double number line shows 100 cm = 1 m.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "2 metres equals ____ centimetres.",
+            "options": [
+              "20",
+              "500",
+              "200",
+              "100"
+            ],
+            "correct_answer": "200",
+            "rationale": "2 × 100 cm = 200 cm.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "500 cm equals ____ metres.",
+            "options": [
+              "50",
+              "2",
+              "5",
+              "500"
+            ],
+            "correct_answer": "5",
+            "rationale": "500 cm = 5 m.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The height of India Gate is measured in ____.",
+            "options": [
+              "Centimetres only",
+              "Litres",
+              "Metres",
+              "Grams"
+            ],
+            "correct_answer": "Metres",
+            "rationale": "A building height is suited to metres.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The length of a mobile phone is measured in ____.",
+            "options": [
+              "Kilometres",
+              "Litres",
+              "Centimetres",
+              "Metres only"
+            ],
+            "correct_answer": "Centimetres",
+            "rationale": "A small object is suited to centimetres.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m010_comparing_lengths",
+        "topic_name": "Comparing Lengths",
+        "explanation": "Length comparison becomes easier when units match. For example, 456 cm is less than 5 m because 5 m is 500 cm. The chapter asks children to compare rods and statue heights using <, =, and > signs.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "456 cm is ____ 5 m.",
+            "options": [
+              "Greater than",
+              "Not comparable",
+              "Less than",
+              "Equal to"
+            ],
+            "correct_answer": "Less than",
+            "rationale": "5 m = 500 cm, so 456 cm is less.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "55 cm + 200 cm is ____ 200 cm + 54 cm.",
+            "options": [
+              "Less than",
+              "Impossible",
+              "Greater than",
+              "Equal to"
+            ],
+            "correct_answer": "Greater than",
+            "rationale": "255 cm is greater than 254 cm.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "6 m 5 cm is ____ 6 m 50 cm.",
+            "options": [
+              "Greater than",
+              "Same",
+              "Less than",
+              "Equal to"
+            ],
+            "correct_answer": "Less than",
+            "rationale": "6 m 5 cm = 605 cm and 6 m 50 cm = 650 cm.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "238 cm is ____ 138 cm + 1 m.",
+            "options": [
+              "Less than",
+              "No relation",
+              "Equal to",
+              "Greater than"
+            ],
+            "correct_answer": "Equal to",
+            "rationale": "138 cm + 100 cm = 238 cm.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Use <, =, > after converting to the same ____.",
+            "options": [
+              "Colour",
+              "Icon",
+              "Unit",
+              "Angle"
+            ],
+            "correct_answer": "Unit",
+            "rationale": "Comparing lengths needs common units.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "The Dairy Farm",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m011_multiplication_facts_and_factors",
+        "topic_name": "Multiplication Facts and Factors",
+        "explanation": "The Dairy Farm continues multiplication. Shapes hide numbers, and the same shape means the same number. Children use known facts like 30 × 2 = 60 to discover missing factors and build flexible multiplication thinking.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "30 × 2 = ____.",
+            "options": [
+              "32",
+              "90",
+              "60",
+              "30"
+            ],
+            "correct_answer": "60",
+            "rationale": "The PDF gives 30 × 2 = 60.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "In the shape puzzles, the same shape denotes the same ____.",
+            "options": [
+              "Unit",
+              "Icon",
+              "Number",
+              "Turn"
+            ],
+            "correct_answer": "Number",
+            "rationale": "The PDF states the same shape denotes the same number.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A factor is a number that is ____ to get a product.",
+            "options": [
+              "Measured",
+              "Weighed",
+              "Multiplied",
+              "Folded"
+            ],
+            "correct_answer": "Multiplied",
+            "rationale": "Factors multiply to make products.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "If __ × 5 = 60, the missing number is ____.",
+            "options": [
+              "10",
+              "55",
+              "12",
+              "15"
+            ],
+            "correct_answer": "12",
+            "rationale": "12 × 5 = 60.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Multiplication facts help solve hidden ____.",
+            "options": [
+              "Calendars",
+              "Pictographs",
+              "Numbers",
+              "Directions"
+            ],
+            "correct_answer": "Numbers",
+            "rationale": "The task asks learners to find numbers hidden in shapes.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m012_number_clues_and_operations",
+        "topic_name": "Number Clues and Operations",
+        "explanation": "The chapter asks 'Which number am I?' using clues like multiple, odd, greater than, less than, tens digit, and ones digit. This is mathematical detective work: remove impossible numbers until one number satisfies all clues.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A number that is a multiple of 9 and less than 50 could be ____.",
+            "options": [
+              "16",
+              "44",
+              "18",
+              "22"
+            ],
+            "correct_answer": "18",
+            "rationale": "18 is a multiple of 9 and less than 50.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "An odd number has ones digit ____.",
+            "options": [
+              "Even",
+              "Ten",
+              "Odd",
+              "Zero always"
+            ],
+            "correct_answer": "Odd",
+            "rationale": "Odd numbers end in 1, 3, 5, 7, or 9.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "A multiple of 4 is exactly divisible by ____.",
+            "options": [
+              "9",
+              "5",
+              "4",
+              "11"
+            ],
+            "correct_answer": "4",
+            "rationale": "Multiples of 4 divide by 4 with no remainder.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "4 - 2 forms the number ____.",
+            "options": [
+              "6",
+              "0",
+              "2",
+              "8"
+            ],
+            "correct_answer": "2",
+            "rationale": "The PDF gives 2 can be formed as 4 - 2.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "Clue-based problems require checking ____ clues.",
+            "options": [
+              "Only first",
+              "Random",
+              "All",
+              "No"
+            ],
+            "correct_answer": "All",
+            "rationale": "The correct number must satisfy every clue.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Shapes and Patterns",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m013_weaving_patterns",
+        "topic_name": "Weaving Patterns",
+        "explanation": "Woven mats use repeating over-under patterns. One row may go 1 under, 1 over, and the next may go 1 over, 1 under. Such alternating patterns create beautiful designs and help children describe repetition precisely.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Row 1 of the simple weave is 1 under, 1 ____.",
+            "options": [
+              "Down",
+              "Half",
+              "Over",
+              "Litre"
+            ],
+            "correct_answer": "Over",
+            "rationale": "The PDF describes Row 1 as 1 under, 1 over.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Row 2 begins 1 over, 1 ____.",
+            "options": [
+              "Hundred",
+              "Angle",
+              "Under",
+              "Gram"
+            ],
+            "correct_answer": "Under",
+            "rationale": "The PDF describes Row 2 as 1 over, 1 under.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "The mat uses paper strips of ____ colours.",
+            "options": [
+              "One",
+              "Ten",
+              "Two",
+              "Five"
+            ],
+            "correct_answer": "Two",
+            "rationale": "The activity uses 8 strips of two colours.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The coloured paper is 30 cm long and ____ cm wide.",
+            "options": [
+              "3",
+              "100",
+              "20",
+              "8"
+            ],
+            "correct_answer": "20",
+            "rationale": "The PDF gives 30 cm long and 20 cm wide.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A repeating over-under order is a ____.",
+            "options": [
+              "Weight",
+              "Fraction",
+              "Pattern",
+              "Distance"
+            ],
+            "correct_answer": "Pattern",
+            "rationale": "Repeating arrangements form patterns.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m014_geometric_designs_with_strips",
+        "topic_name": "Geometric Designs with Strips",
+        "explanation": "Paper weaving turns geometry into craft. Equal-width strips and equal slits create rows and columns. By changing the rule, such as 2 over and 1 under, children see how a small rule can produce a new pattern.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The strips are ____ cm wide.",
+            "options": [
+              "8",
+              "30",
+              "3",
+              "20"
+            ],
+            "correct_answer": "3",
+            "rationale": "The PDF says strips are 3 cm wide.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The activity uses ____ paper strips.",
+            "options": [
+              "3",
+              "30",
+              "8",
+              "20"
+            ],
+            "correct_answer": "8",
+            "rationale": "The PDF says cut 8 paper strips.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Changing from 1 over-1 under to 2 over-1 under changes the ____.",
+            "options": [
+              "Unit",
+              "Time",
+              "Pattern",
+              "Weight"
+            ],
+            "correct_answer": "Pattern",
+            "rationale": "A different rule creates a different design.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Equal slits help strips weave in ____ rows.",
+            "options": [
+              "Random",
+              "Unequal",
+              "Neat",
+              "Hidden"
+            ],
+            "correct_answer": "Neat",
+            "rationale": "Equal distances create orderly weaving.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Weaving shows patterns using shape and ____.",
+            "options": [
+              "Fuel",
+              "Coconut only",
+              "Colour",
+              "TV hours"
+            ],
+            "correct_answer": "Colour",
+            "rationale": "The mat uses two colours in patterns.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Weight and Capacity",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m015_reading_weighing_scales",
+        "topic_name": "Reading Weighing Scales",
+        "explanation": "Weight tells how heavy something is. The chapter asks children to check recorded weights and read scales in kg and g. A bed may be in kilograms, but a sofa written as 30 g is unreasonable. Estimation and scale reading work together.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Kilogram is written as ____.",
+            "options": [
+              "g",
+              "l",
+              "kg",
+              "cm"
+            ],
+            "correct_answer": "kg",
+            "rationale": "The chapter uses kg for kilogram.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Gram is written as ____.",
+            "options": [
+              "kg",
+              "l",
+              "g",
+              "m"
+            ],
+            "correct_answer": "g",
+            "rationale": "The chapter uses g for gram.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A bed recorded as 60 kg looks ____.",
+            "options": [
+              "Impossible",
+              "A direction",
+              "Reasonable",
+              "A fraction"
+            ],
+            "correct_answer": "Reasonable",
+            "rationale": "A bed can be measured in kilograms.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "An iron almirah recorded as 40 g looks ____.",
+            "options": [
+              "Correct",
+              "A turn",
+              "Incorrect",
+              "A capacity"
+            ],
+            "correct_answer": "Incorrect",
+            "rationale": "40 g is too light for an iron almirah.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A weighing scale helps find ____.",
+            "options": [
+              "Length only",
+              "Directions",
+              "Weight",
+              "Angles only"
+            ],
+            "correct_answer": "Weight",
+            "rationale": "The activity asks children to read scales.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m016_capacity_and_unit_conversion",
+        "topic_name": "Capacity and Unit Conversion",
+        "explanation": "Capacity tells how much a container can hold, while weight tells how heavy it is. The chapter uses water bottles, buckets, grams, kilograms, and scale marks. Reading units carefully prevents mixing up kg, g, litre, and millilitre.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A water bottle recorded as 650 g is a measure of ____.",
+            "options": [
+              "Length",
+              "Direction",
+              "Weight",
+              "Time"
+            ],
+            "correct_answer": "Weight",
+            "rationale": "650 g is a weight measure.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "1 kg equals ____ g.",
+            "options": [
+              "100",
+              "500",
+              "1000",
+              "10"
+            ],
+            "correct_answer": "1000",
+            "rationale": "Standard conversion: 1 kg = 1000 g.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "250 g + 250 g = ____ g.",
+            "options": [
+              "250",
+              "750",
+              "500",
+              "1000"
+            ],
+            "correct_answer": "500",
+            "rationale": "Two 250 g parts make 500 g.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A bucket may be described using both weight and ____.",
+            "options": [
+              "Angle",
+              "Pictograph",
+              "Capacity",
+              "Symmetry"
+            ],
+            "correct_answer": "Capacity",
+            "rationale": "Buckets can be weighed and can hold liquid.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Correct measurement needs reading both number and ____.",
+            "options": [
+              "Colour",
+              "Turn",
+              "Unit",
+              "Icon"
+            ],
+            "correct_answer": "Unit",
+            "rationale": "Units tell what is being measured.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Coconut Farm",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m017_multiplication_and_division_facts",
+        "topic_name": "Multiplication and Division Facts",
+        "explanation": "Division and multiplication are partners. If 5 × 7 = 35, then 35 ÷ 5 = 7 and 35 ÷ 7 = 5. The coconut array helps children see groups, group size, dividend, divisor, and quotient.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "If 5 × 7 = 35, then 35 ÷ 7 = ____.",
+            "options": [
+              "7",
+              "12",
+              "5",
+              "35"
+            ],
+            "correct_answer": "5",
+            "rationale": "The PDF states 35 ÷ 7 = 5.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "If 5 × 7 = 35, then 35 ÷ 5 = ____.",
+            "options": [
+              "5",
+              "1",
+              "7",
+              "35"
+            ],
+            "correct_answer": "7",
+            "rationale": "The PDF states 35 ÷ 5 = 7.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "35 ÷ 1 = ____.",
+            "options": [
+              "1",
+              "7",
+              "35",
+              "5"
+            ],
+            "correct_answer": "35",
+            "rationale": "Any number divided by 1 is itself.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "Dividend = Divisor × ____.",
+            "options": [
+              "Remainder only",
+              "Icon",
+              "Quotient",
+              "Fraction"
+            ],
+            "correct_answer": "Quotient",
+            "rationale": "The PDF states Dividend = Divisor × Quotient.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "In 35 ÷ 7 = 5, the quotient is ____.",
+            "options": [
+              "35",
+              "1",
+              "5",
+              "7"
+            ],
+            "correct_answer": "5",
+            "rationale": "The answer to division is the quotient.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m018_large_products_and_related_division",
+        "topic_name": "Large Products and Related Division",
+        "explanation": "The chapter asks learners to solve large multiplication problems and write two related division facts. For example, 30 × 30 = 900, so 900 ÷ 30 = 30. This strengthens the connection between products and quotients.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "30 × 30 = ____.",
+            "options": [
+              "60",
+              "90",
+              "900",
+              "300"
+            ],
+            "correct_answer": "900",
+            "rationale": "30 × 30 = 900.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "400 × 8 = ____.",
+            "options": [
+              "408",
+              "4008",
+              "3200",
+              "320"
+            ],
+            "correct_answer": "3200",
+            "rationale": "400 multiplied by 8 is 3200.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "15 × 60 = ____.",
+            "options": [
+              "75",
+              "150",
+              "900",
+              "600"
+            ],
+            "correct_answer": "900",
+            "rationale": "15 × 60 = 900.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "200 × 16 = ____.",
+            "options": [
+              "216",
+              "20016",
+              "3200",
+              "1600"
+            ],
+            "correct_answer": "3200",
+            "rationale": "200 × 16 = 3200.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "From one multiplication fact we can write ____ division facts.",
+            "options": [
+              "No",
+              "Four always",
+              "Two",
+              "One only"
+            ],
+            "correct_answer": "Two",
+            "rationale": "The PDF asks for two division statements from each product.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Symmetrical Designs",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m019_alphabet_symmetry",
+        "topic_name": "Alphabet Symmetry",
+        "explanation": "Symmetry helps make neat alphabet cutouts. The letter A has a vertical line of symmetry, and H has two lines of symmetry. Folding paper along a symmetry line lets children draw only half or one-fourth and open it to see the full letter.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The letter A has a ____ line of symmetry.",
+            "options": [
+              "Horizontal only",
+              "Diagonal only",
+              "Vertical",
+              "No"
+            ],
+            "correct_answer": "Vertical",
+            "rationale": "The PDF says A has a vertical line of symmetry.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The letter H has ____ lines of symmetry.",
+            "options": [
+              "One",
+              "No",
+              "Two",
+              "Three"
+            ],
+            "correct_answer": "Two",
+            "rationale": "The PDF says H has two lines of symmetry.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "To cut A, draw half of the letter along the ____.",
+            "options": [
+              "Scale",
+              "Map",
+              "Fold",
+              "Clock"
+            ],
+            "correct_answer": "Fold",
+            "rationale": "The steps say draw half along the fold.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A symmetrical cutout is made by folding ____.",
+            "options": [
+              "Water",
+              "Milk",
+              "Paper",
+              "Fuel"
+            ],
+            "correct_answer": "Paper",
+            "rationale": "The activity uses folded paper.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Letters can have vertical, horizontal, or both lines of ____.",
+            "options": [
+              "Division",
+              "Capacity",
+              "Symmetry",
+              "Weight"
+            ],
+            "correct_answer": "Symmetry",
+            "rationale": "The questions ask for horizontal and vertical lines of symmetry.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m020_firkis_and_symmetric_designs",
+        "topic_name": "Firkis and Symmetric Designs",
+        "explanation": "Firkis, diyas, boats, and paper designs can use symmetry. A square paper folded diagonally makes triangles and an X shape. Symmetry helps balance the design so it looks neat from matching sides.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A firki begins with a ____ paper.",
+            "options": [
+              "Circular",
+              "Long strip",
+              "Square",
+              "Triangular only"
+            ],
+            "correct_answer": "Square",
+            "rationale": "The PDF says take a square paper.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Folding the square diagonally makes two ____.",
+            "options": [
+              "Circles",
+              "Lines only",
+              "Triangles",
+              "Rectangles only"
+            ],
+            "correct_answer": "Triangles",
+            "rationale": "The steps say fold diagonally to make two triangles.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "After folding both ways, an ____ shape appears.",
+            "options": [
+              "A",
+              "O",
+              "X",
+              "H"
+            ],
+            "correct_answer": "X",
+            "rationale": "The PDF says you will see an X shape.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A balanced design often has ____.",
+            "options": [
+              "Incorrect units",
+              "Only data",
+              "Symmetry",
+              "Only weight"
+            ],
+            "correct_answer": "Symmetry",
+            "rationale": "Symmetry creates matching sides.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The chapter asks children to make cutouts of diya and ____.",
+            "options": [
+              "TV",
+              "Coconut",
+              "Boat",
+              "Fuel tank"
+            ],
+            "correct_answer": "Boat",
+            "rationale": "The PDF mentions diya, boat, and other designs.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Grandmother's Quilt",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m021_perimeter_of_shapes",
+        "topic_name": "Perimeter of Shapes",
+        "explanation": "Perimeter is the length of the border of a shape. Grandmother wants lace around a quilt, so she needs the perimeter. If all sides of a square are equal, add all sides to find the border length.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The length of the border of a shape is called ____.",
+            "options": [
+              "Area",
+              "Factor",
+              "Perimeter",
+              "Capacity"
+            ],
+            "correct_answer": "Perimeter",
+            "rationale": "The PDF states this definition.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "A square with side 4 cm has perimeter ____ cm.",
+            "options": [
+              "8",
+              "20",
+              "16",
+              "12"
+            ],
+            "correct_answer": "16",
+            "rationale": "4 + 4 + 4 + 4 = 16.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "A rectangle of 5 cm and 4 cm has perimeter ____ cm.",
+            "options": [
+              "9",
+              "16",
+              "18",
+              "20"
+            ],
+            "correct_answer": "18",
+            "rationale": "5 + 4 + 5 + 4 = 18.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Lace around a quilt measures its ____.",
+            "options": [
+              "Area",
+              "Time",
+              "Perimeter",
+              "Weight"
+            ],
+            "correct_answer": "Perimeter",
+            "rationale": "Lace covers the border.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Perimeter is measured in units of ____.",
+            "options": [
+              "Weight",
+              "Data",
+              "Length",
+              "Capacity"
+            ],
+            "correct_answer": "Length",
+            "rationale": "Perimeter is a length around a boundary.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m022_area_and_tiling",
+        "topic_name": "Area and Tiling",
+        "explanation": "Area is the region covered by a shape. The quilt and table activities use triangles, squares, and rectangles to cover without gaps or overlaps. Circles leave gaps, so they do not tile a flat region neatly.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The region covered by shapes is called ____.",
+            "options": [
+              "Perimeter",
+              "Direction",
+              "Area",
+              "Weight"
+            ],
+            "correct_answer": "Area",
+            "rationale": "The PDF defines the region covered as area.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Squares and rectangles can cover a table without ____.",
+            "options": [
+              "Units",
+              "Factors",
+              "Gaps",
+              "Numbers"
+            ],
+            "correct_answer": "Gaps",
+            "rationale": "The PDF discusses no gaps and overlaps.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Circles usually leave ____ when tiling a table.",
+            "options": [
+              "No space",
+              "Perimeter",
+              "Gaps",
+              "Only borders"
+            ],
+            "correct_answer": "Gaps",
+            "rationale": "The PDF asks whether circles tile and notes gaps.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Area can be counted in square ____.",
+            "options": [
+              "Litres",
+              "Hours",
+              "Units",
+              "Kilograms"
+            ],
+            "correct_answer": "Units",
+            "rationale": "Area is counted using unit shapes.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Tiles used for area should not ____.",
+            "options": [
+              "Count",
+              "Touch at edges",
+              "Overlap",
+              "Measure"
+            ],
+            "correct_answer": "Overlap",
+            "rationale": "Tiling means no gaps and no overlaps.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Racing Seconds",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m023_elapsed_time",
+        "topic_name": "Elapsed Time",
+        "explanation": "Elapsed time is how long an activity takes. Raghav's yoga and the painting table ask children to find start time, finish time, and duration. Think of time as a number line: jump from start to finish and count the hours and minutes.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Raghav practises ____ in the morning.",
+            "options": [
+              "Weaving",
+              "Bird watching",
+              "Yoga",
+              "Fuel arithmetic"
+            ],
+            "correct_answer": "Yoga",
+            "rationale": "The PDF says Raghav practices yoga in the morning.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "01:15 p.m. to 01:42 p.m. is ____ minutes.",
+            "options": [
+              "17",
+              "57",
+              "27",
+              "42"
+            ],
+            "correct_answer": "27",
+            "rationale": "42 - 15 = 27 minutes.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "03:18 p.m. to 08:18 p.m. is ____ hours.",
+            "options": [
+              "3",
+              "11",
+              "5",
+              "8"
+            ],
+            "correct_answer": "5",
+            "rationale": "The minutes match, so it is 5 hours.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Rani took 2 hours 10 minutes, Ritu 1 hour 35 minutes. Who took longer?",
+            "options": [
+              "Ritu",
+              "Raghav",
+              "Rani",
+              "Both same"
+            ],
+            "correct_answer": "Rani",
+            "rationale": "2 h 10 min is longer than 1 h 35 min.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Elapsed time means time ____.",
+            "options": [
+              "Weighed",
+              "Pictured",
+              "Taken",
+              "Folded"
+            ],
+            "correct_answer": "Taken",
+            "rationale": "Duration is the time taken.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m024_12_hour_and_24_hour_time",
+        "topic_name": "12-Hour and 24-Hour Time",
+        "explanation": "Time can be written in 12-hour format with a.m./p.m. or in 24-hour format. For afternoon and evening p.m. times, add 12 to the hour. So 02:30 p.m. becomes 14:30 hours.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "02:30 p.m. is ____ hours in 24-hour format.",
+            "options": [
+              "02:30",
+              "24:30",
+              "14:30",
+              "12:30"
+            ],
+            "correct_answer": "14:30",
+            "rationale": "The PDF table shows 02:30 p.m. = 14:30 hours.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "05:30 a.m. is ____ hours.",
+            "options": [
+              "17:30",
+              "00:30",
+              "05:30",
+              "15:30"
+            ],
+            "correct_answer": "05:30",
+            "rationale": "Morning a.m. times keep the same hour.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "05:30 p.m. is ____ hours.",
+            "options": [
+              "05:30",
+              "07:30",
+              "17:30",
+              "15:30"
+            ],
+            "correct_answer": "17:30",
+            "rationale": "For p.m., add 12 to 5.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "09:35 p.m. is ____ hours.",
+            "options": [
+              "09:35",
+              "23:35",
+              "21:35",
+              "19:35"
+            ],
+            "correct_answer": "21:35",
+            "rationale": "For p.m., 9 + 12 = 21.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "24-hour time avoids using ____.",
+            "options": [
+              "Minutes",
+              "Numbers",
+              "a.m./p.m.",
+              "Hours"
+            ],
+            "correct_answer": "a.m./p.m.",
+            "rationale": "24-hour format does not need a.m. or p.m.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Animal Jumps",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m025_factors_and_multiples",
+        "topic_name": "Factors and Multiples",
+        "explanation": "Animal Jumps uses boxes, arrays, and jumps to explore factors and multiples. Factors multiply to make a number; multiples are products. For 12, the factors include 1, 2, 3, 4, 6, and 12 because each divides 12 completely.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "1, 2, 3, 4, 6 and 12 are factors of ____.",
+            "options": [
+              "15",
+              "37",
+              "12",
+              "28"
+            ],
+            "correct_answer": "12",
+            "rationale": "The PDF states these are all factors of 12.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "3 × 4 = ____.",
+            "options": [
+              "7",
+              "34",
+              "12",
+              "15"
+            ],
+            "correct_answer": "12",
+            "rationale": "The chapter shows 3 × 4 = 12.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "2 × 6 = ____.",
+            "options": [
+              "8",
+              "14",
+              "12",
+              "26"
+            ],
+            "correct_answer": "12",
+            "rationale": "The chapter shows 2 × 6 = 12.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "The product of factors gives a ____.",
+            "options": [
+              "Fraction",
+              "Pictograph",
+              "Multiple",
+              "Map"
+            ],
+            "correct_answer": "Multiple",
+            "rationale": "The PDF says product of factors gives a multiple.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "A factor divides a number ____.",
+            "options": [
+              "Partly always",
+              "By direction",
+              "Completely",
+              "With a clock"
+            ],
+            "correct_answer": "Completely",
+            "rationale": "The PDF says factors divide 12 completely.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m026_prime_numbers_and_common_multiples",
+        "topic_name": "Prime Numbers and Common Multiples",
+        "explanation": "Some numbers, like 13 and 37, are prime because they have only two factors: 1 and themselves. The chapter also uses rabbit and frog jumps to find common multiples of 3 and 4, with 12 as the first common multiple.",
+        "difficulty": "Hard",
+        "total_timer_minutes": 5,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "13 and 37 are called ____ numbers.",
+            "options": [
+              "Composite only",
+              "Directional",
+              "Prime",
+              "Fraction"
+            ],
+            "correct_answer": "Prime",
+            "rationale": "The PDF asks why 13 and 37 are prime numbers.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 2,
+            "question_text": "The first common multiple of 3 and 4 is ____.",
+            "options": [
+              "7",
+              "15",
+              "12",
+              "10"
+            ],
+            "correct_answer": "12",
+            "rationale": "The PDF states 12 is the first common multiple of 3 and 4.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 3,
+            "question_text": "A rabbit takes a jump of ____ each time.",
+            "options": [
+              "3",
+              "12",
+              "4",
+              "5"
+            ],
+            "correct_answer": "4",
+            "rationale": "The PDF says the rabbit takes a jump of 4.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 4,
+            "question_text": "A frog takes a jump of ____ each time.",
+            "options": [
+              "4",
+              "12",
+              "3",
+              "6"
+            ],
+            "correct_answer": "3",
+            "rationale": "The PDF says the frog takes a jump of 3.",
+            "timer_per_question_seconds": 60
+          },
+          {
+            "question_id": 5,
+            "question_text": "A prime number has factors 1 and ____.",
+            "options": [
+              "2 always",
+              "0 only",
+              "Itself",
+              "All numbers"
+            ],
+            "correct_answer": "Itself",
+            "rationale": "Prime numbers have exactly two factors.",
+            "timer_per_question_seconds": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Maps and Locations",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m027_cardinal_directions",
+        "topic_name": "Cardinal Directions",
+        "explanation": "Maps and locations begin with directions. If Manu faces the rising Sun, he faces East. Then his left hand points North, his right hand points South, and West is behind him. Directions help us describe places clearly.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The rising Sun is in the ____.",
+            "options": [
+              "West",
+              "South",
+              "East",
+              "North"
+            ],
+            "correct_answer": "East",
+            "rationale": "The chapter asks learners to face the rising Sun.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "If Manu faces East, his left hand points ____.",
+            "options": [
+              "South",
+              "West",
+              "North",
+              "East"
+            ],
+            "correct_answer": "North",
+            "rationale": "Facing East, left is North.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "If Manu faces East, his right hand points ____.",
+            "options": [
+              "North",
+              "West",
+              "South",
+              "East"
+            ],
+            "correct_answer": "South",
+            "rationale": "Facing East, right is South.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The direction opposite East is ____.",
+            "options": [
+              "North",
+              "Up",
+              "West",
+              "South"
+            ],
+            "correct_answer": "West",
+            "rationale": "East and West are opposite directions.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "North, South, East and West are ____ directions.",
+            "options": [
+              "Fraction",
+              "Data",
+              "Cardinal",
+              "Weight"
+            ],
+            "correct_answer": "Cardinal",
+            "rationale": "The teacher note mentions the four cardinal directions.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m028_reading_locations_on_a_map",
+        "topic_name": "Reading Locations on a Map",
+        "explanation": "A map is like a bird's-eye view of a place. In the bird-watching camp, children use clues such as west of the road to colour tents. Location language like north, south, east, west, left, and right helps us follow map clues.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The chapter has a bird-watching ____.",
+            "options": [
+              "Museum",
+              "Quilt",
+              "Camp",
+              "Dairy"
+            ],
+            "correct_answer": "Camp",
+            "rationale": "The sampled page says children are at a bird-watching camp.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The tent west of the road is located using a ____ clue.",
+            "options": [
+              "Weight",
+              "Factor",
+              "Direction",
+              "Fraction"
+            ],
+            "correct_answer": "Direction",
+            "rationale": "West is a direction.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "The Siberian Crane flies from Siberia to ____.",
+            "options": [
+              "Australia",
+              "Moon",
+              "India",
+              "Africa"
+            ],
+            "correct_answer": "India",
+            "rationale": "The PDF says these birds fly to India.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A map usually shows a place from ____.",
+            "options": [
+              "Inside",
+              "Behind only",
+              "Above",
+              "Underground only"
+            ],
+            "correct_answer": "Above",
+            "rationale": "Maps are top-view representations.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Directions help us find a ____.",
+            "options": [
+              "Weight",
+              "TV hour",
+              "Path",
+              "Product only"
+            ],
+            "correct_answer": "Path",
+            "rationale": "The chapter asks how birds and humans find paths.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Data Through Pictures",
+    "modules": [
+      {
+        "module_id": "cbse_c5_m029_collecting_and_reading_data",
+        "topic_name": "Collecting and Reading Data",
+        "explanation": "Samaira and Kabir act like reporters and collect data from 35 friends about TV watching. Data begins with a question, then responses are recorded in a table so we can compare categories like half an hour, one hour, two hours, and more than two hours.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Samaira and Kabir collected data from ____ friends.",
+            "options": [
+              "15",
+              "50",
+              "35",
+              "30"
+            ],
+            "correct_answer": "35",
+            "rationale": "The PDF says they collected data from 35 friends.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Their question is about hours spent watching ____.",
+            "options": [
+              "Birds",
+              "Coconuts",
+              "TV",
+              "Fuel"
+            ],
+            "correct_answer": "TV",
+            "rationale": "The chapter asks how many hours a day children watch TV.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Data collection begins with a ____.",
+            "options": [
+              "Weight scale",
+              "Turn",
+              "Question",
+              "Compass"
+            ],
+            "correct_answer": "Question",
+            "rationale": "Reporters ask a question to collect information.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A table helps organise ____.",
+            "options": [
+              "Directions only",
+              "Fractions only",
+              "Responses",
+              "Angles only"
+            ],
+            "correct_answer": "Responses",
+            "rationale": "The TV data is recorded in a table.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Watching TV for a long time can be harmful to the ____.",
+            "options": [
+              "Map",
+              "Quilt",
+              "Eyes",
+              "Fuel"
+            ],
+            "correct_answer": "Eyes",
+            "rationale": "The page asks whether long TV watching harms eyes.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c5_m030_pictographs_and_icons",
+        "topic_name": "Pictographs and Icons",
+        "explanation": "A pictograph uses pictures or icons to show data. Joseph Uncle has too many toys and sports items to draw one picture for every item, so one icon can represent many items. This makes large data easier to read.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A pictograph shows data using ____.",
+            "options": [
+              "Only words",
+              "Only directions",
+              "Pictures",
+              "Only fractions"
+            ],
+            "correct_answer": "Pictures",
+            "rationale": "The chapter title is Data Through Pictures.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Joseph Uncle takes stock of play items in his ____.",
+            "options": [
+              "Dairy farm",
+              "Map",
+              "Store",
+              "Museum only"
+            ],
+            "correct_answer": "Store",
+            "rationale": "The PDF says he takes stock in his store.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "One icon can represent ____ item or many items.",
+            "options": [
+              "No",
+              "Only prime",
+              "One",
+              "Only half"
+            ],
+            "correct_answer": "One",
+            "rationale": "The chapter discusses using one picture for items.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Using one picture for every item is hard when there are ____ items.",
+            "options": [
+              "No",
+              "Equal halves",
+              "Too many",
+              "Only two"
+            ],
+            "correct_answer": "Too many",
+            "rationale": "Joseph notices too many items make one-picture-per-item difficult.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A pictograph key tells what each ____ means.",
+            "options": [
+              "Direction",
+              "Turn",
+              "Icon",
+              "Factor"
+            ],
+            "correct_answer": "Icon",
+            "rationale": "A key explains the value of each picture.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,493 @@
+{
+  "board": "CBSE",
+  "class": 7,
+  "subject": "Mathematics",
+  "source_pdf": "C:/Users/thira/OneDrive - Rathinam Group Of Institutions/Desktop/My carrier/projects/Learning edu/7 to 12/ncert-books-for-class-7-maths.pdf",
+  "schema": "learn_edu_strict_chapter_modules_v1",
+  "content_rule": "Questions are derived from NCERT Class 7 Mathematics chapter sections, definitions, formulas, examples, and exercise patterns.",
+  "chapters": [
+    {
+      "chapter_name": "Integers",
+      "source_chapter": "Chapter 1: Integers",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Integer Recall and Number Line",
+          "source_section_basis": "Chapter 1: Integers",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-01-integer_recall_and_number_line"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Addition and Subtraction of Integers",
+          "source_section_basis": "Chapter 1: Integers",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-01-addition_and_subtraction_of_integers"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Multiplication and Division of Integers",
+          "source_section_basis": "Chapter 1: Integers",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-01-multiplication_and_division_of_integers"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fractions and Decimals",
+      "source_chapter": "Chapter 2: Fractions and Decimals",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Multiplication of Fractions",
+          "source_section_basis": "Chapter 2: Fractions and Decimals",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-02-multiplication_of_fractions"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Division of Fractions",
+          "source_section_basis": "Chapter 2: Fractions and Decimals",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-02-division_of_fractions"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Decimal Multiplication and Division",
+          "source_section_basis": "Chapter 2: Fractions and Decimals",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-02-decimal_multiplication_and_division"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Handling",
+      "source_chapter": "Chapter 3: Data Handling",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Collecting and Organising Data",
+          "source_section_basis": "Chapter 3: Data Handling",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-03-collecting_and_organising_data"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Mean, Mode and Median",
+          "source_section_basis": "Chapter 3: Data Handling",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-03-mean_mode_and_median"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Bar Graphs and Probability",
+          "source_section_basis": "Chapter 3: Data Handling",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-03-bar_graphs_and_probability"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Simple Equations",
+      "source_chapter": "Chapter 4: Simple Equations",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Setting Up Equations",
+          "source_section_basis": "Chapter 4: Simple Equations",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-04-setting_up_equations"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Solving Simple Equations",
+          "source_section_basis": "Chapter 4: Simple Equations",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-04-solving_simple_equations"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Applications of Simple Equations",
+          "source_section_basis": "Chapter 4: Simple Equations",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-04-applications_of_simple_equations"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Lines and Angles",
+      "source_chapter": "Chapter 5: Lines and Angles",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Related Angles",
+          "source_section_basis": "Chapter 5: Lines and Angles",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-05-related_angles"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Intersecting Lines and Transversals",
+          "source_section_basis": "Chapter 5: Lines and Angles",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-05-intersecting_lines_and_transversals"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Checking Parallel Lines",
+          "source_section_basis": "Chapter 5: Lines and Angles",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-05-checking_parallel_lines"
+        }
+      ]
+    },
+    {
+      "chapter_name": "The Triangle and its Properties",
+      "source_chapter": "Chapter 6: The Triangle and its Properties",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Medians and Altitudes",
+          "source_section_basis": "Chapter 6: The Triangle and its Properties",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-06-medians_and_altitudes"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Exterior Angle and Angle Sum",
+          "source_section_basis": "Chapter 6: The Triangle and its Properties",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-06-exterior_angle_and_angle_sum"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Special Triangles and Pythagoras Property",
+          "source_section_basis": "Chapter 6: The Triangle and its Properties",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-06-special_triangles_and_pythagoras_property"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Congruence of Triangles",
+      "source_chapter": "Chapter 7: Congruence of Triangles",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Meaning of Congruence",
+          "source_section_basis": "Chapter 7: Congruence of Triangles",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-07-meaning_of_congruence"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Triangle Congruence Criteria",
+          "source_section_basis": "Chapter 7: Congruence of Triangles",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-07-triangle_congruence_criteria"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "RHS Congruence",
+          "source_section_basis": "Chapter 7: Congruence of Triangles",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-07-rhs_congruence"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Comparing Quantities",
+      "source_chapter": "Chapter 8: Comparing Quantities",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Equivalent Ratios and Percentages",
+          "source_section_basis": "Chapter 8: Comparing Quantities",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-08-equivalent_ratios_and_percentages"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Profit, Loss and Discount",
+          "source_section_basis": "Chapter 8: Comparing Quantities",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-08-profit_loss_and_discount"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Simple Interest",
+          "source_section_basis": "Chapter 8: Comparing Quantities",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-08-simple_interest"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Rational Numbers",
+      "source_chapter": "Chapter 9: Rational Numbers",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Need and Meaning of Rational Numbers",
+          "source_section_basis": "Chapter 9: Rational Numbers",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-09-need_and_meaning_of_rational_numbers"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Standard Form, Number Line and Comparison",
+          "source_section_basis": "Chapter 9: Rational Numbers",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-09-standard_form_number_line_and_comparison"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Operations on Rational Numbers",
+          "source_section_basis": "Chapter 9: Rational Numbers",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-09-operations_on_rational_numbers"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Practical Geometry",
+      "source_chapter": "Chapter 10: Practical Geometry",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Constructing a Parallel Line",
+          "source_section_basis": "Chapter 10: Practical Geometry",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-10-constructing_a_parallel_line"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Triangle Construction: SSS and SAS",
+          "source_section_basis": "Chapter 10: Practical Geometry",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-10-triangle_construction_sss_and_sas"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Triangle Construction: ASA and RHS",
+          "source_section_basis": "Chapter 10: Practical Geometry",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-10-triangle_construction_asa_and_rhs"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Perimeter and Area",
+      "source_chapter": "Chapter 11: Perimeter and Area",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Squares and Rectangles",
+          "source_section_basis": "Chapter 11: Perimeter and Area",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-11-squares_and_rectangles"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Parallelograms and Triangles",
+          "source_section_basis": "Chapter 11: Perimeter and Area",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-11-parallelograms_and_triangles"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Circles, Units and Applications",
+          "source_section_basis": "Chapter 11: Perimeter and Area",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-11-circles_units_and_applications"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Algebraic Expressions",
+      "source_chapter": "Chapter 12: Algebraic Expressions",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Terms, Factors and Coefficients",
+          "source_section_basis": "Chapter 12: Algebraic Expressions",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-12-terms_factors_and_coefficients"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Like Terms and Polynomials",
+          "source_section_basis": "Chapter 12: Algebraic Expressions",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-12-like_terms_and_polynomials"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Adding, Subtracting and Evaluating Expressions",
+          "source_section_basis": "Chapter 12: Algebraic Expressions",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-12-adding_subtracting_and_evaluating_expressions"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Exponents and Powers",
+      "source_chapter": "Chapter 13: Exponents and Powers",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Exponents and Powers",
+          "source_section_basis": "Chapter 13: Exponents and Powers",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-13-exponents_and_powers"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Laws of Exponents",
+          "source_section_basis": "Chapter 13: Exponents and Powers",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-13-laws_of_exponents"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Decimal System and Standard Form",
+          "source_section_basis": "Chapter 13: Exponents and Powers",
+          "difficulty": "Hard",
+          "question_count": 5,
+          "trace_id": "cbse-class7-13-decimal_system_and_standard_form"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Symmetry",
+      "source_chapter": "Chapter 14: Symmetry",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Lines of Symmetry",
+          "source_section_basis": "Chapter 14: Symmetry",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-14-lines_of_symmetry"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Rotational Symmetry",
+          "source_section_basis": "Chapter 14: Symmetry",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-14-rotational_symmetry"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Line Symmetry and Rotational Symmetry Together",
+          "source_section_basis": "Chapter 14: Symmetry",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-14-line_symmetry_and_rotational_symmetry_together"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Visualising Solid Shapes",
+      "source_chapter": "Chapter 15: Visualising Solid Shapes",
+      "module_count": 3,
+      "question_count": 15,
+      "modules": [
+        {
+          "module_id": 1,
+          "topic_name": "Plane Figures and Solid Shapes",
+          "source_section_basis": "Chapter 15: Visualising Solid Shapes",
+          "difficulty": "Easy",
+          "question_count": 5,
+          "trace_id": "cbse-class7-15-plane_figures_and_solid_shapes"
+        },
+        {
+          "module_id": 2,
+          "topic_name": "Nets for 3D Shapes",
+          "source_section_basis": "Chapter 15: Visualising Solid Shapes",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-15-nets_for_3d_shapes"
+        },
+        {
+          "module_id": 3,
+          "topic_name": "Sketches, Views and Sections",
+          "source_section_basis": "Chapter 15: Visualising Solid Shapes",
+          "difficulty": "Medium",
+          "question_count": 5,
+          "trace_id": "cbse-class7-15-sketches_views_and_sections"
+        }
+      ]
+    }
+  ],
+  "total_chapters": 15,
+  "total_modules": 45,
+  "total_questions": 225
+}

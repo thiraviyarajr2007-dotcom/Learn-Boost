@@ -1,0 +1,262 @@
+{
+  "source": "NCERT Maths Mela Grade 4 PDFs, reprint 2026-27",
+  "syllabus": "CBSE",
+  "class": "Class 4",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "Shapes Around Us",
+      "pdf": "demm101.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m001_models_prisms_and_pyramids",
+          "topic_name": "Models, Prisms and Pyramids",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m002_nets_of_solids",
+          "topic_name": "Nets of Solids",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Hide and Seek",
+      "pdf": "demm102.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m003_top_front_and_side_views",
+          "topic_name": "Top, Front and Side Views",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m004_visibility_and_position",
+          "topic_name": "Visibility and Position",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Pattern Around Us",
+      "pdf": "demm103.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m005_counting_arrangements",
+          "topic_name": "Counting Arrangements",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m006_patterns_with_money",
+          "topic_name": "Patterns with Money",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Thousands Around Us",
+      "pdf": "demm104.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m007_thousands_hundreds_tens_and_ones",
+          "topic_name": "Thousands, Hundreds, Tens and Ones",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m008_comparing_and_forming_3_digit_numbers",
+          "topic_name": "Comparing and Forming 3-Digit Numbers",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Sharing and Measuring",
+      "pdf": "demm105.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m009_halves_and_quarters",
+          "topic_name": "Halves and Quarters",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m010_measuring_fractional_lengths",
+          "topic_name": "Measuring Fractional Lengths",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Measuring Length",
+      "pdf": "demm106.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m011_metres_and_half_metres",
+          "topic_name": "Metres and Half Metres",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m012_length_height_breadth_and_depth",
+          "topic_name": "Length, Height, Breadth and Depth",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "The Cleanest Village",
+      "pdf": "demm107.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m013_trip_data_and_distances",
+          "topic_name": "Trip Data and Distances",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m014_price_lists_and_total_cost",
+          "topic_name": "Price Lists and Total Cost",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Weigh it, Pour it",
+      "pdf": "demm108.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m015_kilograms_and_grams",
+          "topic_name": "Kilograms and Grams",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m016_capacity_and_litres",
+          "topic_name": "Capacity and Litres",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Equal Groups",
+      "pdf": "demm109.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m017_multiples_with_animal_jumps",
+          "topic_name": "Multiples with Animal Jumps",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m018_common_multiples",
+          "topic_name": "Common Multiples",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Elephants, Tigers, and Leopards",
+      "pdf": "demm110.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m019_nim_game_strategy",
+          "topic_name": "NIM Game Strategy",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m020_addition_chart_patterns",
+          "topic_name": "Addition Chart Patterns",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fun with Symmetry",
+      "pdf": "demm111.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m021_lines_of_symmetry",
+          "topic_name": "Lines of Symmetry",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m022_symmetry_in_paper_airplanes",
+          "topic_name": "Symmetry in Paper Airplanes",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Ticking Clocks and Turning Calendar",
+      "pdf": "demm112.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m023_leap_years_and_february",
+          "topic_name": "Leap Years and February",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m024_calendar_days_and_dates",
+          "topic_name": "Calendar Days and Dates",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "The Transport Museum",
+      "pdf": "demm113.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m025_times_10_and_hundreds",
+          "topic_name": "Times-10 and Hundreds",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m026_constructing_tables_and_products",
+          "topic_name": "Constructing Tables and Products",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Handling",
+      "pdf": "demm114.pdf",
+      "modules": [
+        {
+          "module_id": "cbse_c4_m027_asking_a_good_data_question",
+          "topic_name": "Asking a Good Data Question",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        },
+        {
+          "module_id": "cbse_c4_m028_recording_and_reading_responses",
+          "topic_name": "Recording and Reading Responses",
+          "question_count": 5,
+          "source_basis": "PDF contents page, chapter opening activity, and sampled textbook problem context"
+        }
+      ]
+    }
+  ],
+  "module_total": 28,
+  "question_total": 140
+}

@@ -1,0 +1,208 @@
+{
+  "source": "NCERT Joyful Mathematics Class 2 PDF, first edition 2023",
+  "syllabus": "CBSE",
+  "class": "Class 2",
+  "subject": "Mathematics",
+  "chapters": [
+    {
+      "chapter_name": "A Day at the Beach (Counting in Groups)",
+      "page": 1,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m001_counting_in_bunches_and_groups",
+          "topic_name": "Counting in Bunches and Groups",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m002_tens_and_ones",
+          "topic_name": "Tens and Ones",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Shapes Around Us (3D Shapes)",
+      "page": 16,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m003_solid_shapes_around_us",
+          "topic_name": "Solid Shapes Around Us",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m004_roll_slide_and_stack",
+          "topic_name": "Roll, Slide and Stack",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fun with Numbers (Numbers 1 to 100)",
+      "page": 23,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m005_number_line_and_guess_my_number",
+          "topic_name": "Number Line and Guess My Number",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m006_number_chart_patterns",
+          "topic_name": "Number Chart Patterns",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Shadow Story (Togalu) (2D Shapes)",
+      "page": 32,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m007_flat_shapes_and_shadows",
+          "topic_name": "Flat Shapes and Shadows",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m008_position_words_in_hide_and_seek",
+          "topic_name": "Position Words in Hide and Seek",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Playing with Lines (Orientations of a Line)",
+      "page": 44,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m009_standing_sleeping_and_slanting_lines",
+          "topic_name": "Standing, Sleeping and Slanting Lines",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m010_curved_lines_and_dot_play",
+          "topic_name": "Curved Lines and Dot Play",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Decoration for Festival (Addition and Subtraction)",
+      "page": 50,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m011_addition_with_tens_and_ones",
+          "topic_name": "Addition with Tens and Ones",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m012_subtraction_with_blocks",
+          "topic_name": "Subtraction with Blocks",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Rani's Gift (Measurement)",
+      "page": 71,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m013_length_and_paths",
+          "topic_name": "Length and Paths",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m014_heavier_and_lighter",
+          "topic_name": "Heavier and Lighter",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Grouping and Sharing (Multiplication and Division)",
+      "page": 83,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m015_equal_groups_and_multiplication",
+          "topic_name": "Equal Groups and Multiplication",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m016_sharing_and_division",
+          "topic_name": "Sharing and Division",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Which Season is it? (Measurement of Time)",
+      "page": 98,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m017_seasons_dates_and_daily_events",
+          "topic_name": "Seasons, Dates and Daily Events",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m018_reading_hours_and_sequence",
+          "topic_name": "Reading Hours and Sequence",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Fun at the Fair (Money)",
+      "page": 113,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m019_spending_money_at_a_fair",
+          "topic_name": "Spending Money at a Fair",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m020_adding_and_subtracting_rupees",
+          "topic_name": "Adding and Subtracting Rupees",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    },
+    {
+      "chapter_name": "Data Handling",
+      "page": 123,
+      "modules": [
+        {
+          "module_id": "cbse_c2_m021_tables_for_colours_and_fruits",
+          "topic_name": "Tables for Colours and Fruits",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        },
+        {
+          "module_id": "cbse_c2_m022_charts_for_school_games_and_families",
+          "topic_name": "Charts for School, Games and Families",
+          "question_count": 5,
+          "source_basis": "PDF contents page and chapter activity text"
+        }
+      ]
+    }
+  ],
+  "module_total": 22,
+  "question_total": 110
+}

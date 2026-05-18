@@ -1,0 +1,1685 @@
+[
+  {
+    "chapter_name": "A Day at the Beach (Counting in Groups)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m001_counting_in_bunches_and_groups",
+        "topic_name": "Counting in Bunches and Groups",
+        "explanation": "Counting in groups is like picking up many things with one smart look. At the beach, children count coconuts, boats, children, oranges, balloons, bananas, and seashells. Sometimes we count one by one, and sometimes we count in bunches or groups. Groups of ten are especially helpful because they make big numbers friendly.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "What does Chapter 1 ask children to count at the beach?",
+            "options": [
+              "Only clocks",
+              "Only shadows",
+              "Coconuts and boats",
+              "Only coins"
+            ],
+            "correct_answer": "Coconuts and boats",
+            "rationale": "The opening picture asks for coconuts, boats, children, and oranges.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Counting in groups means counting things in ____.",
+            "options": [
+              "Seasons",
+              "Coins only",
+              "Bunches",
+              "Lines only"
+            ],
+            "correct_answer": "Bunches",
+            "rationale": "The chapter asks whether children counted one by one or in bunches/groups.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A necklace in the shop has 10 ____.",
+            "options": [
+              "Days",
+              "Lines",
+              "Shells",
+              "Months"
+            ],
+            "correct_answer": "Shells",
+            "rationale": "The PDF says necklaces of shells with 10 shells in each necklace.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Balloons in the shop are counted as groups and ____ balloons.",
+            "options": [
+              "Hidden",
+              "Heavy",
+              "Loose",
+              "Morning"
+            ],
+            "correct_answer": "Loose",
+            "rationale": "The activity asks for groups of balloons and loose balloons.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Counting groups helps us count ____ numbers.",
+            "options": [
+              "Only smaller",
+              "Sleeping",
+              "Bigger",
+              "No"
+            ],
+            "correct_answer": "Bigger",
+            "rationale": "Groups make larger counts easier.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m002_tens_and_ones",
+        "topic_name": "Tens and Ones",
+        "explanation": "A ten strip or a bundle of sticks is a shortcut for ten ones. In this chapter, children arrange chikoos in trays of ten and write numbers as tens and ones, such as 24 as 2 tens and 4 ones. Tens and ones help us understand numbers up to 100.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "One ten strip has how many units?",
+            "options": [
+              "1",
+              "100",
+              "10",
+              "5"
+            ],
+            "correct_answer": "10",
+            "rationale": "The PDF asks children to write that 1 ten strip has 10 units.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "24 means ____ tens and 4 ones.",
+            "options": [
+              "4",
+              "10",
+              "2",
+              "6"
+            ],
+            "correct_answer": "2",
+            "rationale": "The table shows 24 as 2 tens and 4 units.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "43 chikoos can be shown as 4 trays of ten and ____ loose chikoos.",
+            "options": [
+              "4",
+              "30",
+              "3",
+              "10"
+            ],
+            "correct_answer": "3",
+            "rationale": "43 is 4 tens and 3 ones.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "10 ten strips make ____ units.",
+            "options": [
+              "10",
+              "20",
+              "100",
+              "50"
+            ],
+            "correct_answer": "100",
+            "rationale": "The page says 10 strips joined together make 100 units.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Tens and ones help us understand numbers up to ____.",
+            "options": [
+              "9",
+              "3",
+              "100",
+              "5"
+            ],
+            "correct_answer": "100",
+            "rationale": "This chapter builds number sense to 100.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Shapes Around Us (3D Shapes)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m003_solid_shapes_around_us",
+        "topic_name": "Solid Shapes Around Us",
+        "explanation": "3D shapes are solid shapes we can hold, like boxes, balls, bottles, and dice. They have faces and can look different from different sides. This chapter asks children to notice shapes in daily life and match objects that look alike.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Chapter 2 is about which kind of shapes?",
+            "options": [
+              "Only money",
+              "Only data",
+              "3D shapes",
+              "Only time"
+            ],
+            "correct_answer": "3D shapes",
+            "rationale": "The contents page names Shapes Around Us as 3D Shapes.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which object is like a ball?",
+            "options": [
+              "Cube",
+              "Line",
+              "Sphere",
+              "Cone"
+            ],
+            "correct_answer": "Sphere",
+            "rationale": "A ball is a sphere-like solid.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which object is like a dice?",
+            "options": [
+              "Sphere",
+              "Slanting line",
+              "Cube",
+              "Circle"
+            ],
+            "correct_answer": "Cube",
+            "rationale": "A dice is cube-shaped.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A solid shape can be ____.",
+            "options": [
+              "Only heard",
+              "Only a season",
+              "Held",
+              "Only a day"
+            ],
+            "correct_answer": "Held",
+            "rationale": "3D shapes are objects children can hold.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Boxes, balls and bottles are examples of ____.",
+            "options": [
+              "Only numbers",
+              "Only rupees",
+              "Objects with shapes",
+              "Only months"
+            ],
+            "correct_answer": "Objects with shapes",
+            "rationale": "The chapter connects objects to 3D shapes.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m004_roll_slide_and_stack",
+        "topic_name": "Roll, Slide and Stack",
+        "explanation": "Some solid shapes roll, some slide, and some can be stacked. Round objects roll easily, flat-faced objects slide, and box-like objects stack well. The chapter helps children learn shape properties by playing with real objects.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A ball can usually ____.",
+            "options": [
+              "Only stack",
+              "Only spend",
+              "Roll",
+              "Only count"
+            ],
+            "correct_answer": "Roll",
+            "rationale": "Round objects like balls roll.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "A box can usually ____ well.",
+            "options": [
+              "Melt",
+              "Become a coin",
+              "Stack",
+              "Tell time"
+            ],
+            "correct_answer": "Stack",
+            "rationale": "Flat-faced box-like objects can stack.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Objects with flat faces can ____.",
+            "options": [
+              "Sleep",
+              "Vanish",
+              "Slide",
+              "Read"
+            ],
+            "correct_answer": "Slide",
+            "rationale": "Flat faces help objects slide.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "Trying objects by hand helps us learn their ____.",
+            "options": [
+              "Festivals",
+              "Ages",
+              "Shape properties",
+              "Prices"
+            ],
+            "correct_answer": "Shape properties",
+            "rationale": "The chapter uses hands-on shape exploration.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Which object is more likely to roll?",
+            "options": [
+              "Notebook",
+              "Paper sheet",
+              "Bottle",
+              "Mat"
+            ],
+            "correct_answer": "Bottle",
+            "rationale": "A bottle has a curved surface and can roll.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Fun with Numbers (Numbers 1 to 100)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m005_number_line_and_guess_my_number",
+        "topic_name": "Number Line and Guess My Number",
+        "explanation": "A number line is like a path where numbers stand in order. In Guess My Number, children ask yes/no questions like 'Is it more than 50?' or 'Is it less than 20?' These games help children compare numbers and locate them between 1 and 100.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "In Guess My Number, children ask questions answered by ____.",
+            "options": [
+              "Long stories",
+              "Only shapes",
+              "Yes or no",
+              "Only money"
+            ],
+            "correct_answer": "Yes or no",
+            "rationale": "The PDF says questions can be answered in yes/no.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which question matches the game?",
+            "options": [
+              "Is it a season?",
+              "Is it a fruit only?",
+              "Is it more than 50?",
+              "Is it a rupee?"
+            ],
+            "correct_answer": "Is it more than 50?",
+            "rationale": "The PDF gives 'Is it more than 50?' as an example.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "65 is drawn on a ____.",
+            "options": [
+              "Clock",
+              "Garland",
+              "Number line",
+              "Coin"
+            ],
+            "correct_answer": "Number line",
+            "rationale": "The activity asks children to draw an ant on 65 on the number line.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "79 is marked with a ____ cube.",
+            "options": [
+              "Wood",
+              "Water",
+              "Sugar",
+              "Gold"
+            ],
+            "correct_answer": "Sugar",
+            "rationale": "The PDF asks children to draw a sugar cube on number 79.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "30 is less than ____.",
+            "options": [
+              "20",
+              "5",
+              "40",
+              "10"
+            ],
+            "correct_answer": "40",
+            "rationale": "The game uses more than/less than comparisons.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m006_number_chart_patterns",
+        "topic_name": "Number Chart Patterns",
+        "explanation": "Numbers from 1 to 100 form helpful patterns. When we move forward, numbers grow. When we move backward, numbers become smaller. The book also mentions games like Let us Make 100, passing paths, flash cards, and patterns in number charts.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The chapter practises numbers from 1 to ____.",
+            "options": [
+              "9",
+              "1000",
+              "100",
+              "20"
+            ],
+            "correct_answer": "100",
+            "rationale": "The contents page says Numbers 1 to 100.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "What comes after 68?",
+            "options": [
+              "67",
+              "86",
+              "69",
+              "78"
+            ],
+            "correct_answer": "69",
+            "rationale": "Counting forward from 68 gives 69.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "What comes before 80?",
+            "options": [
+              "81",
+              "89",
+              "79",
+              "70"
+            ],
+            "correct_answer": "79",
+            "rationale": "79 comes just before 80.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Numbers grow when we count ____.",
+            "options": [
+              "Backward",
+              "Under",
+              "Forward",
+              "Sideways"
+            ],
+            "correct_answer": "Forward",
+            "rationale": "Forward counting increases numbers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A number chart helps us see ____.",
+            "options": [
+              "Only seasons",
+              "Only shadows",
+              "Patterns",
+              "Only coins"
+            ],
+            "correct_answer": "Patterns",
+            "rationale": "The book mentions patterns in number charts.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Shadow Story (Togalu) (2D Shapes)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m007_flat_shapes_and_shadows",
+        "topic_name": "Flat Shapes and Shadows",
+        "explanation": "2D shapes are flat shapes like triangles, squares, rectangles, and circles. In Shadow Story, children meet shapes through shadows and games. A shadow can show the outline of a shape, helping us see corners, sides, and curves.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Chapter 4 is about ____ shapes.",
+            "options": [
+              "3D only",
+              "Time",
+              "2D",
+              "Money"
+            ],
+            "correct_answer": "2D",
+            "rationale": "The contents page names Shadow Story as 2D Shapes.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "Which shape joins the game with Square?",
+            "options": [
+              "Clock",
+              "Season",
+              "Triangle",
+              "Rupee"
+            ],
+            "correct_answer": "Triangle",
+            "rationale": "The sampled page says Triangle and Square joined the game.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A square has ____ sides.",
+            "options": [
+              "3",
+              "0",
+              "4",
+              "1"
+            ],
+            "correct_answer": "4",
+            "rationale": "A square is a flat shape with four sides.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A triangle has ____ corners.",
+            "options": [
+              "4",
+              "0",
+              "3",
+              "2"
+            ],
+            "correct_answer": "3",
+            "rationale": "A triangle has three corners.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "A shadow can show a shape's ____.",
+            "options": [
+              "Price",
+              "Weight only",
+              "Outline",
+              "Month"
+            ],
+            "correct_answer": "Outline",
+            "rationale": "Shadow activities reveal flat outlines.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m008_position_words_in_hide_and_seek",
+        "topic_name": "Position Words in Hide and Seek",
+        "explanation": "The shape story uses hide-and-seek words like behind, near, and under. Children read clues such as 'Are you behind the TV?' and 'You are behind the shoe box.' Position words help us describe exactly where a shape or object is hiding.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The story asks, 'Are you behind the ____?'",
+            "options": [
+              "River",
+              "Clock only",
+              "TV",
+              "Moon"
+            ],
+            "correct_answer": "TV",
+            "rationale": "The PDF line says, 'Are you behind the TV?'",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The child says, 'You are behind the shoe ____.'",
+            "options": [
+              "Tree",
+              "Train",
+              "Box",
+              "Coin"
+            ],
+            "correct_answer": "Box",
+            "rationale": "The PDF says behind the shoe box.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Behind is a ____ word.",
+            "options": [
+              "Money",
+              "Season",
+              "Position",
+              "Number name"
+            ],
+            "correct_answer": "Position",
+            "rationale": "Behind tells where something is.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "In hide and seek, counting goes 1, 2, 3... ____.",
+            "options": [
+              "100",
+              "2",
+              "10",
+              "50"
+            ],
+            "correct_answer": "10",
+            "rationale": "The story page shows '1, 2, 3...10'.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Position words help us describe ____ something is.",
+            "options": [
+              "How much",
+              "Which month",
+              "Where",
+              "How old"
+            ],
+            "correct_answer": "Where",
+            "rationale": "Words like behind tell location.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Playing with Lines (Orientations of a Line)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m009_standing_sleeping_and_slanting_lines",
+        "topic_name": "Standing, Sleeping and Slanting Lines",
+        "explanation": "Lines can stand, sleep, or lean. A standing line is vertical, a sleeping line is horizontal, and a slanting line leans like a slide. In this chapter, children look at yoga asanas and spot different kinds of lines in body positions.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A standing line is also called ____.",
+            "options": [
+              "Curved",
+              "Money",
+              "Vertical",
+              "Round"
+            ],
+            "correct_answer": "Vertical",
+            "rationale": "The PDF says standing or vertical lines.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "A sleeping line is also called ____.",
+            "options": [
+              "Vertical",
+              "Season",
+              "Horizontal",
+              "Rupee"
+            ],
+            "correct_answer": "Horizontal",
+            "rationale": "The PDF says sleeping or horizontal lines.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "A leaning line is called ____.",
+            "options": [
+              "Data",
+              "Month",
+              "Slanting",
+              "Money"
+            ],
+            "correct_answer": "Slanting",
+            "rationale": "The chapter asks for vertical and slanting lines.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "The chapter uses yoga ____ to find lines.",
+            "options": [
+              "Coins",
+              "Fruits only",
+              "Asanas",
+              "Buses"
+            ],
+            "correct_answer": "Asanas",
+            "rationale": "The activity asks children to circle aasanas with lines.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Children put a star on aasanas with ____ lines.",
+            "options": [
+              "Money",
+              "Only data",
+              "Sleeping or horizontal",
+              "Only curved"
+            ],
+            "correct_answer": "Sleeping or horizontal",
+            "rationale": "The PDF says put a star along sleeping/horizontal lines.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m010_curved_lines_and_dot_play",
+        "topic_name": "Curved Lines and Dot Play",
+        "explanation": "Not all lines are straight. Some lines curve like a smile or a circle edge. The chapter asks children to cross the aasanas that have curved lines and includes playful line activities with dots. Lines help us draw shapes, paths, and pictures.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "A smile has a ____ line.",
+            "options": [
+              "Vertical only",
+              "Ten",
+              "Curved",
+              "Rupee"
+            ],
+            "correct_answer": "Curved",
+            "rationale": "A smile is a common curved line.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The PDF asks children to cross aasanas with ____ lines.",
+            "options": [
+              "Money",
+              "Season",
+              "Curved",
+              "Data"
+            ],
+            "correct_answer": "Curved",
+            "rationale": "The activity says cross the aasanas which have curved lines.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "Lines help us draw ____.",
+            "options": [
+              "Only coins",
+              "Only prices",
+              "Shapes",
+              "Only days"
+            ],
+            "correct_answer": "Shapes",
+            "rationale": "Shapes are made with lines and curves.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "A circle edge is ____.",
+            "options": [
+              "Sleeping only",
+              "Slanting only",
+              "Curved",
+              "Standing only"
+            ],
+            "correct_answer": "Curved",
+            "rationale": "A circle is made of a curve.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Playing with dots can help children make ____.",
+            "options": [
+              "Only rupees",
+              "Only fruits",
+              "Lines and shapes",
+              "Only seasons"
+            ],
+            "correct_answer": "Lines and shapes",
+            "rationale": "The book mentions Let us Play with Dots.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Decoration for Festival (Addition and Subtraction)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m011_addition_with_tens_and_ones",
+        "topic_name": "Addition with Tens and Ones",
+        "explanation": "Festival decorations use garlands, flowers, and numbers. Each garland has 10 flowers, so 10 plus loose flowers makes a two-digit number. The chapter shows sums like 10 + 2 = 12 and 30 + 7 = 37. Tens and ones make addition easier.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Each garland has ____ flowers.",
+            "options": [
+              "2",
+              "100",
+              "10",
+              "5"
+            ],
+            "correct_answer": "10",
+            "rationale": "The PDF says each garland has 10 flowers.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "10 + 2 = ____.",
+            "options": [
+              "10",
+              "8",
+              "12",
+              "20"
+            ],
+            "correct_answer": "12",
+            "rationale": "The page shows 10 + 2 = 12.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "30 + 7 = ____.",
+            "options": [
+              "73",
+              "27",
+              "37",
+              "30"
+            ],
+            "correct_answer": "37",
+            "rationale": "The page shows 30 + 7 = 37.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "40 + 8 = ____.",
+            "options": [
+              "84",
+              "58",
+              "48",
+              "38"
+            ],
+            "correct_answer": "48",
+            "rationale": "The page shows 40 + 8 = 48.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "50 + 3 = ____.",
+            "options": [
+              "35",
+              "43",
+              "53",
+              "50"
+            ],
+            "correct_answer": "53",
+            "rationale": "The page shows 50 + 3 = 53.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m012_subtraction_with_blocks",
+        "topic_name": "Subtraction with Blocks",
+        "explanation": "Subtraction means finding what is left. The chapter uses tens and ones blocks to subtract, such as 45 - 12. We subtract ones from ones and tens from tens. Story questions also use money, such as buying pencils or notebooks and finding the amount left.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "45 - 12 = ____.",
+            "options": [
+              "57",
+              "45",
+              "33",
+              "23"
+            ],
+            "correct_answer": "33",
+            "rationale": "The block example shows 45 minus 12 leaves 33.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Subtract 24 from 37 gives ____.",
+            "options": [
+              "61",
+              "11",
+              "13",
+              "23"
+            ],
+            "correct_answer": "13",
+            "rationale": "37 - 24 = 13.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "If Shikha has ₹82 and spends ₹22, she has ₹____ left.",
+            "options": [
+              "104",
+              "50",
+              "60",
+              "22"
+            ],
+            "correct_answer": "60",
+            "rationale": "82 - 22 = 60.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "If Ruby has ₹60 and spends ₹20, she has ₹____ left.",
+            "options": [
+              "80",
+              "30",
+              "40",
+              "20"
+            ],
+            "correct_answer": "40",
+            "rationale": "60 - 20 = 40.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "In tens and ones subtraction, ones are subtracted from ____.",
+            "options": [
+              "Months",
+              "Seasons",
+              "Ones",
+              "Shapes"
+            ],
+            "correct_answer": "Ones",
+            "rationale": "Place value keeps ones with ones and tens with tens.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Rani's Gift (Measurement)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m013_length_and_paths",
+        "topic_name": "Length and Paths",
+        "explanation": "Measurement helps us compare how long, short, near, or far things are. The chapter includes activities like choosing the longest path and counting blocks. Children learn that measurement can be done with simple classroom objects before using standard tools.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Measurement helps compare ____.",
+            "options": [
+              "Only seasons",
+              "Only stories",
+              "Length",
+              "Only colours"
+            ],
+            "correct_answer": "Length",
+            "rationale": "This chapter is listed as Measurement.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The book mentions choosing the longest ____.",
+            "options": [
+              "Coin",
+              "Shape only",
+              "Path",
+              "Month"
+            ],
+            "correct_answer": "Path",
+            "rationale": "The About the Book section mentions Choose the Longest Path in Chapter 7.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Blocks can help measure ____.",
+            "options": [
+              "Only time",
+              "Only fruits",
+              "Length or height",
+              "Only money"
+            ],
+            "correct_answer": "Length or height",
+            "rationale": "The book mentions How Many Blocks?",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "A longer path has ____ length.",
+            "options": [
+              "Less",
+              "Only curved",
+              "More",
+              "No"
+            ],
+            "correct_answer": "More",
+            "rationale": "Longer means greater length.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Measurement can begin with ____ objects.",
+            "options": [
+              "Invisible",
+              "Only money",
+              "Simple classroom",
+              "Only digital"
+            ],
+            "correct_answer": "Simple classroom",
+            "rationale": "Children use local materials and objects.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m014_heavier_and_lighter",
+        "topic_name": "Heavier and Lighter",
+        "explanation": "Weight tells how heavy or light something is. In Pumpkin's Chaupal, children compare vegetables like pumpkin, watermelon, carrot, capsicum, cauliflower, and bottle gourd. Words like heavier, lighter, heaviest, and lightest help children compare weight.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Pumpkin's Chaupal asks children to compare vegetables as lighter or ____.",
+            "options": [
+              "Earlier",
+              "Richer",
+              "Heavier",
+              "Rounder only"
+            ],
+            "correct_answer": "Heavier",
+            "rationale": "The page asks which vegetables are lighter or heavier.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Muskmelon is heavier than ____.",
+            "options": [
+              "A clock",
+              "A line",
+              "Carrot",
+              "A coin"
+            ],
+            "correct_answer": "Carrot",
+            "rationale": "The sampled page states muskmelon is heavier than carrot.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which word means most heavy?",
+            "options": [
+              "Lightest",
+              "Earliest",
+              "Heaviest",
+              "Shortest"
+            ],
+            "correct_answer": "Heaviest",
+            "rationale": "Heaviest means the greatest weight.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Which word means least heavy?",
+            "options": [
+              "Heaviest",
+              "Latest",
+              "Lightest",
+              "Longest"
+            ],
+            "correct_answer": "Lightest",
+            "rationale": "Lightest means the smallest weight.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Vegetables in this activity include pumpkin and ____.",
+            "options": [
+              "Train",
+              "Rupee",
+              "Watermelon",
+              "Notebook"
+            ],
+            "correct_answer": "Watermelon",
+            "rationale": "The page asks whether pumpkin or watermelon is heavier.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Grouping and Sharing (Multiplication and Division)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m015_equal_groups_and_multiplication",
+        "topic_name": "Equal Groups and Multiplication",
+        "explanation": "Multiplication is quick counting of equal groups. The chapter shows groups of flowers, bindis, buttons, and shirts. For example, 6 groups of 4 can be written as 6 × 4. When each group has the same number, multiplication helps us find the total.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "6 groups of 4 is written as ____.",
+            "options": [
+              "6 + 0",
+              "6 ₹ 4",
+              "6 × 4",
+              "4 - 6"
+            ],
+            "correct_answer": "6 × 4",
+            "rationale": "The PDF shows 6 groups of 4 and 6 × 4.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "6 × 4 = ____.",
+            "options": [
+              "10",
+              "64",
+              "24",
+              "20"
+            ],
+            "correct_answer": "24",
+            "rationale": "Six groups of four make twenty-four.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "4 groups of 6 is written as ____.",
+            "options": [
+              "4 - 6",
+              "4 + 0",
+              "4 × 6",
+              "6 - 4"
+            ],
+            "correct_answer": "4 × 6",
+            "rationale": "The PDF shows 4 groups of 6 and 4 × 6.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "8 packets with 5 bindis each gives ____ bindis.",
+            "options": [
+              "13",
+              "8",
+              "40",
+              "35"
+            ],
+            "correct_answer": "40",
+            "rationale": "8 × 5 = 40.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "7 shirts with 4 buttons each need ____ buttons.",
+            "options": [
+              "11",
+              "74",
+              "28",
+              "24"
+            ],
+            "correct_answer": "28",
+            "rationale": "7 × 4 = 28.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m016_sharing_and_division",
+        "topic_name": "Sharing and Division",
+        "explanation": "Division begins with fair sharing. If we share objects equally, each group should get the same number. The chapter connects grouping and sharing, helping children see that multiplication makes groups and division shares them equally.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Division begins with fair ____.",
+            "options": [
+              "Hiding",
+              "Drawing only",
+              "Sharing",
+              "Spending"
+            ],
+            "correct_answer": "Sharing",
+            "rationale": "The chapter title includes Grouping and Sharing.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Equal sharing means each group gets the ____ number.",
+            "options": [
+              "Different",
+              "Hidden",
+              "Same",
+              "Largest"
+            ],
+            "correct_answer": "Same",
+            "rationale": "Fair sharing gives equal amounts.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "20 objects shared into 4 equal groups gives ____ in each group.",
+            "options": [
+              "4",
+              "24",
+              "5",
+              "10"
+            ],
+            "correct_answer": "5",
+            "rationale": "20 divided into four equal groups is five each.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Grouping and sharing are linked to multiplication and ____.",
+            "options": [
+              "Seasons",
+              "Lines only",
+              "Division",
+              "Money only"
+            ],
+            "correct_answer": "Division",
+            "rationale": "The contents page says Multiplication and Division.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "If one group has more, sharing is not ____.",
+            "options": [
+              "Colourful",
+              "Vertical",
+              "Equal",
+              "Round"
+            ],
+            "correct_answer": "Equal",
+            "rationale": "Fair sharing needs equal groups.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Which Season is it? (Measurement of Time)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m017_seasons_dates_and_daily_events",
+        "topic_name": "Seasons, Dates and Daily Events",
+        "explanation": "Time helps us tell when things happen. This chapter includes seasons, dates, train travel, sightseeing, and family events. Children read simple date and time clues like 24 Nov, 8:25 AM, 1:15 PM, and 10:00 PM.",
+        "difficulty": "Easy",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Chapter 9 is about measurement of ____.",
+            "options": [
+              "Money",
+              "Data",
+              "Time",
+              "Weight"
+            ],
+            "correct_answer": "Time",
+            "rationale": "The contents page says Measurement of Time.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 2,
+            "question_text": "The trip story shows the date 24 ____.",
+            "options": [
+              "Jan.",
+              "Aug.",
+              "Nov.",
+              "May"
+            ],
+            "correct_answer": "Nov.",
+            "rationale": "The sampled page shows Date: 24 Nov.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 3,
+            "question_text": "The train time shown is 8:25 ____.",
+            "options": [
+              "PM only",
+              "kg",
+              "AM",
+              "₹"
+            ],
+            "correct_answer": "AM",
+            "rationale": "The sampled page shows Time: 8:25 AM.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 4,
+            "question_text": "10:00 PM is a ____ time.",
+            "options": [
+              "Morning",
+              "Before sunrise only",
+              "Night",
+              "Noon"
+            ],
+            "correct_answer": "Night",
+            "rationale": "PM late evening/night time is used in the story.",
+            "timer_per_question_seconds": 30
+          },
+          {
+            "question_id": 5,
+            "question_text": "Seasons are also connected to ____.",
+            "options": [
+              "Only money",
+              "Only blocks",
+              "Time",
+              "Only shapes"
+            ],
+            "correct_answer": "Time",
+            "rationale": "Seasons show changes over the year.",
+            "timer_per_question_seconds": 30
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m018_reading_hours_and_sequence",
+        "topic_name": "Reading Hours and Sequence",
+        "explanation": "A day is a sequence of events. The trip page says 'just 1 more hour' and shows different times. Children learn to read time words, order events, and understand before, after, today, tomorrow, and day after tomorrow.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "'Just 1 more hour' tells a length of ____.",
+            "options": [
+              "Money",
+              "Data",
+              "Time",
+              "Shape"
+            ],
+            "correct_answer": "Time",
+            "rationale": "An hour measures time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Day after tomorrow means two days ____ today.",
+            "options": [
+              "Before",
+              "Under",
+              "After",
+              "Inside"
+            ],
+            "correct_answer": "After",
+            "rationale": "It comes after tomorrow.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Which comes earlier: 8:25 AM or 1:15 PM?",
+            "options": [
+              "1:15 PM",
+              "Both same",
+              "8:25 AM",
+              "10:00 PM"
+            ],
+            "correct_answer": "8:25 AM",
+            "rationale": "Morning AM time comes before afternoon PM time.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Events in a trip can be placed in ____.",
+            "options": [
+              "Only shapes",
+              "Only colours",
+              "Order",
+              "Only coins"
+            ],
+            "correct_answer": "Order",
+            "rationale": "Time sequence helps order events.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A clock helps us read ____.",
+            "options": [
+              "Vegetable weight only",
+              "Number of flowers only",
+              "Time",
+              "Toy data only"
+            ],
+            "correct_answer": "Time",
+            "rationale": "Clocks show time.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Fun at the Fair (Money)",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m019_spending_money_at_a_fair",
+        "topic_name": "Spending Money at a Fair",
+        "explanation": "Money is used to buy things and enjoy activities at a fair. Rupal's mother gives her ₹50, and she spends most of it on rides. The chapter asks children to talk about what they buy, how much they spend, and how money is used in daily life.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "Rupal's mother gave her ₹____.",
+            "options": [
+              "5",
+              "10",
+              "50",
+              "100"
+            ],
+            "correct_answer": "50",
+            "rationale": "The sampled page says her mother gave her ₹50.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Rupal spent most money on ____.",
+            "options": [
+              "Books only",
+              "Pencils",
+              "Rides",
+              "Vegetables"
+            ],
+            "correct_answer": "Rides",
+            "rationale": "The PDF says she spent most of it on her favourite rides.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Money is used to ____ things.",
+            "options": [
+              "Only sleep",
+              "Only tell seasons",
+              "Buy",
+              "Only draw lines"
+            ],
+            "correct_answer": "Buy",
+            "rationale": "The chapter context is spending at a fair.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The chapter asks children how much money they ____.",
+            "options": [
+              "Hide",
+              "Stack",
+              "Spend",
+              "Roll"
+            ],
+            "correct_answer": "Spend",
+            "rationale": "The page discusses how much children spend at fairs.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "A fair is a place where children may enjoy ____.",
+            "options": [
+              "Only homework",
+              "Only measuring blocks",
+              "Rides",
+              "Only sleeping"
+            ],
+            "correct_answer": "Rides",
+            "rationale": "Rides are named in the chapter.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m020_adding_and_subtracting_rupees",
+        "topic_name": "Adding and Subtracting Rupees",
+        "explanation": "Money problems use addition and subtraction. If Jayant spends ₹25 on pens and ₹40 on notebooks, we add to find the total. If Ajay has ₹58 and spends ₹48, we subtract to find what is left. The chapter also mentions paying with mobile phones.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "₹25 + ₹40 = ₹____.",
+            "options": [
+              "55",
+              "75",
+              "65",
+              "15"
+            ],
+            "correct_answer": "65",
+            "rationale": "Jayant's total is 25 + 40 = 65.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "₹43 plus ₹14 more is ₹____.",
+            "options": [
+              "29",
+              "67",
+              "57",
+              "47"
+            ],
+            "correct_answer": "57",
+            "rationale": "Kanika has 43 + 14 = 57.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "₹30 + ₹60 = ₹____.",
+            "options": [
+              "30",
+              "100",
+              "90",
+              "60"
+            ],
+            "correct_answer": "90",
+            "rationale": "Bread and chocolate cost 30 + 60 = 90.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "₹58 - ₹48 = ₹____.",
+            "options": [
+              "16",
+              "48",
+              "10",
+              "20"
+            ],
+            "correct_answer": "10",
+            "rationale": "Ajay has 10 rupees left.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "The PDF mentions paying using ____ phones.",
+            "options": [
+              "Toy",
+              "Shadow",
+              "Mobile",
+              "Paper"
+            ],
+            "correct_answer": "Mobile",
+            "rationale": "The page asks if children have seen payment using mobile phones.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_name": "Data Handling",
+    "modules": [
+      {
+        "module_id": "cbse_c2_m021_tables_for_colours_and_fruits",
+        "topic_name": "Tables for Colours and Fruits",
+        "explanation": "Data handling means collecting answers, counting them, and reading the result. The chapter starts with favourite colours and picnic fruits. Children complete tables and answer which colour or fruit is most liked, least liked, more than, less than, or equal to.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "The favourite colours table includes red, green, blue and ____.",
+            "options": [
+              "Black only",
+              "White only",
+              "Yellow",
+              "Orange only"
+            ],
+            "correct_answer": "Yellow",
+            "rationale": "The PDF lists red, green, blue, and yellow.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "Data tables help us count number of ____.",
+            "options": [
+              "Months only",
+              "Lines only",
+              "Children",
+              "Rupees only"
+            ],
+            "correct_answer": "Children",
+            "rationale": "The table heading says Number of Children.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Most liked means liked by the ____ number.",
+            "options": [
+              "Smallest",
+              "Hidden",
+              "Greatest",
+              "Same always"
+            ],
+            "correct_answer": "Greatest",
+            "rationale": "Most means greatest count.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "Least liked means liked by the ____ number.",
+            "options": [
+              "Greatest",
+              "Last page only",
+              "Smallest",
+              "Same always"
+            ],
+            "correct_answer": "Smallest",
+            "rationale": "Least means smallest count.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Picnic Day data is about favourite ____.",
+            "options": [
+              "Trains",
+              "Lines",
+              "Fruits",
+              "Coins"
+            ],
+            "correct_answer": "Fruits",
+            "rationale": "The page says children are eating their favourite fruits.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      },
+      {
+        "module_id": "cbse_c2_m022_charts_for_school_games_and_families",
+        "topic_name": "Charts for School, Games and Families",
+        "explanation": "Charts make data easy to see. The chapter uses modes of coming to school, games children play, vegetables they like, grandparents at home, and number of family members. Children read tables, draw faces, and compare counts.",
+        "difficulty": "Medium",
+        "total_timer_minutes": 4,
+        "questions": [
+          {
+            "question_id": 1,
+            "question_text": "One chart shows mode of coming to ____.",
+            "options": [
+              "Beach",
+              "Moon",
+              "School",
+              "Fair only"
+            ],
+            "correct_answer": "School",
+            "rationale": "The PDF table is about coming to school.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 2,
+            "question_text": "The transport chart includes bus, bike and ____.",
+            "options": [
+              "Pumpkin",
+              "Triangle",
+              "Bicycle",
+              "Rupee"
+            ],
+            "correct_answer": "Bicycle",
+            "rationale": "The PDF lists bus, bike, bicycle, and more.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 3,
+            "question_text": "Games data includes cricket and ____.",
+            "options": [
+              "Clock",
+              "Garland",
+              "Kabaddi",
+              "Bottle"
+            ],
+            "correct_answer": "Kabaddi",
+            "rationale": "The PDF table lists games including Kabaddi.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 4,
+            "question_text": "The project asks about families living with ____.",
+            "options": [
+              "Only toys",
+              "Only lines",
+              "Grandparents",
+              "Only fruits"
+            ],
+            "correct_answer": "Grandparents",
+            "rationale": "The project records grandparents in families.",
+            "timer_per_question_seconds": 45
+          },
+          {
+            "question_id": 5,
+            "question_text": "Drawing faces in a chart means each face can stand for ____ student.",
+            "options": [
+              "10 always",
+              "0",
+              "1",
+              "100"
+            ],
+            "correct_answer": "1",
+            "rationale": "The PDF says one face equals one student.",
+            "timer_per_question_seconds": 45
+          }
+        ]
+      }
+    ]
+  }
+]
